@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Công Nghệ 8 | Thế Giới Công Nghệ</title>
+    <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+<body>
+    <header class="navbar">
+        <div class="logo">🚀 THẾ GIỚI CÔNG NGHỆ</div>
+        <nav>
+            <ul class="nav-links">
+                <li><a href="../index.html">Trang Chủ</a></li>
+                <li><a href="cong-nghe-7.html">Công Nghệ 7</a></li>
+                <li><a href="cong-nghe-8.html" class="active">Công Nghệ 8</a></li>
+                <li><a href="game.html">Game Zone</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="wrapper">
+        <h1 class="section-title">Học phần Lớp 8: Cơ khí & Điện</h1>
+        
+        <div class="grid-3" style="margin-bottom: 50px;">
+            <div class="lesson-card">
+                <div class="lesson-img" style="background: url('https://images.unsplash.com/photo-1581092160562-40aa08e78837?auto=format&fit=crop&w=400&q=80') center/cover;"></div>
+                <div class="lesson-content">
+                    <div class="lesson-title">Chủ đề: Vẽ Kỹ Thuật</div>
+                    <div class="lesson-desc">Tiêu chuẩn bản vẽ, hình chiếu vuông góc, hình chiếu trục đo.</div>
+                    <div class="lesson-actions">
+                        <a href="#quiz-section" class="action-btn">Làm Quiz</a>
+                        <a href="thuc-hanh.html" class="action-btn">Thực hành</a>
+                    </div>
+                </div>
+            </div>
+            <div class="lesson-card">
+                <div class="lesson-img" style="background: url('https://images.unsplash.com/photo-1621905252507-b35492cc74b4?auto=format&fit=crop&w=400&q=80') center/cover;"></div>
+                <div class="lesson-content">
+                    <div class="lesson-title">Chủ đề: An toàn điện</div>
+                    <div class="lesson-desc">Nguyên nhân tai nạn điện và các biện pháp bảo vệ an toàn.</div>
+                    <div class="lesson-actions">
+                        <a href="#quiz-section" class="action-btn">Làm Quiz</a>
+                        <a href="thuc-hanh.html" class="action-btn">Thực hành</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <h2 class="section-title" id="quiz-section">Luyện tập Quiz Công nghệ 8</h2>
+        <div class="quiz-container">
+            <div id="quiz-box">
+                <div id="progress" style="color: #888; font-weight: bold; margin-bottom: 15px; font-size: 0.9rem;"></div>
+                <h3 id="question-text" style="margin-bottom: 25px; font-size: 1.4rem; color: #222;"></h3>
+                <div id="options-container"></div>
+            </div>
+            <div id="quiz-result" style="display:none; text-align:center;"></div>
+        </div>
+    </main>
+
+    <script src="../data/questions8.js"></script>
+    <script src="../assets/js/quiz.js"></script>
+    <script>
+        window.onload = () => { if(typeof quizData8 !== 'undefined') startQuiz(quizData8); };
+    </script>
+</body>
+</html>

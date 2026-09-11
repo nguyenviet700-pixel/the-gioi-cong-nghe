@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Trợ lý AI | Thế Giới Công Nghệ</title>
+    <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+<body>
+    <header class="navbar">
+        <div class="logo">🚀 THẾ GIỚI CÔNG NGHỆ</div>
+        <nav>
+            <ul class="nav-links">
+                <li><a href="../index.html">Trang Chủ</a></li>
+                <li><a href="ai.html" class="btn-ai">🤖 Trợ lý AI</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="wrapper">
+        <h1 class="section-title">Trợ lý học tập AI</h1>
+        <p style="text-align:center; margin-bottom: 20px;">Gợi ý: "Giải thích bài An toàn điện", "Cho em 3 câu trắc nghiệm về Nông nghiệp"</p>
+        
+        <div class="chat-container">
+            <div class="chat-header">
+                <h3>🤖 AI Mentor - Môn Công Nghệ</h3>
+            </div>
+            <div class="chat-body" id="chat-body">
+                <div class="chat-msg msg-ai">
+                    Chào em! Thầy AI đây. Em có câu hỏi nào về bài học Công nghệ 7 hoặc 8 cần thầy giải đáp không?
+                </div>
+            </div>
+            <div class="chat-input-area">
+                <input type="text" id="chat-input" placeholder="Nhập câu hỏi của em vào đây..." onkeypress="if(event.key === 'Enter') sendMsg()">
+                <button onclick="sendMsg()">Gửi ➔</button>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        // Fake chat interaction cho giao diện mẫu
+        function sendMsg() {
+            const input = document.getElementById('chat-input');
+            const msg = input.value.trim();
+            if(!msg) return;
+
+            const chatBody = document.getElementById('chat-body');
+            
+            // Add user msg
+            const userDiv = document.createElement('div');
+            userDiv.className = 'chat-msg msg-user';
+            userDiv.innerText = msg;
+            chatBody.appendChild(userDiv);
+            
+            input.value = '';
+            chatBody.scrollTop = chatBody.scrollHeight;
+
+            // Simulate AI reply
+            setTimeout(() => {
+                const aiDiv = document.createElement('div');
+                aiDiv.className = 'chat-msg msg-ai';
+                aiDiv.innerText = "Chức năng gọi API thật hiện đang được thầy cô thiết lập. Em có thể nhúng iframe chatbot (Coze, Dialogflow) vào khu vực này nhé!";
+                chatBody.appendChild(aiDiv);
+                chatBody.scrollTop = chatBody.scrollHeight;
+            }, 1000);
+        }
+    </script>
+</body>
+</html>
