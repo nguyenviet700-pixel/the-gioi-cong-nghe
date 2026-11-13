@@ -1,0 +1,173 @@
+SỞ GIÁO DỤC VÀ ĐÀO TẠO ... — TRƯỜNG THCS VINH XUÂN
+BỘ CÂU HỎI ĐÁNH GIÁ KẾT QUẢ HỌC TẬP THEO NĂNG LỰC SỐ
+MÔN: CÔNG NGHỆ 8 — BÀI 19: QUY TRÌNH THIẾT KẾ KĨ THUẬT
+(Thực hiện theo Quy tắc biên soạn học liệu GDPT 2018 — Chuẩn KNTT)
+I. KHÁI QUÁT VỀ BÀI HỌC VÀ MA TRẬN ĐỀ KIỂM TRA
+• Tên bài học: Bài 19. Quy trình thiết kế kĩ thuật (Chương V: Thiết kế kĩ thuật).
+• Vị trí trong KHDG: Tuần 29, 30; Tiết 48, 49 (Thời lượng: 2 tiết).
+• Yêu cầu cần đạt (YCCĐ):
++ Trình bày được các bước cơ bản trong quy trình thiết kế kĩ thuật.
++ Đánh giá được một sản phẩm thiết kế kĩ thuật đơn giản theo các tiêu chí cho trước.
+Bảng 19.1. Ma trận mức độ đánh giá câu hỏi bài 19
+T| Nội dung kiến thức || Nhận biết (NB) || Thông hiểu (TH) || Vận dụng (VD) || Tổng số câu
+T| 1. Quy trình thiết kế kĩ thuật (5 bước) || 4 câu TN1
+1 câu TN2 (a,b) || 3 câu TN1
+1 câu TN2 (c,d) || 1 câu Tự luận (Câu 1) || 7 TN1 + 1 TN2
++ 1 TL
+T| 2. Đánh giá sản phẩm thiết kế kĩ thuật || 3 câu TN1
+1 câu TN2 (a,b) || 2 câu TN1
+1 câu TN2 (c,d) || 1 câu Tự luận (Câu 2) || 5 TN1 + 1 TN2
++ 1 TL
+T| 3. Vận dụng quy trình & đánh giá thực tế || — || 1 câu TN2 (a,b) || 1 câu TN2 (c,d)
+1 câu Tự luận (Câu 3) || 1 TN2 + 1 TL
+T| Tổng cộng || 7 câu TN1
+2 câu TN2 || 5 câu TN1
+2 câu TN2 || 3 câu Tự luận
+(Phân hóa 3 level) || 12 TN1 + 4 TN2
++ 3 TL
+II. HỆ THỐNG CÂU HỎI ĐÁNH GIÁ (ĐỀ BÀI)
+PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn (12 câu)
+Thí sinh trả lời từ câu 1 đến câu 12. Mỗi câu hỏi chỉ chọn một phương án trả lời đúng nhất.
+Câu 1 (NB): Quy trình thiết kế kĩ thuật gồm có mấy bước cơ bản?
+A. 3 bước.
+B. 4 bước.
+C. 5 bước.
+D. 6 bước.
+Câu 2 (NB): Bước đầu tiên trong quy trình thiết kế kĩ thuật là gì?
+A. Lập hồ sơ kĩ thuật.
+B. Hình thành ý tưởng thiết kế.
+C. Đánh giá phương án thiết kế.
+D. Chế tạo mẫu thử nghiệm.
+Câu 3 (NB): Việc xây dựng bản vẽ kĩ thuật và quy trình chế tạo sản phẩm thuộc bước nào trong quy trình thiết kế?
+A. Bước 1: Hình thành ý tưởng thiết kế.
+B. Bước 2: Đánh giá phương án thiết kế.
+C. Bước 3: Lập hồ sơ kĩ thuật.
+D. Bước 4: Chế tạo mẫu thử nghiệm.
+Câu 4 (NB): Mục đích chủ yếu của việc 'Thử nghiệm và đánh giá' (Bước 5) trong quy trình thiết kế kĩ thuật là gì?
+A. Kiểm tra xem mẫu thử nghiệm có đáp ứng các yêu cầu đặt ra hay không.
+B. Tạo ra bản vẽ kĩ thuật chi tiết cho sản phẩm.
+C. Tìm kiếm các ý tưởng sáng tạo mới.
+D. Phân tích kinh phí sản xuất hàng loạt.
+Câu 5 (TH): Nếu kết quả thử nghiệm mẫu thử (Bước 5) không đạt các yêu cầu đặt ra, nhà thiết kế cần làm gì?
+A. Bỏ qua lỗi và tiến hành sản xuất hàng loạt ngay.
+B. Quay lại các bước trước (như điều chỉnh ý tưởng, phương án hoặc thiết kế) để hoàn thiện.
+C. Bắt đầu lại toàn bộ quy trình thiết kế từ một bài toán hoàn toàn khác.
+D. Lập hồ sơ kĩ thuật mới mà không cần chỉnh sửa mẫu thử.
+Câu 6 (TH): Trong bước 'Đánh giá phương án thiết kế' (Bước 2), công việc quan trọng nhất cần thực hiện là gì?
+A. Tiến hành gia công cưa dũa vật liệu thực tế.
+B. Phân tích, so sánh các phương án thiết kế đề xuất để lựa chọn phương án tối ưu.
+C. Viết báo cáo tổng kết và giới thiệu sản phẩm ra thị trường.
+D. Đăng ký bản quyền sáng chế cho sản phẩm.
+Câu 7 (TH): Tại sao việc 'Lập hồ sơ kĩ thuật' (Bước 3) lại đóng vai trò là căn cứ quan trọng cho bước 'Chế tạo mẫu thử nghiệm'?
+A. Vì hồ sơ kĩ thuật chứa đựng toàn bộ bản vẽ, thông số kĩ thuật và quy trình chế tạo.
+B. Vì hồ sơ kĩ thuật quyết định giá bán của sản phẩm trên thị trường.
+C. Vì hồ sơ kĩ thuật thay thế hoàn toàn việc thử nghiệm thực tế.
+D. Vì hồ sơ kĩ thuật giúp bỏ qua bước đánh giá phương án.
+Câu 8 (NB): Khi đánh giá một sản phẩm thiết kế kĩ thuật, tiêu chí nào xem xét khả năng thực hiện đúng chức năng, độ bền và mức độ hoàn thiện kĩ thuật?
+A. Tiêu chí kinh tế.
+B. Tiêu chí kĩ thuật (tính năng).
+C. Tiêu chí thẩm mĩ.
+D. Tiêu chí thân thiện với môi trường.
+Câu 9 (NB): Tiêu chí đánh giá xem sản phẩm kĩ thuật có kiểu dáng cân đối, màu sắc hài hòa, hấp dẫn người dùng thuộc về nhóm tiêu chí nào?
+A. Tiêu chí an toàn.
+B. Tiêu chí kĩ thuật.
+C. Tiêu chí thẩm mĩ.
+D. Tiêu chí chi phí.
+Câu 10 (NB): Đánh giá việc sử dụng vật liệu có thể tái chế, hạn chế gây ô nhiễm trong quá trình sản xuất và vận hành sản phẩm thuộc tiêu chí nào?
+A. Tiêu chí kinh tế.
+B. Tiêu chí an toàn.
+C. Tiêu chí kĩ thuật.
+D. Tiêu chí thân thiện với môi trường.
+Câu 11 (TH): Yếu tố nào sau đây đảm bảo sản phẩm không gây nguy hiểm cho người sử dụng trong quá trình vận hành?
+A. Tiêu chí an toàn.
+B. Tiêu chí thẩm mĩ.
+C. Tiêu chí kiểu dáng.
+D. Tiêu chí thương hiệu.
+Câu 12 (TH): Việc tính toán chi phí nguyên vật liệu, giá thành sản xuất để đảm bảo sản phẩm có giá cả hợp lí thể hiện tiêu chí đánh giá nào?
+A. Tiêu chí kinh tế.
+B. Tiêu chí thẩm mĩ.
+C. Tiêu chí an toàn.
+D. Tiêu chí độ bền.
+PHẦN II. Câu trắc nghiệm Đúng/Sai (04 câu)
+Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn Đúng hoặc Sai.
+Câu 1: Cho các nhận định về quy trình thiết kế kĩ thuật (5 bước cơ bản):
+a) Hình thành ý tưởng thiết kế là bước khởi đầu nhằm xác định nhu cầu và đề xuất các giải pháp kĩ thuật sơ bộ.
+b) Quy trình thiết kế kĩ thuật là một đường thẳng cố định, tuyệt đối không được phép quay lại bước trước khi đã qua bước mới.
+c) Lập hồ sơ kĩ thuật là chuyển đổi ý tưởng thành các bản vẽ kĩ thuật, thông số kĩ thuật và chỉ dẫn chế tạo cụ thể.
+d) Thử nghiệm và đánh giá chỉ cần thực hiện trên bản vẽ giấy chứ không cần chế tạo mẫu thử nghiệm thực tế.
+Câu 2: Cho các phát biểu về các bước đánh giá phương án và chế tạo mẫu thử nghiệm trong thiết kế kĩ thuật:
+a) Đánh giá phương án thiết kế giúp so sánh ưu, nhược điểm của các ý tưởng để chọn ra giải pháp tối ưu nhất.
+b) Mẫu thử nghiệm (prototype) phải được chế tạo bằng đúng kích thước và vật liệu thương mại hoàn chỉnh như sản phẩm bán ra thị trường.
+c) Kết quả thử nghiệm mẫu thử là căn cứ thực tế để xác định sản phẩm có đạt các chỉ tiêu chất lượng hay cần điều chỉnh.
+d) Nếu phương án thiết kế bị đánh giá là không khả thi ở bước 2, người thiết kế bắt buộc phải dừng toàn bộ dự án và hủy bỏ.
+Câu 3: Đánh giá một chiếc giá sách treo tường thông minh dành cho học sinh cấp 2 dựa trên các tiêu chí thiết kế kĩ thuật:
+a) Khả năng chịu tải lực tốt và không bị cong vênh khi để nhiều sách vở thuộc về tiêu chí kĩ thuật (tính năng).
+b) Giá sách có các góc cạnh sắc nhọn kim loại chưa qua mài nhẵn vẫn đạt tiêu chí an toàn nếu sơn màu đẹp mắt.
+c) Sử dụng gỗ công nghiệp tái chế thân thiện với môi trường giúp đáp ứng tiêu chí phát triển bền vững.
+d) Giá bán của chiếc giá sách quá cao so với thu nhập trung bình của phụ huynh nhưng vẫn hoàn toàn đạt tiêu chí kinh tế.
+Câu 4: Nhóm học sinh thực hiện dự án thiết kế 'Đèn học thông minh tự động điều chỉnh độ sáng theo ánh sáng môi trường':
+a) Sơ đồ khối và bản vẽ lắp ráp mạch điện điều khiển cảm biến là một phần quan trọng của hồ sơ kĩ thuật.
+b) Đèn học vận hành ổn định, tự bật khi trời tối và tắt khi trời sáng chứng tỏ sản phẩm đạt tiêu chí kĩ thuật.
+c) Đèn có dây nối điện bị hở cách điện nhưng mạch cảm biến chạy rất nhạy nên vẫn đánh giá đạt chuẩn an toàn.
+d) Sản phẩm sử dụng vỏ nhựa in 3D thẩm mĩ cao, giá thành nguyên vật liệu cực rẻ nhưng tiêu tốn quá nhiều điện năng vẫn được xếp loại tối ưu về mọi mặt.
+PHẦN III. Câu hỏi tự luận (03 câu)
+Câu 1 (Mức 1 - Thông hiểu): Trình bày ngắn gọn trình tự 5 bước cơ bản trong quy trình thiết kế kĩ thuật. Tại sao nói quy trình thiết kế kĩ thuật có tính chất lặp (vòng lặp phản hồi)?
+Câu 2 (Mức 2 - Vận dụng): Một nhóm học sinh thiết kế một chiếc 'Hộp đựng dụng cụ học tập đa năng' bằng tấm nhựa tái chế. Hãy nêu 4 tiêu chí cơ bản (Kĩ thuật, Thẩm mĩ, An toàn, Kinh tế) mà nhóm cần sử dụng để đánh giá chất lượng của sản phẩm này.
+Câu 3 (Mức 3 - Vận dụng cao / Thực tiễn): Giả sử lớp em muốn thiết kế một 'Hệ thống giá trồng rau mầm tự động tưới nước' cho góc thiên nhiên của trường. Em hãy phân tích và trình bày cụ thể các công việc cần thực hiện ở 3 bước đầu tiên (Hình thành ý tưởng -> Đánh giá phương án -> Lập hồ sơ kĩ thuật) cho dự án này.
+T| ★ HƯỚNG DẪN ÔN TẬP VÀ PHƯƠNG PHÁP BÀI 19 / 1. Với câu hỏi Trắc nghiệm Đúng/Sai: Học sinh cần lưu ý kiểm tra từng ý độc lập dựa trên quy trình 5 bước và các tiêu chí đánh giá chuẩn. / 2. Với câu hỏi Tự luận Vận dụng cao (Câu 3): Cần trình bày chi tiết các công việc thực tế tương ứng với bối cảnh dự án trồng rau mầm tự động. / 3. Đảm bảo phân biệt rõ giữa Bước 2 (Đánh giá phương án trên lý thuyết/bản phác) và Bước 5 (Thử nghiệm và đánh giá trên mẫu thử thực tế).
+III. ĐÁP ÁN VÀ HƯỚNG DẪN CHẤM CHI TIẾT
+1. Đáp án Phần I: Câu trắc nghiệm nhiều phương án lựa chọn (12 câu - Mỗi câu đúng 0,25 điểm)
+T| Câu 1 || Câu 2 || Câu 3 || Câu 4 || Câu 5 || Câu 6
+T| C || B || C || A || B || B
+T| Câu 7 || Câu 8 || Câu 9 || Câu 10 || Câu 11 || Câu 12
+T| A || B || C || D || A || A
+2. Đáp án Phần II: Câu trắc nghiệm Đúng/Sai (04 câu)
+Quy tắc tính điểm từng câu:
+• Đúng 1 ý: 0,1 điểm | Đúng 2 ý: 0,25 điểm | Đúng 3 ý: 0,5 điểm | Đúng 4 ý: 1,0 điểm.
+• Bắt buộc mỗi câu có đúng 2 ý Đúng và 2 ý Sai theo chuẩn.
+T| Câu hỏi || Lựa chọn a) || Lựa chọn b) || Lựa chọn c) || Lựa chọn d)
+T| Câu 1 || ĐÚNG || SAI || ĐÚNG || SAI
+T| Câu 2 || ĐÚNG || SAI || ĐÚNG || SAI
+T| Câu 3 || ĐÚNG || SAI || ĐÚNG || SAI
+T| Câu 4 || ĐÚNG || ĐÚNG || SAI || SAI
+3. Đáp án và Hướng dẫn chấm Phần III: Tự luận (03 câu - Tổng 3,0 điểm)
+Câu 1 (1,0 điểm):
+Trình bày 5 bước cơ bản trong quy trình thiết kế kĩ thuật (0,5 điểm):
+• Bước 1: Hình thành ý tưởng thiết kế.
+• Bước 2: Đánh giá phương án thiết kế.
+• Bước 3: Lập hồ sơ kĩ thuật.
+• Bước 4: Chế tạo mẫu thử nghiệm.
+• Bước 5: Thử nghiệm và đánh giá.
+Giải thích tính chất lặp (vòng lặp phản hồi) (0,5 điểm):
+• Quy trình thiết kế không phải đường thẳng 1 chiều. Khi thử nghiệm và đánh giá (Bước 5) nếu sản phẩm không đạt yêu cầu, người thiết kế phải quay lại các bước trước (Bước 1, 2 hoặc 3) để chỉnh sửa, hoàn thiện cho đến khi đạt chỉ tiêu mới kết thúc.
+Câu 2 (1,0 điểm):
+Nêu 4 tiêu chí đánh giá cho Hộp đựng dụng cụ học tập bằng nhựa tái chế:
+• Tiêu chí kĩ thuật (0,25 điểm): Hộp chứa được đủ các dụng cụ (bút, thước, kéo,...), các ngăn chia hợp lí, kết cấu chắc chắn không gãy đổ.
+• Tiêu chí thẩm mĩ (0,25 điểm): Kiểu dáng gọn gàng, màu sắc trang nhã, các đường cắt mép nhựa nhẵn mịn.
+• Tiêu chí an toàn (0,25 điểm): Không có mép nhựa sắc nhọn gây trầy xước tay học sinh, chất liệu nhựa tái chế được làm sạch không độc hại.
+• Tiêu chí kinh tế (0,25 điểm): Tận dụng vật liệu phế liệu giá thành rẻ (0 đồng hoặc rất thấp), chi phí chế tạo tiết kiệm.
+Câu 3 (1,0 điểm):
+Phân tích 3 bước đầu tiên cho dự án Hệ thống trồng rau mầm tự động tưới nước:
+• Bước 1: Hình thành ý tưởng thiết kế (0,35 điểm):
+- Xác định nhu cầu: Cần hệ thống tưới nước tự động cho rau mầm ở trường để rau không bị khô khi nghỉ cuối tuần.
+- Đề xuất giải pháp sơ bộ: Sử dụng mô đun cảm biến độ ẩm đất kết hợp rơ le điều khiển bơm nước mini 12V.
+• Bước 2: Đánh giá phương án thiết kế (0,35 điểm):
+- Phân tích ưu/nhược điểm các phương án (dùng van cơ hẹn giờ vs dùng cảm biến độ ẩm tự động).
+- Chọn phương án dùng mô đun cảm biến độ ẩm vì tưới chính xác theo độ ẩm thực tế của đất, tiết kiệm nước.
+• Bước 3: Lập hồ sơ kĩ thuật (0,30 điểm):
+- Vẽ sơ đồ khối và sơ đồ lắp ráp mạch điện điều khiển cảm biến độ ẩm.
+- Lập bản vẽ kích thước khay trồng rau và vị trí đặt máy bơm, cảm biến.
+- Lập danh mục vật tư: Mô đun cảm biến độ ẩm, bơm mini 12V, khay nhựa, ống dẫn nước, nguồn 12V.
+IV. BẢNG ĐỐI CHIẾU YÊU CẦU CẦN ĐẠT VÀ MỨC ĐỘ NHẬN THỨC
+T| Yêu cầu cần đạt (YCCĐ) || Mức độ quy định || Các câu hỏi tương ứng trong đề || Đánh giá mức độ đáp ứng
+T| Trình bày được các bước cơ bản trong quy trình thiết kế kĩ thuật. || Nhận biết, Thông hiểu || TN1: Câu 1, 2, 3, 4, 5, 6, 7
+TN2: Câu 1, 2
+TL: Câu 1 || Đạt 100% YCCĐ bài học
+T| Đánh giá được một sản phẩm thiết kế kĩ thuật đơn giản theo các tiêu chí cho trước. || Nhận biết, Thông hiểu, Vận dụng || TN1: Câu 8, 9, 10, 11, 12
+TN2: Câu 3, 4
+TL: Câu 2 || Đạt 100% YCCĐ bài học
+T| Vận dụng quy trình thiết kế và tiêu chí đánh giá vào bài toán/dự án kĩ thuật thực tế. || Vận dụng cao || TL: Câu 3
+TN2: Câu 4 || Phân hóa học sinh giỏi xuất sắc
+Thừa Thiên Huế, ngày ... tháng ... năm 2026
+GIÁO VIÊN BIÊN SOẠN
+Nguyễn Thanh Việt

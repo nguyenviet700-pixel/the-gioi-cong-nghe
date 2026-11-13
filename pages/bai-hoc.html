@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bài học | Thế Giới Công Nghệ - Trường THCS Vĩnh Xuân</title>
+    <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container nav-container">
+            <a href="../index.html" class="logo">
+                <img src="../assets/logo-truong.jpg" alt="Logo Trường THCS Vĩnh Xuân" class="nav-brand-logo">
+                <span class="logo-text">
+                    <span>THẾ GIỚI CÔNG NGHỆ</span>
+                    <span class="logo-sub">TRƯỜNG THCS VĨNH XUÂN</span>
+                </span>
+            </a>
+            <ul class="nav-links">
+                <li><a href="../index.html">Trang chủ</a></li>
+                <li class="dropdown">
+                    <a href="#" class="active">Học Tập <i class="fa-solid fa-chevron-down"></i></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="cong-nghe-7.html">Công nghệ 7</a></li>
+                        <li><a href="cong-nghe-8.html">Công nghệ 8</a></li>
+                        <li><a href="tai-lieu.html">Kho tài liệu (Khối 6, 7, 8, 9)</a></li>
+                        <li><a href="tai-lieu-hsg.html">Tài liệu bồi dưỡng HSG</a></li>
+                    </ul>
+                </li>
+                <li><a href="quiz.html">Chơi &amp; Quiz</a></li>
+                <li><a href="xuong-thuc-hanh.html">Xưởng Thực Hành</a></li>
+                <li><a href="thu-thach.html">Thử Thách</a></li>
+                <li><a href="ai.html">Trợ lý AI</a></li>
+            </ul>
+            <div class="hamburger"><i class="fa-solid fa-bars"></i></div>
+        </div>
+    </nav>
+
+    <header class="page-header" id="lesson-header">
+        <div class="container">
+            <h1 id="lesson-title">Bài học</h1>
+            <p id="lesson-sub"></p>
+        </div>
+    </header>
+
+    <section class="section">
+        <div class="container" id="lesson-body">
+            <p>Đang tải...</p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container footer-content">
+            <div class="footer-brand">
+                <img src="../assets/logo-truong.jpg" alt="Logo Trường THCS Vĩnh Xuân">
+                <div class="footer-logo" style="margin-bottom:0;">THẾ GIỚI CÔNG NGHỆ – TRƯỜNG THCS VĨNH XUÂN</div>
+            </div>
+            <p class="footer-author">Tác giả: <strong>Thầy Nguyễn Thanh Việt</strong> – Giáo viên môn Công nghệ, Trường THCS Vĩnh Xuân.</p>
+        </div>
+    </footer>
+
+    <script src="../data/catalog.js"></script>
+    <script src="../data/quiz-data.js"></script>
+    <script src="../data/slides.js"></script>
+    <script src="../library.js"></script>
+    <script src="../site-config.js"></script>
+    <script src="../script.js"></script>
+    <script>
+        (function () {
+            const id = new URLSearchParams(location.search).get('id');
+            const body = document.getElementById('lesson-body');
+            const l = getLesson(id);
+            if (!l) {
+                body.innerHTML = '<div class="card"><h3>Không tìm thấy bài học</h3><p>Hãy quay lại <a href="cong-nghe-7.html">Công nghệ 7</a> hoặc <a href="cong-nghe-8.html">Công nghệ 8</a>.</p></div>';
+                return;
+            }
+            document.title = 'Bài ' + l.no + ': ' + l.title + ' | Thế Giới Công Nghệ';
+            document.getElementById('lesson-title').textContent = 'Bài ' + l.no + ': ' + l.title;
+            document.getElementById('lesson-sub').textContent = 'Công nghệ ' + l.grade + ' - Kết nối tri thức với cuộc sống · GV: Thầy Nguyễn Thanh Việt';
+            if (l.grade === 8) document.getElementById('lesson-header').style.background = 'var(--accent-color)';
+
+            const parts = [];
+
+            // ---- Video
+            if (l.video.length) {
+                parts.push('<div class="card res-block"><h3><i class="fa-solid fa-video"></i> Video bài học</h3>' +
+                    l.video.map((v, i) => {
+                        const useDrive = !isLocalHost() && v.driveId;
+                        const playerHtml = useDrive
+                            ? '<div class="video-embed-wrap"><iframe class="lesson-video-frame" src="' + drivePreviewUrl(v.driveId) + '" allow="autoplay; fullscreen" allowfullscreen></iframe></div>'
+                            : '<video class="lesson-video" controls preload="metadata" data-i="' + i + '" src="' + fileUrl(v.path) + '"></video>' +
+                              '<p class="video-error" id="verr' + i + '" style="display:none;color:var(--danger);">Trình duyệt không phát được video này trực tiếp. Hãy dùng nút Mở hoặc Tải về.</p>';
+                        return playerHtml +
+                            '<div class="res-actions"><span class="res-name">' + escapeHtml(v.file) + ' (' + v.sizeMB + ' MB)</span>' +
+                            '<a class="btn btn-outline btn-sm" href="' + openUrl(v) + '" target="_blank" rel="noopener"><i class="fa-solid fa-up-right-from-square"></i> Mở</a>' +
+                            '<a class="btn btn-primary btn-sm" href="' + downloadUrl(v) + '" target="_blank" rel="noopener" download="' + escapeHtml(v.file) + '"><i class="fa-solid fa-download"></i> Tải về</a></div>';
+                    }).join('') + '</div>');
+            }
+
+            // ---- PowerPoint
+            if (l.ppt.length) {
+                const decks = getDecks(l.id);
+                parts.push('<div class="card res-block"><h3><i class="fa-solid fa-file-powerpoint"></i> Bài giảng PowerPoint</h3>' +
+                    l.ppt.map((p, i) =>
+                        '<div class="res-row"><div><strong>' + escapeHtml(p.name) + '</strong>' +
+                        '<div class="res-meta">' + p.slides + ' slide · ' + p.sizeMB + ' MB</div></div>' +
+                        '<div class="res-actions">' +
+                        (decks[i] ? '<button class="btn btn-outline btn-sm" data-slide="' + i + '"><i class="fa-solid fa-tv"></i> Xem slide trực tiếp</button>' : '') +
+                        (p.driveId ? '<a class="btn btn-outline btn-sm" href="' + openUrl(p) + '" target="_blank" rel="noopener"><i class="fa-solid fa-up-right-from-square"></i> Mở trên Drive</a>' : '') +
+                        '<a class="btn btn-primary btn-sm" href="' + downloadUrl(p) + '" target="_blank" rel="noopener" download="' + escapeHtml(p.file) + '"><i class="fa-solid fa-download"></i> Tải file .pptx</a>' +
+                        '</div></div><div class="ppt-viewer" id="pv' + i + '"></div>'
+                    ).join('') + '</div>');
+            }
+
+            // ---- Luyện tập / bộ câu hỏi
+            const qs = quizStatus(l.id);
+            let q = '<div class="card res-block"><h3><i class="fa-solid fa-gamepad"></i> Luyện tập &amp; bộ câu hỏi</h3>';
+            if (qs.any) {
+                q += '<p>Chấm điểm tự động theo đáp án chuẩn trong bộ câu hỏi của giáo viên: <strong>' +
+                    (qs.mcq ? qs.mcq + ' câu trắc nghiệm 4 lựa chọn' : '') + (qs.mcq && qs.tf ? ', ' : '') +
+                    (qs.tf ? qs.tf + ' câu Đúng/Sai' : '') + '</strong>' +
+                    (qs.essay ? ' và <strong>' + qs.essay + ' câu tự luận</strong>.' : '.') + '</p>' +
+                    '<div class="res-actions" style="margin-bottom:12px;">' +
+                    '<a class="btn btn-primary" href="quiz.html?id=' + l.id + '"><i class="fa-solid fa-play"></i> Làm bài luyện tập</a> ' +
+                    '<a class="btn btn-outline" href="ai.html?lesson=' + l.id + '"><i class="fa-solid fa-robot"></i> Hỏi Trợ lý AI về bài này</a>' +
+                    '</div>';
+            } else {
+                q += '<p>Bài này chưa có phần luyện tập chấm tự động.</p>';
+            }
+            q += l.questionDocs.map(d => '<div class="res-row"><div><strong>' + escapeHtml(d.name) + '</strong><div class="res-meta">File gốc .docx · ' + d.sizeKB + ' KB</div></div>' +
+                '<div class="res-actions">' +
+                (d.driveId ? '<a class="btn btn-outline btn-sm" href="' + openUrl(d) + '" target="_blank" rel="noopener"><i class="fa-solid fa-up-right-from-square"></i> Mở xem</a>' : '') +
+                '<a class="btn btn-primary btn-sm" href="' + downloadUrl(d) + '" target="_blank" rel="noopener" download="' + escapeHtml(d.file) + '"><i class="fa-solid fa-download"></i> Tải bộ câu hỏi (.docx)</a></div></div>').join('');
+            q += '</div>';
+            parts.push(q);
+
+            // ---- Bài trước/sau
+            const idx = CATALOG.lessons.findIndex(x => x.id === l.id);
+            const prev = CATALOG.lessons[idx - 1], next = CATALOG.lessons[idx + 1];
+            parts.push('<div class="lesson-nav">' +
+                (prev && prev.grade === l.grade ? '<a class="btn btn-outline" href="bai-hoc.html?id=' + prev.id + '"><i class="fa-solid fa-arrow-left"></i> Bài ' + prev.no + '</a>' : '<span></span>') +
+                '<a class="btn btn-outline" href="cong-nghe-' + l.grade + '.html">Danh sách bài Công nghệ ' + l.grade + '</a>' +
+                (next && next.grade === l.grade ? '<a class="btn btn-outline" href="bai-hoc.html?id=' + next.id + '">Bài ' + next.no + ' <i class="fa-solid fa-arrow-right"></i></a>' : '<span></span>') +
+                '</div>');
+
+            body.innerHTML = parts.join('');
+
+            body.querySelectorAll('video').forEach(v => v.addEventListener('error', () => {
+                document.getElementById('verr' + v.dataset.i).style.display = 'block';
+            }));
+            const decks = getDecks(l.id);
+            body.querySelectorAll('[data-slide]').forEach(b => b.addEventListener('click', () => {
+                const i = +b.dataset.slide, box = document.getElementById('pv' + i);
+                if (box.innerHTML) { box.innerHTML = ''; return; }
+                renderSlideViewer(box, decks[i]);
+            }));
+            if (decks[0] && document.getElementById('pv0')) renderSlideViewer(document.getElementById('pv0'), decks[0]);
+        })();
+    </script>
+</body>
+</html>

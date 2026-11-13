@@ -2,65 +2,74 @@
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
-    <title>Công Nghệ 7 | Thế Giới Công Nghệ</title>
-    <link rel="stylesheet" href="../assets/css/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Công Nghệ 7 | Thế Giới Công Nghệ - Trường THCS Vĩnh Xuân</title>
+    <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="../style.css">
 </head>
 <body>
-    <header class="navbar">
-        <div class="logo">🚀 THẾ GIỚI CÔNG NGHỆ</div>
-        <nav>
+    <!-- Navbar -->
+    <nav class="navbar">
+        <div class="container nav-container">
+            <a href="../index.html" class="logo">
+                <img src="../assets/logo-truong.jpg" alt="Logo Trường THCS Vĩnh Xuân" class="nav-brand-logo">
+                <span class="logo-text">
+                    <span>THẾ GIỚI CÔNG NGHỆ</span>
+                    <span class="logo-sub">TRƯỜNG THCS VĨNH XUÂN</span>
+                </span>
+            </a>
             <ul class="nav-links">
-                <li><a href="../index.html">Trang Chủ</a></li>
-                <li><a href="cong-nghe-7.html" class="active">Công Nghệ 7</a></li>
-                <li><a href="cong-nghe-8.html">Công Nghệ 8</a></li>
-                <li><a href="game.html">Game Zone</a></li>
+                <li><a href="../index.html">Trang chủ</a></li>
+                <li class="dropdown">
+                    <a href="#" class="active">Học Tập <i class="fa-solid fa-chevron-down"></i></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="cong-nghe-7.html" class="active">Công nghệ 7</a></li>
+                        <li><a href="cong-nghe-8.html">Công nghệ 8</a></li>
+                        <li><a href="tai-lieu.html">Kho tài liệu (Khối 6, 7, 8, 9)</a></li>
+                        <li><a href="tai-lieu-hsg.html">Tài liệu bồi dưỡng HSG</a></li>
+                    </ul>
+                </li>
+                <li><a href="quiz.html">Chơi &amp; Quiz</a></li>
+                <li><a href="xuong-thuc-hanh.html">Xưởng Thực Hành</a></li>
+                <li><a href="thu-thach.html">Thử Thách</a></li>
+                <li><a href="ai.html">Trợ lý AI</a></li>
             </ul>
-        </nav>
+            <div class="hamburger"><i class="fa-solid fa-bars"></i></div>
+        </div>
+    </nav>
+
+    <!-- Page Header -->
+    <header class="page-header">
+        <div class="container">
+            <h1>Công Nghệ 7</h1>
+            <p>Nông – Lâm nghiệp và Thủy sản (16 bài học · Kết nối tri thức với cuộc sống)</p>
+        </div>
     </header>
 
-    <main class="wrapper">
-        <h1 class="section-title">Học phần Lớp 7: Nông - Lâm - Thủy Sản</h1>
-        
-        <div class="grid-3" style="margin-bottom: 50px;">
-            <div class="lesson-card">
-                <div class="lesson-img" style="background: url('https://images.unsplash.com/photo-1592982537447-6f23f46f4963?auto=format&fit=crop&w=400&q=80') center/cover;"></div>
-                <div class="lesson-content">
-                    <div class="lesson-title">Chủ đề 1: Trồng trọt</div>
-                    <div class="lesson-desc">Tìm hiểu quy trình làm đất, gieo trồng, chăm sóc và thu hoạch sản phẩm trồng trọt.</div>
-                    <div class="lesson-actions">
-                        <a href="#quiz-section" class="action-btn">Làm Quiz</a>
-                        <a href="video.html" class="action-btn">Xem Video</a>
-                    </div>
-                </div>
-            </div>
-            <div class="lesson-card">
-                <div class="lesson-img" style="background: url('https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=400&q=80') center/cover;"></div>
-                <div class="lesson-content">
-                    <div class="lesson-title">Chủ đề 2: Lâm nghiệp</div>
-                    <div class="lesson-desc">Vai trò của rừng, quy trình trồng, chăm sóc và bảo vệ rừng.</div>
-                    <div class="lesson-actions">
-                        <a href="#quiz-section" class="action-btn">Làm Quiz</a>
-                        <a href="video.html" class="action-btn">Xem Video</a>
-                    </div>
-                </div>
-            </div>
+    <!-- Lessons Section -->
+    <section class="section">
+        <div class="container">
+            <div class="card-grid" id="lesson-list"></div>
         </div>
+    </section>
 
-        <h2 class="section-title" id="quiz-section">Luyện tập Quiz Công nghệ 7</h2>
-        <div class="quiz-container">
-            <div id="quiz-box">
-                <div id="progress" style="color: #888; font-weight: bold; margin-bottom: 15px; font-size: 0.9rem;"></div>
-                <h3 id="question-text" style="margin-bottom: 25px; font-size: 1.4rem; color: #222;"></h3>
-                <div id="options-container"></div>
+    <!-- Footer -->
+    <footer>
+        <div class="container footer-content">
+            <div class="footer-brand">
+                <img src="../assets/logo-truong.jpg" alt="Logo Trường THCS Vĩnh Xuân">
+                <div class="footer-logo" style="margin-bottom:0;">THẾ GIỚI CÔNG NGHỆ – TRƯỜNG THCS VĨNH XUÂN</div>
             </div>
-            <div id="quiz-result" style="display:none; text-align:center;"></div>
+            <p class="footer-author">Tác giả: <strong>Thầy Nguyễn Thanh Việt</strong> – Giáo viên môn Công nghệ, Trường THCS Vĩnh Xuân.</p>
         </div>
-    </main>
+    </footer>
 
-    <script src="../data/questions7.js"></script>
-    <script src="../assets/js/quiz.js"></script>
-    <script>
-        window.onload = () => { if(typeof quizData7 !== 'undefined') startQuiz(quizData7); };
-    </script>
+    <script src="../data/catalog.js"></script>
+    <script src="../data/quiz-data.js"></script>
+    <script src="../library.js"></script>
+    <script src="../site-config.js"></script>
+    <script src="../script.js"></script>
+    <script>renderLessonGrid('lesson-list', 7);</script>
 </body>
 </html>

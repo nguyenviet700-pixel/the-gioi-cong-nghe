@@ -1,0 +1,186 @@
+BỘ CÂU HỎI ĐÁNH GIÁ VÀ MA TRẬN ĐỀ KIỂM TRA
+BÀI 13: THỰC HÀNH: LẬP KẾ HOẠCH NUÔI VẬT NUÔI TRONG GIA ĐÌNH
+Môn: Công nghệ 7 – Bộ sách Kết nối tri thức với cuộc sống
+I. YÊU CẦU CẦN ĐẠT (YCCĐ)
+Sau khi học xong Bài 13: Thực hành Lập kế hoạch nuôi vật nuôi trong gia đình, học sinh đạt được các yêu cầu sau:
+1. Về kiến thức & kỹ năng: Lập được kế hoạch và tính toán được chi phí cơ bản cho việc nuôi dưỡng, chăm sóc một loại vật nuôi phù hợp trong gia đình (hoặc quy mô nhỏ).
+2. Về năng lực công nghệ: Phân tích được các khoản chi phí cần thiết (con giống, chuồng trại/dụng cụ, thức ăn, vắc xin/thuốc thú y) và lập bảng dự toán chi phí cân đối, hợp lý.
+3. Về vận dụng thực tiễn: Vận dụng được quy trình lập kế hoạch chăn nuôi vào thực tiễn gia đình; bước đầu có tư duy quản lý tài chính hiệu quả và phát triển kinh tế gia đình.
+4. Về thái độ & phẩm chất: Có ý thức trách nhiệm trong việc chăn nuôi an toàn, tiết kiệm, đảm bảo vệ sinh môi trường và an toàn thực phẩm.
+II. MA TRẬN ĐỀ KIỂM TRA ĐÁNH GIÁ
+Ma trận đề kiểm tra được xây dựng bám sát cấu trúc chuẩn 3 phần đánh giá năng lực:
+T| Nội dung kiến thức || Mức độ Nhận biết || Mức độ Thông hiểu || Mức độ Vận dụng || Tổng số câu || Tỷ lệ điểm
+T| 1. Xác định nhiệm vụ & đối tượng nuôi || 3 câu TN1 / 1 ý TN2 || 2 câu TN1 / 1 ý TN2 || 1 ý TN2 || 5 câu TN1 / 3 ý TN2 || 22.5%
+T| 2. Dự toán các khoản chi phí chăn nuôi || 2 câu TN1 / 1 ý TN2 || 2 câu TN1 / 1 ý TN2 / 1 câu TL || 1 câu TL || 4 câu TN1 / 2 ý TN2 / 2 câu TL || 42.5%
+T| 3. Lập bảng kế hoạch & đánh giá hiệu quả || 2 câu TN1 || 1 câu TN1 / 1 ý TN2 || 1 ý TN2 / 1 câu TL || 3 câu TN1 / 2 ý TN2 / 1 câu TL || 35.0%
+T| Tổng số câu / ý || 7 câu TN1 / 2 ý TN2 || 5 câu TN1 / 2 ý TN2 / 1 câu TL || 2 ý TN2 / 2 câu TL || 12 câu TN1 / 16 ý TN2 / 3 câu TL || 100%
+T| Tỷ lệ % điểm tổng hợp || 40% || 35% || 25% || - || 100%
+III. PHẦN 1: CÂU HỎI TRẮC NGHIỆM NHIỀU LỰA CHỌN (12 CÂU)
+Khoanh tròn vào chữ cái đứng trước câu trả lời đúng nhất (Mỗi câu trả lời đúng được 0,25 điểm):
+Câu 1. Mục đích chính của việc lập kế hoạch nuôi vật nuôi trong gia đình là gì?
+A. Để mua thật nhiều vật nuôi về nuôi thử nghiệm.
+B. Để dự tính chi phí, chuẩn bị nguồn lực và đảm bảo việc chăn nuôi đạt hiệu quả kinh tế.
+C. Để làm báo cáo nộp cho cơ quan quản lý nông nghiệp địa phương.
+D. Để thay thế hoàn toàn công việc của kỹ sư chăn nuôi.
+[Mức độ: Nhận biết - YCCĐ: Lập kế hoạch nuôi vật nuôi]
+Câu 2. Trong quy trình lập kế hoạch nuôi vật nuôi, bước đầu tiên cần thực hiện là gì?
+A. Mua ngay thức ăn và vắc xin phòng bệnh.
+B. Tính toán tổng số tiền lãi dự kiến thu được.
+C. Xác định loại vật nuôi và quy mô (số lượng) nuôi phù hợp với điều kiện gia đình.
+D. Xây dựng chuồng trại quy mô lớn.
+[Mức độ: Nhận biết - YCCĐ: Các bước lập kế hoạch chăn nuôi]
+Câu 3. Khoản chi phí nào sau đây thuộc nhóm chi phí cố định ban đầu khi bắt đầu nuôi gà thịt?
+A. Chi phí mua vắc xin tiêm phòng hằng tháng.
+B. Chi phí mua thức ăn hỗn hợp hằng ngày.
+C. Chi phí mua con giống và mua/làm chuồng nuôi, dụng cụ ăn uống.
+D. Chi phí điện, nước tiêu thụ hằng ngày.
+[Mức độ: Thông hiểu - YCCĐ: Phân loại chi phí chăn nuôi]
+Câu 4. Khi lựa chọn giống vật nuôi để nuôi tại gia đình, yếu tố nào quan trọng nhất cần xem xét?
+A. Chỉ chọn giống nhập ngoại có giá đắt nhất.
+B. Sự phù hợp với điều kiện chuồng trại, nguồn thức ăn, khí hậu địa phương và nguồn vốn của gia đình.
+C. Chọn giống vật nuôi theo ngẫu nhiên không cần tìm hiểu.
+D. Chọn vật nuôi có thời gian sinh trưởng dài nhất.
+[Mức độ: Thông hiểu - YCCĐ: Lựa chọn đối tượng nuôi phù hợp]
+Câu 5. Chi phí nào thường chiếm tỷ lệ cao nhất (từ 60% - 70%) trong tổng chi phí chăn nuôi?
+A. Chi phí mua con giống.
+B. Chi phí thức ăn chăn nuôi.
+C. Chi phí thuốc thú y và vắc xin.
+D. Chi phí xây dựng chuồng trại.
+[Mức độ: Nhận biết - YCCĐ: Dự toán chi phí thức ăn]
+Câu 6. Để tính tổng chi phí mua con giống gà thịt, ta áp dụng công thức nào sau đây?
+A. Tổng chi phí giống = Đơn giá 1 con giống ÷ Số lượng con giống.
+B. Tổng chi phí giống = Số lượng con giống × Đơn giá 1 con giống.
+C. Tổng chi phí giống = Số lượng con giống + Chi phí thức ăn.
+D. Tổng chi phí giống = Số lượng con giống × Đơn giá thức ăn.
+[Mức độ: Nhận biết - YCCĐ: Công thức tính chi phí con giống]
+Câu 7. Một gia đình dự định nuôi 20 con gà thịt, giá mua 1 con gà giống là 15.000 đồng. Tổng chi phí mua gà giống là bao nhiêu?
+A. 150.000 đồng.
+B. 200.000 đồng.
+C. 300.000 đồng.
+D. 450.000 đồng.
+[Mức độ: Thông hiểu - YCCĐ: Tính toán chi phí con giống]
+Câu 8. Khi tính toán chi phí phòng và trị bệnh cho vật nuôi, cần dự trù cho các khoản nào?
+A. Thuốc sát trùng chuồng trại, vắc xin phòng bệnh truyền nhiễm và thuốc thú y thông thường.
+B. Chỉ tính tiền mua vắc xin tiêm 1 lần duy nhất.
+C. Tiền thuê bác sĩ thú y đến khám hằng ngày.
+D. Tiền mua dụng cụ chế biến thức ăn.
+[Mức độ: Nhận biết - YCCĐ: Chi phí phòng trị bệnh]
+Câu 9. Yếu tố nào sau đây GIÚP TIẾT KIỆM chi phí thức ăn trong chăn nuôi hộ gia đình mà vẫn đảm bảo dinh dưỡng?
+A. Cắt giảm một nửa lượng thức ăn hằng ngày của vật nuôi.
+B. Tận dụng phụ phẩm nông nghiệp sẵn có ở địa phương (rau, cám gạo, ngô) phối trộn hợp lý.
+C. Mua thức ăn hết hạn sử dụng với giá rẻ.
+D. Cho vật nuôi ăn tự do không theo khẩu phần.
+[Mức độ: Thông hiểu - YCCĐ: Biện pháp tối ưu chi phí chăn nuôi]
+Câu 10. Trong bảng kế hoạch tài chính chăn nuôi, khoản mục "Chi phí phát sinh" (dự phòng) có ý nghĩa gì?
+A. Là khoản tiền dùng để thưởng cho người nuôi.
+B. Là khoản tiền dự phòng để xử lý các rủi ro đột xuất như giá thức ăn tăng, dịch bệnh hoặc hư hỏng dụng cụ.
+C. Là khoản tiền bắt buộc nộp thuế cho địa phương.
+D. Là chi phí mua thêm vật nuôi mới.
+[Mức độ: Thông hiểu - YCCĐ: Quản lý rủi ro tài chính]
+Câu 11. Báo cáo kết quả dự án/thực hành lập kế hoạch chăn nuôi KHÔNG cần chứa nội dung nào sau đây?
+A. Tên loại vật nuôi và quy mô nuôi chọn lựa.
+B. Bảng tổng hợp các khoản chi phí dự kiến.
+C. Đánh giá tính khả thi và hiệu quả kinh tế dự kiến.
+D. Danh sách tất cả các hộ chăn nuôi trong toàn huyện.
+[Mức độ: Nhận biết - YCCĐ: Nội dung báo cáo thực hành]
+Câu 12. Việc lập kế hoạch chăn nuôi gia đình góp phần thể hiện phẩm chất nào của người học?
+A. Ý thức tiết kiệm, tinh thần trách nhiệm và tư duy quản lý tài chính khoa học.
+B. Sự liều lĩnh trong đầu tư kinh doanh.
+C. Phụ thuộc hoàn toàn vào nguồn hỗ trợ bên ngoài.
+D. Chỉ quan tâm đến lợi nhuận ngắn hạn bỏ qua môi trường.
+[Mức độ: Nhận biết - YCCĐ: Ý nghĩa giáo dục của bài học]
+IV. PHẦN 2: CÂU HỎI TRẮC NGHIỆM ĐÚNG/SAI (4 CÂU)
+Trong mỗi ý a), b), c), d) ở mỗi câu, học sinh chọn Đúng (Đ) hoặc Sai (S) (Mỗi câu gồm 4 ý; đúng 1 ý được 0,1đ, 2 ý được 0,25đ, 3 ý được 0,5đ, 4 ý được 1,0đ):
+Câu 1. Về việc lựa chọn loại vật nuôi và quy mô nuôi trong kế hoạch chăn nuôi gia đình:
+a) Nên chọn loại vật nuôi phù hợp với diện tích chuồng trại và điều kiện thực tế của gia đình.
+b) Quy mô nuôi càng lớn thì chắc chắn lợi nhuận thu được càng cao mà không gặp rủi ro.
+c) Có thể tận dụng nguồn thức ăn sẵn có ở địa phương để chọn đối tượng nuôi phù hợp.
+d) Không cần quan tâm đến nhu cầu thị trường tiêu thụ sản phẩm tại địa phương.
+[Mức độ: Nhận biết & Thông hiểu - YCCĐ: Lựa chọn vật nuôi và quy mô]
+Câu 2. Về việc dự tính chi phí thức ăn cho vật nuôi:
+a) Chi phí thức ăn thường chiếm tỷ lệ lớn nhất trong tổng chi phí nuôi dưỡng vật nuôi.
+b) Lượng thức ăn tiêu thụ của vật nuôi là cố định như nhau ở mọi giai đoạn phát triển.
+c) Có thể tính chi phí thức ăn dựa trên mức tiêu thụ trung bình/ngày/con và giá tiền thức ăn.
+d) Để tiết kiệm chi phí, có thể cho vật nuôi ăn thức ăn mốc hỏng vì vật nuôi có sức đề kháng cao.
+[Mức độ: Thông hiểu - YCCĐ: Dự toán chi phí thức ăn]
+Câu 3. Về quy trình tính toán các khoản chi phí trong lập kế hoạch chăn nuôi:
+a) Tổng chi phí chăn nuôi bao gồm chi phí giống, chuồng trại, thức ăn, thuốc thú y và chi phí khác.
+b) Chi phí chuồng trại chỉ tính 1 lần cho 1 lứa nuôi mà không thể phân bổ cho nhiều lứa tiếp theo.
+c) Chi phí phòng bệnh bằng vắc xin giúp giảm thiểu rủi ro thiệt hại do dịch bệnh gây ra.
+d) Không cần lập khoản dự phòng rủi ro vì đã tính toán chính xác tất cả chi phí.
+[Mức độ: Thông hiểu & Vận dụng - YCCĐ: Tính toán tổng chi phí]
+Câu 4. Về việc đánh giá tính khả thi và hiệu quả của kế hoạch chăn nuôi:
+a) Kế hoạch chăn nuôi khả thi khi nguồn vốn gia đình đáp ứng đủ tổng chi phí dự tính.
+b) Dự kiến thu nhập thu được phải lớn hơn tổng chi phí bỏ ra thì chăn nuôi mới có lãi.
+c) Chăn nuôi gia đình chỉ quan tâm đến hiệu quả kinh tế, không cần chú ý vệ sinh môi trường.
+d) Bảng kế hoạch lập xong phải giữ cố định, không được điều chỉnh khi giá vật tư thay đổi.
+[Mức độ: Vận dụng - YCCĐ: Đánh giá tính khả thi dự án]
+V. PHẦN 3: CÂU HỎI TỰ LUẬN (3 CÂU)
+Câu 1 (1,5 điểm). Nêu các bước cơ bản để lập một kế hoạch nuôi vật nuôi trong gia đình. Tại sao bước tính toán chi phí lại có vai trò quyết định đến tính khả thi của kế hoạch?
+[Mức độ: Nhận biết & Thông hiểu - YCCĐ: Các bước lập kế hoạch chăn nuôi]
+Câu 2 (1,5 điểm). Một hộ gia đình dự định nuôi một lứa 50 con gà thịt thương phẩm trong 3 tháng. Hãy giúp gia đình tính toán tổng chi phí dự kiến dựa trên các số liệu sau:
+- Giá mua gà giống: 15.000 đồng/con.
+- Chi phí làm/sửa chuồng nuôi và dụng cụ ăn uống (phân bổ cho lứa này): 300.000 đồng.
+- Trung bình 1 con gà ăn hết 3,5 kg thức ăn hỗn hợp trong cả lứa; giá thức ăn là 14.000 đồng/kg.
+- Chi phí vắc xin và thuốc phòng bệnh: 8.000 đồng/con.
+- Chi phí điện, nước và phát sinh khác: 200.000 đồng.
+[Mức độ: Vận dụng - YCCĐ: Bài toán tính chi phí chăn nuôi cụ thể]
+Câu 3 (1,0 điểm). Em hãy đề xuất 3 giải pháp thực tế giúp gia đình nâng cao hiệu quả kinh tế và giảm thiểu rủi ro khi thực hiện kế hoạch chăn nuôi vật nuôi tại địa phương em.
+[Mức độ: Vận dụng cao - YCCĐ: Giải pháp nâng cao hiệu quả chăn nuôi]
+VI. ĐÁP ÁN CHI TIẾT VÀ HƯỚNG DẪN GIẢI
+1. Đáp án Phần 1 - Trắc nghiệm nhiều lựa chọn (12 câu)
+Câu 1: B   |   Câu 2: C   |   Câu 3: C   |   Câu 4: B   |   Câu 5: B   |   Câu 6: B   |   Câu 7: C   |   Câu 8: A   |   Câu 9: B   |   Câu 10: B   |   Câu 11: D   |   Câu 12: A   |
+2. Đáp án Phần 2 - Trắc nghiệm Đúng/Sai (4 câu)
+Câu 1: a) Đúng, b) Sai, c) Đúng, d) Sai (Tỷ lệ: 2 Đúng - 2 Sai)
+Câu 2: a) Đúng, b) Sai, c) Đúng, d) Sai (Tỷ lệ: 2 Đúng - 2 Sai)
+Câu 3: a) Đúng, b) Sai, c) Đúng, d) Sai (Tỷ lệ: 2 Đúng - 2 Sai)
+Câu 4: a) Đúng, b) Đúng, c) Sai, d) Sai (Tỷ lệ: 2 Đúng - 2 Sai)
+3. Đáp án & Hướng dẫn chấm Phần 3 - Tự luận
+Câu 1 (1,5 điểm):
+a) Các bước lập kế hoạch chăn nuôi gia đình (0,75đ):
+- Bước 1: Xác định loại vật nuôi và quy mô nuôi phù hợp.
+- Bước 2: Tìm hiểu và tính toán các khoản chi phí cần thiết (giống, thức ăn, chuồng trại, thú y).
+- Bước 3: Lập bảng dự toán chi phí chi tiết và dự kiến nguồn vốn, doanh thu.
+- Bước 4: Đánh giá tính khả thi và điều chỉnh kế hoạch.
+b) Vai trò quyết định của bước tính toán chi phí (0,75đ):
+- Việc tính toán chi phí giúp gia đình biết trước lượng vốn cần đầu tư, tránh tình trạng đứt gãy nguồn vốn giữa chừng làm vật nuôi bị bỏ đói hoặc thiếu thuốc phòng bệnh.
+- Giúp so sánh giữa chi phí đầu tư và doanh thu dự kiến để biết kế hoạch có mang lại lợi nhuận hay không trước khi tiến hành nuôi.
+Câu 2 (1,5 điểm):
+Tính toán chi tiết các khoản chi phí nuôi 50 con gà thịt trong 3 tháng:
+1. Chi phí mua gà giống: 50 con × 15.000 đồng/con = 750.000 đồng. (0,25đ)
+2. Chi phí chuồng nuôi & dụng cụ: 300.000 đồng. (0,25đ)
+3. Chi phí thức ăn: 50 con × 3,5 kg/con × 14.000 đồng/kg = 2.450.000 đồng. (0,5đ)
+4. Chi phí vắc xin & thuốc thú y: 50 con × 8.000 đồng/con = 400.000 đồng. (0,25đ)
+5. Chi phí điện, nước & phát sinh: 200.000 đồng.
+==> TỔNG CHI PHÍ DỰ KIẾN = 750.000 + 300.000 + 2.450.000 + 400.000 + 200.000 = 4.100.000 đồng. (0,25đ)
+Câu 3 (1,0 điểm):
+Học sinh nêu được 3 giải pháp hợp lý (mỗi giải pháp đúng cho 0,33đ, tối đa 1,0đ):
+1. Tiêm phòng vắc xin đầy đủ và đúng lịch: Giúp phòng chống dịch bệnh hiệu quả, tránh nguy cơ mất trắng đàn vật nuôi.
+2. Tận dụng nguồn thức ăn giá rẻ/phụ phẩm nông nghiệp địa phương (ngô, khoai, rau, cám gạo): Phối trộn hợp lý giúp giảm chi phí thức ăn mua ngoài bán sẵn.
+3. Giữ gìn vệ sinh chuồng trại sạch sẽ, thoáng mát: Giúp vật nuôi khỏe mạnh, nhanh lớn, giảm chi phí chữa bệnh và bảo vệ môi trường xung quanh.
+VII. HƯỚNG DẪN CHẤM VÀ THANG ĐIỂM (TỔNG 10 ĐIỂM)
+1. Phần 1 - Trắc nghiệm nhiều lựa chọn: 12 câu × 0,25 điểm = 3,0 điểm.
+2. Phần 2 - Trắc nghiệm Đúng/Sai: 4 câu × 1,0 điểm = 4,0 điểm. (Mỗi câu: đúng 1 ý = 0,1đ; 2 ý = 0,25đ; 3 ý = 0,5đ; 4 ý = 1,0đ).
+3. Phần 3 - Tự luận: 3 câu = 3,0 điểm (Câu 1: 1,5đ; Câu 2: 1,5đ; Câu 3: 1,0đ).
+4. Tổng điểm toàn bài: 3,0 + 4,0 + 3,0 = 10,0 điểm.
+VIII. BẢNG ĐỐI CHIẾU CÂU HỎI VỚI YCCĐ VÀ MỨC ĐỘ NHẬN THỨC
+T| Câu hỏi || Dạng câu hỏi || Mức độ nhận thức || Yêu cầu cần đạt (YCCĐ) đối chiếu
+T| Câu 1 - 2 (P1) || Trắc nghiệm nhiều lựa chọn || Nhận biết || Nêu mục đích & bước đầu tiên lập kế hoạch chăn nuôi
+T| Câu 3 - 4 (P1) || Trắc nghiệm nhiều lựa chọn || Thông hiểu || Phân loại chi phí & chọn giống vật nuôi phù hợp
+T| Câu 5 - 6 (P1) || Trắc nghiệm nhiều lựa chọn || Nhận biết || Nhận biết tỷ trọng chi phí thức ăn & công thức tính chi phí giống
+T| Câu 7 (P1) || Trắc nghiệm nhiều lựa chọn || Thông hiểu || Tính toán chi phí con giống cho quy mô nhỏ
+T| Câu 8 (P1) || Trắc nghiệm nhiều lựa chọn || Nhận biết || Xác định các khoản chi phí phòng trị bệnh
+T| Câu 9 - 10 (P1) || Trắc nghiệm nhiều lựa chọn || Thông hiểu || Biện pháp tiết kiệm chi phí & vai trò của quỹ dự phòng
+T| Câu 11 - 12 (P1) || Trắc nghiệm nhiều lựa chọn || Nhận biết || Nội dung báo cáo thực hành & ý nghĩa giáo dục của bài học
+T| Câu 1 (P2) || Trắc nghiệm Đúng/Sai || Nhận biết & Thông hiểu || Đánh giá các ý kiến về chọn vật nuôi và quy mô nuôi
+T| Câu 2 (P2) || Trắc nghiệm Đúng/Sai || Thông hiểu || Đánh giá các ý kiến về dự toán chi phí thức ăn
+T| Câu 3 (P2) || Trắc nghiệm Đúng/Sai || Thông hiểu & Vận dụng || Đánh giá quy trình tính toán chi phí và phòng bệnh
+T| Câu 4 (P2) || Trắc nghiệm Đúng/Sai || Vận dụng || Đánh giá tính khả thi và hiệu quả kinh tế của kế hoạch
+T| Câu 1 (P3) || Tự luận || Nhận biết & Thông hiểu || Trình bày các bước lập kế hoạch & vai trò tính chi phí
+T| Câu 2 (P3) || Tự luận || Vận dụng || Giải bài toán tính toán chi phí chăn nuôi gà thịt thực tế
+T| Câu 3 (P3) || Tự luận || Vận dụng cao || Đề xuất giải pháp thực tế nâng cao hiệu quả chăn nuôi gia đình
+T|  ||  ||  || 
+T|  ||  ||  || 
+T|  ||  ||  || 
+T|  ||  ||  || 
+T|  ||  ||  || 

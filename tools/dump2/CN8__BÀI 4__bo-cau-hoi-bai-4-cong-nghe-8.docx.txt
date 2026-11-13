@@ -1,0 +1,142 @@
+BÀI 4: BẢN VẼ LẮP – CÔNG NGHỆ 8 (KNTT)
+PHẦN I. MA TRẬN ĐỀ KIỂM TRA ĐÁNH GIÁ
+Ma trận được xây dựng dựa trên Yêu cầu cần đạt (YCCĐ) của Bài 4 (Bản vẽ lắp - SGK Công nghệ 8 Kết nối tri thức) và Chuẩn Chương trình GDPT 2018 Môn Công nghệ:
+T| Mạch nội dung / Chủ đề || Mức độ Nhận biết || Mức độ Thông hiểu || Mức độ Vận dụng || Tổng số câu || Tỉ lệ % điểm
+T| 1. Khái niệm & Công dụng bản vẽ lắp || 2 câu TN (Phần I)
+1 ý TN Đ/S (Phần II) || 1 câu TN (Phần I)
+1 ý TN Đ/S (Phần II) || 0 câu || 3 câu TN
+2 ý Đ/S || 20%
+T| 2. Bốn nội dung của bản vẽ lắp || 3 câu TN (Phần I)
+2 ý TN Đ/S (Phần II) || 2 câu TN (Phần I)
+2 ý TN Đ/S (Phần II) || 0 câu || 5 câu TN
+4 ý Đ/S || 35%
+T| 3. Trình tự đọc bản vẽ lắp || 2 câu TN (Phần I)
+2 ý TN Đ/S (Phần II) || 2 câu TN (Phần I)
+2 ý TN Đ/S (Phần II) || 1 câu Tự luận (Phần III) || 4 câu TN
+4 ý Đ/S
+1 TL || 30%
+T| 4. Đọc bản vẽ lắp thực tế & ứng dụng || 0 câu || 2 ý TN Đ/S (Phần II) || 2 câu Tự luận (Phần III) || 2 ý Đ/S
+2 TL || 15%
+T| TỔNG CỘNG || 7 câu TN (1.75đ)
+5 ý Đ/S (1.25đ) || 5 câu TN (1.25đ)
+7 ý Đ/S (1.75đ) || 4 ý Đ/S (1.0đ)
+3 câu TL (3.0đ) || 12 câu TN
+16 ý Đ/S
+3 TL || 100% (10.0 điểm)
+PHẦN II. YÊU CẦU CẦN ĐẠT (YCCĐ)
+Mức độ Nhận biết: Nêu được khái niệm, công dụng của bản vẽ lắp. Liệt kê được 4 nội dung chính gồm: Hình biểu diễn, Kích thước, Bảng kê, Khung tên. Kể tên đúng 6 bước trong trình tự đọc bản vẽ lắp.
+Mức độ Thông hiểu: Hiểu được ý nghĩa của từng nội dung trong bản vẽ lắp (ví dụ: hình cắt thể hiện kết cấu bên trong, kích thước chung và kích thước lắp ghép, thông tin trong bảng kê và khung tên). Giải thích được lý do phải đọc bản vẽ lắp theo đúng trình tự quy định.
+Mức độ Vận dụng: Đọc được bản vẽ lắp của các sản phẩm đơn giản trong thực tế (như Bộ cọc tiêu, Bộ giá đỡ, Bộ bản lề, Bộ ròng rọc). Phân tích được vị trí, hình biểu diễn của từng chi tiết, và trình tự tháo lắp sản phẩm.
+PHẦN III. ĐỀ KIỂM TRA ĐÁNH GIÁ NĂNG LỰC
+A. PHẦN TRẮC NGHIỆM TỰ CHỌN (12 CÂU - 3.0 ĐIỂM)
+Câu 1 (NB): Bản vẽ lắp được dùng để làm gì trong quá trình sản xuất và đời sống?
+A. Chỉ để gia công từng chi tiết đơn lẻ.
+B. Dùng trong thiết kế, lắp ráp, kiểm tra và sử dụng sản phẩm.
+C. Chỉ dùng để tính toán chi phí nguyên vật liệu.
+D. Dùng để trang trí và quảng cáo sản phẩm.
+Câu 2 (NB): Bản vẽ lắp KHÔNG chứa nội dung nào sau đây so với bản vẽ chi tiết?
+A. Khung tên.
+B. Kích thước.
+C. Bảng kê.
+D. Yêu cầu kỹ thuật gia công bề mặt chi tiết.
+Câu 3 (NB): Bản vẽ lắp gồm mấy nội dung chính?
+A. 3 nội dung.
+B. 4 nội dung.
+C. 5 nội dung.
+D. 6 nội dung.
+Câu 4 (NB): Nội dung nào dưới đây KHÔNG thuộc bản vẽ lắp?
+A. Bảng kê.
+B. Yêu cầu kỹ thuật gia công xử lý bề mặt.
+C. Hình biểu diễn.
+D. Khung tên.
+Câu 5 (NB): Trình tự đọc bản vẽ lắp gồm bao nhiêu bước?
+A. 4 bước.
+B. 5 bước.
+C. 6 bước.
+D. 7 bước.
+Câu 6 (TH): Hình biểu diễn trên bản vẽ lắp thường bao gồm những hình chiếu nào?
+A. Các hình chiếu vuông góc và hình cắt thể hiện kết cấu bên trong.
+B. Chỉ gồm một hình chiếu đứng duy nhất.
+C. Chỉ gồm hình chiếu phối cảnh 3D.
+D. Chỉ gồm hình chiếu bằng và khung tên.
+Câu 7 (TH): Ý nghĩa của Bảng kê trong bản vẽ lắp là gì?
+A. Liệt kê trình tự lắp ráp các chi tiết.
+B. Ghi tên gọi, số lượng, vật liệu của các chi tiết cấu thành sản phẩm.
+C. Ghi các yêu cầu về xử lý nhiệt và dung sai gia công.
+D. Ghi tên cơ quan thiết kế và người kiểm tra bản vẽ.
+Câu 8 (TH): Kích thước chung trên bản vẽ lắp là kích thước thể hiện điều gì?
+A. Kích thước riêng của từng chi tiết nhỏ nhất.
+B. Kích thước chiều dài, chiều rộng, chiều cao tối đa của toàn bộ sản phẩm.
+C. Kích thước các đường kính lỗ khoan gia công.
+D. Kích thước khoảng cách giữa các bulông.
+Câu 9 (TH): Bước đầu tiên khi đọc bản vẽ lắp theo trình tự chuẩn là gì?
+A. Đọc Bảng kê.
+B. Đọc Khung tên.
+C. Phân tích chi tiết.
+D. Xem Hình biểu diễn.
+Câu 10 (TH): Bước cuối cùng khi đọc bản vẽ lắp là "Tổng hợp". Nội dung của bước này bao gồm:
+A. Xác định tỉ lệ bản vẽ và tên gọi sản phẩm.
+B. Tìm hiểu trình tự tháo, lắp các chi tiết và công dụng của sản phẩm.
+C. Đọc tên gọi và số lượng của từng chi tiết trong bảng kê.
+D. Đo trực tiếp kích thước trên bản vẽ bằng thước kẻ.
+Câu 11 (TH): Tại sao kích thước trên bản vẽ lắp chủ yếu là kích thước chung và kích thước lắp ghép?
+A. Vì bản vẽ lắp không quan tâm đến kích thước sản phẩm.
+B. Vì các chi tiết đã được chế tạo theo bản vẽ chi tiết riêng, bản vẽ lắp phục vụ việc kiểm tra không gian chung và mối ghép.
+C. Vì không thể ghi kích thước chi tiết lên bản vẽ lắp.
+D. Vì kích thước lắp ghép luôn giống hệt kích thước chung.
+Câu 12 (TH): Trình tự đọc bản vẽ lắp khác với trình tự đọc bản vẽ chi tiết ở điểm cốt lõi nào?
+A. Bản vẽ lắp không cần đọc Khung tên.
+B. Bản vẽ lắp có bước đọc Bảng kê và Phân tích chi tiết, không có bước Yêu cầu kỹ thuật.
+C. Bản vẽ chi tiết có Bảng kê còn bản vẽ lắp thì không.
+D. Cả hai bản vẽ đều có trình tự đọc hoàn toàn giống hệt nhau.
+B. PHẦN TRẮC NGHIỆM ĐÚNG / SAI (4 CÂU - 3.0 ĐIỂM)
+Câu 1: Xét các nhận định về khái niệm, công dụng và các nội dung chính của Bản vẽ lắp:
+a) Bản vẽ lắp trình bày hình dạng, vị trí tương quan giữa các chi tiết cấu thành sản phẩm. [Đúng / Sai]
+b) Bản vẽ lắp chứa các yêu cầu kỹ thuật chi tiết như độ nhám bề mặt và xử lý nhiệt của từng chi tiết. [Đúng / Sai]
+c) Bảng kê là nội dung đặc trưng của bản vẽ lắp, nằm ở phía trên khung tên hoặc đặt trên tờ giấy riêng. [Đúng / Sai]
+d) Kích thước ghi trên bản vẽ lắp là kích thước chi tiết tỉ mỉ để người thợ dùng trực tiếp gia công chế tạo. [Đúng / Sai]
+Câu 2: Cho bản vẽ lắp của "Bộ cọc tiêu" (gồm: Đế cọc, Cọc tiêu, Nắp). Xét tính Đúng/Sai của các câu sau:
+a) Bảng kê của bản vẽ lắp này cung cấp thông tin về tên gọi, số lượng và vật liệu của Đế cọc, Cọc tiêu, Nắp. [Đúng / Sai]
+b) Hình biểu diễn của bản vẽ lắp thể hiện vị trí lắp ghép giữa cọc tiêu với đế cọc. [Đúng / Sai]
+c) Để chế tạo từng chi tiết riêng lẻ của Bộ cọc tiêu, người thợ chỉ cần dùng duy nhất bản vẽ lắp này. [Đúng / Sai]
+d) Khung tên của bản vẽ lắp nằm ở góc trên bên trái của bản vẽ. [Đúng / Sai]
+Câu 3: Xét quy trình và trình tự đọc bản vẽ lắp gồm 6 bước:
+a) Trình tự đọc chuẩn là: Khung tên -> Bảng kê -> Hình biểu diễn -> Kích thước -> Phân tích chi tiết -> Tổng hợp. [Đúng / Sai]
+b) Trong bước Phân tích chi tiết, người đọc cần chỉ ra vị trí và hình biểu diễn của từng chi tiết trong bản vẽ. [Đúng / Sai]
+c) Bước Đọc bảng kê thực hiện sau khi đã hoàn thành bước Phân tích chi tiết. [Đúng / Sai]
+d) Kích thước lắp ghép thuộc nội dung bước Khung tên. [Đúng / Sai]
+Câu 4: Xét ứng dụng thực tế và phân tích bản vẽ lắp trong lắp ráp cơ khí:
+a) Khi tháo một sản phẩm cơ khí, chi tiết nào lắp sau cùng sẽ được tháo ra đầu tiên. [Đúng / Sai]
+b) Bản vẽ lắp giúp người công nhân biết được trình tự tháo và lắp ghép các chi tiết để tạo thành sản phẩm hoàn chỉnh. [Đúng / Sai]
+c) Bản vẽ lắp thay thế hoàn toàn bản vẽ chi tiết trong toàn bộ chuỗi sản xuất cơ khí. [Đúng / Sai]
+d) Số thứ tự chi tiết trong Bảng kê không liên quan gì đến bóng số (con số chỉ chi tiết) trên hình biểu diễn. [Đúng / Sai]
+C. PHẦN TỰ LUẬN (3 CÂU - 4.0 ĐIỂM)
+Câu 1 (1.0 điểm - TH): Trình bày 4 nội dung chính của một bản vẽ lắp. Tại sao trong bản vẽ lắp cần phải có Bảng kê?
+Câu 2 (1.5 điểm - VD): Nêu rõ trình tự 6 bước đọc bản vẽ lắp. So sánh sự khác nhau cơ bản giữa trình tự đọc bản vẽ lắp và trình tự đọc bản vẽ chi tiết.
+Câu 3 (1.5 điểm - VDC): Một người thợ nhận được bản vẽ lắp của "Bộ gá đỡ" để tiến hành lắp ráp sản phẩm. Hãy phân tích các bước người thợ đó cần thực hiện dựa trên bản vẽ lắp để hoàn thành công việc lắp ráp chính xác và an toàn.
+PHẦN IV. ĐÁP ÁN VÀ HƯỚNG DẪN CHẤM CHI TIẾT
+1. Đáp án Phần I: Trắc nghiệm tự chọn (3.0 điểm)
+T| C1 || C2 || C3 || C4 || C5 || C6 || C7 || C8 || C9 || C10 || C11 || C12
+T| B || D || B || B || C || A || B || B || B || B || B || B
+2. Đáp án Phần II: Trắc nghiệm Đúng / Sai (3.0 điểm)
+Quy tắc tính điểm: Đúng 1 ý = 0.1đ; Đúng 2 ý = 0.25đ; Đúng 3 ý = 0.5đ; Đúng cả 4 ý = 0.75đ mỗi câu.
+T| Câu hỏi || Ý a || Ý b || Ý c || Ý d
+T| Câu 1 || ĐÚNG || SAI || ĐÚNG || SAI
+T| Câu 2 || ĐÚNG || ĐÚNG || SAI || SAI
+T| Câu 3 || ĐÚNG || ĐÚNG || SAI || SAI
+T| Câu 4 || ĐÚNG || ĐÚNG || SAI || SAI
+3. Đáp án & Thang điểm Phần III: Tự luận (4.0 điểm)
+Câu 1 (1.0 điểm):
+Nêu đúng 4 nội dung của bản vẽ lắp: Hình biểu diễn, Kích thước, Bảng kê, Khung tên. (0.5 điểm)
+Giải thích vai trò của Bảng kê: Bảng kê giúp quản lý chi chi tiết sản phẩm: cho biết tên gọi, số lượng, vật liệu của từng chi tiết, phục vụ việc chuẩn bị vật tư và kiểm tra lắp ráp. (0.5 điểm)
+Câu 2 (1.5 điểm):
+Nêu đúng trình tự 6 bước đọc bản vẽ lắp: Bước 1: Khung tên -> Bước 2: Bảng kê -> Bước 3: Hình biểu diễn -> Bước 4: Kích thước -> Bước 5: Phân tích chi tiết -> Bước 6: Tổng hợp. (0.75 điểm)
+So sánh điểm khác nhau cơ bản: + Bản vẽ lắp có Bảng kê (quản lý chi tiết) và bước Phân tích chi tiết/Tổng hợp (hiểu kết cấu & tháo lắp).
++ Bản vẽ chi tiết có Yêu cầu kỹ thuật (gia công, xử lý bề mặt) để chế tạo 1 chi tiết đơn lẻ. (0.75 điểm)
+Câu 3 (1.5 điểm):
+Phân tích bước chuẩn bị & đọc bản vẽ: + Đọc Khung tên & Bảng kê: Nắm được số lượng chi tiết, tên gọi, vật liệu để chuẩn bị đầy đủ linh kiện.
++ Đọc Hình biểu diễn & Kích thước: Nắm vị trí tương quan, các mối ghép và kích thước lắp ghép. (0.5 điểm)
+Xác định quy trình tháo/lắp: + Phân tích trình tự lắp: Lắp các chi tiết cơ sở/nòng nòng trước, chi tiết phụ/bên ngoài sau.
++ Xác định quy tắc: Chi tiết tháo ra sau cùng sẽ được lắp vào đầu tiên. (0.5 điểm)
+Thực hiện lắp ráp & kiểm tra: + Tiến hành lắp ráp chuẩn xác theo kích thước lắp ghép.
++ Kiểm tra sự vận hành và độ hoàn chỉnh của Bộ gá đỡ sau khi hoàn thành. (0.5 điểm)

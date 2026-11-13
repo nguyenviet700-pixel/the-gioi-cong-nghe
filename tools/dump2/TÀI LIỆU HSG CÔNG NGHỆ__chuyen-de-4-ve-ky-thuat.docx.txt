@@ -1,0 +1,130 @@
+CHUYÊN ĐỀ 4: BIỂU DIỄN KỸ THUẬT VÀ BẢN VẼ KỸ THUẬT
+(TRỌNG TÂM CÔNG NGHỆ 8)
+T| ★ MỤC TIÊU VÀ ĐỊNH HƯỚNG ÔN HSG CHUYÊN ĐỀ 4 / • Phạm vi kiến thức: Tiêu chuẩn trình bày bản vẽ kỹ thuật (TCVN/ISO), Phép chiếu góc thứ nhất, Dựng 3 hình chiếu vuông góc, Đọc bản vẽ chi tiết, bản vẽ lắp, bản vẽ nhà (Công nghệ 8 - Bài 1 đến Bài 5). / • Cấu trúc thi HSG Vĩnh Long: Chiếm 3,0/20,0 điểm (Câu 3 tự luận đồ họa). Yêu cầu vẽ chính xác 3 hình chiếu vuông góc (Đứng, Bằng, Cạnh) từ mô hình 3D cho trước theo đúng tỉ lệ (ví dụ 1:2), gióng đối ứng, nét vẽ quy chuẩn và ghi kích thước. / • Năng lực phân hóa: Kỹ năng tư duy hình học không gian 3D  2D, sự cẩn thận chính xác trong đường nét gióng, tuân thủ đúng quy chuẩn ISO/TCVN và không bị mắc các lỗi sai kinh điển bị trừ điểm.
+PHẦN I: LÝ THUYẾT CHUYÊN SÂU VÀ BẢN CHẤT KHOA HỌC
+1. Các tiêu chuẩn trình bày bản vẽ kỹ thuật (TCVN & ISO)
+Bản vẽ kỹ thuật là "ngôn ngữ" chung của giới kỹ thuật. Để đảm bảo mọi người trong ngành sản xuất, chế tạo và xây dựng đều hiểu thống nhất, bản vẽ phải tuân thủ nghiêm ngặt các quy định về khổ giấy, tỉ lệ, đường nét và ghi kích thước.
+a) Tiêu chuẩn về Khổ giấy (TCVN 7285:2003 / ISO 5457:1999):
+Khổ giấy bản vẽ được chia từ khổ giấy chính A0. Các khổ giấy nhỏ hơn được tạo ra bằng cách chia đôi chiều dài của khổ giấy ngay trước nó.
+T| Ký hiệu khổ giấy || Kích thước (mm) || Cách tạo lập & Ứng dụng trong thực tế
+T| A0 || 1189 x 841 || Khổ gốc tiêu chuẩn, diện tích xấp xỉ 1 m².
+T| A1 || 841 x 594 || Bằng 1/2 khổ A0 (chia đôi chiều dài 1189 mm).
+T| A2 || 594 x 420 || Bằng 1/2 khổ A1 (chia đôi chiều dài 841 mm).
+T| A3 || 420 x 297 || Bằng 1/2 khổ A2 (chia đôi chiều dài 594 mm).
+T| A4 || 297 x 210 || Bằng 1/2 khổ A3 (khổ tiêu chuẩn vẽ bài tập & thi HSG).
+Quy tắc Khung bản vẽ và Khung tên: Mọi bản vẽ kỹ thuật đều phải có khung bản vẽ (cách mép giấy 10 mm, riêng mép trái đóng tập cách 20 mm) và khung tên. Khung tên đặt ở góc dưới bên phải bản vẽ, chữ viết trong khung tên hướng lên trên hoặc sang trái.
+b) Tiêu chuẩn về Tỉ lệ (TCVN 7286:2003 / ISO 5455:1979):
+Tỉ lệ là tỉ số giữa kích thước dài đo được trên hình biểu diễn của vật thể và kích thước thực tương ứng trên vật thể đó.
+• Tỉ lệ nguyên hình (1:1): Kích thước vẽ bằng kích thước thực.
+• Tỉ lệ thu nhỏ (1:2, 1:5, 1:10,...): Kích thước vẽ nhỏ hơn kích thước thực (thường dùng trong thi HSG khi vật thể lớn, ví dụ tỉ lệ 1:2 làm giảm một nửa kích thước vẽ).
+• Tỉ lệ phóng to (2:1, 5:1, 10:1,...): Kích thước vẽ lớn hơn kích thước thực (dùng cho các chi tiết quá nhỏ).
+⚠️ LƯU Ý BẢN CHẤT CỰC KỲ QUAN TRỌNG: Dù vẽ theo tỉ lệ thu nhỏ hay phóng to, con số kích thước ghi trên bản vẽ LUÔN LUÔN là CHỈ SỐ KÍCH THƯỚC THỰC của vật thể, tuyệt đối không được ghi kích thước đã chia/nhân tỉ lệ!
+c) Tiêu chuẩn về Đường nét (TCVN 8-20:2002 / ISO 128-20:1996):
+T| Tên đường nét || Dạng nét vẽ || Chiều dày (mm) || Ứng dụng biểu diễn chính
+T| Nét liền đậm || ─────── || s ≈ 0,5 – 0,7 || Đường bao thấy, cạnh thấy của vật thể.
+T| Nét liền mảnh || ─────── (mảnh) || s/2 ≈ 0,25 – 0,35 || Đường dóng, đường kích thước, đường gạch gạch mặt cắt.
+T| Nét đứt mảnh || – – – – – – || s/2 ≈ 0,25 – 0,35 || Đường bao khuất, cạnh khuất của vật thể.
+T| Nét gạch chấm mảnh || ─ ∙ ─ ∙ ─ ∙ ─ || s/2 ≈ 0,25 – 0,35 || Đường tâm, trục đối xứng, đường tâm đường tròn.
+d) Tiêu chuẩn về Ghi kích thước (TCVN 5705:1993):
+Một kích thước đầy đủ gồm 3 thành phần chính:
+1. Đường dóng kích thước: Vẽ bằng nét liền mảnh, vạch vuông góc với đoạn cần ghi kích thước và vượt quá đường kích thước khoảng 2 – 4 mm.
+2. Đường kích thước: Vẽ bằng nét liền mảnh, song song với đoạn cần ghi kích thước, hai đầu có mũi tên nhọn chạm vào đường dóng.
+3. Chữ số kích thước: Chỉ trị số kích thước thực (đơn vị mm, không ghi chữ "mm" sau con số). Chữ số được ghi nằm trên và khoảng giữa đường kích thước, hướng chữ số đối với đường kích thước nghiêng/thẳng đứng là nhìn từ dưới lên hoặc nhìn từ bên phải sang.
+• Trước trị số đường kính đường tròn ghi ký hiệu Ø (ví dụ Ø30).
+• Trước trị số bán kính cung tròn ghi ký hiệu R (ví dụ R15).
+2. Phép chiếu góc thứ nhất và Hệ thống 3 Hình chiếu Vuông góc
+a) Bản chất Phép chiếu góc thứ nhất (Phương pháp góc chiếu I):
+Trong phương pháp chiếu góc thứ nhất, vật thể được đặt trong không gian giới hạn bởi 3 mặt phẳng chiếu vuông góc với nhau từng đôi một. Vị trí tương đối: Người quan sát -> Vật thể -> Mặt phẳng chiếu. Các tia chiếu từ mắt người quan sát đi qua vật thể và vuông góc với các mặt phẳng chiếu.
+T| Mặt phẳng chiếu || Vị trí trong không gian || Hướng chiếu quan sát || Hình chiếu thu được & Kích thước thể hiện
+T| Mặt phẳng chiếu đứng (P1) || Chính diện (thẳng đứng đối diện) || Hướng nhìn từ TRƯỚC tới || HÌNH CHIẾU ĐỨNG:
+Thể hiện chiều DÀI và chiều CAO.
+T| Mặt phẳng chiếu bằng (P2) || Nằm ngang ở phía dưới || Hướng nhìn từ TRÊN xuống || HÌNH CHIẾU BẰNG:
+Thể hiện chiều DÀI và chiều RỘNG.
+T| Mặt phẳng chiếu cạnh (P3) || Thẳng đứng ở bên phải || Hướng nhìn từ TRÁI sang || HÌNH CHIẾU CẠNH:
+Thể hiện chiều RỘNG và chiều CAO.
+b) Quy tắc Trải phẳng không gian & Vị trí 3 Hình chiếu trên mặt phẳng bản vẽ:
+Để đưa 3 hình chiếu trong không gian 3D về cùng một mặt phẳng giấy vẽ 2D, người ta xoay:
+• Mặt phẳng chiếu bằng (P2) xoay xuống dưới 90° quanh trục nằm ngang.
+• Mặt phẳng chiếu cạnh (P3) xoay sang phải 90° quanh trục thẳng đứng.
+Sau khi trải phẳng, vị trí chuẩn xác tuyệt đối của 3 hình chiếu trên bản vẽ như sau:
+1. Hình chiếu đứng: Đặt ở góc trên bên trái bản vẽ (làm hình chiếu trung tâm).
+2. Hình chiếu bằng: Đặt ở NGAY DƯỚI hình chiếu đứng.
+3. Hình chiếu cạnh: Đặt ở NGAY BÊN PHẢI hình chiếu đứng.
+c) Mối quan hệ Gióng đối ứng kích thước giữa 3 hình chiếu (Đã thi HSG):
+• QUA ĐƯỜNG GIÓNG DỌC (ĐỨNG – BẰNG): Hình chiếu đứng và Hình chiếu bằng có CÙNG CHIỀU DÀI. Cạnh trên/dưới của hình chiếu đứng dóng thẳng đứng xuống cạnh tương ứng của hình chiếu bằng.
+• QUA ĐƯỜNG GIÓNG NGANG (ĐỨNG – CẠNH): Hình chiếu đứng và Hình chiếu cạnh có CÙNG CHIỀU CAO. Cạnh trái/phải của hình chiếu đứng dóng nằm ngang sang cạnh tương ứng của hình chiếu cạnh.
+• QUA ĐƯỜNG GIÓNG RỘNG (BẰNG – CẠNH): Hình chiếu bằng và Hình chiếu cạnh có CÙNG CHIỀU RỘNG. Kích thước chiều rộng từ hình chiếu bằng được chuyển sang hình chiếu cạnh qua đường phân giác 45° hoặc đường gióng bán kính.
+T| ★ SƠ ĐỒ BỐ TRÍ VỊ TRÍ VÀ MỐI QUAN HỆ GIÓNG DỐI ỨNG HÌNH CHIẾU / Sơ đồ bố trí chuẩn vị trí 3 hình chiếu trên bản vẽ: / [ HÌNH CHIẾU ĐỨNG ]  ─────────>  [ HÌNH CHIẾU CẠNH ] / │                                │ / │ (Gióng thẳng đứng)              │ (Cùng chiều rộng) / ▼                                ▼ / [ HÌNH CHIẾU BẰNG ]  ─────────────────────┘ / ⚠️ Tuyệt đối không được vẽ hình chiếu bằng sang bên phải hay hình chiếu cạnh xuống dưới! Đổi vị trí là sai hoàn toàn bản chất phương pháp chiếu góc thứ nhất.
+3. Quy trình Đọc Bản vẽ Kỹ thuật (Chi tiết, Lắp, Nhà)
+T| Trình tự || Bản vẽ Chi tiết || Bản vẽ Lắp || Bản vẽ Nhà
+T| Bước 1 || Khung tên:
+Tên chi tiết, vật liệu, tỉ lệ. || Khung tên:
+Tên sản phẩm, tỉ lệ bản vẽ. || Khung tên:
+Tên ngôi nhà, tỉ lệ bản vẽ.
+T| Bước 2 || Hình biểu diễn:
+Tên gọi các hình chiếu, hình cắt. || Bảng kê:
+Tên gọi chi tiết, số lượng, vật liệu. || Hình biểu diễn:
+Tên gọi hình biểu diễn (Mặt đứng, mặt bằng, mặt cắt).
+T| Bước 3 || Kích thước:
+Kích thước chung, kích thước từng phần. || Hình biểu diễn:
+Hình chiếu, hình cắt thể hiện kết cấu. || Kích thước:
+Kích thước chung, kích thước từng bộ phận.
+T| Bước 4 || Yêu cầu kỹ thuật:
+Gia công, xử lý bề mặt. || Kích thước:
+Kích thước chung, kích thước lắp ghép. || Các bộ phận chính:
+Số phòng, số cửa đi, cửa sổ, chiều cao.
+T| Bước 5 ||  || Phân tích: Vị trí chi tiết. || 
+T| Bước 6 ||  || Tổng hợp: Trình tự tháo lắp. || 
+PHẦN II: PHÂN TÍCH TRỌNG TÂM ĐỀ THI HSG VĨNH LONG (BÀI TẬP ĐỒ HỌA 3.0 ĐIỂM)
+Trích phân tích Câu 3 trong Đề thi HSG chính thức Sở GDĐT Vĩnh Long (3,0 điểm):
+• Đề bài mẫu: Cho vật thể có dạng chữ L (hoặc khối có bậc, rãnh, lỗ rỗng hình trụ) với các kích thước hình học cụ thể (ví dụ: chiều dài tổng 80, chiều cao 70, chiều rộng 70; bậc dưới cao 20, vát/sâu 50, rãnh rộng 30,...).
+• Yêu cầu: Căn cứ vào thông tin mô hình 3D, hãy vẽ hình chiếu đứng, hình chiếu bằng, hình chiếu cạnh của vật thể trên theo tỉ lệ 1:2 đúng vị trí quy định và ghi kích thước cơ bản của vật thể trên các hình chiếu.
+1. Quy trình 6 bước vẽ 3 hình chiếu vuông góc đạt điểm tối đa (3,0/3,0 điểm):
+• Bước 1: Phân tích hình dạng vật thể. Xác định vật thể được tạo thành từ các khối đa diện hay khối tròn xoay nào; nhận diện các chi tiết đặc biệt như bậc, vát góc, rãnh xẻ, lỗ trụ xuyên suốt.
+• Bước 2: Chọn hướng chiếu đứng. Chọn hướng chiếu từ trước sao cho hình chiếu đứng thể hiện rõ nhất đặc điểm hình dạng đặc trưng của vật thể.
+• Bước 3: Tính toán tỉ lệ và kích thước vẽ. Nếu đề bài yêu cầu tỉ lệ 1:2, hãy chia tất cả kích thước đo/đề cho 2 khi đặt thước vẽ nét (Ví dụ: 80 mm -> vẽ 40 mm; 70 mm -> vẽ 35 mm; 20 mm -> vẽ 10 mm). Nhưng khi GHI CHỮ SỐ KÍCH THƯỚC vẫn ghi con số thực (80, 70, 20).
+• Bước 4: Vẽ phác bằng nét liền mảnh. Vẽ khung bao hình chiếu đứng -> gióng thẳng đứng xuống vẽ hình chiếu bằng -> gióng nằm ngang sang vẽ hình chiếu cạnh. Vẽ các nét bao thấy, nét khuất (nét đứt mảnh) và đường tâm (nét gạch chấm mảnh).
+• Bước 5: Kiểm tra gióng đối ứng và tô đậm. Kiểm tra khớp chiều dài (ĐỨNG - BẰNG), chiều cao (ĐỨNG - CẠNH), chiều rộng (BẰNG - CẠNH). Tẩy bỏ các đường gióng thừa, tô đậm nét liền đậm cho tất cả các cạnh thấy và đường bao thấy.
+• Bước 6: Ghi kích thước và hoàn thiện. Kẻ đường dóng, đường kích thước nét mảnh và ghi trị số kích thước thực chuẩn xác.
+T| ★ CÁC BẪY TRỪ ĐIỂM NGUY HẠI CẦN TRÁNH TRONG BÀI TẬP VẼ HÌNH CHIẾU / BẢNG BÁO ĐỘNG CÁC LỖI SAI KHIẾN HỌC SINH BỊ TRỪ ĐIỂM HSG (Căn cứ Đáp án Sở Vĩnh Long): / 1. Sai vị trí hình chiếu (-0,5đ đến -1,0đ): Đặt hình chiếu bằng nằm ngang hàng với hình chiếu đứng, hoặc đổi chỗ hình chiếu cạnh sang trái. / 2. Sai tỉ lệ vẽ (-0,25đ mỗi hình chiếu): Quên không chia tỉ lệ 1:2 khi đặt thước vẽ nét dẫn đến hình chiếu bị phóng to gấp đôi so với yêu cầu. / 3. Sai chữ số kích thước (-0,25đ): Ghi kích thước đã chia tỉ lệ (ví dụ ghi 40 thay vì ghi 80), hoặc ghi kèm đơn vị 'mm' sau con số. / 4. Nhầm lẫn quy chuẩn đường nét (-0,25đ mỗi hình chiếu): Cạnh khuất bên trong không vẽ nét đứt mảnh mà vẽ nét liền đậm, hoặc quên vẽ nét gạch chấm mảnh cho đường tâm lỗ tròn/trục đối xứng. / 5. Không gióng đối ứng (-0,25đ): Chiều dài trên hình chiếu đứng không khớp thẳng đứng với chiều dài hình chiếu bằng.
+PHẦN III: NGÂN HÀNG BÀI TẬP MẪU PHÂN HÓA 4 MỨC ĐỘ
+Mức độ 1: Nhận biết – Thông hiểu (Lý thuyết Tiêu chuẩn & Phép chiếu)
+Câu 1.1 (1,5 điểm): Trình bày các tiêu chuẩn về đường nét trong bản vẽ kỹ thuật (tên đường nét, dạng nét vẽ, chiều dày, ứng dụng). Tại sao trên bản vẽ kỹ thuật phải phân biệt rõ ràng độ dày và dạng nét vẽ giữa đường bao thấy và đường bao khuất?
+Câu 1.2 (1,5 điểm): Hãy cho biết vị trí tương đối giữa người quan sát, vật thể và mặt phẳng chiếu trong phương pháp chiếu góc thứ nhất. So sánh vị trí của 3 hình chiếu (Đứng, Bằng, Cạnh) trên mặt phẳng bản vẽ sau khi đã trải phẳng.
+Mức độ 2: Vận dụng thấp (Phân tích hình chiếu khối đa diện & Khối tròn xoay)
+Câu 2.1 (2,0 điểm): Cho hình trụ đặt thẳng đứng có đường kính đáy d = 40 mm, chiều cao h = 60 mm. Nếu đặt hình trụ này sao cho trục của nó vuông góc với mặt phẳng chiếu đứng:
+a) Hình chiếu đứng, hình chiếu bằng và hình chiếu cạnh có hình dạng là gì?
+b) Nêu kích thước thể hiện trên từng hình chiếu.
+Câu 2.2 (2,0 điểm): Trình bày trình tự đọc bản vẽ chi tiết Gối đỡ (hoặc Tấm đế). Hãy giải thích ý nghĩa của các nội dung ghi trong Khung tên và Yêu cầu kỹ thuật trên bản vẽ chi tiết.
+Mức độ 3: Vận dụng cao (Bài tập Đồ họa Dựng 3 Hình chiếu theo Tỉ lệ – Dạng thi HSG Vĩnh Long)
+Câu 3.1 (3,0 điểm – Đề xuất chuẩn đề thi HSG): Cho vật thể gá chạc có mô hình 3D với các kích thước như sau:
+• Khối đế hình hộp chữ nhật kích thước tổng: Chiều dài L = 90 mm, Chiều rộng W = 60 mm, Chiều cao tổng H = 50 mm.
+• Ở chính giữa phần bậc trên có một rãnh hình chữ nhật xuyên suốt theo chiều dài với chiều rộng rãnh b = 30 mm, chiều sâu rãnh h1 = 20 mm.
+• Ở hai bên khối đế có hai lỗ trụ tròn xuyên suốt từ trên xuống dưới với đường kính d = 16 mm, khoảng cách giữa tâm hai lỗ là 60 mm.
+Căn cứ vào các thông tin kích thước trên, em hãy:
+a) Tính toán kích thước nét vẽ khi thể hiện bản vẽ theo tỉ lệ 1:2.
+b) Vẽ hình chiếu đứng, hình chiếu bằng, hình chiếu cạnh của vật thể đúng vị trí và gióng đối ứng chuẩn xác theo phương pháp chiếu góc thứ nhất.
+c) Ghi các kích thước cơ bản trên 3 hình chiếu theo đúng quy chuẩn TCVN.
+Mức độ 4: Tình huống thực tiễn & Phát hiện lỗi sai trên Bản vẽ Kỹ thuật
+Câu 4.1 (2,5 điểm): Một học sinh thực hiện bài thi HSG vẽ 3 hình chiếu của một vật thể kim loại có lỗ rỗng bên trong. Học sinh đó mắc các lỗi sau trên bản vẽ:
+1. Đặt hình chiếu bằng ở bên phải hình chiếu đứng.
+2. Các đường bao khuất bên trong lỗ rỗng được vẽ bằng nét liền mảnh.
+3. Ghi kích thước Ø20 thành Ø10 vì vẽ theo tỉ lệ thu nhỏ 1:2.
+4. Đường dóng kích thước cắt ngang qua chữ số kích thước.
+Em hãy phân tích tác hại của từng lỗi sai trên đối với quá trình đọc bản vẽ và gia công sản xuất thực tế tại xưởng cơ khí, từ đó đề xuất cách sửa lại cho đúng quy chuẩn.
+PHẦN IV: ĐÁP ÁN VÀ HƯỚNG DẪN CHẤM CHI TIẾT
+ĐÁP ÁN CÂU 1.1 (1,5 điểm):
+• Trình bày đúng 4 loại đường nét quy chuẩn (0,75đ):
++ Nét liền đậm (s ≈ 0,5 - 0,7 mm): Vẽ đường bao thấy, cạnh thấy (0,25đ).
++ Nét đứt mảnh (s/2): Vẽ đường bao khuất, cạnh khuất (0,20đ).
++ Nét liền mảnh (s/2): Vẽ đường dóng, đường kích thước (0,15đ).
++ Nét gạch chấm mảnh (s/2): Vẽ đường tâm, trục đối xứng (0,15đ).
+• Giải thích bản chất (0,75đ): Phân biệt rõ nét đậm và nét mảnh giúp người thợ cơ khí khi nhìn vào bản vẽ lập tức nhận biết được bề mặt nổi/cạnh nhìn thấy bên ngoài so với các chi tiết bị che khuất bên trong, tránh nhầm lẫn nguy hiểm khi gia công cắt gọt kim loại.
+HƯỚNG DẪN CHẤM CÂU 3.1 - BÀI TẬP ĐỒ HỌA 3.0 ĐIỂM (Chuẩn Sở GDĐT Vĩnh Long):
+T| Hạng mục chấm || Yêu cầu kỹ thuật & Nội dung thể hiện chi tiết || Điểm chuẩn
+T| Tính tỉ lệ 1:2 || Tính toán đúng kích thước nét vẽ: Dài = 45 mm, rộng = 30 mm, cao = 25 mm, Rãnh rộng 15 mm, sâu 10 mm, Lỗ Ø8 mm. || 0,25đ
+T| Hình chiếu đứng || Vẽ đúng dạng hình chữ nhật bao ngoài 45x25 mm, thể hiện rãnh hình chữ nhật nét liền đậm, hai đường nét đứt mảnh thể hiện 2 lỗ trụ tròn. || 0,75đ
+T| Hình chiếu bằng || Vẽ đúng dạng hình chữ nhật 45x30 mm nằm NGAY DƯỚI hình chiếu đứng, thể hiện 2 đường tròn Ø8 nét liền đậm + đường tâm gạch chấm mảnh, rãnh xẻ nét liền đậm. || 0,75đ
+T| Hình chiếu cạnh || Vẽ đúng dạng hình chữ nhật 30x25 mm nằm NGAY BÊN PHẢI hình chiếu đứng, thể hiện rãnh nét đứt mảnh/liền đậm đúng hướng nhìn, đường bao lỗ rỗng. || 0,50đ
+T| Bố trí & Gióng || Đặt đúng vị trí 3 hình chiếu (Phương pháp góc chiếu I), các đường gióng dọc và gióng ngang thẳng hàng hoàn toàn không lệch. || 0,40đ
+T| Ghi kích thước || Ghi đầy đủ các kích thước cơ bản L90, W60, H50, rãnh b30, h20, lỗ Ø16 đúng quy chuẩn TCVN (chữ số nghiêng/đứng đúng hướng). || 0,35đ

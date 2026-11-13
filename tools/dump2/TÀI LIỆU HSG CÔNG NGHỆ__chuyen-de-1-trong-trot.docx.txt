@@ -1,0 +1,180 @@
+CHUYÊN ĐỀ 1: KỸ THUẬT TRỒNG TRỌT & CANH TÁC BỀN VỮNG
+Tài liệu Bồi dưỡng Học sinh giỏi THCS môn Công nghệ (Chương trình GDPT 2018)
+I. MỤC TIÊU ÔN LUYỆN CHUYÊN ĐỀ
+Chuyên đề 1 giúp học sinh giỏi đạt được các mục tiêu trọng tâm sau:
+Về kiến thức nền: Nắm vững toàn bộ quy trình kỹ thuật trồng trọt (làm đất, gieo trồng, chăm sóc, phòng trừ sâu bệnh, thu hoạch, bảo quản) và các phương pháp nhân giống vô tính cây trồng.
+Về bản chất khoa học: Giải thích được cơ sở sinh học và nguyên lý kỹ thuật của từng khâu canh tác; hiểu rõ bản chất nguyên tắc 'Phòng là chính' trong bảo vệ thực vật và cơ chế sinh lý của cây trồng.
+Về kiến thức mở rộng: Cập nhật xu hướng nông nghiệp công nghệ cao (thủy canh, khí canh, nhà màng), tiêu chuẩn VietGAP và nguyên lý canh tác sinh thái nông nghiệp bền vững.
+Về năng lực HSG: Rèn luyện kỹ năng phân tích, so sánh, giải thích hiện tượng thực tiễn, đề xuất giải pháp kỹ thuật thân thiện môi trường và lập kế hoạch, tính toán chi phí dự án trồng trọt.
+II. KIẾN THỨC NỀN CẦN NHỚ
+1. Quy trình kỹ thuật trồng trọt và mục đích từng bước
+Quy trình trồng trọt chuẩn gồm 4 bước nối tiếp bắt buộc:
+Bước 1: Chuẩn bị đất trồng (Làm đất & Bón phân lót): Gồm cày đất (làm xáo trộn lớp đất mặt từ 20-30 cm, làm tăng bề dày lớp đất trồng, chôn vùi cỏ dại, làm đất tơi xốp), bừa/đập đất (làm nhỏ đất, thu gom cỏ dại, trộn đều phân bón) và lên luống (chống ngập úng, tạo tầng đất dày, dễ chăm sóc). Bón phân lót là bón phân vào đất trước khi gieo trồng nhằm chuẩn bị sẵn thức ăn cho cây hấp thụ ngay khi rễ phát triển.
+Bước 2: Gieo trồng: Gồm gieo hạt (áp dụng cho cây ngắn ngày như lúa, ngô, đỗ, rau) và trồng cây con (áp dụng cho cả cây ngắn ngày và dài ngày). Yêu cầu kỹ thuật bắt buộc: Đúng thời vụ, đúng khoảng cách, mật độ và độ sâu gieo trồng.
+Bước 3: Chăm sóc cây trồng: Gồm tỉa/dặm cây (đảm bảo khoảng cách, mật độ hợp lý); làm cỏ, vun xới (giảm cạnh tranh dinh dưỡng, hạn chế nơi trú ẩn của sâu bệnh, giữ cây đứng vững); tưới/tiêu nước (đảm bảo đủ ẩm, tránh héo hoặc úng rễ); bón phân thúc (cung cấp bổ sung dinh dưỡng kịp thời theo từng thời kỳ sinh trưởng).
+Bước 4: Thu hoạch & Bảo quản: Thu hoạch đúng thời điểm, nhanh gọn, cẩn thận để giảm tối đa hao hụt lượng và chất lượng. Bảo quản bằng các phương pháp: bảo quản thường (kho), bảo quản lạnh, bảo quản kín hoặc hút chân không.
+2. Phân bón lót và Phân bón thúc trong trồng trọt
+Phân biệt rõ mục đích và loại phân bón sử dụng cho hai thời kỳ bón phân chính:
+T| Tiêu chí || Bón phân lót || Bón phân thúc
+T| Mục đích || Cung cấp dinh dưỡng dự trữ cho đất, chuẩn bị 'thức ăn' sẵn cho cây khi mới ra rễ. || Cung cấp dinh dưỡng bổ sung kịp thời cho từng giai đoạn sinh trưởng mạnh (ra lá, đẻ nhánh, ra hoa, tạo quả).
+T| Thời điểm || Trước khi gieo hạt hoặc trồng cây con (khi làm đất). || Trong quá trình sinh trưởng và phát triển của cây.
+T| Loại phân || Phân hữu cơ hoai mục, phân vi sinh, phân lân (chậm tan, tác dụng kéo dài). || Phân hóa học dễ tan (đạm, kali, NPK), phân hữu cơ vi sinh tan nhanh.
+3. Khái niệm và các phương pháp nhân giống vô tính
+Nhân giống vô tính là hình thức tạo ra cây giống trực tiếp từ các bộ phận sinh dưỡng (lá, thân, rễ) của cây mẹ. Cây con giữ nguyên các đặc tính di truyền của cây mẹ.
+Giâm cành: Cắt một đoạn cành bánh tẻ (không quá non hoặc quá già, có đủ mắt), xử lý chất kích thích ra rễ rồi cắm xuống đất ẩm để cành ra rễ và phát triển thành cây mới. Áp dụng: rau ngót, khoai lang, hoa hồng, râm bụt.
+Chiết cành: Chọn cành khỏe trên cây mẹ, bóc một đoạn vỏ, bọc hỗn hợp đất ẩm/giá thể quanh vết bóc. Khi đoạn cành mọc rễ thì cắt rời đem trồng. Áp dụng: cây ăn quả (cam, bưởi, nhãn, vải).
+Ghép: Dùng một bộ phận sinh dưỡng của một cây (mắt ghép, chồi ghép, cành ghép) gắn vào một cây khác (gốc ghép) rồi buộc chặt để chúng liền xương và phát triển cùng nhau. Áp dụng: xoài, táo, hồng xiêm, cây cảnh.
+Nuôi cấy mô tế bào: Phương pháp nhân giống hiện đại trong phòng thí nghiệm, tạo ra số lượng rất lớn cây giống đồng đều, sạch bệnh từ tế bào/mô phân sinh.
+III. KIẾN THỨC CẦN HIỂU SÂU BẢN CHẤT
+1. Bản chất sinh học và kỹ thuật của khâu Làm đất
+Làm đất không đơn thuần là hoạt động cơ học mà là tác động trực tiếp lên hệ sinh thái đất:
+Cơ chế thoáng khí: Đất tơi xốp làm tăng thể tích khe hở không khí trong đất, giúp rễ cây hấp thụ O2 dễ dàng cho quá trình hô hấp tế bào rễ, giải phóng năng lượng để chủ động hút nước và khoáng chất.
+Cơ chế vi sinh vật: Tăng cường hoạt động của vi sinh vật hiếu khí (vi sinh vật cố định đạm, phân giải lân, phân giải chất hữu cơ), biến các chất dinh dưỡng khó tan thành dạng ion dễ tan (NH4+, NO3-, H2PO4-) cho cây.
+Diệt mầm bệnh: Cày lật đất phơi ải giúp ánh nắng mặt trời và tia cực tím tiêu diệt trứng sâu, vi khuẩn, nấm bệnh tồn dư trong đất từ vụ trước.
+2. Bản chất nguyên tắc 'Phòng là chính' trong Bảo vệ thực vật
+Trong trồng trọt, luôn phải tuân thủ nguyên tắc 'Phòng là chính' vì các lý do bản chất sau:
+Chi phí kinh tế: Chi phí phòng bệnh (vệ sinh đồng ruộng, dùng giống chống chịu, luân canh) luôn thấp hơn rất nhiều so với chi phí mua thuốc hóa học và khắc phục hậu quả khi dịch bùng phát.
+Bảo vệ năng suất và chất lượng: Khi dịch bệnh đã phát sinh, dịch bào và mô cây đã bị tổn thương, cây bị mất diện tích quang hợp, dù chữa khỏi thì năng suất và chất lượng sản phẩm vẫn bị sụt giảm nặng nề.
+An toàn sinh thái & sức khỏe: Sử dụng thuốc bảo vệ thực vật hóa học để trừ sâu bệnh gây ô nhiễm môi trường đất, nước, tiêu diệt thiên địch có ích, dễ để lại dư lượng hóa chất độc hại trong nông sản gây mất an toàn thực phẩm.
+T| ĐIỂM NHẤN BẢN CHẤT: Nội dung 'Biện pháp canh tác và giống chống chịu' là nền tảng của nguyên tắc Phòng là chính. Sử dụng giống chống chịu giúp cây ngăn chặn sự xâm nhập của mầm bệnh ngay từ đầu mà không cần can thiệp hóa chất.
+IV. KIẾN THỨC MỞ RỘNG & ĐÀO SÂU HSG
+1. Trồng trọt công nghệ cao (High-tech Agriculture)
+Trồng trọt công nghệ cao là việc ứng dụng các công nghệ hiện đại (tự động hóa, CNTT, công nghệ sinh học, vật liệu mới) nhằm tối ưu hóa điều kiện sinh trưởng của cây trồng:
+Mô hình Nhà màng / Nhà kính thông minh: Kiểm soát hoàn toàn nhiệt độ, độ ẩm, ánh sáng, nồng độ CO2. Giúp trồng rau, hoa quanh năm, không phụ thuộc thời tiết, ngăn ngừa triệt để côn trùng xâm nhập.
+Hệ thống Thủy canh (Hydroponics): Trồng cây hoàn toàn không dùng đất, rễ cây ngâm trực tiếp hoặc tiếp xúc với dung dịch dinh dưỡng được chuẩn bị chính xác theo nhu cầu từng loại cây.
+Hệ thống Khí canh (Aeroponics): Rễ cây treo trong không khí và được phun dinh dưỡng dạng sương mịn theo chu kỳ tự động. Giúp tiết kiệm 95% nước và 90% phân bón so với canh tác đất.
+Công nghệ tưới nhỏ giọt (Drip Irrigation): Cung cấp nước và phân bón hòa tan trực tiếp đến từng gốc cây với liều lượng chính xác, tránh lãng phí nước và ngăn nấm bệnh phát triển do ướt lá.
+2. Quy trình và tiêu chuẩn VietGAP trong nông nghiệp sạch
+VietGAP (Vietnamese Good Agricultural Practices) là quy trình thực hành sản xuất nông nghiệp tốt tại Việt Nam, bao gồm 4 tiêu chí cốt lõi:
+1. An toàn thực phẩm: Không để nông sản bị nhiễm hóa chất, vi sinh vật gây hại hoặc kim loại nặng quá ngưỡng cho phép.
+2. An toàn môi trường: Không làm ô nhiễm nguồn nước, đất đai và hệ sinh thái xung quanh khu vực canh tác.
+3. Sức khỏe và an toàn lao động: Bảo vệ sức khỏe người sản xuất, trang bị đầy đủ bảo hộ lao động khi sử dụng vật tư nông nghiệp.
+4. Truy xuất nguồn gốc sản phẩm: Ghi chép nhật ký canh tác đầy đủ để phục vụ kiểm tra và minh bạch nguồn gốc nông sản.
+3. Canh tác sinh thái & Nông nghiệp bền vững
+Nông nghiệp bền vững hướng tới sự cân bằng giữa hiệu quả kinh tế, công bằng xã hội và bảo vệ môi trường sinh thái. Các giải pháp kỹ thuật cốt lõi gồm:
+Xen canh (Intercropping): Trồng hai hay nhiều loại cây trên cùng một diện tích vào cùng một thời gian. Ví dụ: Xen cây họ Đậu vào vườn ngô/cây ăn quả để vi khuẩn nốt rễ Rhizobium cố định đạm tự nhiên, cải tạo đất và tăng dung tích sử dụng không gian/ánh sáng.
+Luân canh (Crop Rotation): Trồng luân phiên các loại cây trồng khác họ trên cùng một diện tích qua các vụ khác nhau. Cơ chế: Cắt đứt chu kỳ sống và nguồn thức ăn của sâu bệnh chuyên khoa; điều hòa khả năng hút dinh dưỡng ở các tầng đất khác nhau.
+Tăng cường Thiên địch (Biological Control): Bảo vệ và nhân nuôi các loài sinh vật có ích (bọ rùa, ong mắt đỏ, nhện ăn thịt, ếch nhái) để khống chế mật độ sâu hại tự nhiên mà không cần dùng thuốc hóa học.
+V. MỐI LIÊN HỆ GIỮA CÁC KIẾN THỨC & SƠ ĐỒ HỆ THỐNG HÓA
+1. Mối quan hệ tương hỗ trong hệ thống Kỹ thuật Trồng trọt
+Các yếu tố kỹ thuật trong trồng trọt không hoạt động riêng rẽ mà tạo thành một chuỗi mắt xích hữu cơ khép kín:
+• Đất trồng tơi xốp → Giúp hệ rễ phát triển mạnh → Tăng khả năng hấp thụ Phân bón → Cây khỏe mạnh → Tăng sức đề kháng tự nhiên với Sâu bệnh hại → Nâng cao Năng suất & Chất lượng thu hoạch.
+• Nếu bỏ qua một khâu (ví dụ: đất bị nén chặt hoặc thiếu nước), dù sử dụng giống tốt và phân bón đắt tiền thì cây vẫn không thể đạt năng suất tối đa.
+2. Bảng so sánh tổng hợp các phương pháp Nhân giống vô tính
+T| Tiêu chí || Giâm cành || Chiết cành || Ghép
+T| Đối tượng áp dụng || Cây thân thảo, cây bụi, cành dễ ra rễ (rau ngót, hoa hồng, khoai lang). || Cây ăn quả thân gỗ khó ra rễ bằng giâm cành (cam, bưởi, nhãn, vải). || Cây ăn quả, cây cảnh muốn kết hợp ưu thế gốc ghép và cành ghép.
+T| Ưu điểm || Đơn giản, dễ làm, hệ số nhân giống nhanh, chi phí thấp. || Cây con sớm ra hoa tạo quả, giữ nguyên đặc tính tốt của cây mẹ. || Kết hợp được đặc tính chống chịu của gốc ghép và chất lượng tốt của mắt ghép.
+T| Nhược điểm || Yêu cầu cành giâm có khả năng ra rễ phụ tốt. || Hệ số nhân giống thấp, làm ảnh hưởng/tổn thương cây mẹ. || Kỹ thuật phức tạp, đòi hỏi thao tác khéo léo và tỉ lệ sống phụ thuộc tay nghề.
+3. Bảng so sánh các Biện pháp Phòng trừ sâu, bệnh hại cây trồng
+T| Biện pháp || Cơ sở / Cách thực hiện || Ưu điểm || Nhược điểm
+T| Canh tác & Giống || Làm đất, vệ sinh đồng ruộng, luân canh, dùng giống chống chịu. || An toàn, chi phí thấp, bền vững, ngăn ngừa bệnh từ gốc. || Tác dụng chậm, đòi hỏi tính đồng bộ trên diện rộng.
+T| Thủ công || Bắt sâu, ngắt lá bệnh, dùng bẫy đèn, vợt. || Đơn giản, dễ làm, không ô nhiễm môi trường. || Tốn công lao động, hiệu quả thấp khi sâu bệnh bùng phát mạnh.
+T| Hóa học || Phun/rắc thuốc bảo vệ thực vật hóa học. || Diệt sâu bệnh cực nhanh, dập dịch kịp thời. || Gây ô nhiễm môi trường, độc hại, dễ gây bùng phát dịch thứ cấp.
+T| Sinh học || Dùng thiên địch (ong mắt đỏ, bọ rùa), chế phẩm vi sinh. || Hiệu quả cao, an toàn sinh thái, không gây độc hại. || Môi trường bảo quản chế phẩm khắt khe, tác dụng chậm hơn hóa học.
+VI. NHỮNG ĐIỂM DỄ NHẦM LẪN VÀ LỖI THƯỜNG GẶP
+1. Nhầm lẫn giữa Luân canh và Xen canh:
+• Luân canh là luân phiên các loại cây trồng khác nhau TRÊN CÙNG MỘT THỬA ĐẤT QUA CÁC THỜI GIAN/VỤ HỌC KHÁC NHAU (yếu tố thời gian).
+• Xen canh là trồng cùng lúc hai hay nhiều loại cây TRÊN CÙNG MỘT DIỆN TÍCH VÀ CÙNG MỘT THỜI GIAN (yếu tố không gian).
+2. Nhầm lẫn giữa Phân bón lót và Phân bón thúc:
+• Bón lót dùng phân chậm tan (hữu cơ hoai mục, lân) bón TRƯỚC KHI TRỒNG.
+• Bón thúc dùng phân dễ tan (đạm, kali) bón TRONG QUÁ TRÌNH CÂY ĐANG CẦN DINH DƯỠNG SÍNH TRƯỞNG.
+3. Sai lầm khi Phun thuốc bảo vệ thực vật hóa học:
+• Phun thuốc ngược chiều gió hoặc phun lúc trời mưa/nắng gắt (làm thuốc bị rửa trôi hoặc bay hơi).
+• Tăng nồng độ thuốc quá quy định (gây cháy lá cây, gây kháng thuốc ở sâu bệnh).
+• Không đảm bảo thời gian cách ly (vẫn thu hoạch bán khi thuốc chưa phân hủy hết gây ngộ độc cho người dùng).
+4. Lỗi chọn cành Giâm và cành Chiết:
+• Cành giâm phải chọn cành bánh tẻ (không quá non vì dễ rữa, không quá già vì khó ra rễ).
+• Bóc vỏ chiết cành phải cạo sạch lớp mô phân sinh gỗ để tránh liền vỏ lại.
+VII. CÁC DẠNG CÂU HỎI HSG & PHƯƠNG PHÁP TƯ DUY - GIẢI BÀI
+Dạng 1: Phân tích quy trình kỹ thuật và Giải thích cơ sở khoa học
+Phương pháp tư duy: Khi đề bài yêu cầu 'Trình bày quy trình và phân tích mục đích...', học sinh cần thực hiện 2 bước:
+• Bước 1: Liệt kê đầy đủ, chính xác tên các bước theo đúng thứ tự logic.
+• Bước 2: Với mỗi bước, nêu rõ tác động kỹ thuật làm thay đổi đặc tính đất/cây và giá trị sinh học mang lại (tại sao phải làm vậy, nếu không làm thì hậu quả gì).
+Dạng 2: So sánh, Phân tích ưu/nhược điểm và Lựa chọn giải pháp
+Phương pháp tư duy: Lập bảng so sánh theo các tiêu chí rõ ràng (Cơ sở, Hiệu quả, Chi phí, Môi trường). Khi đề xuất giải pháp, luôn phải đứng trên quan điểm nông nghiệp bền vững (ưu tiên biện pháp sinh học, canh tác xanh, giảm thiểu hóa chất).
+Dạng 3: Bài tập Tình huống thực tiễn và Lập kế hoạch chi phí
+Phương pháp tư duy: Xử lý bài tập lập kế hoạch theo 4 nội dung chuẩn:
+1. Xác định rõ đối tượng cây trồng, quy mô và phương thức trồng.
+2. Tự thiết kế bảng dự trù vật tư gồm: Cây/hạt giống, Đất/Giá thể, Khay/Chậu, Phân bón, Dụng cụ.
+3. Áp dụng công thức: Thành tiền = Số lượng × Đơn giá; Tổng chi phí = ∑ Thành tiền.
+4. Đề xuất các giải pháp tiết kiệm chi phí thực tế (tận dụng thùng xốp, tự ủ phân hữu cơ).
+VIII. NGÂN HÀNG BÀI TẬP HỌC SINH GIỎI CHUYÊN ĐỀ 1
+1. Mức độ Nhận biết - Thông hiểu (3,0 điểm)
+Câu 1 (3,0 điểm): Trình bày đầy đủ quy trình kỹ thuật trồng trọt một loại cây trồng phổ biến ở địa phương em (lúa, rau hoặc cây ăn quả) và phân tích vai trò kỹ thuật của từng bước trong quy trình đó.
+2. Mức độ Vận dụng (3,0 điểm)
+Câu 2 (3,0 điểm): Tại sao trong công tác phòng trừ sâu, bệnh hại cây trồng, người ta lại lấy nguyên tắc 'Phòng là chính' làm chủ đạo? Hãy phân tích các ưu điểm của việc ứng dụng các biện pháp canh tác (luân canh, xen canh, cải tạo đất) kết hạn chế tối đa việc sử dụng thuốc bảo vệ thực vật hóa học.
+3. Mức độ Vận dụng cao & Phân hóa (3,0 điểm)
+Câu 3 (3,0 điểm): Một nông dân nhận thấy vườn cam nhà mình bị sâu bệnh phá hại nặng. Ông định mua thuốc hóa học nồng độ cao về phun liên tục 3 ngày/lần và thu hoạch cam ngay sau khi phun 2 ngày để kịp bán được giá. Em hãy dùng kiến thức môn Công nghệ để phân tích 3 tác hại nguy hiểm từ việc làm của bác nông dân. Từ đó, đề xuất quy trình quản lý dịch hại tổng hợp (IPM) giúp bác nông dân vừa bảo vệ được vườn cam vừa đảm bảo an toàn thực phẩm.
+4. Bài tập Tình huống thực tiễn & Lập kế hoạch chi phí (3,0 điểm)
+Câu 4 (3,0 điểm): Trường em phát động dự án 'Vườn rau an toàn trong nhà trường' trên diện tích 20 m2. Em hãy:
+a) Lập bảng dự trù nguyên vật liệu và tính toán tổng chi phí để triển khai trồng rau cải xanh theo quy chuẩn an toàn.
+b) Trình bày các bước trong quy trình gieo trồng và chăm sóc rau cải xanh từ khi làm đất đến khi thu hoạch.
+c) Đề xuất 2 biện pháp kỹ thuật giúp giảm chi phí đầu tư ban đầu mà vẫn đảm bảo tiêu chuẩn rau an toàn.
+IX. ĐÁP ÁN VÀ HƯỚNG DẪN CHẤM CHI TIẾT
+Căn cứ chuẩn Đáp án Đề thi HSG Vĩnh Long (Thang điểm 20.0 cho bài thi tổng hợp)
+Đáp án Câu 1 (3,0 điểm)
+T| Nội dung cần đạt || Điểm
+T| a) Trình bày đúng 4 bước trong quy trình trồng trọt:
+- Bước 1: Chuẩn bị đất trồng (làm đất, bón phân lót).
+- Bước 2: Gieo trồng (gieo hạt hoặc trồng cây con).
+- Bước 3: Chăm sóc cây trồng.
+- Bước 4: Thu hoạch sản phẩm. || 1,0đ
+(0,25đ/bước)
+T| b) Phân tích đúng vai trò kỹ thuật của từng bước:
+- Chuẩn bị đất: Làm đất tơi xốp, đủ dinh dưỡng, loại bỏ cỏ dại, mầm sâu bệnh hại; bón lót chuẩn bị thức ăn cho rễ mới phát triển.
+- Gieo trồng: Đúng thời vụ, đúng kỹ thuật giúp cây phát triển thuận lợi, đạt mật độ tối ưu, cho năng suất cao.
+- Chăm sóc: Nuôi dưỡng, bảo vệ, kịp thời cung cấp nước/dinh dưỡng và phòng trừ yếu tố gây hại cho cây.
+- Thu hoạch: Đảm bảo thu được số lượng và chất lượng sản phẩm tối đa, đạt tiêu chuẩn thị trường. || 2,0đ
+(0,5đ/ý)
+Đáp án Câu 2 (3,0 điểm)
+T| Nội dung cần đạt || Điểm
+T| a) Giải thích lý do lấy nguyên tắc 'Phòng là chính' làm chủ đạo:
+- Chi phí phòng bệnh thấp hơn rất nhiều so với chi phí mua thuốc dập dịch.
+- Bảo vệ cây không bị tổn thương mô/diện tích quang hợp, giữ vững năng suất và chất lượng.
+- Tránh được việc sử dụng hóa chất độc hại gây ô nhiễm môi trường và mất an toàn thực phẩm. || 1,0đ
+(0,33đ/ý)
+T| b) Phân tích ưu điểm của biện pháp canh tác và hạn chế thuốc hóa học:
+- Cải tạo đất, tăng độ tơi xốp và diệt mầm bệnh sâu bệnh tồn dư trong đất.
+- Cắt đứt chu kỳ sống của sâu bệnh (luân canh) và tăng cường quần thể thiên địch có ích (xen canh).
+- Hạn chế hóa chất giúp bảo vệ môi trường đất/nước, bảo vệ sức khỏe người tiêu dùng.
+- Đảm bảo cân bằng hệ sinh thái đồng ruộng và tiết kiệm chi phí mua vật tư hóa học. || 2,0đ
+(0,5đ/ý)
+Đáp án Câu 3 (3,0 điểm)
+T| Nội dung cần đạt || Điểm
+T| a) Phân tích 3 tác hại từ việc làm của bác nông dân:
+1. Phun thuốc nồng độ quá cao & liên tục: Gây cháy lá cam, làm tiêu diệt toàn bộ thiên địch có ích, dẫn đến sâu hại bùng phát mạnh hơn do kháng thuốc.
+2. Ô nhiễm môi trường & đất đai: Thuốc hóa học ngấm xuống đất và nguồn nước ngầm, làm suy thoái đất và độc hại môi trường xung quanh.
+3. Vi phạm thời gian cách ly (thu hoạch sau 2 ngày): Dư lượng thuốc bảo vệ thực vật độc hại chưa kịp phân hủy sẽ tồn dư trong quả cam, gây ngộ độc cấp tính hoặc mãn tính cho người tiêu dùng. || 1,5đ
+(0,5đ/tác hại)
+T| b) Đề xuất quy trình Quản lý dịch hại tổng hợp (IPM):
+- Ưu tiên sử dụng giống cam khỏe, bón phân hữu cơ cân đối để tăng sức đề kháng.
+- Thường xuyên vệ sinh vườn, cắt tỉa cành sâu bệnh để tạo độ thông thoáng.
+- Bật bẫy đèn, bẫy dính hoặc nhân nuôi thiên địch (nhện ăn thịt, ong mắt đỏ) để diệt sâu.
+- Chỉ phun thuốc hóa học khi dịch bùng phát vượt ngưỡng gây hại kinh tế; phải chọn thuốc sinh học, phun đúng nồng độ và tuân thủ nghiêm ngặt thời gian cách ly. || 1,5đ
+(0,375đ/ý)
+Đáp án Câu 4 (3,0 điểm)
+T| Nội dung cần đạt || Điểm
+T| a) Lập bảng kế hoạch chi phí dự trù cho 20 m2 rau cải xanh:
+- Hạt giống cải xanh: 0.1 kg x 150.000 đ/kg = 15.000 đ.
+- Phân hữu cơ vi sinh: 20 kg x 10.000 đ/kg = 200.000 đ.
+- Đất vi sinh/xơ dừa bổ sung: 4 bao x 50.000 đ/bao = 200.000 đ.
+- Dụng cụ tưới & vôi bột xử lý đất: 85.000 đ.
+=> TỔNG CHI PHÍ DỰ TRÙ: 500.000 đồng. || 1,0đ
+(Có bảng + tính toán đúng)
+T| b) Quy trình kỹ thuật gieo trồng và chăm sóc:
+- Làm đất: Cuốc đất, đập nhỏ, bón lót phân hữu cơ vi sinh, rắc vôi phơi ải 3-5 ngày, lên luống cao 15-20cm.
+- Gieo hạt: Gieo hạt đều trên mặt luống, phủ lớp rơm rạ hoặc giá thể mỏng, tưới ẩm.
+- Chăm sóc: Tưới nước 2 lần/ngày (sáng sớm, chiều mát); tỉa dặm đảm bảo khoảng cách 10-15cm/cây; bắt sâu thủ công.
+- Thu hoạch: Thu hoạch sau 25-30 ngày, dùng dao cắt sát gốc nhẹ nhàng. || 1,0đ
+(0,25đ/bước)
+T| c) 2 biện pháp giảm chi phí mà vẫn đảm bảo rau an toàn:
+- Biện pháp 1: Tận dụng nguồn phế phụ phẩm nông nghiệp (vỏ trứng, mùn cưa, rau thừa) để tự ủ phân hữu cơ vi sinh tại trường.
+- Biện pháp 2: Tự làm chế phẩm sinh học bảo vệ thực vật từ gừng, tỏi, ớt ngâm rượu để xịt phòng sâu bệnh thay vì mua thuốc. || 1,0đ
+(0,5đ/biện pháp)
+X. PHẦN GHI NHỚ NHANH
+T| TÓM TẮT CỐT LÕI (KHI MỜI CỞI KHỞI ĐẦU BÀI THI): 1. QUY TRÌNH TRỒNG TRỌT: Làm đất & Bón lót → Gieo trồng → Chăm sóc → Thu hoạch & Bảo quản.
+2. BÓN PHÂN: Bón lót (Trước khi trồng - Phân chậm tan) | Bón thúc (Khi cây sinh trưởng - Phân dễ tan).
+3. LÀM ĐẤT: Cày (Xáo trộn 20-30cm, tăng bề dày) | Bừa (Làm nhỏ đất) | Lên luống (Chống ngập úng).
+4. NHÂN GIỐNG VÔ TÍNH: Giâm cành (Rau ngót, hoa hồng) | Chiết cành (Cây ăn quả cam, bưởi) | Ghép (Mắt/cành ghép + Gốc ghép).
+5. BẢO VỆ THỰC VẬT: Nguyên tắc 'PHÒNG LÀ CHÍNH' | Luân canh (Cùng đất - Khác thời gian) | Xen canh (Cùng đất - Cùng thời gian).
+6. NÔNG NGHIỆP CÔNG NGHỆ CAO: Thủy canh (Không dùng đất) | Khí canh (Phun sương dinh dưỡng) | VietGAP (4 tiêu chí: An toàn TP, Môi trường, Lao động, Truy xuất).

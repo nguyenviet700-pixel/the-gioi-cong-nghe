@@ -3,95 +3,199 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>THẾ GIỚI CÔNG NGHỆ | Khám phá - Thực hành - Sáng tạo</title>
-    <link rel="stylesheet" href="assets/css/style.css">
-    <link rel="stylesheet" href="assets/css/responsive.css">
-    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700;900&display=swap" rel="stylesheet">
+    <title>Thế Giới Công Nghệ | Trường THCS Vĩnh Xuân - Thầy Nguyễn Thanh Việt</title>
+    <!-- Google Fonts: Be Vietnam Pro -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- FontAwesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header class="navbar">
-        <div class="logo">🚀 THẾ GIỚI CÔNG NGHỆ</div>
-        <nav>
+    <!-- Navbar -->
+    <nav class="navbar">
+        <div class="container nav-container">
+            <a href="index.html" class="logo">
+                <img src="assets/logo-truong.jpg" alt="Logo Trường THCS Vĩnh Xuân" class="nav-brand-logo">
+                <span class="logo-text">
+                    <span>THẾ GIỚI CÔNG NGHỆ</span>
+                    <span class="logo-sub">TRƯỜNG THCS VĨNH XUÂN</span>
+                </span>
+            </a>
             <ul class="nav-links">
-                <li><a href="index.html" class="active">Trang Chủ</a></li>
-                <li><a href="pages/cong-nghe-7.html">Công Nghệ 7</a></li>
-                <li><a href="pages/cong-nghe-8.html">Công Nghệ 8</a></li>
-                <li><a href="pages/game.html">Game Zone</a></li>
-                <li><a href="pages/ai.html" class="btn-ai">🤖 Trợ lý AI</a></li>
+                <li><a href="index.html" class="active">Trang chủ</a></li>
+                <li class="dropdown">
+                    <a href="#">Học Tập <i class="fa-solid fa-chevron-down"></i></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="pages/cong-nghe-7.html">Công nghệ 7</a></li>
+                        <li><a href="pages/cong-nghe-8.html">Công nghệ 8</a></li>
+                        <li><a href="pages/tai-lieu.html">Kho tài liệu (Khối 6, 7, 8, 9)</a></li>
+                        <li><a href="pages/tai-lieu-hsg.html">Tài liệu bồi dưỡng HSG</a></li>
+                    </ul>
+                </li>
+                <li><a href="pages/quiz.html">Chơi &amp; Quiz</a></li>
+                <li><a href="pages/xuong-thuc-hanh.html">Xưởng Thực Hành</a></li>
+                <li><a href="pages/thu-thach.html">Thử Thách</a></li>
+                <li><a href="pages/ai.html">Trợ lý AI</a></li>
             </ul>
-        </nav>
+            <div class="hamburger">
+                <i class="fa-solid fa-bars"></i>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header class="hero">
+        <div class="container hero-inner">
+            <div class="hero-content">
+                <h1 class="hero-slogan">“Kiến thức không nằm trên những trang sách,<br><span class="highlight">mà sống động trong từng trải nghiệm và sáng tạo!”</span></h1>
+                <p class="hero-sub-slogan">
+                    <strong>Học để hiểu – Thực hành để nhớ – Sáng tạo để làm chủ tương lai!</strong><br>
+                    Cùng bước ra khỏi trang vở để khám phá Công nghệ qua bài giảng trực quan, thử thách Quiz, xưởng thực hành và Trợ lý Kỹ sư AI thông minh.
+                </p>
+                <div class="hero-actions">
+                    <a href="#explore" class="btn btn-primary btn-large">
+                        <i class="fa-solid fa-rocket"></i> BẮT ĐẦU KHÁM PHÁ
+                    </a>
+                    <a href="pages/quiz.html" class="btn btn-light-outline btn-large">
+                        <i class="fa-solid fa-gamepad"></i> LÀM BÀI LUYỆN TẬP
+                    </a>
+                </div>
+            </div>
+
+            <!-- Hero School Card -->
+            <div class="hero-card">
+                <div class="hero-card-logos">
+                    <img src="assets/logo-truong.jpg" alt="Logo Trường THCS Vĩnh Xuân" class="hero-school-logo">
+                </div>
+                <div class="hero-school-name">TRƯỜNG THCS VĨNH XUÂN</div>
+                <h3>Thầy Nguyễn Thanh Việt</h3>
+                <p>Giáo viên bộ môn Công nghệ<br>Xây dựng &amp; phát triển hệ thống học tập số</p>
+            </div>
+        </div>
     </header>
 
-    <main>
-        <section class="hero">
-            <div class="hero-content">
-                <h1>Khám phá kiến thức<br><span>Chinh phục thử thách</span><br>Sáng tạo tương lai</h1>
-                <p>Website học tập môn Công nghệ dành riêng cho học sinh THCS</p>
-                <div class="hero-buttons">
-                    <a href="pages/cong-nghe-7.html" class="btn btn-primary">Học Công nghệ 7</a>
-                    <a href="pages/cong-nghe-8.html" class="btn btn-secondary">Học Công nghệ 8</a>
+    <!-- Main Categories -->
+    <section id="explore" class="categories section">
+        <div class="container">
+            <h2 class="section-title">Hành Trình Của Bạn Bắt Đầu Từ Đâu?</h2>
+            <div class="card-grid">
+                <!-- Card 1 -->
+                <div class="card category-card">
+                    <div class="card-icon blue"><i class="fa-solid fa-book-open"></i></div>
+                    <h3>Học Công Nghệ</h3>
+                    <p>Khám phá 16 bài học Công nghệ 7 và 20 bài học Công nghệ 8 qua slide trực tuyến, video bài giảng và bộ câu hỏi chuẩn hóa.</p>
+                    <div class="card-actions">
+                        <a href="pages/cong-nghe-7.html" class="btn btn-outline">Lớp 7 (16 bài)</a>
+                        <a href="pages/cong-nghe-8.html" class="btn btn-outline">Lớp 8 (20 bài)</a>
+                    </div>
+                </div>
+
+                <!-- Card 2 -->
+                <div class="card category-card">
+                    <div class="card-icon orange"><i class="fa-solid fa-gamepad"></i></div>
+                    <h3>Chơi &amp; Quiz</h3>
+                    <p>Luyện tập trắc nghiệm 4 lựa chọn và Đúng/Sai cho cả 36 bài học, chấm điểm tự động và ghi kết quả về Google Sheets của giáo viên.</p>
+                    <a href="pages/quiz.html" class="btn btn-primary">Làm bài ngay</a>
+                </div>
+
+                <!-- Card 3 -->
+                <div class="card category-card">
+                    <div class="card-icon green"><i class="fa-solid fa-wrench"></i></div>
+                    <h3>Xưởng Thực Hành</h3>
+                    <p>Các dự án thực hành kỹ thuật, trồng trọt, chăn nuôi, cơ khí – điện và góc trưng bày sản phẩm sáng tạo của học sinh.</p>
+                    <a href="pages/xuong-thuc-hanh.html" class="btn btn-primary">Khám phá ngay</a>
+                </div>
+
+                <!-- Card 4 -->
+                <div class="card category-card">
+                    <div class="card-icon purple"><i class="fa-solid fa-trophy"></i></div>
+                    <h3>Thử Thách</h3>
+                    <p>Chinh phục các cấp độ từ "Nhà khám phá" đến "Bậc thầy Công nghệ" để tích lũy điểm thưởng và thu thập huy hiệu.</p>
+                    <a href="pages/thu-thach.html" class="btn btn-primary">Khám phá ngay</a>
+                </div>
+
+                <!-- Card 5 -->
+                <div class="card category-card">
+                    <div class="card-icon red"><i class="fa-solid fa-robot"></i></div>
+                    <h3>Trợ Lý AI</h3>
+                    <p>Hỏi đáp kiến thức theo từng bài học hoặc chuyên đề HSG với Kỹ sư AI và xuất nội dung trả lời ra file Word (.doc).</p>
+                    <a href="pages/ai.html" class="btn btn-primary">Hỏi AI ngay</a>
+                </div>
+                
+                <!-- Card 6 -->
+                <div class="card category-card">
+                    <div class="card-icon teal"><i class="fa-solid fa-file-pdf"></i></div>
+                    <h3>Kho Tài Liệu (Khối 6–9)</h3>
+                    <p>Trọn bộ 17 cuốn Sách giáo khoa, Sách bài tập và Sách giáo viên Công nghệ lớp 6, 7, 8, 9 (bộ Kết nối tri thức).</p>
+                    <a href="pages/tai-lieu.html" class="btn btn-primary">Xem &amp; tải sách</a>
+                </div>
+
+                <!-- Card 7 -->
+                <div class="card category-card">
+                    <div class="card-icon orange"><i class="fa-solid fa-graduation-cap"></i></div>
+                    <h3>Tài Liệu Bồi Dưỡng HSG</h3>
+                    <p>Đọc trực tiếp trên web hoặc tải trọn bộ 10 chuyên đề bồi dưỡng Học sinh giỏi môn Công nghệ đã biên soạn chi tiết.</p>
+                    <a href="pages/tai-lieu-hsg.html" class="btn btn-primary">Ôn luyện HSG</a>
                 </div>
             </div>
-        </section>
+        </div>
+    </section>
 
-        <section class="journeys wrapper">
-            <h2 class="section-title">📍 Chọn hành trình của em</h2>
-            <div class="grid-4">
-                <div class="card journey-card">
-                    <div class="card-icon">🌱</div>
-                    <h3>Công nghệ 7</h3>
-                    <p>Nông nghiệp, Lâm nghiệp, Thủy sản</p>
-                    <a href="pages/cong-nghe-7.html" class="btn-link">Vào học ➔</a>
+    <!-- Author & School Section -->
+    <section class="profile-section" id="gioi-thieu">
+        <div class="container">
+            <h2 class="section-title">Đơn Vị Triển Khai &amp; Tác Giả Biên Soạn</h2>
+            <div class="profile-grid">
+                <!-- School Card -->
+                <div class="profile-card">
+                    <img src="assets/logo-truong.jpg" alt="Logo Trường THCS Vĩnh Xuân" class="school-logo-lg">
+                    <div class="profile-info">
+                        <span class="profile-tag"><i class="fa-solid fa-school"></i> Đơn vị trường học</span>
+                        <h3>Trường THCS Vĩnh Xuân</h3>
+                        <p>Đẩy mạnh chuyển đổi số trong dạy và học, xây dựng môi trường học tập trực quan, phát huy phẩm chất và năng lực công nghệ cho học sinh THCS.</p>
+                        <div class="profile-meta">
+                            <span><i class="fa-solid fa-location-dot"></i> Xã Vĩnh Xuân</span>
+                            <span><i class="fa-solid fa-graduation-cap"></i> Khối 6 – Khối 9</span>
+                        </div>
+                    </div>
                 </div>
-                <div class="card journey-card">
-                    <div class="card-icon">⚙️</div>
-                    <h3>Công nghệ 8</h3>
-                    <p>Cơ khí, An toàn điện, Vẽ kỹ thuật</p>
-                    <a href="pages/cong-nghe-8.html" class="btn-link">Vào học ➔</a>
-                </div>
-                <div class="card journey-card">
-                    <div class="card-icon">🎮</div>
-                    <h3>Game Zone</h3>
-                    <p>Vừa chơi vừa ôn tập kiến thức</p>
-                    <a href="pages/game.html" class="btn-link">Chơi ngay ➔</a>
-                </div>
-                <div class="card journey-card ai-card">
-                    <div class="card-icon">🧠</div>
-                    <h3>Trợ lý AI</h3>
-                    <p>Hỏi đáp nhanh, giải thích dễ hiểu</p>
-                    <a href="pages/ai.html" class="btn-link">Hỏi ngay ➔</a>
+
+                <!-- Author Card -->
+                <div class="profile-card">
+                    <div class="card-icon orange" style="width:96px;height:96px;font-size:2.5rem;margin-bottom:0;flex-shrink:0;">
+                        <i class="fa-solid fa-chalkboard-user"></i>
+                    </div>
+                    <div class="profile-info">
+                        <span class="profile-tag orange"><i class="fa-solid fa-user-tie"></i> Tác giả xây dựng website</span>
+                        <h3>Thầy Nguyễn Thanh Việt</h3>
+                        <p>Giáo viên môn Công nghệ – Trường THCS Vĩnh Xuân. Biên soạn hệ thống bài giảng PowerPoint, video minh họa, ngân hàng câu hỏi trắc nghiệm &amp; tự luận và 10 chuyên đề bồi dưỡng HSG Công nghệ.</p>
+                        <div class="profile-meta">
+                            <span><i class="fa-solid fa-book"></i> 36 Bài học CN7 &amp; CN8</span>
+                            <span><i class="fa-solid fa-award"></i> 10 Chuyên đề HSG</span>
+                            <span><i class="fa-solid fa-file-pdf"></i> 17 Tài liệu SGK/SBT/SGV</span>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </section>
+        </div>
+    </section>
 
-        <section class="featured-sections wrapper">
-            <div class="grid-3">
-                <div class="feature-box">
-                    <h3>🛠️ Xưởng Thực Hành</h3>
-                    <p>Hướng dẫn các bài thực hành chi tiết, an toàn.</p>
-                    <a href="pages/thuc-hanh.html" class="btn btn-outline">Xem ngay</a>
-                </div>
-                <div class="feature-box">
-                    <h3>📺 Thư viện Video</h3>
-                    <p>Các video trực quan sinh động về công nghệ.</p>
-                    <a href="pages/video.html" class="btn btn-outline">Xem ngay</a>
-                </div>
-                <div class="feature-box">
-                    <h3>🏆 Thử Thách Nhí</h3>
-                    <p>Vượt qua 3 cấp độ để trở thành Nhà sáng tạo.</p>
-                    <a href="pages/thu-thach.html" class="btn btn-outline">Thử sức</a>
-                </div>
-            </div>
-        </section>
-    </main>
-
+    <!-- Footer -->
     <footer>
-        <p>© 2026 THẾ GIỚI CÔNG NGHỆ - Phát triển bởi Thầy Việt - Trường THCS Vĩnh Xuân.</p>
-        <div class="footer-links">
-            <a href="pages/gioi-thieu.html">Giới thiệu</a> | 
-            <a href="pages/cong-nghe-quanh-ta.html">Góc Công nghệ quanh ta</a>
+        <div class="container footer-content">
+            <div class="footer-brand">
+                <img src="assets/logo-truong.jpg" alt="Logo Trường THCS Vĩnh Xuân">
+                <div class="footer-logo" style="margin-bottom:0;">THẾ GIỚI CÔNG NGHỆ – TRƯỜNG THCS VĨNH XUÂN</div>
+            </div>
+            <p class="footer-author">Tác giả: <strong>Thầy Nguyễn Thanh Việt</strong> – Giáo viên môn Công nghệ, Trường THCS Vĩnh Xuân.</p>
         </div>
     </footer>
-    <script src="assets/js/main.js"></script>
+
+    <!-- Custom Script -->
+    <script src="site-config.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>

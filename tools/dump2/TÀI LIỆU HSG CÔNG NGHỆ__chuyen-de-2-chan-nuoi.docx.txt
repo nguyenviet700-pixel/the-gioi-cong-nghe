@@ -1,0 +1,160 @@
+CHUYÊN ĐỀ 2: NUÔI DƯỠNG, CHĂM SÓC VÀ PHÒNG, TRỊ BỆNH CHO VẬT NUÔI
+Căn cứ Công văn 730/SGDĐT-GDPT Vĩnh Long & Bộ SGK/SGV/SBT Công nghệ 7 (KNTT)
+Cấu trúc thi HSG: Tự luận 100% - Thời gian làm bài: 150 phút - Thang điểm: 20
+T| 📌 ĐỊNH HƯỚNG TRỌNG TÂM CỦA CÔNG VĂN 730 VỀ MẠCH NỘI DUNG CHĂN NUÔI / 1. Nuôi dưỡng, chăm sóc vật nuôi: Phân tích bản chất sinh lý các giai đoạn phát triển (vật nuôi non, đực giống, cái sinh sản, gà thịt) và mục đích kỹ thuật của từng khâu chăm sóc. / 2. Phòng và trị bệnh vật nuôi: Nguyên tắc 'Phòng bệnh hơn chữa bệnh', cơ chế tác dụng của vắc xin, so sánh hiệu quả kinh tế và sức khỏe vật nuôi khi thực hiện tốt vs không tốt công tác phòng bệnh. / 3. An toàn dịch bệnh & Bảo vệ môi trường: Giải pháp an toàn sinh học, xử lý chất thải chăn nuôi (Biogas, ủ phân hữu cơ) và đảm bảo phúc lợi động vật theo quy định hiện hành.
+PHẦN I: HỆ THỐNG KIẾN THỐC NỀN VÀ CHUYÊN SÂU
+1. Vai trò và ý nghĩa của nuôi dưỡng, chăm sóc và phòng, trị bệnh cho vật nuôi
+Chăn nuôi hiện đại không chỉ dừng lại ở việc cung cấp thức ăn mà là một hệ thống tác động kỹ thuật toàn diện nhằm tối ưu hóa tiềm năng sinh học của giống vật nuôi và bảo đảm an toàn dịch bệnh, bảo vệ môi trường.
+Khái niệm Nuôi dưỡng: là quá trình cung cấp cho vật nuôi đầy đủ chất dinh dưỡng (chất đạm, tinh bột, chất béo, vitamin và chất khoáng) về cả lượng và chất, phù hợp với từng giai đoạn sinh trưởng và từng đối tượng vật nuôi. Nuôi dưỡng quyết định sự phát triển thể chất và năng suất sản phẩm.
+Khái niệm Chăm sóc: là quá trình con người thường xuyên quan tâm tạo ra môi trường sống (nhiệt độ, độ ẩm, ánh sáng, độ thông thoáng) phù hợp trong chuồng nuôi, giữ vệ sinh chuồng trại sạch sẽ và chăm sóc sức khỏe thể chất để vật nuôi sống thoải mái, khỏe mạnh.
+Vai trò tổng quát: Giúp vật nuôi khỏe mạnh, lớn nhanh, tăng sức đề kháng, giảm tỷ lệ mắc bệnh, khai thác tối đa năng suất và chất lượng sản phẩm chăn nuôi (thịt, trứng, sữa), mang lại hiệu quả kinh tế cao cho người chăn nuôi.
+Khái niệm Phúc lợi động vật (Animal Welfare) trong Chăn nuôi
+Phúc lợi động vật là việc đối xử tốt với vật nuôi để chúng có trạng thái thể chất và tinh thần tốt nhất, tránh những đau đớn không đáng có. Theo Luật Chăn nuôi 2018, phúc lợi động vật được đánh giá qua tiêu chuẩn '5 Không':
+1. Không bị đói khát: Được cung cấp đầy đủ nước sạch và thức ăn phù hợp.
+2. Không bị khó chịu về thể xác: Có chuồng trại che chắn nắng mưa, gió lùa, không gian thoải mái.
+3. Không bị đau đớn, thương tật, bệnh tật: Được phòng bệnh chủ động và điều trị kịp thời khi bị thương/bệnh.
+4. Không bị sợ hãi và lo âu: Được sống trong môi trường thân thiện, không bị ngược đãi.
+5. Tự do thể hiện các hành vi tự nhiên: Có không gian vận động và thể hiện các tập tính tự nhiên của loài.
+2. Kỹ thuật nuôi dưỡng và chăm sóc các nhóm vật nuôi
+2.1. Vật nuôi non (Gia súc con, gà con/gia cầm con)
+Vật nuôi non có những đặc điểm sinh lý đặc thù rất nhạy cảm với môi trường ngoại cảnh, đòi hỏi quy trình chăm sóc đặc biệt nghiêm ngặt:
+T| Đặc điểm sinh lý của vật nuôi non || Biện pháp kỹ thuật nuôi dưỡng & chăm sóc tương ứng
+T| 1. Khả năng điều tiết thân nhiệt chưa hoàn chỉnh:
+Lớp mỡ dưới da mỏng, đường glycogen dự trữ ít, trung khu thần kinh điều khiển thân nhiệt chưa hoàn thiện nên dễ bị hạ thân nhiệt khi rét. || • Giữ ấm chuồng nuôi, chăm sóc chu đáo.
+• Sử dụng đèn sưởi (sưởi ấm quây úm cho gà con, làm sàn lót ấm cho lợn con/bê con), tránh gió lùa.
+T| 2. Khả năng miễn dịch chưa tốt, sức đề kháng kém:
+Hệ miễn dịch chưa hoàn thiện, lượng kháng thể trong máu lúc mới sinh rất thấp (chỉ ~1,3% ở lợn con). || • Cho con non bú sữa đầu của mẹ càng sớm càng tốt (trong vòng 24 giờ đầu).
+• Giữ vệ sinh chuồng nuôi sạch sẽ, khô ráo, tiêm vắc xin phòng bệnh đầy đủ.
+T| 3. Chức năng hệ tiêu hóa chưa hoàn chỉnh:
+Các enzym tiêu hóa chưa đầy đủ, dạ dày và ruột nhỏ, dễ bị tổn thương bởi thức ăn thô cứng. || • Cho bú sữa mẹ hoàn toàn giai đoạn đầu.
+• Tập cho ăn sớm (từ 7 - 10 ngày tuổi) bằng thức ăn dễ tiêu, giàu dinh dưỡng để kích thích hệ tiêu hóa phát triển.
+T| 4. Nhu cầu phát triển khung xương và thể chất nhanh: || • Cho vật nuôi non vận động nhẹ nhàng và tiếp xúc với ánh nắng mặt trời vào buổi sáng sớm để tổng hợp Vitamin D, giúp hấp thụ Canxi chống ròi xương.
+T| 💡 BẢN CHẤT KHOA HỌC CỦA SỮA ĐẦU (COLOSTRUM) / • Sữa đầu là sữa được tiết ra trong 3 - 7 ngày đầu sau khi sinh. Sữa đầu chứa hàm lượng chất dinh dưỡng cao, đặc biệt rất giàu KHÁNG THỂ (Immunoglobulin - IgA, IgG). / • Do hệ miễn dịch của gia súc con chưa tự sản xuất được kháng thể, việc bú sữa đầu giúp gia súc con hấp thu kháng thể trực tiếp qua niêm mạc ruột (miễn dịch thụ động), giúp cơ thể chống lại các mầm bệnh nguy hiểm trong giai đoạn đầu đời.
+2.2. Vật nuôi đực giống
+Mục đích: Nhằm duy trì thể trạng khỏe mạnh, cho khả năng phối giống tốt, tính hăng cao và sản xuất tinh dịch có chất lượng cao để tạo ra thế hệ con cháu chất lượng tốt.
+Yêu cầu nuôi dưỡng: Cung cấp khẩu phần ăn giàu năng lượng, đủ chất đạm (protein), vitamin (A, D, E) và chất khoáng (Ca, P, Zn). Không cho ăn quá thừa gây béo trệ hoặc quá thiếu gây gầy còm.
+Yêu cầu chăm sóc: Cho vật nuôi đực giống vận động thường xuyên hằng ngày, tắm rửa sạch sẽ, theo dõi khối lượng cơ thể và kiểm tra định kỳ chất lượng tinh dịch.
+Phân tích tác hại béo/gầy: Nếu đực giống quá béo (thừa mỡ) sẽ làm thoái hóa mỡ ở tinh hoàn, giảm tính hăng phối giống và giảm chất lượng tinh trùng. Ngược lại, nếu quá gầy do thiếu dinh dưỡng thì phản xạ giao phối yếu, lượng tinh dịch ít và tỷ lệ tinh trùng dị hình cao.
+2.3. Vật nuôi cái sinh sản
+Quy trình nuôi dưỡng vật nuôi cái sinh sản được chia thành 3 giai đoạn sinh lý rõ rệt với nhu cầu dinh dưỡng khác nhau:
+a) Giai đoạn Hậu bị: Từ khi cai sữa đến khi phối giống lần đầu. Cho ăn vừa phải để cơ thể phát triển cân đối, không béo mỡ (gây khó thụ thai) và không quá gầy.
+b) Giai đoạn Mang thai: Cung cấp đủ chất dinh dưỡng để nuôi thai nhi phát triển khỏe mạnh, tích lũy dinh dưỡng chuẩn bị cho kỳ tiết sữa. Tuy nhiên không cho ăn quá nhiều ở giai đoạn đầu để tránh thai quá to gây khó đẻ.
+c) Giai đoạn Đẻ con / Nuôi con / Đẻ trứng: Cho ăn tự do theo nhu cầu cao nhất để vật nuôi tiết nhiều sữa nuôi con (với gia súc) hoặc đẻ nhiều trứng (với gia cầm). Khẩu phần ăn giàu đạm, canxi và các vi chất.
+2.4. Kỹ thuật nuôi dưỡng và chăm sóc gà thịt trong nông hộ
+Chuồng nuôi: Làm ở nơi cao ráo, thoáng mát về mùa hè, ấm áp về mùa đông, tránh gió lùa và ánh nắng gay gắt chiếu trực tiếp. Hướng chuồng nên chọn hướng Đông Nam hoặc Nam.
+Lớp độn chuồng: Sử dụng trấu, dăm bào hoặc mùn cưa khô ráo, sạch sẽ lót nền chuồng (dày 10 - 15 cm) để giữ ấm, hút ẩm và giữ vệ sinh. Có thể lót sàn bằng tre/gỗ thoáng cách mặt đất.
+Thức ăn & Cho ăn: Đủ 4 nhóm chất (đạm, tinh bột, chất béo, vitamin & khoáng). Gà dưới 1 tháng tuổi cho ăn tự do thức ăn giàu đạm; từ 1 - 3 tháng tuổi cho ăn 3 - 4 lần/ngày; trên 3 tháng tuổi cho ăn tự do vỗ béo xuất bán.
+Chăm sóc gà con (Giai đoạn úm): Sử dụng quây úm và đèn điện sưởi ấm. Quan sát sự phân bố của gà con trong quây để điều chỉnh nhiệt độ: nếu gà phân bố đều là nhiệt độ thích hợp; nếu tụ lại dưới đèn là bị lạnh; nếu tản ra xa đèn, há mỏ thở là bị nóng; nếu tụ về một phía là có gió lùa.
+3. Nguyên nhân, phân loại và kỹ thuật phòng, trị bệnh cho vật nuôi
+Bệnh là trạng thái không bình thường của vật nuôi về sinh lý, có biểu hiện như buồn bã, ủ rũ, giảm/bỏ ăn, sốt, chảy nước mũi, tiêu chảy... làm giảm khả năng sản xuất và có thể gây chết.
+3.1. Các nguyên nhân gây bệnh cho vật nuôi
+1. Vi sinh vật gây bệnh: Do vi khuẩn (như tụ huyết trùng, đóng dấu lợn, E.coli) hoặc virus (như dịch tả lợn Châu Phi, cúm gia cầm, Newcastle, lở mồm long móng). Đây là nguyên nhân nguy hiểm nhất vì lây lan nhanh thành dịch.
+2. Động vật ký sinh: Các loại giun, sán, ve, rận, bọ trét sống bám vào cơ thể vật nuôi tranh đoạt dinh dưỡng hoặc gây tổn thương mô.
+3. Dinh dưỡng & Thức ăn: Thức ăn bị ôi thiu, nấm mốc, chứa chất độc hại hoặc khẩu phần ăn thiếu/thừa dinh dưỡng kéo dài.
+4. Môi trường sống bất lợi: Thời tiết thay đổi đột ngột (quá nóng, quá lạnh), độ ẩm cao, chuồng nuôi ngột nạt, ô nhiễm chất thải.
+Phân biệt Bệnh Truyền nhiễm và Bệnh Không truyền nhiễm
+T| Tiêu chí so sánh || Bệnh Truyền nhiễm || Bệnh Không truyền nhiễm (Bệnh thông thường)
+T| Nguyên nhân gây bệnh || Do vi sinh vật gây ra (vi khuẩn, virus). || Do ký sinh trùng, cơ học, dinh dưỡng, môi trường.
+T| Khả năng lây lan || Lây lan rất nhanh và rộng từ con bệnh sang con khỏe. || Không lây lan từ con bệnh sang con khỏe.
+T| Mức độ nguy hiểm || Tạo thành dịch bệnh, tử vong hàng loạt, tổn thất kinh tế rất lớn. || Gây hại lẻ tẻ, ảnh hưởng sức khỏe cá thể.
+T| Ví dụ điển hình || Cúm gia cầm (H5N1), Dịch tả lợn Châu Phi, Newcastle, Lở mồm long móng. || Bệnh còi xương, bệnh giun sán, cảm nóng, ngộ độc thức ăn.
+3.2. Nguyên tắc Nguyên lý Phòng và Trị bệnh
+Trong thực tiễn chăn nuôi, nguyên tắc cốt lõi là 'PHÒNG BỆNH HƠN CHỮA BỆNH'. Việc phòng bệnh chủ động mang lại lợi ích toàn diện hơn rất nhiều so với việc chờ bệnh bùng phát mới chữa trị:
+1. Nuôi dưỡng tốt: Cho ăn uống đầy đủ dinh dưỡng, hợp vệ sinh, không dùng thức ăn ôi mốc.
+2. Chăm sóc chu đáo: Chuồng trại vệ sinh, khử trùng định kỳ, thoáng mát mùa hè, ấm áp mùa đông.
+3. Vệ sinh môi trường: Quét dọn chuồng trại, thu gom và xử lý chất thải triệt để.
+4. Cách ly nguồn bệnh: Khi phát hiện con bệnh phải cách ly ngay khỏi đàn khỏe mạnh để tránh lây lan.
+5. Tiêm phòng vắc xin đầy đủ: Sử dụng vắc xin điều chế từ mầm bệnh để tiêm phòng chủ động cho vật nuôi khỏe mạnh, giúp cơ thể sinh ra miễn dịch chống lại mầm bệnh.
+Nguyên tắc khi Trị bệnh (Sử dụng thuốc thú y)
+• Đúng thuốc: Dùng đúng loại thuốc cho đúng loại bệnh (dùng kháng sinh trị bệnh vi khuẩn, không dùng kháng sinh trị bệnh do virus).
+• Đúng thời điểm: Dùng thuốc ngay khi phát hiện dấu hiệu bệnh đầu tiên để đạt hiệu quả cao.
+• Đúng liều lượng: Tuân thủ đúng liều lượng hướng dẫn; không tự ý hạ liều (gây nhờn thuốc) hoặc tăng liều (gây độc cho vật nuôi).
+• Thuốc trợ sức: Bổ sung thêm Vitamin, chất điện giải, men vi sinh để trợ sức, nâng cao thể trạng giúp vật nuôi mau phục hồi.
+PHẦN II: PHÂN TÍCH CÁC DẠNG CÂU HỎI HSG VÀ LỖI SAI THƯỜNG GẶP
+1. Các dạng câu hỏi HSG trọng tâm từ Đề thi nguồn
+Dạng 1: Phân tích & So sánh hiệu quả phòng bệnh (Định hướng Câu 2b Đề thi nguồn): Yêu cầu so sánh toàn diện về hiệu quả kinh tế, sức khỏe đàn vật nuôi, chất lượng sản phẩm và an toàn môi trường giữa 2 trường hợp thực hiện tốt vs không tốt công tác phòng bệnh.
+Dạng 2: Giải thích cơ chế sinh lý & Miễn dịch: Yêu cầu giải thích dựa trên đặc điểm sinh lý học (ví dụ: tại sao gia súc con cần bú sữa đầu ngay trong 24 giờ; tại sao không được cho đực giống ăn quá béo).
+Dạng 3: Xử lý tình huống dịch bệnh & An toàn sinh học: Cho một tình huống xuất hiện ca bệnh truyền nhiễm nguy hiểm (Cúm gia cầm, Dịch tả lợn) \(\rightarrow\) Yêu cầu học sinh đưa ra các bước xử lý chuẩn thú y và an toàn dịch bệnh.
+Dạng 4: Lập kế hoạch & Tính toán chi phí chăn nuôi: Lập danh sách các khoản chi phí (con giống, chuồng trại, thức ăn, vắc xin) và tính toán tổng ngân sách chăn nuôi gia đình trong 1 năm.
+2. Các lỗi sai học sinh hay mắc phải và cách khắc phục
+Lỗi 1: Lập luận hời hợt, thiếu bước trung gian: Khi phân tích hậu quả của việc phòng bệnh không tốt, học sinh chỉ nêu 'vật nuôi bị chết' mà quên phân tích tác động dây chuyền: suy giảm hệ miễn dịch \(\rightarrow\) chất lượng sản phẩm kém \(\rightarrow\) tổn thất kinh tế nặng nề cho người nuôi.
+Lỗi 2: Nhầm lẫn giữa Vắc xin và Thuốc kháng sinh: Nhầm lẫn rằng dùng thuốc kháng sinh có thể diệt được virus. Kháng sinh chỉ diệt hoặc kìm hãm vi khuẩn, đối với bệnh do virus (Cúm, Newcastle, Dịch tả) bắt buộc phải phòng bằng vắc xin.
+Lỗi 3: Đề xuất giải pháp vi phạm an toàn dịch bệnh: Khi gặp dịch bệnh nguy hiểm, một số học sinh đề xuất 'bán chạy' hoặc 'vứt xác xuống sông/mương'. Đây là hành vi vi phạm pháp luật nghiêm trọng gây phát tán dịch bệnh.
+PHẦN III: HỆ THỐNG CÂU HỎI, BÀI TẬP VÀ ĐÁP ÁN CHUẨN HSG
+A. ĐỀ BÀI (Phân hóa theo 4 mức độ nhận thức)
+Câu 1 (Mức 1 - Nhận biết & Thông hiểu - 2,0 điểm): Trình bày vai trò của việc nuôi dưỡng, chăm sóc và phòng, trị bệnh cho vật nuôi. Thế nào là 'Phúc lợi động vật' và nêu 5 tiêu chuẩn đánh giá phúc lợi động vật trong chăn nuôi hiện đại.
+Câu 2 (Mức 2 - Thông hiểu & Vận dụng - 2,5 điểm): Phân tích đặc điểm sinh lý của vật nuôi non. Từ các đặc điểm sinh lý đó, hãy giải thích cơ sở khoa học của các biện pháp kỹ thuật: (1) Sưởi ấm cho vật nuôi non; (2) Cho con non bú sữa đầu càng sớm càng tốt; (3) Tập cho con non ăn sớm.
+Câu 3 (Mức 2 - Vận dụng - 2,5 điểm): So sánh sự khác nhau giữa bệnh truyền nhiễm và bệnh không truyền nhiễm ở vật nuôi về: nguyên nhân gây bệnh, khả năng lây lan, mức độ nguy hiểm và ví dụ minh họa. Tại sao bệnh do vi sinh vật gây ra lại nguy hiểm nhất trong chăn nuôi?
+Câu 4 (Mức 3 - Vận dụng cao - 3,0 điểm): Giải thích tại sao trong chăn nuôi đực giống cần phải tránh cho vật nuôi bị quá béo hoặc quá gầy? Phân tích nhu cầu dinh dưỡng và chăm sóc của vật nuôi cái sinh sản qua 3 giai đoạn: hậu bị, mang thai và nuôi con.
+Câu 5 (Mức 3 - Vận dụng cao & Lập luận phân hóa - 3,0 điểm): Trong công tác chăn nuôi gia súc, gia cầm tại địa phương:
+a) Hãy nêu các biện pháp phòng bệnh chính cho vật nuôi hiện nay.
+b) Phân tích và so sánh hiệu quả giữa hai trường hợp: Khi người chăn nuôi thực hiện công tác chăm sóc, phòng và trị bệnh cho vật nuôi TỐT và KHÔNG TỐT.
+(Trích định hướng Đề thi HSG chính thức Sở GDĐT Vĩnh Long)
+Câu 6 (Mức 4 - Tình huống thực tiễn & An toàn dịch bệnh - 3,5 điểm): Giả sử trang trại nuôi gà của gia đình em xuất hiện một số con gà có biểu hiện: ủ rũ, bỏ ăn, diều nhão, chảy nước dãi, tiêu chảy phân xanh/trắng, ho và ngoẹo cổ. Em nghi ngờ đàn gà mắc bệnh dịch tả (Newcastle).
+a) Em hãy đề xuất quy trình xử lý tình huống trên một cách khoa học và đúng quy định an toàn dịch bệnh.
+b) Tại sao không được tự ý bán tống bán tháo hoặc vứt xác gà bệnh ra mương, sông, ao hồ?
+Câu 7 (Mức 4 - Lập kế hoạch & Tính toán chi phí - 3,5 điểm): Một hộ gia đình dự định đầu tư nuôi 100 con gà thịt thả vườn trong thời gian 3 tháng (1 lứa). Biết rằng:
+- Giá con giống: 15.000 đồng/con.
+- Chi phí làm chuồng và dụng cụ (máng ăn, máng uống, quây úm): 1.500.000 đồng (phân bổ cho lứa đầu).
+- Lượng thức ăn bình quân cho 1 con gà trong 3 tháng là 6 kg thức ăn hỗn hợp, giá thức ăn là 14.000 đồng/kg.
+- Chi phí vắc xin và thuốc thú y: 5.000 đồng/con.
+- Chi phí điện, nước, trấu lót nền: 300.000 đồng/lứa.
+Hãy lập bảng kế hoạch dự toán chi phí chi tiết và tính tổng chi phí để nuôi lứa gà trên. Từ đó tính giá thành sản xuất trung bình cho 1 kg gà thịt (biết tỷ lệ sống đạt 95% và khối lượng xuất bán trung bình đạt 2,2 kg/con).
+B. ĐÁP ÁN VÀ HƯỚNG DẪN CHẤM CHI TIẾT
+Đáp án được xây dựng chi tiết theo từng ý nhỏ, chuẩn biểu điểm 0,25 điểm của Sở Giáo dục và Đào tạo Vĩnh Long:
+Đáp án Câu 1 (2,0 điểm)
+• Vai trò nuôi dưỡng & chăm sóc: Cung cấp đầy đủ chất dinh dưỡng, tạo môi trường sống thuận lợi giúp vật nuôi khỏe mạnh, lớn nhanh, tăng sức đề kháng, mang lại năng suất và chất lượng sản phẩm chăn nuôi cao. (0,5đ)
+• Vai trò phòng, trị bệnh: Tăng cường sức đề kháng, tiêu diệt mầm bệnh, ngăn ngừa sự lây lan của dịch bệnh, giảm nguy cơ tử vong và thiệt hại kinh tế. (0,5đ)
+• Khái niệm Phúc lợi động vật: Là việc đối xử nhân đạo với vật nuôi, tạo điều kiện cho vật nuôi có trạng thái thể chất và tinh thần tốt nhất. (0,25đ)
+• 5 Tiêu chuẩn phúc lợi động vật: Nêu đúng 5 tiêu chuẩn (0,1đ/tiêu chuẩn = 0,5đ): Không bị đói khát; Không bị khó chịu về thể xác; Không bị đau đớn/bệnh tật; Không bị sợ hãi/lo âu; Tự do thể hiện hành vi tự nhiên. Ý thức bảo vệ môi trường chăn nuôi. (0,25đ)
+Đáp án Câu 2 (2,5 điểm)
+• 4 Đặc điểm sinh lý vật nuôi non: Khả năng điều tiết thân nhiệt chưa hoàn chỉnh (dễ bị lạnh); Chức năng hệ tiêu hóa chưa hoàn thiện; Hệ miễn dịch chưa tốt, lượng kháng thể trong máu thấp; Tốc độ phát triển thể chất nhanh. (0,75đ)
+• Giải thích sưởi ấm: Do lớp mỡ dưới da mỏng và trung khu điều hòa thân nhiệt chưa hoàn thiện, sưởi ấm giúp giữ ấm cơ thể, tránh mất nhiệt gây hạ thân nhiệt và mắc bệnh hô hấp/tiêu hóa. (0,5đ)
+• Giải thích bú sữa đầu: Sữa đầu rất giàu chất dinh dưỡng và chứa hàm lượng kháng thể cao (IgA, IgG). Cho con non bú sữa đầu sớm giúp hấp thu kháng thể trực tiếp qua ruột, tạo hệ miễn dịch thụ động bảo vệ cơ thể khi chưa tự tổng hợp được kháng thể. (0,75đ)
+• Giải thích tập ăn sớm: Tập ăn sớm giúp bổ sung các chất dinh dưỡng mà sữa mẹ bắt đầu thiếu hụt, đồng thời rèn luyện và kích thích sự phát triển hoàn thiện của hệ tiêu hóa. (0,5đ)
+Đáp án Câu 3 (2,5 điểm)
+• So sánh 2 nhóm bệnh: Nêu đúng so sánh 4 tiêu chí (1,5đ): Bệnh truyền nhiễm do vi sinh vật (vi khuẩn, virus), lây lan nhanh/rộng, gây chết hàng loạt, tổn thất kinh tế rất lớn (VD: Cúm gà, Dịch tả lợn); Bệnh không truyền nhiễm do ký sinh trùng/dinh dưỡng/môi trường, không lây lan, chỉ hại cá thể (VD: Còi xương, giun sán).
+• Giải thích tại sao bệnh vi sinh vật nguy hiểm nhất: Mầm bệnh vi sinh vật có kích thước siêu nhỏ, tốc độ sinh sản nhân lên cực nhanh; Có khả năng biến đổi chủng vi rút; Lây lan qua nhiều con đường (không khí, nước, thức ăn, dụng cụ, con người); Gây tử vong tỷ lệ cao và bùng phát thành dịch lớn khó kiểm soát. (1,0đ)
+Đáp án Câu 4 (3,0 điểm)
+• Tác hại đực giống béo/gầy: Nếu đực giống quá béo: Tích tụ mỡ ở tinh hoàn, giảm hưng phấn phối giống, chất lượng tinh trùng suy giảm. Nếu đực giống quá gầy: Thiếu năng lượng và chất dinh dưỡng làm giảm phản xạ sinh dục, lượng tinh dịch ít, tỷ lệ tinh trùng dị hình cao. Do đó cần duy trì thể trạng khỏe mạnh, cân đối. (1,0đ)
+• Cái sinh sản - Hậu bị: Giai đoạn hậu bị: Cho ăn vừa phải để cơ thể phát triển cân đối, không béo mỡ. (0,5đ)
+• Cái sinh sản - Mang thai: Giai đoạn mang thai: Cho ăn đủ dinh dưỡng nuôi thai nhi phát triển, nhưng giai đoạn đầu không cho ăn quá thừa tránh thai quá to gây khó đẻ. (0,75đ)
+• Cái sinh sản - Nuôi con/Đẻ trứng: Giai đoạn đẻ/nuôi con: Cho ăn theo nhu cầu cao nhất, giàu đạm và canxi để tiết nhiều sữa nuôi con hoặc đẻ nhiều trứng. (0,75đ)
+Đáp án Câu 5 (3,0 điểm - Chuẩn biểu điểm Sở GDĐT Vĩnh Long)
+a) Các biện pháp phòng bệnh chính (0,75đ): Nêu đủ 3 biện pháp (0,75đ):
+- Vệ sinh môi trường sống của vật nuôi (vệ sinh chuồng trại sạch sẽ, thoáng mát). (0,25đ)
+- Cung cấp thức ăn, nước uống đầy đủ, hợp vệ sinh. (0,25đ)
+- Tiêm vaccine phòng bệnh đầy đủ và đúng lịch. (0,25đ)
+b) Phân tích & So sánh hiệu quả (2,25đ): Thí sinh trình bày theo 1 trong 2 phương án sau (2,25đ):
+► PHƯƠNG ÁN 1: Khi chăm sóc, phòng và trị bệnh cho vật nuôi KHÔNG TỐT:
+- Vật nuôi có hệ miễn dịch không tốt, sức đề kháng kém, sức khỏe yếu, dễ nhiễm bệnh. (0,75đ)
+- Chất lượng và năng suất sản phẩm chăn nuôi kém (thịt gầy, trứng mỏng, sữa ít). (0,75đ)
+- Gây tổn thất kinh tế lớn cho người nuôi (tốn tiền chữa bệnh, vật nuôi chết, lỗ vốn). (0,75đ)
+► PHƯƠNG ÁN 2: Khi chăm sóc, phòng và trị bệnh cho vật nuôi TỐT sẽ giúp:
+- Vật nuôi có hệ miễn dịch tốt, sức đề kháng cao, sức khỏe tốt, phát triển nhanh. (0,75đ)
+- Chất lượng và năng suất sản phẩm chăn nuôi cao, đảm bảo an toàn thực phẩm. (0,75đ)
+- Mang lại lợi nhuận kinh tế cao và bền vững cho người chăn nuôi. (0,75đ)
+Đáp án Câu 6 (3,5 điểm)
+a) Quy trình xử lý sự cố dịch bệnh: Nêu đúng quy trình 5 bước (2,0đ):
+1. Báo ngay cho cán bộ thú y xã/phường hoặc chính quyền địa phương kiểm tra. (0,4đ)
+2. Nhốt cách ly ngay lập tức những con gà có biểu hiện bệnh ra khu vực riêng. (0,4đ)
+3. Ngừng vận chuyển, không mua bán, không thả rông đàn gà. (0,4đ)
+4. Tiến hành phun thuốc sát trùng, rắc vôi bột tiêu độc khử trùng toàn bộ chuồng trại. (0,4đ)
+5. Nếu tiêu hủy phải thực hiện chôn/đốt xác gà chết đúng kỹ thuật thú y dưới sự hướng dẫn của cán bộ chuyên môn. (0,4đ)
+b) Lý do không bán chạy hay vứt xác: Giải thích thuyết phục (1,5đ):
+- Bán chạy gà bệnh làm phát tán mầm bệnh virus ra thị trường, lây lan dịch bệnh cho các đàn gia cầm khác trong vùng.
+- Gà mắc bệnh truyền nhiễm không đảm bảo an toàn vệ sinh thực phẩm, có thể gây ngộ độc hoặc lây truyền bệnh sang người.
+- Vứt xác gà xuống sông/mương làm ô nhiễm nghiêm trọng nguồn nước, mầm bệnh phát tán rộng theo dòng nước đến các vùng hạ lưu, ô nhiễm môi trường sống.
+Đáp án Câu 7 (3,5 điểm - Bài tập chi phí)
+T| STT || Khoản mục chi phí || Đơn vị tính || Số lượng / Đơn giá || Thành tiền (Đồng)
+T| 1 || Gà giống || Con || 100 con × 15.000 đ || 1.500.000
+T| 2 || Chuồng nuôi & dụng cụ || Lứa || 1 lứa || 1.500.000
+T| 3 || Thức ăn hỗn hợp || Kg || 100 con × 6 kg = 600 kg × 14.000 đ || 8.400.000
+T| 4 || Vắc xin & Thuốc thú y || Con || 100 con × 5.000 đ || 500.000
+T| 5 || Điện, nước, độn chuồng || Lứa || 1 lứa || 300.000
+T| TỔNG CHI PHÍ DỰ TOÁN ||  ||  ||  || 12.200.000
+• Bảng dự toán chi phí: Lập bảng chi tiết đúng từng khoản mục và tính ra Tổng chi phí = 12.200.000 đồng. (2,0đ)
+• Sản lượng gà xuất bán: Số gà sống xuất bán = 100 con × 95% = 95 con. Tổng khối lượng gà xuất bán = 95 con × 2,2 kg/con = 209 kg. (0,75đ)
+• Tính giá thành sản xuất 1 kg gà: Giá thành 1 kg gà thịt = 12.200.000 / 209 kg ≈ 58.373 đồng/kg. (0,75đ)
+PHẦN IV: GHI NHỚ NHANH VÀ SƠ ĐỒ TƯ DUY TỔNG HỢP
+T| 🧠 CÔNG THỨC VÀ TỪ KHÓA GHI NHỚ NHANH (FLASH-MEMORIZE) / 1. Vật nuôi non: Giữ ấm + Bú sữa đầu sớm (<24h) + Tập ăn sớm (7-10 ngày) + Tắm nắng sáng. / 2. Đực giống: Thể trạng cân đối (Không quá béo, Không quá gầy) + Dinh dưỡng giàu đạm/khoáng + Vận động hằng ngày. / 3. Cái sinh sản: Hậu bị (vừa phải) -> Mang thai (đủ dinh dưỡng) -> Nuôi con (ăn tự do, giàu đạm/Ca). / 4. Nguyên tắc phòng bệnh: PHÒNG BỆNH HƠN CHỮA BỆNH; Tiêm Vắc xin = Tạo miễn dịch chủ động; Ăn sạch, ở sạch, uống sạch. / 5. Bệnh truyền nhiễm: Do Vi sinh vật (Vi khuẩn/Virus) -> Lây lan nhanh -> Nguy hiểm hàng đầu -> Bắt buộc cách ly & báo thú y.

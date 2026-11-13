@@ -1,0 +1,114 @@
+CHUYÊN ĐỀ 6: AN TOÀN ĐIỆN, SƠ CỨU TAI NẠN ĐIỆN VÀ TIẾT KIỆM ĐIỆN NĂNG
+I. BẢN ĐỒ KIẾN THỨC VÀ MỤC TIÊU ÔN TẬP CHUYÊN ĐỀ 6
+Chuyên đề 6 thuộc mạch kiến thức Công nghệ 8 (Trọng tâm Đề thi HSG Vĩnh Long - Câu 7 tự luận, chiếm 2,0 điểm). Chuyên đề kiểm tra năng lực hiểu biết thực tiễn, phân tích bản chất khoa học sinh lý - vật lý của dòng điện, kỹ năng thao tác quy trình sơ cứu cứu người bị tai nạn điện và đề xuất giải pháp công nghệ tiết kiệm năng lượng điện.
+T| Mức độ năng lực || Yêu cầu cần đạt chi tiết trong kỳ thi HSG
+T| Nhận biết || Trình bày chính xác các nguyên nhân gây tai nạn điện (chạm trực tiếp, vi phạm khoảng cách an toàn, phóng điện); Nêu các dụng cụ, thiết bị bảo vệ an toàn điện và quy trình sơ cứu 3 bước.
+T| Thông hiểu || Giải thích bản chất sinh lý tác hại của dòng điện đối với cơ thể người; Phân tích cơ chế nguy hiểm của điện áp bước và hiện tượng hồ quang điện; Giải thích lý do phải thực hiện nghiêm ngặt các thao tác sơ cứu.
+T| Vận dụng || Trình bày đúng thứ tự và chính xác kỹ thuật các bước sơ cứu nạn nhân bị điện giật (tách nguồn, kiểm tra/hô hấp nhân tạo, cấp cứu y tế); Lập bảng tính điện năng tiêu thụ và chi phí tiền điện gia đình.
+T| Vận dụng cao || Phân tích, đánh giá tình huống tai nạn điện thực tế; Đề xuất mô hình/mạng điện thông minh, giải pháp tiết kiệm điện năng sinh hoạt và sản xuất đáp ứng tiêu chí phát triển bền vững.
+II. HỆ THỐNG LÝ THUYẾT CHUYÊN SÂU & BẢN CHẤT KHOA HỌC
+1. Nguyên nhân gây tai nạn điện và Nguyên tắc an toàn điện
+a) Phân loại nguyên nhân gây tai nạn điện:
+Trong thực tế sinh hoạt và sản xuất, tai nạn điện xảy ra do 3 nhóm nguyên nhân cốt lõi:
+Chạm trực tiếp vào vật mang điện: Chạm vào dây điện trần, dây dẫn bị hở cách điện, chạm vào vô tình hoặc cố ý vào thiết bị điện bị rò rỉ điện ra vỏ kim loại khi không nối đất bảo vệ.
+Vi phạm khoảng cách an toàn đối với lưới điện cao áp: Lưới điện cao áp có điện áp rất lớn (từ 110kV, 220kV, 500kV). Dù chưa chạm trực tiếp vào dây điện, không khí xung quanh đường dây có thể bị ion hóa dẫn đến phóng điện hồ quang qua không khí gây bỏng nặng hoặc tử vong.
+Chạm vào vật bị nhiễm điện do hiện tượng điện áp bước: Khi dây điện cao áp đứt rơi xuống đất, dòng điện lan truyền trong đất tạo thành các vùng điện thế giảm dần từ tâm đứt ra ngoài. Khi người đi vào vùng này, hai chân bước tạo ra hiệu điện thế (gọi là điện áp bước) dẫn đến dòng điện chạy từ chân này qua hạ bộ sang chân kia gây co giật, ngã sập.
+b) Các nguyên tắc và thiết bị bảo vệ an toàn điện:
+• Dụng cụ bảo vệ an toàn điện: Dụng cụ cách điện bổ sung (sào cách điện, găng tay cao su cách điện, ủng cách điện, thảm cách điện, bút thử điện).
+• Nối đất bảo vệ (Earthing): Nối vỏ kim loại của thiết bị điện (máy giặt, tủ lạnh, bếp từ) xuống cọc sắt cắm sâu dưới đất. Khi thiết bị bị rò điện, dòng điện rò sẽ ưu tiên chạy xuống đất (do điện trở đất rất nhỏ R_đất < 4 Ω) thay vì chạy qua cơ thể người.
+• Cầu dao chống giật (ELCB/RCCB): Thiết bị tự động so sánh dòng điện đi (dây pha) và dòng điện về (dây trung tính). Khi có sự chênh lệch (rò điện ra ngoài hoặc qua người > 30mA), ELCB sẽ ngắt mạch điện trong thời gian cực ngắn (0,03 giây).
+2. Bản chất hiện tượng dòng điện chạy qua cơ thể người
+Cơ thể người là một vật dẫn điện sinh học. Khi người chạm vào hai điểm có điện thế khác nhau, dòng điện (I) chạy qua cơ thể phụ thuộc vào Điện áp tiếp xúc (U) và Điện trở cơ thể người (R_người) theo định luật Ôm: I = U / R_người
+• Điện trở cơ thể người (R_người): Nằm trong khoảng từ 1.000 Ω đến 100.000 Ω. Điện trở tập trung chủ yếu ở lớp da khô (lớp sừng). Khi da bị ẩm ướt, mồ hôi, trầy xước hoặc diện tích tiếp xúc lớn, R_người giảm mạnh xuống chỉ còn 500 Ω – 1.000 Ω. Do đó, làm việc với điện khi tay ướt vô cùng nguy hiểm.
+• Mức độ tác động của cường độ dòng điện (chuẩn tần số 50Hz):
+T| Cường độ dòng điện (I) || Tác động sinh lý lên cơ thể || Đánh giá mức độ nguy hiểm
+T| 0,6 mA – 1,5 mA || Tê nhẹ tại điểm tiếp xúc (Dòng điện cảm giác) || An toàn, chưa gây tổn thương
+T| 2 mA – 5 mA || Bắp tay rung co giật nhẹ || Cảnh báo nguy hiểm
+T| 10 mA – 15 mA || Các cơ co giật mạnh, không tự rời vật mang điện (Dòng điện buông thả) || Nguy hiểm, không tự thoát được
+T| 50 mA – 100 mA || Tim đập loạn nhịp, cơ tim co thắt mạnh (Rung thất), liệt hô hấp || Cực kỳ nguy hiểm, tử vong sau vài giây
+3. Quy trình chuẩn 3 bước sơ cứu người bị tai nạn điện (Nội dung cốt lõi đề thi)
+Khi phát hiện người bị điện giật, phải khẩn trương thực hiện cấp cứu theo đúng Quy trình 3 bước tiêu chuẩn sau đây. Thứ tự các bước không được phép đảo lộn:
+BƯỚC 1: TÁCH NẠN NHÂN RA KHỎI NGUỒN ĐIỆN (NGUYÊN TẮC AN TOÀN TUYỆT ĐỐI)
+• Mục đích: Ngắt nguồn dòng điện chạy qua người nạn nhân để chặn đứt tổn thương sinh lý.
+• Hành động cụ thể:
+- Nhanh chóng cắt cầu dao, ngắt gạt aptomat hoặc rút phích cắm điện gần nhất.
+- Nếu không thể ngắt nguồn điện ngay: Tuyệt đối không dùng tay trần chạm vào nạn nhân (vì cơ thể nạn nhân đang bị nhiễm điện, chạm tay trần sẽ bị điện giật dây chuyền).
+- Phải đứng trên vật cách điện (ghế gỗ khô, thảm cao su, gạch khô), đeo găng tay cao su hoặc quấn gậy gỗ khô, dùng gậy gỗ/tre khô gạt dây điện ra khỏi người nạn nhân, hoặc dùng dây thừng khô/áo khô gạt kéo nạn nhân ra.
+BƯỚC 2: SƠ CỨU NGAY TẠI CHỖ TÙY THEO TRẠNG THÁI NẠN NHÂN
+Sau khi đã tách nạn nhân khỏi nguồn điện và chuyển đến vị trí khô ráo, thoáng khí, lập tức kiểm tra tình trạng nạn nhân:
+• Trường hợp 1: Nạn nhân còn tỉnh táo, thở bình thường:
+- Đặt nạn nhân nằm nghỉ ngơi nơi thoáng mát, thả lỏng cúc áo, đai lưng.
+- Mời bác sĩ hoặc đưa đến cơ sở y tế gần nhất để theo dõi (vì điện giật có thể gây rối loạn nhịp tim muộn).
+• Trường hợp 2: Nạn nhân ngất xỉu, tim ngừng đập, ngừng thở (Ngừng tuần hoàn):
+- Phải thực hiện sơ cứu hô hấp nhân tạo và ép tim ngoài lồng ngực ngay lập tức (Thời gian vàng cấp cứu trong 3–5 phút đầu).
+- Kỹ thuật ép tim - thổi nạt: Nằm ngửa nạn nhân trên nền cứng, nén tim ngoài lồng ngực với tần số 100 - 120 lần/phút, kết hợp thổi ngạt theo tỉ lệ 30 lần ép tim : 2 lần thổi ngạt. Kiên trì cấp cứu liên tục cho đến khi nạn nhân tự thở lại hoặc có y tế tiếp quản.
+BƯỚC 3: ĐƯA NẠN NHÂN ĐẾN CƠ SỞ Y TẾ GẦN NHẤT
+• Khi nạn nhân hồi phục nhịp thở hoặc trong quá trình vừa sơ cứu ép tim vừa nhanh chóng chuyển nạn nhân bằng xe cấp cứu đến bệnh viện gần nhất để điều trị bỏng điện và biến chứng tim mạch.
+T| LƯU Ý ĐIỂM CHẤM HSG CỦA SỞ GDĐT VĨNH LONG: Trong bài thi HSG, khi trình bày quy trình sơ cứu tai nạn điện, học sinh bắt buộc phải nêu rõ nguyên tắc 'KHÔNG DÙNG TAY TRẦN CHẠM VÀO NẠN NHÂN' khi chưa ngắt điện. Bỏ qua chi tiết này hoặc nhầm lẫn thứ tự cắt điện sẽ bị trừ điểm nặng.
+4. Tiết kiệm điện năng và Sử dụng điện hiệu quả trong gia đình
+• Công thức tính điện năng tiêu thụ của đồ dùng điện:
+Công thức: A = P × t
+Trong đó: A là điện năng tiêu thụ (Wh hoặc kWh); P là công suất điện định mức (W hoặc kW); t là thời gian làm việc (h).
+Đổi đơn vị: 1 kWh = 1.000 Wh = 1 số điện.
+• Các giải pháp tiết kiệm điện năng sinh hoạt:
+1. Lựa chọn thiết bị tiết kiệm năng lượng (có dán nhãn năng lượng 5 sao, công nghệ Inverter).
+2. Tắt các thiết bị điện khi không sử dụng, rút phích cắm để tránh tiêu hao điện năng chờ (Standby power).
+3. Sử dụng hợp lý đồ dùng công suất lớn (Điều hòa cài đặt 26–28°C kết hợp quạt, hạn chế bật bình nước nóng giờ cao điểm).
+4. Tận dụng nguồn năng lượng tự nhiên (chiếu sáng và thông gió tự nhiên, lắp bình nước nóng năng lượng mặt trời).
+III. TRỌNG TÂM CÂU HỎI THI HSG VĨNH LONG & ĐÁP ÁN MẪU (2,0 ĐIỂM)
+CÂU 7 (2,0 ĐIỂM) - ĐỀ THI CHÍNH THỨC HSG THCS TỈNH VĨNH LONG:
+Em hãy trình bày quy trình sơ cứu tai nạn điện? Vì sao khi người bị nạn chưa được tách khỏi nguồn điện, người đến cứu không được chạm trực tiếp vào cơ thể người bị nạn? Đề xuất 03 giải pháp cụ thể giúp gia đình em tiết kiệm điện năng tiêu thụ hằng tháng?
+ĐÁP ÁN VÀ BIỂU ĐIỂM CHẤM CHUẨN CỦA SỞ GDĐT (2,0 ĐIỂM):
+T| Ý / Bước || Nội dung đáp án chuẩn yêu cầu đạt || Điểm
+T| Ý 1: Quy trình sơ cứu || Trình bày chuẩn Quy trình 3 bước sơ cứu tai nạn điện:
+- Bước 1: Nhanh chóng tách nạn nhân ra khỏi nguồn điện (ngắt cầu dao/aptomat hoặc dùng vật cách điện gạt dây điện).
+- Bước 2: Tiến hành sơ cứu ngay tại chỗ (nghỉ ngơi nơi thoáng khí nếu tỉnh; ép tim ngoài lồng ngực + hô hấp nhân tạo 30:2 nếu ngừng thở/ngừng tim).
+- Bước 3: Nhanh chóng đưa nạn nhân đến cơ sở y tế gần nhất. || 1,00 đ
+T| Ý 2: Giải thích lý do || Giải thích bản chất vật lý - an toàn:
+- Cơ thể người là một vật dẫn điện.
+- Khi chưa ngắt nguồn điện, cơ thể nạn nhân đang mang điện áp của nguồn điện.
+- Nếu người đến cứu chạm trực tiếp tay trần vào nạn nhân, dòng điện sẽ truyền qua cơ thể người cứu xuống đất, khiến người đến cứu cũng bị điện giật (bị dính chặt hoặc tai nạn dây chuyền). || 0,50 đ
+T| Ý 3: Đề xuất giải pháp || Đề xuất đúng và thực tế 03 giải pháp tiết kiệm điện (mỗi giải pháp đúng đạt 0,17đ):
+1. Tắt các thiết bị điện (đèn, quạt, tivi) khi rời khỏi phòng và rút phích cắm khi không sử dụng.
+2. Sử dụng bóng đèn LED tiết kiệm điện, thiết bị Inverter và cài đặt điều hòa hợp lý (từ 26°C trở lên).
+3. Tận dụng tối đa ánh sáng và gió tự nhiên, vệ sinh bảo dưỡng đồ dùng điện định kỳ. || 0,50 đ
+T| TỔNG ĐIỂM || Toàn bộ Câu 7 || 2,00 đ
+IV. NGÂN HÀNG CÂU HỎI VÀ BÀI TẬP PHÂN HÓA (4 MỨC ĐỘ)
+1. Mức độ Nhận biết & Thông hiểu
+Câu 1: Trình bày các nguyên nhân phổ biến gây ra tai nạn điện trong sinh hoạt gia đình? Cho biết các thiết bị bảo vệ an toàn điện được lắp đặt trong mạng điện nhà có vai trò gì?
+Câu 2: Vì sao khi tay bị ẩm ướt hoặc đứng trên nền nhà ẩm ướt, nguy cơ bị điện giật và mức độ nguy hiểm lại tăng lên gấp nhiều lần so với khi tay khô ráo?
+2. Mức độ Vận dụng
+Câu 3: Một gia đình sử dụng các đồ dùng điện trung bình một ngày như sau:
+- 04 bóng đèn LED loại 20W, thời gian sử dụng 5 giờ/ngày.
+- 02 quạt bàn loại 60W, thời gian sử dụng 8 giờ/ngày.
+- 01 tivi loại 100W, thời gian sử dụng 4 giờ/ngày.
+- 01 tủ lạnh loại 150W, hoạt động liên tục 24 giờ/ngày.
+a) Tính tổng điện năng tiêu thụ của gia đình đó trong 1 ngày (theo đơn vị Wh và kWh).
+b) Tính tổng tiền điện gia đình phải trả trong tháng 4 (30 ngày), biết giá điện trung bình là 2.200 đồng/kWh.
+Câu 4: Trình bày quy trình kiểm tra an toàn đồ dùng điện gia đình trước khi đưa vào sử dụng.
+3. Mức độ Vận dụng cao & Tình huống thực tiễn
+Câu 5 (Tình huống sơ cứu): Trong lúc mưa to bão lớn, Nam đi học về phát hiện một dây điện cao áp đứt rơi xuống mặt đường nhựa wet. Một người đi xe đạp phía trước vô tình cán qua vạch đường gần dây điện và ngã gục xuống đường, xe đạp đè lên dây điện.
+a) Nam có nên chạy ngay lại nắm tay kéo người bị nạn ra khỏi dây điện không? Tại sao?
+b) Dựa vào kiến thức về an toàn điện và hiện tượng điện áp bước, hãy đưa ra quy trình xử lý tình huống thông minh, an toàn để cứu người bị nạn mà không nguy hiểm đến bản thân.
+Câu 6 (Công nghệ xanh & Tiết kiệm năng lượng): Phân tích cơ chế hoạt động của hệ thống bình nước nóng năng lượng mặt trời (Thái dương năng) và giải pháp kết hợp chiếu sáng tự nhiên với công nghệ cảm biến thông minh nhằm tối ưu hóa chi phí điện năng cho trường học.
+V. ĐÁP ÁN VÀ HƯỚNG DẪN CHẤM CHI TIẾT
+Hướng dẫn giải chi tiết Câu 3 (Bài tập tính toán điện năng):
+a) Tính điện năng tiêu thụ trong 1 ngày (A_ngày):
+- Đèn LED: A1 = 4 × 20W × 5h = 400 Wh.
+- Quạt bàn: A2 = 2 × 60W × 8h = 960 Wh.
+- Tivi: A3 = 1 × 100W × 4h = 400 Wh.
+- Tủ lạnh: A4 = 1 × 150W × 24h = 3.600 Wh.
+=> Tổng điện năng tiêu thụ 1 ngày: A_ngày = 400 + 960 + 400 + 3.600 = 5.360 Wh = 5,36 kWh.
+b) Tính tiền điện trong tháng 4 (30 ngày):
+- Tổng điện năng tiêu thụ tháng 4: A_tháng = 5,36 kWh/ngày × 30 ngày = 160,8 kWh.
+- Tổng tiền điện phải trả: T = 160,8 kWh × 2.200 đồng/kWh = 353.760 đồng.
+Hướng dẫn giải chi tiết Câu 5 (Tình huống xử lý sự cố đứt dây điện cao áp):
+a) Nam tuyệt đối KHÔNG ĐƯỢC chạy ngay lại nắm tay kéo người bị nạn vì:
+- Dây điện đứt là điện cao áp, mặt đường nhựa wet và xe đạp bằng kim loại dẫn điện cực tốt.
+- Khi chạm vào nạn nhân, dòng điện cao áp sẽ truyền ngay sang Nam gây tử vong dây chuyền.
+- Xung quanh điểm dây điện chạm đất có hiện tượng điện áp bước. Nếu Nam bước chạy bình thường (sải bước rộng), hai chân ở hai vùng điện thế khác nhau sẽ bị điện giật ngay từ khoảng cách xa.
+b) Quy trình xử lý thông minh và an toàn:
+- Bước 1 (Cảnh báo & Giữ khoảng cách): Hô to cảnh báo những người xung quanh không được tiến lại gần vùng dây điện đứt (khoảng cách an toàn tối thiểu 10m).
+- Bước 2 (Di chuyển an toàn nếu lỡ vào vùng điện áp bước): Dùng kỹ thuật 'Chụm 2 chân nhảy cót gọt' hoặc 'Lê 2 chân sát nhau không rời mặt đất' để di chuyển ra xa vùng nguy hiểm.
+- Bước 3 (Báo động khẩn cấp): Gọi ngay tổng đài điện lực (19001006/19001909) ngắt điện khu vực và gọi cấp cứu 115.
+- Bước 4 (Sơ cứu an toàn): Sau khi ngành điện lực xác nhận đã ngắt điện hoàn toàn, mới tiến hành tiếp cận sơ cứu nạn nhân theo quy trình 3 bước.

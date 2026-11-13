@@ -1,0 +1,32 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta charset="utf-8">
+<title>Hướng dẫn sử dụng và tích hợp Website Thế Giới Công Nghệ - Trường THCS Vĩnh Xuân</title>
+<style>
+  body { font-family: "Times New Roman", serif; font-size: 13pt; line-height: 1.5; color: #111; }
+  h1 { font-size: 17pt; color: #0a58ca; text-align: center; margin-bottom: 6pt; text-transform: uppercase; }
+  h2 { font-size: 14pt; color: #0d6efd; border-bottom: 1.5pt solid #0d6efd; padding-bottom: 3pt; margin-top: 16pt; }
+  h3 { font-size: 13pt; color: #d9530f; margin-top: 12pt; }
+  p, li { margin: 4pt 0; }
+  ul, ol { margin: 4pt 0 4pt 20pt; }
+  code, pre { font-family: Consolas, "Courier New", monospace; font-size: 11pt; background: #f1f5f9; padding: 2pt 4pt; }
+  pre { padding: 8pt; border: 1pt solid #cbd5e1; white-space: pre-wrap; }
+  .box { border: 1pt solid #93c5fd; background: #eff6ff; padding: 10pt; margin: 10pt 0; }
+</style>
+</head>
+<body>
+<h1>HƯỚNG DẪN QUẢN TRỊ &amp; TÍCH HỢP WEBSITE "THẾ GIỚI CÔNG NGHỆ"</h1>
+<p style="text-align:center;">
+  <strong>Đơn vị:</strong> Trường THCS Vĩnh Xuân<br>
+  <strong>Tác giả xây dựng:</strong> Thầy Nguyễn Thanh Việt – Giáo viên môn Công nghệ
+</p>
+<hr>
+<p>Tài liệu này được lưu đồng bộ tại <code>HUONG_DAN_SU_DUNG_VA_TICH_HOP_WEB.doc</code> và các tệp hướng dẫn chi tiết trong thư mục <code>technology-world</code>:</p>
+<ul>
+  <li><code>HUONG_DAN_TOAN_BO_HE_THONG.md</code>: Cẩm nang tổng hợp toàn bộ hệ thống.</li>
+  <li><code>HUONG_DAN_GOOGLE_SHEETS_VA_DEM_TRUY_CAP.md</code>: Hướng dẫn tích hợp ID Google Sheet (Lớp 7: <code>1QbWCqtJ5yackeTiwrbltxp4i6kWUAnGYCZZ8z414SwQ</code>, Lớp 8: <code>1QdwapQ2LmfZXbpVRDbt-A9W1K1G7O88VpLOBDCRV0hY</code>) và Bộ đếm số lượt truy cập trang web.</li>
+  <li><code>HUONG_DAN_TICH_HOP_AI.md</code>: Hướng dẫn tích hợp Trợ lý Kỹ sư AI và xuất file Word (<code>.doc</code>).</li>
+  <li><code>HUONG_DAN_DUA_WEB_LEN_GOOGLE_SITES.md</code>: Hướng dẫn đưa trang web lên mạng và nhúng vào Google Sites.</li>
+</ul>
+</body>
+</html>

@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ôn luyện HSG | Thế Giới Công Nghệ - Trường THCS Vĩnh Xuân</title>
+    <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container nav-container">
+            <a href="../index.html" class="logo">
+                <img src="../assets/logo-truong.jpg" alt="Logo Trường THCS Vĩnh Xuân" class="nav-brand-logo">
+                <span class="logo-text">
+                    <span>THẾ GIỚI CÔNG NGHỆ</span>
+                    <span class="logo-sub">TRƯỜNG THCS VĨNH XUÂN</span>
+                </span>
+            </a>
+            <ul class="nav-links">
+                <li><a href="../index.html">Trang chủ</a></li>
+                <li class="dropdown">
+                    <a href="#" class="active">Học Tập <i class="fa-solid fa-chevron-down"></i></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="cong-nghe-7.html">Công nghệ 7</a></li>
+                        <li><a href="cong-nghe-8.html">Công nghệ 8</a></li>
+                        <li><a href="tai-lieu.html">Kho tài liệu (Khối 6, 7, 8, 9)</a></li>
+                        <li><a href="tai-lieu-hsg.html" class="active">Tài liệu bồi dưỡng HSG</a></li>
+                    </ul>
+                </li>
+                <li><a href="quiz.html">Chơi &amp; Quiz</a></li>
+                <li><a href="xuong-thuc-hanh.html">Xưởng Thực Hành</a></li>
+                <li><a href="thu-thach.html">Thử Thách</a></li>
+                <li><a href="ai.html">Trợ lý AI</a></li>
+            </ul>
+            <div class="hamburger"><i class="fa-solid fa-bars"></i></div>
+        </div>
+    </nav>
+
+    <header class="page-header" style="background:var(--accent-color);">
+        <div class="container">
+            <h1 id="h-title">Ôn luyện học sinh giỏi</h1>
+            <p>Đọc trực tiếp nội dung 10 chuyên đề bồi dưỡng HSG Công nghệ – Trường THCS Vĩnh Xuân</p>
+        </div>
+    </header>
+
+    <section class="section">
+        <div class="container reader-layout">
+            <aside class="reader-toc" id="toc"></aside>
+            <div>
+                <article class="reader" id="reader">Đang tải...</article>
+                <div id="reader-actions" style="margin-top:16px; display:flex; gap:10px; flex-wrap:wrap;"></div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container footer-content">
+            <div class="footer-brand">
+                <img src="../assets/logo-truong.jpg" alt="Logo Trường THCS Vĩnh Xuân">
+                <div class="footer-logo" style="margin-bottom:0;">THẾ GIỚI CÔNG NGHỆ – TRƯỜNG THCS VĨNH XUÂN</div>
+            </div>
+            <p class="footer-author">Tác giả: <strong>Thầy Nguyễn Thanh Việt</strong> – Giáo viên môn Công nghệ, Trường THCS Vĩnh Xuân.</p>
+        </div>
+    </footer>
+
+    <script src="../data/catalog.js"></script>
+    <script src="../data/hsg-content.js"></script>
+    <script src="../library.js"></script>
+    <script src="../site-config.js"></script>
+    <script src="../script.js"></script>
+    <script>
+        (function () {
+            const toc = document.getElementById('toc'), reader = document.getElementById('reader');
+            if (!window.CATALOG || !window.HSG_CONTENT) {
+                reader.innerHTML = '<p>Chưa có dữ liệu. Chạy <code>tools/build-content.ps1</code> để sinh data/hsg-content.js.</p>';
+                return;
+            }
+            const list = CATALOG.hsg;
+            toc.innerHTML = list.map(h => '<a href="?no=' + h.no + '" data-no="' + h.no + '">Chuyên đề ' + h.no + ': ' + escapeHtml(h.title) + '</a>').join('');
+            const no = new URLSearchParams(location.search).get('no') || String(list[0].no);
+            const h = list.find(x => String(x.no) === no) || list[0];
+            toc.querySelectorAll('a').forEach(a => a.classList.toggle('on', a.dataset.no === String(h.no)));
+            document.title = 'Chuyên đề ' + h.no + ' | Ôn luyện HSG';
+            document.getElementById('h-title').textContent = 'Chuyên đề ' + h.no + ': ' + h.title;
+            reader.innerHTML = HSG_CONTENT[String(h.no)] || '<p>Chưa có nội dung.</p>';
+            const u = downloadUrl(h);
+            document.getElementById('reader-actions').innerHTML =
+                '<a class="btn btn-primary" href="ai.html?hsg=' + h.no + '"><i class="fa-solid fa-robot"></i> Hỏi Trợ lý AI về chuyên đề này</a>' +
+                '<a class="btn btn-outline" href="' + u + '" target="_blank" rel="noopener" download="' + escapeHtml(h.file) + '"><i class="fa-solid fa-download"></i> Tải file Word gốc (.docx)</a>' +
+                '<a class="btn btn-outline" href="tai-lieu-hsg.html"><i class="fa-solid fa-list"></i> Danh sách 10 chuyên đề</a>';
+        })();
+    </script>
+</body>
+</html>

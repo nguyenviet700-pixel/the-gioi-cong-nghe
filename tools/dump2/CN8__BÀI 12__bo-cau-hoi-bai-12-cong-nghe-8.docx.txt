@@ -1,0 +1,136 @@
+BỘ CÂU HỎI VÀ ĐÁP ÁN ĐÁNH GIÁ NĂNG LỰC CÔNG NGHỆ 8 (KNTT)
+BÀI 12: BIỆN PHÁP AN TOÀN ĐIỆN
+Chương III: An toàn điện | Môn: Công nghệ 8 | Thời lượng: 2 tiết
+PHẦN I: YÊU CẦU CẦN ĐẠT VÀ MA TRẬN ĐỀ KIỂM TRA
+1. Yêu cầu cần đạt (Chương trình GDPT 2018 Môn Công nghệ):
+• Trình bày được một số biện pháp an toàn điện khi sử dụng và khi sửa chữa điện.
+• Phân biệt và sử dụng được một số trang bị bảo hộ và dụng cụ bảo vệ an toàn điện (đặc biệt là bút thử điện và kìm điện).
+2. Ma trận đề kiểm tra Bài 12
+T| Nội dung kiến thức || Nhận biết (TN 4 LC) || Thông hiểu (TN Đúng/Sai) || Vận dụng (Tự luận) || Tổng % điểm
+T| I. Một số biện pháp an toàn điện || 6 câu (1.5 điểm) || 2 câu (2.0 điểm) || 1.5 câu (1.5 điểm) || 50%
+T| II. Trang bị bảo hộ & dụng cụ an toàn điện || 6 câu (1.5 điểm) || 2 câu (2.0 điểm) || 1.5 câu (1.5 điểm) || 50%
+T| Tổng cộng || 12 câu (3.0 đ) || 4 câu (4.0 đ) || 3 câu (3.0 đ) || 100% (10.0 đ)
+PHẦN II: BỘ CÂU HỎI ĐÁNH GIÁ NĂNG LỰC
+A. Câu hỏi Trắc nghiệm nhiều lựa chọn (12 câu - 3.0 điểm)
+Khoanh tròn vào chữ cái đầu đáp án đúng nhất cho mỗi câu hỏi dưới đây (Mỗi câu đúng được 0.25 điểm):
+Câu 1: Việc làm nào sau đây đảm bảo an toàn điện khi sử dụng các đồ dùng điện có vỏ bằng kim loại?
+A. Nối đất vỏ kim loại của đồ dùng điện.
+B. Để đồ dùng điện sát nơi ẩm ướt.
+C. Dùng tay ướt để cắm phích điện.
+D. Cắm chung tất cả thiết bị vào một ổ cắm.
+Câu 2: Thiết bị nào sau đây được lắp đặt trong mạng điện gia đình nhằm tự động ngắt nguồn điện khi xảy ra sự cố quá tải hoặc ngắn mạch?
+A. Bút thử điện.
+B. Aptomat (hoặc cầu chì).
+C. Ô cắm điện.
+D. Công tắc điện.
+Câu 3: Trước khi tiến hành sửa chữa mạng điện gia đình, biện pháp an toàn bắt buộc đầu tiên phải thực hiện là gì?
+A. Đeo kính bảo hộ.
+B. Rửa sạch tay bằng nước.
+C. Ngắt nguồn điện (cắt cầu dao hoặc aptomat tổng) và treo biển cảnh báo.
+D. Dùng bút thử điện để cạo lớp sơn cách điện.
+Câu 4: Khoảng cách an toàn đối với lưới điện cao áp và trạm biến áp cần phải được tuân thủ nhằm mục đích chính là gì?
+A. Tránh nguy cơ bị phóng điện cao áp gây tai nạn nghiêm trọng.
+B. Tiết kiệm điện năng thụ thụ.
+C. Giúp dòng điện chạy nhanh hơn.
+D. Tránh gây tiếng ồn cho khu dân cư.
+Câu 5: Khi kiểm tra dây dẫn điện của các thiết bị gia dụng trước khi sử dụng, ta cần đặc biệt lưu ý điều gì?
+A. Màu sắc vỏ nhựa.
+B. Kiểm tra vỏ cách điện có bị hở, nứt hoặc rò điện hay không.
+C. Chiều dài dây dẫn.
+D. Nhãn hiệu của nhà sản xuất.
+Câu 6: Trang bị nào sau đây KHÔNG thuộc nhóm trang bị bảo hộ an toàn điện cá nhân?
+A. Găng tay cách điện.
+B. Ủng cách điện.
+C. Mũ bảo hộ lao động.
+D. Khẩu trang y tế thông thường.
+Câu 7: Bộ phận nào của bút thử điện có chức năng cản trở dòng điện để đảm bảo dòng điện qua người không gây nguy hiểm?
+A. Đầu kiểm tra.
+B. Bóng đèn neon.
+C. Điện trở có trị số lớn.
+D. Lò xo và nắp kim loại.
+Câu 8: Khi sử dụng bút thử điện để kiểm tra rò điện ở vỏ thiết bị, thao tác đúng kĩ thuật là tay chạm vào bộ phận nào của bút?
+A. Chạm tay vào đầu kiểm tra bằng kim loại.
+B. Chạm tay vào nắp kim loại ở đỉnh bút.
+C. Chạm tay vào thân nhựa cách điện.
+D. Không chạm tay vào bất kì bộ phận nào.
+Câu 9: Bút thử điện phát sáng (bóng đèn neon sáng lên) khi kiểm tra điểm nào báo hiệu điều gì?
+A. Điểm kiểm tra không có điện.
+B. Điểm kiểm tra mang điện (có dòng điện).
+C. Bút thử điện bị hỏng.
+D. Thiết bị đã được nối đất an toàn.
+Câu 10: Tay cầm của kìm điện dùng trong sửa chữa điện bắt buộc phải có đặc điểm gì?
+A. Làm bằng kim loại nguyên khối.
+B. Được bọc lớp vỏ nhựa cách điện đạt tiêu chuẩn an toàn.
+C. Đã được sơn màu đỏ trang trí.
+D. Làm bằng chất liệu gỗ ép mềm.
+Câu 11: Khi tiến hành sửa chữa điện ở vị trí cao hoặc nơi ẩm ướt, người thợ điện nên đứng trên vật liệu nào để tăng độ an toàn?
+A. Tấm kim loại dẫn điện.
+B. Thảm cách điện hoặc ghế gỗ khô.
+C. Sàn bê tông ướt.
+D. Khung sắt giàn giáo.
+Câu 12: Biển cảnh báo "CÓ ĐIỆN NGUY HIỂM" hoặc "CẤM ĐÓNG ĐIỆN! CÓ NGUỜI ĐANG LÀM VIỆC" được treo tại vị trí ngắt điện nhằm mục đích gì?
+A. Trang trí khu vực làm việc.
+B. Ngăn ngừa người khác vô tình đóng điện khi đang sửa chữa.
+C. Báo hiệu thiết bị đã sửa xong.
+D. Chỉ dẫn hướng đi trong nhà máy.
+B. Câu hỏi Trắc nghiệm Đúng/Sai (04 câu - 4.0 điểm)
+Trong mỗi ý a), b), c), d) ở mỗi câu, học sinh chọn Đúng (Đ) hoặc Sai (S). Lựa chọn chính xác 1 ý được 0.1 đ, 2 ý được 0.25 đ, 3 ý được 0.5 đ, 4 ý được 1.0 đ cho mỗi câu.
+Câu 13: Khi đánh giá các biện pháp an toàn điện khi sử dụng thiết bị điện trong gia đình:
+a) Nối đất vỏ kim loại giúp dẫn dòng điện rò xuống đất, bảo vệ người dùng không bị điện giật khi chạm vào vỏ.
+b) Có thể thoải mái dùng tay ướt cắm phích điện nếu đồ dùng điện còn mới.
+c) Sử dụng aptomat chống rò điện giúp ngắt mạch tự động khi có hiện tượng dòng điện rò ra ngoài.
+d) Khi dây dẫn điện bị bong tróc vỏ cách điện, chỉ cần dùng băng dính giấy quấn lại là đảm bảo an toàn tuyệt đối.
+Câu 14: Khi thực hiện quy trình sửa chữa và bảo trì hệ thống điện gia đình:
+a) Nhất thiết phải cắt nguồn điện (cầu dao, aptomat) trước khi thực hiện bất kì thao tác sửa chữa nào.
+b) Sau khi ngắt cầu dao, cần treo biển cảnh báo để tránh việc người khác vô tình bật điện lại.
+c) Nếu đã ngắt cầu dao tổng thì không cần dùng bút thử điện để kiểm tra lại mạch điện.
+d) Người sửa chữa điện có thể đi chân đất trên sàn nhà ẩm ướt nếu đã đeo găng tay vải thô.
+Câu 15: Tìm hiểu về cấu tạo và nguyên lý hoạt động của Bút thử điện:
+a) Điện trở trong bút thử điện có trị số rất lớn để hạ dòng điện xuống mức an toàn không gây nguy hiểm cho người dùng.
+b) Khi thử điện, tay người sử dụng bắt buộc phải chạm vào đầu kim loại (đầu kiểm tra) của bút.
+c) Bóng đèn neon phát sáng khi có dòng điện cực nhỏ đi từ điểm thử qua bút, qua người xuống đất.
+d) Bút thử điện có thể dùng để vặn tất cả các loại ốc vít cứng thay cho tua vít thông thường.
+Câu 16: Xét các quy tắc an toàn khi làm việc và sử dụng dụng cụ bảo vệ an toàn điện:
+a) Găng tay cách điện và ủng cách điện là trang bị bảo hộ giúp ngăn chặn dòng điện qua cơ thể.
+b) Kìm điện có cán bọc nhựa bị nứt vỡ vẫn có thể dùng bình thường nếu người thợ điện cẩn thận.
+c) Vi phạm khoảng cách an toàn đối với lưới điện cao áp có thể bị phóng điện nguy hiểm dù chưa chạm vào dây điện.
+d) Chỉ cần dùng dụng cụ bảo vệ an toàn điện khi làm việc với điện cao áp, còn điện sinh hoạt 220V thì không cần.
+C. Câu hỏi Tự luận (03 câu - 3.0 điểm)
+Câu 17 (1.0 điểm): Giải thích nguyên lý làm việc của nối đất bảo vệ cho vỏ kim loại đồ dùng điện (như máy giặt, tủ lạnh). Tại sao biện pháp này lại bảo vệ an toàn cho con người khi có sự cố rò điện?
+Câu 18 (1.0 điểm): Trình bày cấu tạo cơ bản của Bút thử điện và hướng dẫn quy trình các bước thao tác sử dụng bút thử điện đúng kĩ thuật để kiểm tra xem một ổ cắm điện có điện hay không.
+Câu 19 (1.0 điểm): Trong buổi thực hành sửa chữa điện gia đình, em phát hiện một chiếc kìm điện có phần vỏ nhựa cách điện ở tay cầm bị nứt vỡ rãnh rộng. Em sẽ xử lý tình huống này như thế nào? Nêu bài học về quản lý và bảo quản dụng cụ an toàn điện.
+PHẦN III: ĐÁP ÁN VÀ HƯỚNG DẪN CHẤM
+1. Đáp án Trắc nghiệm 4 lựa chọn (3.0 điểm)
+T| Câu 1 || Câu 2 || Câu 3 || Câu 4 || Câu 5 || Câu 6
+T| A || B || C || A || B || D
+T| Câu 7 || Câu 8 || Câu 9 || Câu 10 || Câu 11 || Câu 12
+T| C || B || B || B || B || B
+2. Đáp án Trắc nghiệm Đúng/Sai (4.0 điểm)
+T| Câu hỏi || Ý a) || Ý b) || Ý c) || Ý d)
+T| Câu 13 || a) Đúng || b) Sai || c) Đúng || d) Sai
+T| Câu 14 || a) Đúng || b) Đúng || c) Sai || d) Sai
+T| Câu 15 || a) Đúng || b) Sai || c) Đúng || d) Sai
+T| Câu 16 || a) Đúng || b) Sai || c) Đúng || d) Sai
+3. Hướng dẫn chấm Tự luận (3.0 điểm)
+• Câu 17 (1.0 đ):
+• Nguyên lý: Nối vỏ kim loại của thiết bị điện bằng dây dẫn điện xuống cọc nối đất đặt sâu dưới lòng đất.
+• Giải thích an toàn: Điện trở của dây nối đất và cọc đất cực nhỏ (nhỏ hơn rất nhiều so với điện trở cơ thể người). Khi rò điện ra vỏ, dòng điện rò sẽ đi theo dây nối đất xuống đất. Người chạm vào vỏ sẽ không bị dòng điện lớn qua người, đảm bảo an toàn tính mạng. (1.0 đ)
+• Câu 18 (1.0 đ):
+• Cấu tạo bút thử điện: Đầu kiểm tra, điện trở lớn, bóng đèn neon, lò xo, nắp kim loại và thân nhựa cách điện. (0.4 đ)
+• Quy trình thử điện:
+1. Tay cầm bút, ngón tay CHẠM VÀO NẮP KIM LOẠI ở đỉnh bút.
+2. Đặt ĐẦU KIỂM TRA của bút vào lỗ ổ cắm cần kiểm tra.
+3. Quan sát bóng đèn neon: Nếu bóng đèn SÁNG -> Lỗ ổ cắm có điện (dây pha); Nếu bóng đèn KHÔNG SÁNG -> Không có điện (dây trung tính hoặc mất điện). (0.6 đ)
+• Câu 19 (1.0 đ):
+• Trả lời tình huống: Ngay lập tức KHÔNG SỬ DỤNG chiếc kìm điện đó để làm việc với điện; báo giáo viên/quản lý để thay thế chiếc kìm mới đảm bảo tiêu chuẩn cách điện. (0.5 đ)
+• Bài học bảo quản: Thường xuyên kiểm tra tình trạng vỏ cách điện của dụng cụ trước khi làm việc; bảo quản dụng cụ nơi khô ráo, tránh va đập mạnh làm nứt vỡ vỏ cách điện; không dùng dụng cụ sai mục đích. (0.5 đ)
+PHẦN IV: BẢNG ĐỐI CHIẾU MỨC ĐỘ NHẬN THỨC VÀ YCCĐ
+T| Câu hỏi || Mức độ nhận thức || Yêu cầu cần đạt tương ứng || Dạng thức câu hỏi
+T| Câu 1 - 5 || Nhận biết || Trình bày được một số biện pháp an toàn điện khi sử dụng điện. || TN 4 lựa chọn
+T| Câu 6 - 10 || Nhận biết || Trình bày được trang bị bảo hộ và cấu tạo/thao tác dụng cụ an toàn điện. || TN 4 lựa chọn
+T| Câu 11 - 12 || Nhận biết || Trình bày được biện pháp an toàn khi sửa chữa điện và biển cảnh báo. || TN 4 lựa chọn
+T| Câu 13 - 14 || Thông hiểu || Phân tích, đánh giá tính đúng/sai của các biện pháp an toàn điện khi dùng/sửa điện. || TN Đúng/Sai
+T| Câu 15 - 16 || Thông hiểu || Hiểu nguyên lý hoạt động bút thử điện và quy tắc bảo hộ lao động. || TN Đúng/Sai
+T| Câu 17 || Thông hiểu / Vận dụng || Giải thích nguyên lý nối đất bảo vệ vỏ kim loại thiết bị điện. || Tự luận
+T| Câu 18 || Thông hiểu / Vận dụng || Trình bày cấu tạo và thực hiện đúng quy trình sử dụng bút thử điện. || Tự luận
+T| Câu 19 || Vận dụng || Xử lý tình huống thực tế về dụng cụ an toàn điện bị hỏng và bài học bảo quản. || Tự luận

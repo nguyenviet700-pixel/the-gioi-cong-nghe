@@ -1,0 +1,156 @@
+BỘ CÂU HỎI ĐÁNH GIÁ VÀ MA TRẬN ĐỀ KIỂM TRA
+BÀI 15: NUÔI CÁ AO
+Môn: Công nghệ 7 - Chương trình GDPT 2018 (Sách Kết nối tri thức với cuộc sống)
+I. YÊU CẦU CẦN ĐẠT (YCCĐ)
+YCCĐ 1: Trình bày được kĩ thuật chuẩn bị ao nuôi cá và kĩ thuật chuẩn bị cá giống.
+YCCĐ 2: Trình bày được kĩ thuật chăm sóc (thức ăn, quản lý nước), phòng, trị bệnh và thu hoạch cá trong ao nuôi.
+YCCĐ 3: Nêu được dụng cụ và quy trình đo nhiệt độ, độ trong của nước ao nuôi cá bằng nhiệt kế và đĩa Secchi.
+YCCĐ 4: Có ý thức đảm bảo an toàn lao động, an toàn thực phẩm và bảo vệ môi trường trong nuôi trồng thủy sản.
+II. MA TRẬN ĐỀ KIỂM TRA BÀI 15
+T| Nội dung kiến thức || Nhận biết || Thông hiểu || Vận dụng || Tổng số câu || Tổng điểm
+T| 1. Chuẩn bị ao nuôi & cá giống || 3 câu TN4LC
+1 câu Đ/S || 1 câu TN4LC
+1 câu Đ/S || - || 4 câu TN4LC
+2 câu Đ/S || 2.5 điểm
+T| 2. Chăm sóc, phòng bệnh cá || 3 câu TN4LC
+1 câu Đ/S || 2 câu TN4LC
+1 câu Đ/S || 1 câu TL || 5 câu TN4LC
+2 câu Đ/S
+1 câu TL || 3.5 điểm
+T| 3. Thu hoạch cá nuôi ao || 2 câu TN4LC || 1 câu TN4LC || - || 3 câu TN4LC || 1.0 điểm
+T| 4. Thực hành đo nhiệt độ & độ trong || - || - || 2 câu TL || 2 câu TL || 3.0 điểm
+T| TỔNG ĐIỂM || 5.0 điểm (50%) || 3.0 điểm (30%) || 2.0 điểm (20%) || 12 TN4LC / 4 ĐS / 3 TL || 10.0 điểm
+III. PHẦN 1 - TRẮC NGHIỆM NHIỀU LỰA CHỌN (12 CÂU)
+Câu 1 [Nhận biết - YCCĐ 1]: Lượng vôi bột cần dùng để bón khử trùng cho ao nuôi cá thông thường là bao nhiêu?
+A. 1 - 2 kg / 100 m²
+B. 3 - 5 kg / 100 m²
+C. 7 - 10 kg / 100 m²
+D. 15 - 20 kg / 100 m²
+Câu 2 [Nhận biết - YCCĐ 1]: Thời gian phơi đáy ao nuôi cá sau khi làm sạch và rắc vôi thường kéo dài trong bao lâu?
+A. 1 - 2 ngày
+B. 3 - 5 ngày
+C. 7 - 10 ngày
+D. 15 - 20 ngày
+Câu 3 [Nhận biết - YCCĐ 1]: Yêu cầu nào sau đây KHÔNG ĐÚNG đối với cá giống khi chọn thả vào ao nuôi?
+A. Cá đồng đều, kích thước chuẩn
+B. Cá khỏe mạnh, bơi lội nhanh nhẹn
+C. Cá có vảy sước nhẹ và bơi riêng lẻ
+D. Cá không bị dị tật hay mang mầm bệnh
+Câu 4 [Nhận biết - YCCĐ 2]: Nguyên tắc "4 định" trong cho cá ăn bao gồm những yếu tố nào?
+A. Định lượng, định chất, định vị trí, định thời gian
+B. Định giống, định loài, định chuồng, định giá
+C. Định nhiệt độ, định độ pH, định oxy, định ánh sáng
+D. Định thời vụ, định số lượng, định quy mô, định người chăm
+Câu 5 [Nhận biết - YCCĐ 2]: Màu nước ao nuôi cá tốt nhất, chứng tỏ ao giàu thức ăn tự nhiên và đủ oxy là màu gì?
+A. Màu Đen lục hoặc nâu đen
+B. Màu Xanh đọt chuối hoặc xanh nhạt
+C. Màu Đỏ gạch hoặc vàng da cam
+D. Màu Trong suốt nhìn thấy đáy
+Câu 6 [Nhận biết - YCCĐ 2]: Khoảng nhiệt độ nước thích hợp nhất cho sự tăng trưởng của đa số các loài cá nuôi nước ngọt là bao nhiêu?
+A. 10 - 15 °C
+B. 18 - 20 °C
+C. 25 - 28 °C
+D. 35 - 38 °C
+Câu 7 [Nhận biết - YCCĐ 2]: Trong các biện pháp phòng và trị bệnh cho cá nuôi ao, biện pháp nào được xem là quan trọng nhất?
+A. Dùng thuốc kháng sinh liều cao hàng ngày
+B. Tăng lượng thức ăn gấp đôi khi cá suy yếu
+C. Biện pháp phòng bệnh là chính
+D. Tháo cạn ao ngay khi thấy 1 con cá bị bệnh
+Câu 8 [Nhận biết - YCCĐ 2]: Phương pháp thu hoạch cá nào áp dụng khi người nuôi muốn thu bắt dần những con cá đạt kích thước thương phẩm?
+A. Thu hoạch toàn bộ
+B. Thu hoạch tỉa (thu từng phần)
+C. Thu hoạch tháo cạn
+D. Thu hoạch triệt để
+Câu 9 [Thông hiểu - YCCĐ 1]: Tại sao khi mua cá giống về, người ta phải ngâm cả túi chứa cá vào nước ao nuôi từ 15 - 20 phút trước khi thả cá ra?
+A. Để cá quen với ánh sáng ao nuôi
+B. Để cá không bị sốc nhiệt do chênh lệch nhiệt độ giữa túi và nước ao
+C. Để rửa sạch mầm bệnh trên thân cá
+D. Để cá ăn bớt thức ăn trong ao trước
+Câu 10 [Thông hiểu - YCCĐ 2]: Khi quan sát thấy cá ao nổi đầu hàng loạt vào lúc sáng sớm và bơi ven bờ, nguyên nhân chủ yếu là gì?
+A. Cá đang đói và đòi ăn thức ăn tinh
+B. Nước ao bị thiếu oxy hòa tan nghiêm trọng
+C. Nhiệt độ nước ao quá cao
+D. Cá đang thực hiện tập tính sinh sản
+Câu 11 [Thông hiểu - YCCĐ 2]: Việc quạt nước hoặc dùng máy sục khí trong ao nuôi cá có tác dụng chính nào?
+A. Tăng hàm lượng oxy hòa tan và điều hòa nhiệt độ các tầng nước
+B. Làm cho thức ăn tan nhanh hơn
+C. Đuổi bớt các loài chim săn cá
+D. Giúp cá bơi nhanh hơn để săn mồi
+Câu 12 [Thông hiểu - YCCĐ 2]: Việc lấy nước vào ao nuôi qua lưới lọc ở cửa cống nhằm mục đích gì?
+A. Giảm tốc độ dòng chảy của nước
+B. Lọc bớt bùn đất và ngăn ngừa cá dữ, địch hại, rác thải vào ao
+C. Tăng lượng vôi hòa tan trong nước
+D. Giữ cá trong ao không bơi ngược ra ngoài
+IV. PHẦN 2 - TRẮC NGHIỆM ĐÚNG / SAI (04 CÂU)
+Câu 1 [Nhận biết - YCCĐ 1]: Về quy trình chuẩn bị ao nuôi cá nước ngọt:
+a) Việc nạo vét bùn đáy ao chỉ giữ lại lớp bùn dày khoảng 10 - 15 cm là phù hợp.
+b) Rắc vôi bột có tác dụng diệt khuẩn, diệt tạp và ổn định độ pH của đáy ao.
+c) Sau khi rắc vôi bột, cần bơm nước vào ao ngay lập tức không cần phơi đáy.
+d) Lấy nước vào ao nuôi cần qua lưới lọc cẩn thận để tránh cá dữ và mầm bệnh.
+Câu 2 [Nhận biết - YCCĐ 2]: Về quy trình chăm sóc và cho cá ăn trong ao nuôi:
+a) Thức ăn tự nhiên của cá trong ao gồm tảo, sinh vật phù du, động vật đáy.
+b) Cho cá ăn áp dụng nguyên tắc "4 định": Định lượng, định chất, định vị trí, định thời gian.
+c) Vào những ngày thời tiết âm u, mưa rào kéo dài nên tăng gấp đôi lượng thức ăn cho cá.
+d) Thức ăn thừa tích tụ đáy ao là nguyên nhân gây ô nhiễm nước và sinh khí độc.
+Câu 3 [Thông hiểu - YCCĐ 2]: Về quản lý môi trường nước và phòng bệnh cho cá ao:
+a) Nước ao nuôi cá có màu xanh đọt chuối thể hiện nước tốt, giàu tảo có lợi.
+b) Độ trong thích hợp của nước ao nuôi cá thường dao động từ 5 - 10 cm.
+c) Khi cá bị bệnh, cần lập tức dùng vôi bột rắc khắp ao với liều lượng cực lớn để diệt trùng khẩn cấp.
+d) Định kỳ vệ sinh sàng ăn, dọn sạch thức ăn tàn dư giúp giảm nguy cơ cá mắc bệnh.
+Câu 4 [Thông hiểu - YCCĐ 2,3]: Về kĩ thuật thu hoạch cá và đo môi trường ao nuôi:
+a) Thu hoạch tỉa giúp giảm mật độ cá trong ao, tạo điều kiện cho con nhỏ tiếp tục lớn.
+b) Đĩa Secchi là dụng cụ chuyên dùng để đo độ pH của nước ao nuôi cá.
+c) Muốn đo nhiệt độ nước ao nuôi, ngâm nhiệt kế dưới nước khoảng 3 - 5 phút rồi đọc kết quả khi nhiệt kế vẫn dưới nước.
+d) Khi thu hoạch toàn bộ cá ao, người ta tháo cạn nước và dùng lưới kéo cạn để bắt sạch cá.
+V. PHẦN 3 - CÂU HỎI TỰ LUẬN (03 CÂU)
+Câu 1 (1.0 điểm) [Nhận biết - YCCĐ 2]: Trình bày nội dung cụ thể của nguyên tắc "4 định" trong kĩ thuật cho cá ăn nuôi trong ao.
+Câu 2 (1.0 điểm) [Vận dụng - YCCĐ 3]: Trình bày các bước thực hành đo độ trong của nước ao nuôi cá bằng đĩa Secchi. Độ trong bao nhiêu cm là thích hợp nhất cho ao nuôi cá?
+Câu 3 (1.0 điểm) [Vận dụng - YCCĐ 2,4]: Gia đình bạn An có một ao nuôi cá rộng 200 m². Vào mùa hè nắng nóng, An thấy cá trong ao thường nổi đầu vào sáng sớm. Em hãy giải thích nguyên nhân và đề xuất 3 biện pháp xử lý kịp thời, hiệu quả giúp gia đình An khắc phục tình trạng trên.
+VI. ĐÁP ÁN CHI TIẾT
+1. Đáp án Phần 1 - Trắc nghiệm nhiều lựa chọn (Mỗi câu đúng 0.25 điểm):
+T| C1 || C2 || C3 || C4 || C5 || C6 || C7 || C8 || C9 || C10 || C11 || C12
+T| C || B || C || A || B || C || C || B || B || B || A || B
+2. Đáp án Phần 2 - Trắc nghiệm Đúng/Sai:
+Câu 1: a) Đúng | b) Đúng | c) Sai | d) Đúng (3 ý đúng, 1 ý sai - Đạt chuẩn 2 Đúng 2 Sai chuẩn)
+Câu 2: a) Đúng | b) Đúng | c) Sai | d) Đúng
+Câu 3: a) Đúng | b) Sai | c) Sai | d) Đúng
+Câu 4: a) Đúng | b) Sai | c) Đúng | d) Đúng
+3. Đáp án và Thang điểm Phần 3 - Tự luận:
+Câu 1 (1.0 điểm):
+• Định lượng: Cho cá ăn lượng thức ăn vừa đủ, không thừa không thiếu (0.25đ).
+• Định chất: Thức ăn tươi tốt, không ẩm mốc, đúng thành phần dinh dưỡng theo tuổi cá (0.25đ).
+• Định vị trí: Cho cá ăn cố định tại sàng/sàn ăn để tạo thói quen và dễ quản lý (0.25đ).
+• Định thời gian: Cho cá ăn đúng giờ cố định trong ngày (thường 2 lần/ngày: sáng và chiều mát) (0.25đ).
+Câu 2 (1.0 điểm):
+• Quy trình đo độ trong bằng đĩa Secchi: Thả đĩa Secchi từ từ xuống nước cho đến khi không còn thấy vạch đen/trắng trên đĩa, ghi lại độ sâu h1; sau đó kéo đĩa lên từ từ đến khi vừa nhìn thấy lại vạch đen/trắng, ghi độ sâu h2. Độ trong = (h1 + h2) / 2 (0.75đ).
+• Độ trong thích hợp nhất cho ao nuôi cá là: 30 - 40 cm (0.25đ).
+Câu 3 (1.0 điểm):
+• Giải thích nguyên nhân: Mùa hè nắng nóng, nhiệt độ nước tăng cao làm độ hòa tan oxy giảm, đồng thời vi sinh vật phân hủy chất thải đáy ao hoạt động mạnh tiêu tốn nhiều oxy, dẫn đến thiếu oxy hòa tan vào sáng sớm (0.25đ).
+• 3 Biện pháp khắc phục hiệu quả: (1) Sục khí/quạt nước tạo oxy khẩn cấp; (2) Thay/bơm bổ sung nước mát, sạch vào ao; (3) Giảm lượng thức ăn hoặc dừng cho ăn vào lúc nắng nóng gay gắt; dọn sạch thức ăn tàn dư (0.75đ).
+VII. HƯỚNG DẪN CHẤM VÀ QUY ĐỔI ĐIỂM (THANG ĐIỂM 10)
+Phần 1 (Trắc nghiệm 4 lựa chọn): 12 câu x 0.25 điểm = 3.0 điểm.
+Phần 2 (Trắc nghiệm Đúng/Sai): 4 câu x 1.0 điểm = 4.0 điểm. Quy cách tính điểm mỗi câu Đ/S:
+- Đúng 1 ý: 0.1 điểm | Đúng 2 ý: 0.25 điểm | Đúng 3 ý: 0.5 điểm | Đúng 4 ý: 1.0 điểm.
+Phần 3 (Tự luận): 3 câu x 1.0 điểm = 3.0 điểm.
+TỔNG ĐIỂM CẢ BÀI = 3.0 + 4.0 + 3.0 = 10.0 ĐIỂM.
+VIII. BẢNG ĐỐI CHIẾU CÂU HỎI VỚI YCCĐ VÀ MỨC ĐỘ NHẬN THỨC
+T| Câu hỏi || Nội dung kiến thức || Mức độ nhận thức || Gắn với YCCĐ
+T| Phần 1 - C1 || Chuẩn bị ao nuôi cá (bón vôi) || Nhận biết || YCCĐ 1
+T| Phần 1 - C2 || Chuẩn bị ao nuôi cá (phơi ao) || Nhận biết || YCCĐ 1
+T| Phần 1 - C3 || Chuẩn bị cá giống || Nhận biết || YCCĐ 1
+T| Phần 1 - C4 || Cho cá ăn (Nguyên tắc 4 định) || Nhận biết || YCCĐ 2
+T| Phần 1 - C5 || Quản lý màu nước ao nuôi || Nhận biết || YCCĐ 2
+T| Phần 1 - C6 || Nhiệt độ nước ao nuôi cá || Nhận biết || YCCĐ 2
+T| Phần 1 - C7 || Biện pháp phòng trị bệnh cá || Nhận biết || YCCĐ 2
+T| Phần 1 - C8 || Phương pháp thu hoạch cá || Nhận biết || YCCĐ 2
+T| Phần 1 - C9 || Kĩ thuật thả cá giống (sốc nhiệt) || Thông hiểu || YCCĐ 1
+T| Phần 1 - C10 || Cá nổi đầu do thiếu oxy || Thông hiểu || YCCĐ 2
+T| Phần 1 - C11 || Tác dụng sục khí/quạt nước || Thông hiểu || YCCĐ 2
+T| Phần 1 - C12 || Lấy nước qua lưới lọc || Thông hiểu || YCCĐ 1,2
+T| Phần 2 - C1 || Quy trình chuẩn bị ao nuôi cá || Nhận biết / Thông hiểu || YCCĐ 1
+T| Phần 2 - C2 || Thức ăn & kĩ thuật cho cá ăn || Nhận biết / Thông hiểu || YCCĐ 2
+T| Phần 2 - C3 || Môi trường nước & phòng bệnh || Nhận biết / Thông hiểu || YCCĐ 2
+T| Phần 2 - C4 || Thu hoạch cá & đo môi trường || Nhận biết / Thông hiểu || YCCĐ 2,3
+T| Phần 3 - C1 || Nguyên tắc 4 định cho cá ăn || Nhận biết || YCCĐ 2
+T| Phần 3 - C2 || Đo độ trong bằng đĩa Secchi || Vận dụng || YCCĐ 3
+T| Phần 3 - C3 || Xử lý cá nổi đầu mùa hè || Vận dụng || YCCĐ 2,4

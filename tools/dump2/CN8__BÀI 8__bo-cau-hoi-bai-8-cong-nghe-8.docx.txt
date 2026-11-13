@@ -1,0 +1,149 @@
+BỘ CÂU HỎI ĐÁNH GIÁ VÀ MA TRẬN ĐỀ KIỂM TRA
+BÀI 8: GIA CÔNG CƠ KHÍ BẰNG TAY (CÔNG NGHỆ 8 - KNTT)
+PHẦN 1: MA TRẬN ĐỀ KIỂM TRA & YÊU CẦU CẦN ĐẠT (YCCĐ)
+1. Các Yêu cầu cần đạt (YCCĐ) theo Chương trình GDPT 2018:
+YCCĐ 1 (Nhận biết): Kể tên và nêu được công dụng của một số dụng cụ gia công cơ khí bằng tay (dũa, đục, cưa, kìm, búa, thước lá, thước cặp...).
+YCCĐ 2 (Thông hiểu): Trình bày được quy trình kĩ thuật và nguyên tắc an toàn khi thực hiện các phương pháp gia công cơ khí bằng tay (vạch dấu, cưa, đục, dũa).
+YCCĐ 3 (Vận dụng): Mô tả và giải thích được kĩ thuật thao tác thực hành, xử lý tình huống kĩ thuật và các biện pháp an toàn lao động trong quá trình gia công cơ khí bằng tay.
+2. Ma trận phân bổ câu hỏi theo mức độ tư duy:
+T| Nội dung kiến thức || Nhận biết || Thông hiểu || Vận dụng || Tổng số câu
+T| 1. Dụng cụ gia công & đo kiểm || 3 câu TN || 1 câu TN || 0 câu || 4 câu TN
+T| 2. Các phương pháp gia công (Vạch dấu, Cưa, Đục, Dũa) || 3 câu TN || 3 câu TN || 2 câu Đ/S || 8 câu TN + 2 Đ/S
+T| 3. Kĩ thuật & An toàn gia công bằng tay || 2 câu TN || 2 câu Đ/S || 3 câu TL || 2 TN + 2 Đ/S + 3 TL
+T| Tổng cộng || 8 câu TN (40%) || 4 câu TN + 2 câu Đ/S (35%) || 2 câu Đ/S + 3 câu TL (25%) || 12 TN + 4 Đ/S + 3 TL
+PHẦN 2: TRẮC NGHIỆM NHIỀU LỰA CHỌN (12 CÂU)
+Câu 1 (YCCĐ 1 - Nhận biết): Dụng cụ nào sau đây được dùng để đo chiều dài, chiều sâu lỗ và đường kính chi tiết trong gia công cơ khí?
+A. Thước lá.
+B. Thước cặp.
+C. Mũi vạch.
+D. Mũi đột.
+Câu 2 (YCCĐ 1 - Nhận biết): Dụng cụ nào thuộc nhóm dụng cụ kẹp chặt trong gia công cơ khí bằng tay?
+A. Kìm và ê tô.
+B. Cưa tay và dũa.
+C. Đục và búa.
+D. Mũi vạch và mũi đột.
+Câu 3 (YCCĐ 1 - Nhận biết): Loại dũa nào được sử dụng phổ biến nhất để dũa các bề mặt phẳng?
+A. Dũa tròn.
+B. Dũa tam giác.
+C. Dũa dẹt.
+D. Dũa bán nguyệt.
+Câu 4 (YCCĐ 1 - Nhận biết): Lưỡi cưa tay thường được làm bằng vật liệu gì để đảm bảo độ cứng và độ bền khi cắt kim loại?
+A. Đồng thau.
+B. Nhôm dẻo.
+C. Thép hợp kim (hoặc thép gió).
+D. Nhựa nhiệt dẻo.
+Câu 5 (YCCĐ 1 - Nhận biết): Đâu là dụng cụ dùng để tạo các vết lõm trên bề mặt phôi kim loại nhằm xác định tâm lỗ trước khi khoan?
+A. Mũi vạch.
+B. Mũi đột.
+C. Búa cao su.
+D. Thước lá.
+Câu 6 (YCCĐ 1 - Nhận biết): Khi vạch dấu trên phôi kim loại, dụng cụ trực tiếp kẻ các đường ranh giới gia công là
+A. Mũi vạch.
+B. Mũi đột.
+C. Thước cặp.
+D. Đục dẹt.
+Câu 7 (YCCĐ 2 - Thông hiểu): Mục đích chính của công việc vạch dấu trước khi gia công cơ khí bằng tay là gì?
+A. Làm cho bề mặt phôi trở nên bóng đẹp hơn.
+B. Xác định ranh giới giữa phần kim loại cần gia công và phần giữ lại.
+C. Kiểm tra độ cứng của vật liệu phôi.
+D. Tăng độ bền cơ học cho chi tiết gia công.
+Câu 8 (YCCĐ 2 - Thông hiểu): Trong kĩ thuật cưa kim loại bằng tay, chiều chuyển động tạo ra hành trình cắt (tạo ra phoi) là hành trình nào?
+A. Hành trình kéo cưa về phía người làm.
+B. Hành trình đẩy cưa về phía trước.
+C. Cả hai hành trình đẩy và kéo đều cắt kim loại.
+D. Hành trình lắc cưa sang hai bên.
+Câu 9 (YCCĐ 2 - Thông hiểu): Khi đục kim loại bằng tay, mắt của người gia công cần tập trung quan sát vào vị trí nào?
+A. Đầu cán đục.
+B. Tay cầm đục.
+C. Lưỡi đục và vị trí chặt đục trên phôi.
+D. Đầu búa khi vung lên.
+Câu 10 (YCCĐ 2 - Thông hiểu): Nguyên tắc nào sau đây đúng khi lựa chọn lưỡi dũa để gia công?
+A. Dũa thô dùng để dũa hoàn thiện bề mặt bóng mịn.
+B. Dũa mịn dùng để dũa hớt đi lớp kim loại dày ban đầu.
+C. Dũa thô dùng để dũa hớt lớp kim loại dày, dũa mịn dùng để hoàn thiện bề mặt.
+D. Loại dũa nào cũng có thể dùng thay thế cho nhau trong mọi công đoạn.
+Câu 11 (YCCĐ 2 - Thông hiểu): Để đảm bảo an toàn khi sử dụng cưa tay, thao tác nào sau đây là ĐÚNG?
+A. Căng lưỡi cưa thật lỏng để lưỡi cưa không bị gãy.
+B. Dùng tay đẩy trực tiếp vào lưỡi cưa để tăng lực cắt.
+C. Kẹp chặt phôi trên ê tô và căng lưỡi cưa vừa phải.
+D. Tháo tay cầm cưa ra để cưa cho linh hoạt.
+Câu 12 (YCCĐ 2 - Thông hiểu): Hành trình dũa đúng kĩ thuật khi dũa mặt phẳng là
+A. Đẩy dũa tạo lực cắt khi tiến về phía trước, khi kéo về không ấn dũa.
+B. Ấn mạnh dũa cả khi đẩy đi và khi kéo về.
+C. Chỉ ấn dũa khi kéo về phía người làm.
+D. Xoay tròn cán dũa liên tục trong suốt hành trình.
+PHẦN 3: TRẮC NGHIỆM ĐÚNG / SAI (4 CÂU)
+Câu 1 (YCCĐ 2 - Thông hiểu): Cho các nhận định về quy trình và dụng cụ vạch dấu trong gia công cơ khí bằng tay:
+a) Mũi vạch được làm bằng thép carbon dụng cụ và có đầu rất nhọn để kẻ đường vạch sắc nét trên kim loại.
+b) Mũi đột dùng để vạch các đường tròn và đường cong phức tạp trên phôi.
+c) Trước khi vạch dấu, bề mặt phôi cần được làm sạch và có thể bôi một lớp phấn hoặc vôi màu để đường vạch rõ ràng.
+d) Đường vạch dấu chỉ có tính chất tham khảo, không cần chính xác vì khi cưa sẽ điều chỉnh sau.
+Câu 2 (YCCĐ 2 - Thông hiểu): Cho các phát biểu về kĩ thuật cắt kim loại bằng cưa tay:
+a) Răng cưa được lắp hướng về phía trước (hướng xa người cưa).
+b) Khi cưa gần đứt phôi kim loại, cần tăng tốc độ và ấn mạnh cưa để phôi đứt nhanh chóng.
+c) Lực ấn cưa chủ yếu tập trung vào hành trình đẩy cưa về phía trước.
+d) Khi cưa kim loại dạng tấm mỏng, nên cưa vuông góc trực tiếp vào cạnh mỏng nhất của tấm kim loại.
+Câu 3 (YCCĐ 3 - Vận dụng): Cho các nhận định về kĩ thuật và an toàn khi đục kim loại bằng tay:
+a) Đục dẹt thường được dùng để chặt đục kim loại tấm, bạt phẳng bề mặt hoặc chặt đứt phôi.
+b) Để đục được lực mạnh và chính xác, người gia công nên cầm đục thật sát lưỡi đục.
+c) Búa dùng để đục kim loại phải có cán nêm chặt, đầu búa không bị vỡ vảy hay nứt nẻ.
+d) Khi đục kim loại giòn như gang, không cần đeo kính bảo hộ vì kim loại giòn không bắn mảnh.
+Câu 4 (YCCĐ 3 - Vận dụng): Cho các phát biểu về kĩ thuật dũa và bảo dưỡng dụng cụ dũa kim loại:
+a) Dũa dẹt được dùng để dũa các mặt phẳng ngoài, dũa tròn dùng để dũa các lỗ tròn.
+b) Khi dũa mặt phẳng, để mặt dũa luôn phẳng ta phải giữ cho lực ấn của hai tay cân bằng trong suốt hành trình đẩy dũa.
+c) Sau khi dũa xong, nên dùng búa gõ mạnh cán dũa xuống bàn để làm sạch phoi bám trên răng dũa.
+d) Dùng tay gạt trực tiếp phoi kim loại trên bề mặt vừa dũa để kiểm tra độ nhẵn.
+PHẦN 4: CÂU HỎI TỰ LUẬN (3 CÂU)
+Câu 1 (YCCĐ 2 - Thông hiểu - 1,0 điểm):
+So sánh công dụng của thước lá và thước cặp trong đo kiểm tra kích thước cơ khí. Tại sao trong sản xuất cơ khí chính xác, thước cặp lại được sử dụng phổ biến hơn thước lá?
+Câu 2 (YCCĐ 3 - Vận dụng - 1,5 điểm):
+Trình bày trình tự các bước thực hiện vạch dấu một chi tiết hình chữ nhật trên phôi thép tấm. Nêu 02 nguyên nhân chính dẫn đến đường vạch dấu bị sai lệch và cách khắc phục.
+Câu 3 (YCCĐ 3 - Vận dụng cao - 1,5 điểm):
+Trong buổi thực hành gia công cơ khí bằng tay, một học sinh thực hiện thao tác cưa một thanh thép góc (thép V). Học sinh này phản ánh: 'Lưỡi cưa rất mau bị gãy và đường cắt bị lệch sang một bên'. Bằng kiến thức đã học, em hãy phân tích các nguyên nhân có thể dẫn đến hiện tượng trên và đề xuất biện pháp khắc phục chuẩn xác.
+PHẦN 5: ĐÁP ÁN VÀ HƯỚNG DẪN CHẤM CHI TIẾT
+1. Đáp án Trắc nghiệm nhiều lựa chọn (Phần 2):
+T| 1. B || 2. A || 3. C || 4. C
+T| 5. B || 6. A || 7. B || 8. B
+T| 9. C || 10. C || 11. C || 12. A
+2. Đáp án Trắc nghiệm Đúng / Sai (Phần 3):
+T| Câu hỏi || Ý a) || Ý b) || Ý c) || Ý d)
+T| Câu 1 || a) Đúng || b) Sai || c) Đúng || d) Sai
+T| Câu 2 || a) Đúng || b) Sai || c) Đúng || d) Sai
+T| Câu 3 || a) Đúng || b) Sai || c) Đúng || d) Sai
+T| Câu 4 || a) Đúng || b) Đúng || c) Sai || d) Sai
+3. Hướng dẫn chấm bài tập Tự luận (Phần 4):
+Câu 1 (1,0 điểm):
+• So sánh công dụng: Thước lá chủ yếu đo chiều dài đơn giản với độ chính xác khoảng 0,5 - 1 mm. Thước cặp đo được cả đường kính ngoài, đường kính trong, chiều sâu lỗ với độ chính xác cao (0,1 mm; 0,05 mm hoặc 0,02 mm). (0,5 điểm)
+• Giải thích lý do: Trong gia công cơ khí chính xác, các chi tiết đòi hỏi dung sai hẹp. Thước cặp có mỏ đo chuyên dụng và vạch chia Vernier giúp đọc trị số chính xác, tránh sai số do góc nhìn. (0,5 điểm)
+Câu 2 (1,5 điểm):
+• Trình tự các bước vạch dấu: 1. Làm sạch bề mặt phôi và bôi vôi/phấn; 2. Chọn mặt chuẩn và dùng thước lá, mũi vạch kẻ các đường biên ngang, dọc; 3. Dùng mũi đột đóng tâm tại các giao điểm. (0,75 điểm)
+• Nguyên nhân & khắc phục: - Nguyên nhân 1: Mũi vạch bị cùn hoặc cầm lệch góc -> Khắc phục: Mài sắc mũi vạch, giữ nghiêng 45-60 độ.
+- Nguyên nhân 2: Phôi không phẳng hoặc đặt thước trượt -> Khắc phục: Làm phẳng phôi, kẹp giữ thước chắc chắn. (0,75 điểm)
+Câu 3 (1,5 điểm):
+• Phân tích nguyên nhân: 1. Lưỡi cưa bị gãy do: Căng lưỡi cưa quá chật hoặc quá lỏng; ấn lực quá mạnh; khi sắp đứt cưa quá nhanh.
+2. Đường cưa bị lệch do: Lưỡi cưa bị chéo/căng không thẳng; tư thế đứng và hướng đẩy cưa không chuẩn. (0,75 điểm)
+• Biện pháp khắc phục: - Lắp lưỡi cưa đúng chiều (răng hướng ra trước), căng vừa phải.
+- Giữ tư thế đứng vững chắc, đẩy cưa nhịp nhàng (30-40 lần/phút).
+- Khi gần đứt cần giảm lực ấn và cưa chậm lại.
+- Dùng lưỡi cưa răng mịn cho vật liệu mỏng/thép góc. (0,75 điểm)
+PHẦN 6: BẢNG ĐỐI CHIẾU CÂU HỎI VỚI YÊU CẦU CẦN ĐẠT (YCCĐ)
+T| Mã câu hỏi || Mô tả chỉ báo YCCĐ tương ứng || Mức độ nhận thức
+T| Câu 1 (TN) || YCCĐ 1: Nhận biết dụng cụ đo kiểm (Thước cặp) || Nhận biết
+T| Câu 2 (TN) || YCCĐ 1: Nhận biết dụng cụ kẹp chặt (Kìm, Ê tô) || Nhận biết
+T| Câu 3 (TN) || YCCĐ 1: Nhận biết loại dũa dẹt || Nhận biết
+T| Câu 4 (TN) || YCCĐ 1: Vật liệu làm lưỡi cưa tay || Nhận biết
+T| Câu 5 (TN) || YCCĐ 1: Dụng cụ đột tâm (Mũi đột) || Nhận biết
+T| Câu 6 (TN) || YCCĐ 1: Dụng cụ kẻ đường ranh giới (Mũi vạch) || Nhận biết
+T| Câu 7 (TN) || YCCĐ 2: Mục đích vạch dấu || Thông hiểu
+T| Câu 8 (TN) || YCCĐ 2: Hành trình cắt phoi khi cưa kim loại || Thông hiểu
+T| Câu 9 (TN) || YCCĐ 2: Mắt quan sát khi đục kim loại || Thông hiểu
+T| Câu 10 (TN) || YCCĐ 2: Lựa chọn dũa thô và dũa mịn || Thông hiểu
+T| Câu 11 (TN) || YCCĐ 2: An toàn lao động khi cưa tay || Thông hiểu
+T| Câu 12 (TN) || YCCĐ 2: Kĩ thuật dũa mặt phẳng || Thông hiểu
+T| Câu 1 (Đ/S) || YCCĐ 2: Quy trình và kĩ thuật vạch dấu || Thông hiểu
+T| Câu 2 (Đ/S) || YCCĐ 2: Kĩ thuật và an toàn khi cưa kim loại || Thông hiểu
+T| Câu 3 (Đ/S) || YCCĐ 3: Kĩ thuật và an toàn khi đục kim loại || Vận dụng
+T| Câu 4 (Đ/S) || YCCĐ 3: Kĩ thuật dũa và bảo quản dụng cụ dũa || Vận dụng
+T| Câu 1 (TL) || YCCĐ 2: So sánh thước lá và thước cặp trong đo kiểm || Thông hiểu
+T| Câu 2 (TL) || YCCĐ 3: Quy trình vạch dấu và xử lý sai lệch || Vận dụng
+T| Câu 3 (TL) || YCCĐ 3: Phân tích sự cố gãy cưa/lệch đường cưa và giải pháp || Vận dụng cao

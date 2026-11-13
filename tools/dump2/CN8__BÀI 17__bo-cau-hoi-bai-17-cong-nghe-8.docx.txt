@@ -1,0 +1,134 @@
+BỘ GIÁO DỤC VÀ ĐÀO TẠO — TRƯỜNG THCS VĨNH XUÂN
+KẾ HOẠCH GIÁO DỤC & ĐÁNH GIÁ MÔN CÔNG NGHỆ 8 (KNTT)
+BÀI 17: NGÀNH NGHỀ TRONG LĨNH VỰC KĨ THUẬT ĐIỆN
+Tuần 23, 24 | Tiết 42, 43 | Thời lượng: 2 tiết | Chương IV: Kĩ thuật điện
+I. YÊU CẦU CẦN ĐẠT & BẢNG ĐẶC TẢ MỨC ĐỘ NHẬN THỨC
+T| Mã YCCĐ || Yêu cầu cần đạt (Chương trình GDPT 2018) || Mức độ nhận thức
+T| YCCĐ.1 || Trình bày được đặc điểm cơ bản của một số ngành nghề phổ biến trong lĩnh vực kĩ thuật điện (Kĩ sư điện, Kĩ thuật viên kĩ thuật điện, Thợ lắp đặt và sửa chữa thiết bị điện,...). || Nhận biết (NB)
+T| YCCĐ.2 || Trình bày được các yêu cầu chung đối với người lao động làm việc trong lĩnh vực kĩ thuật điện (trình độ chuyên môn, kĩ năng, phẩm chất, sức khỏe, ý thức an toàn). || Thông hiểu (TH)
+T| YCCĐ.3 || Nhận biết và đánh giá được sự phù hợp của bản thân đối với một số ngành nghề trong lĩnh vực kĩ thuật điện dựa trên sở thích và khả năng của bản thân. || Vận dụng (VD)
+II. BỘ CÂU HỎI ĐÁNH GIÁ THEO CHUẨN TCVN
+PHẦN I. CÂU TRẮC NGHIỆM 4 LỰA CHỌN (12 CÂU)
+Thí sinh chọn 01 phương án đúng duy nhất cho mỗi câu hỏi từ Câu 1 đến Câu 12.
+Câu 1 (NB): Người làm nghề kĩ sư điện có nhiệm vụ chính nào sau đây?
+A. Lắp đặt đường dây điện sinh hoạt gia đình
+B. Nghiên cứu, tư vấn, thiết kế, chỉ đạo xây dựng và vận hành hệ thống điện
+C. Trực tiếp sửa chữa quạt điện và bếp điện tại cửa hàng
+D. Quấn dây động cơ điện nhỏ trong xưởng thủ công
+Câu 2 (NB): Đối tượng lao động chủ yếu của kĩ thuật viên kĩ thuật điện là gì?
+A. Nghiên cứu lý thuyết vật lý hạt nhân
+B. Thực hiện nhiệm vụ kĩ thuật hỗ trợ nghiên cứu kĩ thuật điện và vận hành hệ thống điện
+C. Chế tạo các chi tiết cơ khí bằng phương pháp rèn đúc
+D. Kinh doanh các thiết bị điện gia dụng
+Câu 3 (NB): Công việc chính của thợ lắp đặt và sửa chữa thiết bị điện là gì?
+A. Thiết kế nhà máy nhiệt điện và thủy điện
+B. Lắp đặt, bảo trì, sửa chữa dây dẫn, thiết bị điện, máy móc điện và đường dây cung cấp điện
+C. Lập trình hệ thống điều khiển trí tuệ nhân tạo
+D. Quản lý tài chính doanh nghiệp sản xuất điện
+Câu 4 (NB): Môi trường làm việc của ngành nghề trong lĩnh vực kĩ thuật điện thường có đặc điểm gì?
+A. Chỉ làm việc trong phòng máy tính có điều hòa
+B. Tiềm ẩn nguy cơ mất an toàn về điện, làm việc trong nhà hoặc ngoài trời, trên cao
+C. Hoàn toàn không có nguy cơ tai nạn lao động
+D. Chỉ làm việc ở các trang trại nông nghiệp ngoài đồng
+Câu 5 (NB): Yêu cầu về kĩ năng nghề nghiệp cơ bản đối với người lao động trong ngành kĩ thuật điện là gì?
+A. Biết thiết kế thời trang và vẽ nghệ thuật
+B. Sử dụng thành thạo các dụng cụ, thiết bị đo kiểm tra điện và đọc bản vẽ kĩ thuật điện
+C. Lái được các loại xe tải hạng nặng
+D. Soạn thảo văn bản hành chính bằng 3 ngoại ngữ
+Câu 6 (NB): Người làm việc trong lĩnh vực kĩ thuật điện cần có phẩm chất nào sau đây?
+A. Thích phiêu lưu mạo hiểm, không tuân thủ quy tắc
+B. Cẩn thận, trung thực, có kỉ luật và tuân thủ nghiêm ngặt quy tắc an toàn điện
+C. Làm việc tùy hứng, không cần theo quy trình kĩ thuật
+D. Ngại học hỏi công nghệ mới
+Câu 7 (NB): Yêu cầu về sức khỏe đối với người làm nghề kĩ thuật điện là gì?
+A. Không đòi hỏi tiêu chuẩn sức khỏe
+B. Có sức khỏe tốt, không mắc các bệnh mãn tính nguy hiểm như tim mạch, thần kinh, sợ độ cao
+C. Chỉ cần thị lực tốt, không cần thể lực
+D. Bị bệnh tim mạch vẫn có thể làm việc trên cột điện cao thế
+Câu 8 (NB): Thiết bị đo kiểm tra điện nào sau đây là dụng cụ không thể thiếu của thợ điện?
+A. Thước kẹp vi cơ
+B. Bút thử điện, đồng hồ vạn năng (VOM), ampe kìm
+C. Kính hiển vi quang học
+D. Dây dọi và thước vuông cơ khí
+Câu 9 (TH): Nguyên nhân chính khiến công việc của người thợ điện đòi hỏi tính cẩn thận và kỉ luật cao là gì?
+A. Do linh kiện điện có giá thành rất rẻ
+B. Do sự cố điện có thể gây tai nạn nguy hiểm đến tính mạng con người và cháy nổ tài sản
+C. Do thời gian làm việc rất ngắn
+D. Do công việc hoàn toàn không có tính kĩ thuật
+Câu 10 (TH): Phát biểu nào sau đây thể hiện đúng sự khác biệt về trình độ đào tạo giữa Kĩ sư điện và Thợ điện?
+A. Kĩ sư điện tốt nghiệp đại học, thợ điện được đào tạo sơ cấp hoặc trung cấp nghề
+B. Kĩ sư điện không cần đi học, thợ điện học đại học
+C. Cả hai đều bắt buộc phải tốt nghiệp trình độ Tiến sĩ
+D. Thợ điện làm công việc quản lý, kĩ sư điện làm công việc lao động chân tay
+Câu 11 (TH): Để đánh giá bản thân có phù hợp với ngành nghề kĩ thuật điện hay không, yếu tố nào sau đây là quan trọng nhất?
+A. Chỉ cần có sở thích cá nhân mà không cần năng lực
+B. Đánh giá sự kết hợp giữa sở thích, năng lực học tập môn Công nghệ/Vật lí, sức khỏe và phẩm chất cá nhân
+C. Tùy thuộc hoàn toàn vào ý kiến của bạn bè cùng lớp
+D. Chỉ xem xét yếu tố thu nhập của ngành nghề
+Câu 12 (TH): Bạn An yêu thích tháo lắp đồ điện, cẩn thận, học tốt môn Vật lí và Công nghệ, có sức khỏe tốt. Nhận định nào sau đây là đúng về An?
+A. An hoàn toàn không phù hợp với ngành kĩ thuật điện
+B. An có những tố chất và sở thích rất phù hợp để định hướng phát triển trong lĩnh vực kĩ thuật điện
+C. An chỉ nên theo học ngành mỹ thuật hội họa
+D. An nên chọn ngành kinh doanh nông sản
+PHẦN II. CÂU TRẮC NGHIỆM ĐÚNG/SAI (04 CÂU)
+Thí sinh trả lời Đúng hoặc Sai cho mỗi ý a), b), c), d) trong từng câu hỏi.
+Quy tắc bắt buộc: Mỗi câu hỏi phải có chính xác 02 ý Đúng và 02 ý Sai.
+Câu 1 (NB-TH): Khi tìm hiểu về đặc điểm của ngành nghề Kĩ sư điện trong lĩnh vực kĩ thuật điện:
+a) Kĩ sư điện là người nghiên cứu, tư vấn, thiết kế, chỉ đạo xây dựng và vận hành hệ thống điện.  --> Đáp án: [Đúng]
+b) Kĩ sư điện chỉ làm việc tại các cửa hàng nhỏ để sửa chữa quạt điện gia dụng.  --> Đáp án: [Sai]
+c) Công việc kĩ sư điện đòi hỏi trình độ đào tạo từ đại học trở lên thuộc ngành kĩ thuật điện.  --> Đáp án: [Đúng]
+d) Kĩ sư điện không cần có kĩ năng đọc bản vẽ kĩ thuật điện.  --> Đáp án: [Sai]
+Câu 2 (NB-TH): Về yêu cầu trình độ và kĩ năng đối với người lao động trong lĩnh vực kĩ thuật điện:
+a) Người lao động cần có hiểu biết về an toàn điện và quy trình kĩ thuật vận hành thiết bị điện.  --> Đáp án: [Đúng]
+b) Kĩ thuật viên kĩ thuật điện có vai trò hỗ trợ các hoạt động kĩ thuật liên quan đến nghiên cứu và thiết kế điện.  --> Đáp án: [Đúng]
+c) Thợ điện không cần sử dụng các dụng cụ đo kiểm tra điện khi sửa chữa mạch điện.  --> Đáp án: [Sai]
+d) Người lao động trong ngành điện không cần cập nhật kiến thức kĩ thuật mới.  --> Đáp án: [Sai]
+Câu 3 (TH): Về môi trường làm việc và an toàn lao động trong ngành kĩ thuật điện:
+a) Môi trường làm việc ngành điện tiềm ẩn nguy cơ tai nạn điện nên yêu cầu tính kỉ luật và tuân thủ quy tắc an toàn cao.  --> Đáp án: [Đúng]
+b) Trang bị bảo hộ lao động như găng tay cách điện, giầy cách điện là không cần thiết đối với thợ điện chuyên nghiệp.  --> Đáp án: [Sai]
+c) Làm việc ngoài trời trên cao hoặc trong trạm biến áp là đặc thù môi trường của một số thợ điện.  --> Đáp án: [Đúng]
+d) Người có tiền sử bệnh tim mạch hoặc hay bị chóng mặt vẫn rất thích hợp làm thợ sửa chữa điện trên cao.  --> Đáp án: [Sai]
+Câu 4 (TH-VD): Về việc tự đánh giá sự phù hợp của bản thân với ngành nghề kĩ thuật điện:
+a) Học sinh có niềm yêu thích đồ dùng điện và có kết quả học tập tốt môn Vật lí, Công nghệ có lợi thế khi chọn ngành điện.  --> Đáp án: [Đúng]
+b) Đánh giá sự phù hợp chỉ dựa vào thu nhập của nghề chứ không cần xem xét sức khỏe bản thân.  --> Đáp án: [Sai]
+c) Phẩm chất cẩn thận, tỉ mỉ và trách nhiệm là yếu tố quan trọng giúp học sinh thành công trong ngành kĩ thuật điện.  --> Đáp án: [Đúng]
+d) Nhận biết sự phù hợp bản thân với ngành nghề kĩ thuật điện là không cần thiết trong chương trình giáo dục phổ thông.  --> Đáp án: [Sai]
+PHẦN III. CÂU HỎI TỰ LUẬN (03 CÂU)
+Câu 1 (VD - 1.0 điểm): Trình bày 3 ngành nghề phổ biến trong lĩnh vực kĩ thuật điện và nêu tóm tắt công việc chính của từng ngành nghề đó.
+Hướng dẫn chấm:
+- Trình bày đúng 3 ngành nghề: Kĩ sư điện, Kĩ thuật viên kĩ thuật điện, Thợ lắp đặt và sửa chữa thiết bị điện (0.3 điểm).
+- Nêu đúng công việc chính của Kĩ sư điện (nghiên cứu, thiết kế, quản lý hệ thống điện) (0.25 điểm).
+- Nêu đúng công việc chính của Kĩ thuật viên điện (hỗ trợ kĩ thuật, vận hành, kiểm tra) (0.225 điểm).
+- Nêu đúng công việc của Thợ điện (lắp đặt, bảo trì, sửa chữa thiết bị/đường dây điện) (0.225 điểm).
+Câu 2 (VD - 1.0 điểm): Tại sao trong ngành kĩ thuật điện, phẩm chất 'cẩn thận, trung thực và tuân thủ kỉ luật an toàn' lại được đặt lên hàng đầu? Phân tích hậu quả nếu người thợ điện làm việc cẩu thả.
+Hướng dẫn chấm:
+- Giải thích nguyên nhân: Dòng điện không màu không mùi, sự cố điện gây nguy hiểm trực tiếp tính mạng (giật điện, bỏng) và thiệt hại lớn tài sản (cháy nổ) (0.5 điểm).
+- Phân tích hậu quả việc làm cẩu thả: Đấu nối sai gây chập cháy, không cắt điện/không dùng dụng cụ bảo vệ dẫn đến tai nạn tử vong, gây mất điện diện rộng ảnh hưởng sản xuất và sinh hoạt (0.5 điểm).
+Câu 3 (VD - 1.0 điểm): Hãy tự liên hệ và đánh giá mức độ phù hợp của bản thân em đối với ngành nghề trong lĩnh vực kĩ thuật điện theo 3 tiêu chí: Sở thích, Năng lực học tập (Vật lí, Công nghệ) và Phẩm chất cá nhân.
+Hướng dẫn chấm:
+- Tiêu chí Sở thích: Nêu rõ bản thân có thích khám phá đồ dùng điện, máy móc hay không (0.3 điểm).
+- Tiêu chí Năng lực học tập: Đánh giá kết quả môn Công nghệ, Vật lí và kĩ năng thực hành (0.35 điểm).
+- Tiêu chí Phẩm chất cá nhân: Đánh giá độ cẩn thận, kiên nhẫn, ý thức an toàn và sức khỏe của bản thân; đưa ra kết luận phù hợp hay chưa phù hợp (0.35 điểm).
+III. MA TRẬN ĐỀ KIỂM TRA & ĐÁP ÁN CHI TIẾT
+1. Bảng đáp án Phần I (Trắc nghiệm 4 lựa chọn):
+T| Câu || 1 || 2 || 3 || 4 || 5 || 6 || 7 || 8 || 9 || 10 || 11 || 12
+T| Đ/Á || B || B || B || B || B || B || B || B || B || A || B || B
+2. Bảng đáp án Phần II (Trắc nghiệm Đúng/Sai - Kiểm tra tỉ lệ 2 Đúng / 2 Sai):
+T| Câu hỏi || Ý a) || Ý b) || Ý c) || Ý d) || Xác nhận tỉ lệ 2Đ/2S
+T| Câu 1 || Đúng || Sai || Đúng || Sai || 2 Đúng / 2 Sai (Đạt chuẩn)
+T| Câu 2 || Đúng || Đúng || Sai || Sai || 2 Đúng / 2 Sai (Đạt chuẩn)
+T| Câu 3 || Đúng || Sai || Đúng || Sai || 2 Đúng / 2 Sai (Đạt chuẩn)
+T| Câu 4 || Đúng || Sai || Đúng || Sai || 2 Đúng / 2 Sai (Đạt chuẩn)
+3. Bảng Ma trận tổng hợp mức độ đánh giá:
+T| Mức độ nhận thức || Phần I (MCQ) || Phần II (T/F) || Phần III (Tự luận) || Tổng điểm %
+T| Nhận biết (NB) || 8 câu (2.0 điểm) || 2 câu (8 ý) (2.0 điểm) || 0 câu || 40% (4.0 điểm)
+T| Thông hiểu (TH) || 4 câu (1.0 điểm) || 2 câu (8 ý) (2.0 điểm) || 0 câu || 30% (3.0 điểm)
+T| Vận dụng (VD) || 0 câu || 0 câu || 3 câu (3.0 điểm) || 30% (3.0 điểm)
+T| TỔNG CỘNG || 12 câu (3.0 điểm) || 4 câu (16 ý) (4.0 điểm) || 3 câu (3.0 điểm) || 100% (10.0 điểm)
+IV. BẢNG ĐỐI CHIẾU RÀ SOÁT QUY TẮC BIÊN SOẠN
+T| Tiêu chí quy định || Kết quả thực hiện || Đánh giá tuân thủ
+T| Cấu trúc bộ câu hỏi || Đủ 3 phần: I (12 MCQ), II (4 T/F), III (3 Tự luận) || HOÀN HẢO
+T| Quy tắc Đúng/Sai || 4 câu T/F, mỗi câu chuẩn 2 Đúng và 2 Sai || HOÀN HẢO
+T| Phân bố mức độ nhận thức || NB 40% - TH 30% - VD 30% || HOÀN HẢO
+T| Sự phù hợp YCCĐ SGK || Bám sát YCCĐ Bài 17 SGK Công nghệ 8 KNTT || HOÀN HẢO
+T| Định dạng file xuất || File Word (.docx) chuẩn thẩm mỹ sư phạm || HOÀN HẢO

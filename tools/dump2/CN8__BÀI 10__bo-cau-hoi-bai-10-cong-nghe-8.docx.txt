@@ -1,0 +1,196 @@
+BỘ CÂU HỎI ÔN TẬP VÀ ĐÁNH GIÁ NĂNG LỰC
+MON: CÔNG NGHỆ 8
+BÀI 10. DỰ ÁN: GIA CÔNG CHI TIẾT BẰNG DỤNG CỤ CẦM TAY
+(Chương II: Cơ khí – SGK Công nghệ 8 Kết nối tri thức)
+I. YÊU CẦU CẦN ĐẠT
+• Thực hiện được một số phương pháp gia công vật liệu bằng dụng cụ cầm tay (vạch dấu, cưa, dũa, đục, hoàn thiện bề mặt) thông qua dự án gia công sản phẩm móc khóa từ phôi nhôm 50 × 50 × 2 mm.
+• Mức độ nhận thức quy định: Nhận biết, Thông hiểu, Vận dụng.
+• Năng lực công nghệ & Phẩm chất: Rèn luyện kĩ năng gia công cơ khí bằng dụng cụ cầm tay; đảm bảo an toàn lao động và vệ sinh môi trường; có ý thức thu gom tái chế phế liệu.
+II. MA TRẬN ĐỀ KIỂM TRA ĐÁNH GIÁ
+T| Nội dung / Đề mục || Yêu cầu cần đạt || Nhận biết || Thông hiểu || Vận dụng || Vận dụng cao || Tổng số câu
+T| Nhiệm vụ & Thiết kế hình dạng móc khóa (SGK tr.56) || Thực hiện được phương pháp gia công bằng dụng cụ cầm tay || 4 câu TN1 || 1 câu TN1
+1 câu T/S || 1 câu T/S
+1 câu TL || 0 || 5 câu TN1
+2 câu T/S
+1 câu TL
+T| Tiến trình gia công bằng dụng cụ cầm tay (SGK tr.56-57) || Thực hiện được phương pháp gia công bằng dụng cụ cầm tay || 0 || 2 câu TN1
+1 câu T/S
+1 câu TL || 2 câu TN1
+1 câu T/S
+1 câu TL || 0 || 4 câu TN1
+2 câu T/S
+2 câu TL
+T| Đánh giá dự án & An toàn lao động (SGK tr.57) || Thực hiện được phương pháp gia công bằng dụng cụ cầm tay || 0 || 2 câu TN1
+1 câu T/S || 1 câu TN1
+1 câu T/S || 0 || 3 câu TN1
+2 câu T/S
+T| TỔNG CỘNG || Đạt chuẩn kiến thức GDPT 2018 || 4 câu TN1 || 5 câu TN1
+3 câu T/S
+1 câu TL || 3 câu TN1
+1 câu T/S
+2 câu TL || 0 || 12 TN1
+4 T/S (16 ý)
+3 TL
+III. PHẦN 1 – TRẮC NGHIỆM NHIỀU LỰA CHỌN (12 CÂU)
+Câu 1. [Mức độ: Nhận biết | YCCĐ: Thực hiện được một số phương pháp gia công vật liệu bằng dụng cụ cầm tay]
+Phôi tấm nhôm được cung cấp trong nhiệm vụ của Dự án Bài 10 có kích thước tiêu chuẩn là bao nhiêu?
+A. 40 × 40 × 2 mm.
+B. 50 × 50 × 2 mm.
+C. 60 × 60 × 3 mm.
+D. 50 × 50 × 5 mm.
+Câu 2. [Mức độ: Nhận biết | YCCĐ: Thực hiện được một số phương pháp gia công vật liệu bằng dụng cụ cầm tay]
+Tiến trình thực hiện dự án gia công chi tiết bằng dụng cụ cầm tay gồm mấy bước chính?
+A. 3 bước.
+B. 4 bước.
+C. 5 bước.
+D. 6 bước.
+Câu 3. [Mức độ: Nhận biết | YCCĐ: Thực hiện được một số phương pháp gia công vật liệu bằng dụng cụ cầm tay]
+Bước đầu tiên trong tiến trình thực hiện dự án gia công móc khóa là gì?
+A. Vạch dấu phôi theo bản vẽ thiết kế.
+B. Gia công móc khóa theo đường vạch dấu.
+C. Thiết kế hình dạng móc khóa trên giấy.
+D. Làm cùn cạnh sắc và hoàn thiện sản phẩm.
+Câu 4. [Mức độ: Nhận biết | YCCĐ: Thực hiện được một số phương pháp gia công vật liệu bằng dụng cụ cầm tay]
+Sau khi thiết kế hình dạng móc khóa trên giấy, công việc tiếp theo học sinh cần thực hiện trên phôi kim loại là gì?
+A. Dũa hoàn thiện cạnh sắc.
+B. Vạch dấu phôi theo bản vẽ thiết kế.
+C. Dùng búa gõ phẳng phôi.
+D. Đục khắc tên trực tiếp.
+Câu 5. [Mức độ: Thông hiểu | YCCĐ: Thực hiện được một số phương pháp gia công vật liệu bằng dụng cụ cầm tay]
+Khi cưa cắt đứt tấm nhôm mỏng (như phôi móc khóa厚 2 mm), giải pháp nào giúp đường cưa thẳng, không bị xiên và không vấp lưỡi cưa?
+A. Kẹp lót phôi nhôm mỏng cùng với tấm gỗ khi cưa.
+B. Đẩy cưa thật nhanh với lực nhấn rất mạnh.
+C. Cầm phôi trên tay và cưa trực tiếp không cần ê tô.
+D. Dùng đục chặt mạnh liên tục.
+Câu 6. [Mức độ: Thông hiểu | YCCĐ: Thực hiện được một số phương pháp gia công vật liệu bằng dụng cụ cầm tay]
+Để đánh bóng bề mặt sản phẩm móc khóa tạo độ nhẵn cao sau khi dũa, người ta sử dụng dụng cụ/vật liệu bổ trợ nào?
+A. Mũi đột.
+B. Giấy giáp (giấy nhám) hoặc vải giáp.
+C. Mũi vạch.
+D. Lưỡi cưa thô.
+Câu 7. [Mức độ: Thông hiểu | YCCĐ: Thực hiện được một số phương pháp gia công vật liệu bằng dụng cụ cầm tay]
+Theo tiêu chí kĩ thuật sản phẩm của dự án, kích thước móc khóa hoàn thiện được phép sai khác tối đa bao nhiêu so với bản thiết kế?
+A. ±0,1 mm.
+B. ±1 mm.
+C. ±3 mm.
+D. ±5 mm.
+Câu 8. [Mức độ: Thông hiểu | YCCĐ: Thực hiện được một số phương pháp gia công vật liệu bằng dụng cụ cầm tay]
+Mục đích chính của công đoạn 'Làm cùn cạnh sắc' ở bước 4 trong tiến trình thực hiện dự án là gì?
+A. Làm giảm bớt khối lượng nhôm của sản phẩm.
+B. Loại bỏ bavia nhọn, làm mịn mép sản phẩm để đảm bảo an toàn và tính thẩm mĩ khi sử dụng.
+C. Làm thay đổi kích thước thiết kế ban đầu.
+D. Giúp bề mặt dễ bám bụi bẩn hơn.
+Câu 9. [Mức độ: Vận dụng | YCCĐ: Thực hiện được một số phương pháp gia công vật liệu bằng dụng cụ cầm tay]
+Muốn khắc chữ hoặc tên cá nhân lên bề mặt móc khóa nhôm để tạo dấu ấn độc đáo, học sinh có thể sử dụng dụng cụ cầm tay nào?
+A. Dũa dẹt.
+B. Đục nhỏ (đục sắc) kết hợp búa.
+C. Kìm điện.
+D. Ê tô.
+Câu 10. [Mức độ: Vận dụng | YCCĐ: Thực hiện được một số phương pháp gia công vật liệu bằng dụng cụ cầm tay]
+Trong quá trình dũa các mặt bên của móc khóa nhôm trên ê tô, kĩ thuật nào giúp bề mặt phẳng đẹp và không làm trầy xước/móp méo phôi?
+A. Kẹp phôi nhôm thật chặt trực tiếp bằng má ê tô thép cứng.
+B. Kẹp phôi nhôm trên ê tô có lót má mềm (gỗ hoặc nhôm) và giữ dũa thăng bằng khi thao tác.
+C. Chỉ cầm dũa bằng một tay và nhấn thật mạnh.
+D. Đứng nghiêng 90 độ so với bàn ê tô.
+Câu 11. [Mức độ: Vận dụng | YCCĐ: Thực hiện được một số phương pháp gia công vật liệu bằng dụng cụ cầm tay]
+Sản phẩm móc khóa của một nhóm học sinh bị lệch kích thước so với bản vẽ 2,5 mm và còn nhiều bavia sắc nhọn. Đánh giá nào sau đây là chính xác?
+A. Đạt tiêu chuẩn chất lượng xuất sắc.
+B. Chưa đạt tiêu chí kích thước (vượt quá sai số ±1 mm) và chưa hoàn thiện bước làm cùn cạnh sắc.
+C. Đạt tính thẩm mĩ nhưng chưa đạt về vật liệu.
+D. Đạt yêu cầu an toàn lao động.
+Câu 12. [Mức độ: Vận dụng | YCCĐ: Thực hiện được một số phương pháp gia công vật liệu bằng dụng cụ cầm tay]
+Để đảm bảo an toàn lao động và bảo vệ môi trường trong quá trình thực hành gia công móc khóa nhôm, học sinh CẦN làm gì?
+A. Thổi mạt nhôm trên mặt bàn nguội trực tiếp bằng miệng.
+B. Đeo kính bảo hộ, kẹp chặt phôi, thu gom phoi nhôm phế liệu sau gia công để tái chế.
+C. Dùng tay trần gạt trực tiếp phoi nhôm sắc nhọn.
+D. Bỏ qua bước kiểm tra tay cầm búa và đục.
+IV. PHẦN 2 – TRẮC NGHIỆM ĐÚNG – SAI (04 CÂU)
+Câu 1. [Mức độ: Thông hiểu | YCCĐ: Thực hiện được một số phương pháp gia công vật liệu bằng dụng cụ cầm tay]
+Cho tình huống: Nhóm học sinh thực hiện Dự án Bài 10 'Gia công chi tiết bằng dụng cụ cầm tay' để chế tạo chiếc móc khóa nhôm từ tấm phôi 50 × 50 × 2 mm.
+a) Tấm nhôm phôi ban đầu có kích thước chiều dài 50 mm, chiều rộng 50 mm và độ dày 2 mm.
+b) Nhóm có thể tiến hành cưa, dũa trực tiếp phôi nhôm ngay mà không cần thực hiện bước vạch dấu phôi.
+c) Trình tự thực hiện chuẩn gồm 4 bước: Thiết kế trên giấy → Vạch dấu phôi → Gia công theo đường vạch dấu → Làm cùn cạnh sắc và hoàn thiện.
+d) Sản phẩm dự án chỉ đánh giá hình dạng móc khóa, không đánh giá thao tác gia công an toàn lao động.
+Câu 2. [Mức độ: Vận dụng | YCCĐ: Thực hiện được một số phương pháp gia công vật liệu bằng dụng cụ cầm tay]
+Xét kĩ thuật thao tác dụng cụ cầm tay khi gia công móc khóa nhôm:
+a) Khi cưa phôi nhôm mỏng, việc kẹp phôi cùng tấm gỗ giúp hỗ trợ đường cưa thẳng, tránh bị vấp lưỡi cưa.
+b) Khi dũa các cạnh phẳng của móc khóa, người thao tác cần giữ dũa thăng bằng và đẩy dũa đều đặn để bề mặt không bị lượn sóng.
+c) Để làm mịn bề mặt phôi nhôm nhanh chóng, ta dùng đục chặt liên tục lên toàn bộ bề mặt móc khóa.
+d) Có thể dùng miệng thổi trực tiếp phoi mạt nhôm trên bàn nguội để làm sạch phôi trong lúc dũa.
+Câu 3. [Mức độ: Vận dụng | YCCĐ: Thực hiện được một số phương pháp gia công vật liệu bằng dụng cụ cầm tay]
+Xét các tiêu chí đánh giá sản phẩm và báo cáo dự án gia công móc khóa:
+a) Kích thước của móc khóa sản phẩm được phép sai khác tối đa ±1 mm so với kích thước trong bản thiết kế.
+b) Sản phẩm làm cùn cạnh sắc kĩ, bề mặt bóng mịn sẽ đạt tiêu chí tính thẩm mĩ và an toàn cho người sử dụng.
+c) Thao tác gia công chuẩn xác và an toàn lao động không tính điểm trong đánh giá dự án.
+d) Báo cáo kết quả dự án trước lớp chỉ cần nộp sản phẩm mà không cần thuyết trình quy trình gia công.
+Câu 4. [Mức độ: Vận dụng | YCCĐ: Thực hiện được một số phương pháp gia công vật liệu bằng dụng cụ cầm tay]
+Xét việc áp dụng quy tắc an toàn lao động và vệ sinh môi trường trong thực hành cơ khí cầm tay:
+a) Học sinh cần kiểm tra tay cầm búa, đục chắc chắn và ê tô kẹp chặt phôi trước khi thao tác.
+b) Thu gom phoi nhôm phế liệu sau gia công giúp giữ vệ sinh xưởng thực hành và góp phần tái chế bảo vệ môi trường.
+c) Học sinh không cần đeo kính bảo hộ vì nhôm là kim loại mềm không bắn mạt.
+d) Khi cưa gần đứt phôi nhôm, cần đẩy cưa thật mạnh và nhanh để phôi tự gãy văng ra.
+V. PHẦN 3 – TỰ LUẬN (03 CÂU)
+Câu 1 (2,0 điểm) [Mức độ: Thông hiểu | YCCĐ: Thực hiện được một số phương pháp gia công vật liệu bằng dụng cụ cầm tay]
+Trình bày trình tự 4 bước thực hiện dự án 'Gia công chi tiết bằng dụng cụ cầm tay' (Bài 10 SGK Công nghệ 8 KNTT). Tại sao công đoạn vạch dấu phôi (Bước 2) lại có vai trò quyết định đến độ chính xác của sản phẩm?
+Câu 2 (2,0 điểm) [Mức độ: Vận dụng | YCCĐ: Thực hiện được một số phương pháp gia công vật liệu bằng dụng cụ cầm tay]
+Nêu các kĩ thuật bổ trợ và quy tắc an toàn lao động khi sử dụng cưa tay và dũa để gia công tấm nhôm mỏng 50 × 50 × 2 mm thành móc khóa. Giải thích tại sao khi cưa phôi nhôm mỏng cần kẹp lót phôi cùng tấm gỗ?
+Câu 3 (1,0 điểm) [Mức độ: Vận dụng | YCCĐ: Thực hiện được một số phương pháp gia công vật liệu bằng dụng cụ cầm tay]
+Giả sử nhóm em chọn thiết kế và gia công chiếc móc khóa nhôm có hình dáng 'Chiếc lá'. Hãy mô tả vắn tắt quy trình gia công chi tiết (dụng cụ cần dùng, các thao tác gia công chính) và đề xuất 3 tiêu chí đánh giá sản phẩm của nhóm.
+VI. ĐÁP ÁN CHI TIẾT
+1. Đáp án Phần 1 – Trắc nghiệm nhiều lựa chọn:
+T| Câu 1: B || Câu 2: B || Câu 3: C || Câu 4: B || Câu 5: A || Câu 6: B
+T| Câu 7: B || Câu 8: B || Câu 9: B || Câu 10: B || Câu 11: B || Câu 12: B
+T|  ||  ||  ||  ||  || 
+2. Đáp án Phần 2 – Trắc nghiệm Đúng / Sai:
+T| Câu || Ý a || Ý b || Ý c || Ý d
+T| Câu 1 || Đúng || Sai || Đúng || Sai
+T| Câu 2 || Đúng || Đúng || Sai || Sai
+T| Câu 3 || Đúng || Đúng || Sai || Sai
+T| Câu 4 || Đúng || Đúng || Sai || Sai
+VII. HƯỚNG DẪN CHẤM TỰ LUẬN
+Câu 1 (2,0 điểm):
+• Nêu đúng trình tự 4 bước thực hiện dự án (1,0 điểm):
+1. Bước 1: Thiết kế hình dạng móc khóa trên giấy (0,25 điểm).
+2. Bước 2: Vạch dấu phôi theo bản vẽ thiết kế (0,25 điểm).
+3. Bước 3: Gia công móc khóa theo đường vạch dấu bằng dụng cụ cơ khí bằng tay (0,25 điểm).
+4. Bước 4: Làm cùn cạnh sắc và hoàn thiện sản phẩm (0,25 điểm).
+• Giải thích vai trò của bước vạch dấu phôi (1,0 điểm):
+- Vạch dấu giúp xác định ranh giới giữa phần kim loại chi tiết cần giữ lại và phần lượng dư cần cắt bỏ (0,5 điểm).
+- Nếu vạch dấu sai hoặc không chính xác, người gia công cưa/dũa theo đường dấu sai sẽ làm sản phẩm bị lệch kích thước, sai hình dạng, dẫn đến hỏng phôi và không thể khắc phục (0,5 điểm).
+Câu 2 (2,0 điểm):
+• Kĩ thuật bổ trợ và quy tắc an toàn khi cưa, dũa (1,25 điểm):
+- Kẹp phôi mỏng cùng tấm gỗ khi cưa giúp tạo điểm tựa chắc chắn, cưa không bị xiên và tránh trượt lưỡi cưa vấp phôi nhôm mỏng (0,5 điểm).
+- Sử dụng lót má ê tô (mềm) khi dũa để không làm xước mép nhôm; dũa thăng bằng 2 tay (0,25 điểm).
+- Dùng giấy giáp/vải giáp đánh bóng bề mặt sản phẩm nhôm (0,25 điểm).
+- Quy tắc an toàn: Đeo kính bảo hộ; không thổi mạt nhôm bằng miệng; dùng chổi quét vệ sinh bàn nguội (0,25 điểm).
+• Giải thích ý nghĩa việc kẹp lót cùng tấm gỗ (0,75 điểm):
+- Nhôm tấm 2 mm rất mỏng, nếu kẹp trực tiếp một mình trên ê tô khi cưa dễ bị uốn cong, rung giật và kẹt răng cưa. Kẹp cùng tấm gỗ tạo khối vững chắc giúp cưa êm và đường cắt thẳng mịn (0,75 điểm).
+Câu 3 (1,0 điểm):
+• Mô tả quy trình gia công móc khóa 'Chiếc lá' (0,5 điểm):
+- Dụng cụ: Tấm nhôm 50x50x2 mm, giấy, bút, thước lá, mũi vạch, cưa tay, dũa (dẹt, tròn), đục nhỏ, búa, giấy giáp.
+- Thao tác: Vẽ mẫu chiếc lá trên giấy → Bôi phấn/lấy dấu phôi → Cưa gọt bớt góc dư → Dũa tạo đường cong chiếc lá và sống lá → Đục/mũi đột tạo gân lá và lỗ treo → Dũa làm cùn cạnh sắc → Đánh bóng bằng giấy giáp.
+• Đề xuất 3 tiêu chí đánh giá sản phẩm (0,5 điểm):
+1. Kĩ thuật sản phẩm: Đúng kích thước bản vẽ (±1 mm), hình dạng chiếc lá độc đáo, bề mặt nhẵn bóng không còn cạnh sắc bavia.
+2. Thao tác gia công: Thao tác đúng kĩ thuật, an toàn lao động, nơi làm việc gọn gàng.
+3. Báo cáo sản phẩm: Trình bày rõ ràng, diễn đạt tự tin trước lớp.
+VIII. BẢNG ĐỐI CHIẾU CÂU HỎI – NỘI DUNG – MỨC ĐỘ – YCCĐ
+T| Câu hỏi || Nội dung kiến thức || Mức độ nhận thức || Yêu cầu cần đạt (YCCĐ)
+T| TN Câu 1 || Kích thước phôi nhôm dự án || Nhận biết || Thực hiện được phương pháp gia công bằng dụng cụ cầm tay
+T| TN Câu 2 || Số bước tiến trình dự án || Nhận biết || Thực hiện được phương pháp gia công bằng dụng cụ cầm tay
+T| TN Câu 3 || Bước 1 tiến trình dự án || Nhận biết || Thực hiện được phương pháp gia công bằng dụng cụ cầm tay
+T| TN Câu 4 || Bước 2 vạch dấu phôi nhôm || Nhận biết || Thực hiện được phương pháp gia công bằng dụng cụ cầm tay
+T| TN Câu 5 || Kĩ thuật cưa phôi nhôm mỏng lót gỗ || Thông hiểu || Thực hiện được phương pháp gia công bằng dụng cụ cầm tay
+T| TN Câu 6 || Đánh bóng bề mặt bằng giấy giáp || Thông hiểu || Thực hiện được phương pháp gia công bằng dụng cụ cầm tay
+T| TN Câu 7 || Dung sai kích thước (±1 mm) || Thông hiểu || Thực hiện được phương pháp gia công bằng dụng cụ cầm tay
+T| TN Câu 8 || Mục đích làm cùn cạnh sắc || Thông hiểu || Thực hiện được phương pháp gia công bằng dụng cụ cầm tay
+T| TN Câu 9 || Dùng đục/búa khắc tên cá nhân || Vận dụng || Thực hiện được phương pháp gia công bằng dụng cụ cầm tay
+T| TN Câu 10 || Kĩ thuật dũa lót má ê tô || Vận dụng || Thực hiện được phương pháp gia công bằng dụng cụ cầm tay
+T| TN Câu 11 || Đánh giá lỗi sai số kích thước || Vận dụng || Thực hiện được phương pháp gia công bằng dụng cụ cầm tay
+T| TN Câu 12 || An toàn & Vệ sinh thu gom phoi || Vận dụng || Thực hiện được phương pháp gia công bằng dụng cụ cầm tay
+T| T/S Câu 1 || Tình huống vạch dấu & tiến trình || Thông hiểu || Thực hiện được phương pháp gia công bằng dụng cụ cầm tay
+T| T/S Câu 2 || Kĩ thuật cưa, dũa, vệ sinh phoi || Vận dụng || Thực hiện được phương pháp gia công bằng dụng cụ cầm tay
+T| T/S Câu 3 || Tiêu chí đánh giá & Báo cáo || Vận dụng || Thực hiện được phương pháp gia công bằng dụng cụ cầm tay
+T| T/S Câu 4 || An toàn lao động & Tái chế phoi || Vận dụng || Thực hiện được phương pháp gia công bằng dụng cụ cầm tay
+T| TL Câu 1 || Trình tự 4 bước & vai trò vạch dấu || Thông hiểu || Thực hiện được phương pháp gia công bằng dụng cụ cầm tay
+T| TL Câu 2 || Kĩ thuật cưa lót gỗ & An toàn || Vận dụng || Thực hiện được phương pháp gia công bằng dụng cụ cầm tay
+T| TL Câu 3 || Quy trình gia công móc khóa chiếc lá || Vận dụng || Thực hiện được phương pháp gia công bằng dụng cụ cầm tay

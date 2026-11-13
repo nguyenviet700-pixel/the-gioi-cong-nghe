@@ -1,0 +1,134 @@
+BÀI 5: BẢN VẼ NHÀ
+PHẦN I: YÊU CẦU CẦN ĐẠT VÀ MA TRẬN ĐÁNH GIÁ
+1. Yêu cầu cần đạt (YCCĐ):
+- Đọc được bản vẽ nhà đơn giản (biết được nội dung các hình biểu diễn, các kí hiệu quy ước bộ phận ngôi nhà, các kích thước và trình tự đọc bản vẽ nhà).
+- Tích hợp năng lực số: Nhận biết các biểu trưng, kí hiệu quy ước kiến trúc trên các phần mềm thiết kế và bản vẽ kĩ thuật số.
+2. Ma trận đề kiểm tra đánh giá:
+T| Nội dung / Chủ đề || Nhận biết (MCQ) || Thông hiểu (MCQ) || Đúng/Sai (TF) || Tự luận (TL) || Tổng số câu
+T| 1. Nội dung bản vẽ nhà || 3 câu || 2 câu || 1 câu (4 ý) || 1 câu || 7 câu
+T| 2. Kí hiệu quy ước bộ phận nhà || 3 câu || 1 câu || 1 câu (4 ý) || 0 câu || 5 câu
+T| 3. Trình tự đọc bản vẽ nhà || 2 câu || 1 câu || 2 câu (8 ý) || 2 câu || 7 câu
+T| TỔNG CỘNG || 8 câu (2.0đ) || 4 câu (1.0đ) || 4 câu (4.0đ) || 3 câu (3.0đ) || 19 câu (10.0đ)
+PHẦN II: BỘ CÂU HỎI ĐÁNH GIÁ (ĐỀ BÀI)
+A. TRẮC NGHIỆM NHIỀU LỰA CHỌN (12 CÂU - 3.0 ĐIỂM)
+Câu 1 (NB): Bản vẽ nhà là loại bản vẽ kĩ thuật thuộc lĩnh vực nào?
+A. Cơ khí chế tạo
+B. Xây dựng và kiến trúc
+C. Điện - điện tử
+D. Mạng máy tính
+Câu 2 (NB): Hình biểu diễn quan trọng nhất của bản vẽ nhà dùng để thể hiện bố trí không gian, phòng ở và cửa đi là:
+A. Mặt đứng
+B. Mặt bằng
+C. Mặt cắt
+D. Khung tên
+Câu 3 (NB): Mặt đứng của ngôi nhà thể hiện đặc điểm gì?
+A. Kết cấu các bộ phận bên trong theo chiều cao
+B. Bố trí các phòng và lối đi trên mặt bằng
+C. Hình dáng kiến trúc bên ngoài của ngôi nhà
+D. Danh mục chi tiết nguyên vật liệu xây dựng
+Câu 4 (NB): Hình cắt (mặt cắt) của bản vẽ nhà là hình nhận được khi dùng mặt phẳng cắt song song với:
+A. Mặt phẳng chiếu đứng (hoặc chiếu cạnh) cắt qua các không gian
+B. Mặt phẳng chiếu bằng cắt ngang các cửa sổ
+C. Mặt đất phẳng nghiêng
+D. Khung tên bản vẽ
+Câu 5 (NB): Kí hiệu quy ước cửa đi một cánh mở vào trong trên mặt bằng được vẽ bằng:
+A. Một nét liền đậm biểu diễn cánh cửa và cung tròn chỉ hướng mở
+B. Hai đường song song song nét đứt
+C. Hình chữ nhật gạch chéo
+D. Cặp đường hình zíc-zắc
+Câu 6 (NB): Trên bản vẽ nhà, đường nét biểu diễn cầu thang trên mặt bằng thường có kí hiệu:
+A. Các đường gạch song song đều nhau biểu diễn các bậc thang và mũi tên chỉ hướng đi lên
+B. Hình vòm cung kín
+C. Hai hình tròn lồng nhau
+D. Nét gạch chấm mảnh có mũi tên
+Câu 7 (NB): Bước đầu tiên trong trình tự đọc bản vẽ nhà là đọc nội dung gì?
+A. Hình biểu diễn
+B. Kích thước
+C. Khung tên
+D. Các bộ phận
+Câu 8 (NB): Bước cuối cùng (bước 4) trong trình tự đọc bản vẽ nhà là gì?
+A. Đọc kích thước tổng thể
+B. Đọc khung tên
+C. Đọc các bộ phận ngôi nhà
+D. Phân tích mặt bằng
+Câu 9 (TH): Khi đọc kích thước trên bản vẽ nhà, kích thước ghi 6000 x 9000 (mm) trên mặt bằng cho biết thông tin gì?
+A. Chiều cao nhà và chiều cao cửa đi
+B. Kích thước chiều rộng và chiều dài tổng thể của ngôi nhà
+C. Kích thước bề dày tường gạch
+D. Diện tích ban công
+Câu 10 (TH): Tại sao mặt bằng lại là hình biểu diễn quan trọng nhất trong bản vẽ nhà?
+A. Vì nó thể hiện hình dáng bên ngoài đẹp nhất của nhà
+B. Vì nó thể hiện vị trí, kích thước các phòng, cửa đi, cửa sổ và giao thông trong nhà
+C. Vì nó cho biết chiều cao tổng thể ngôi nhà
+D. Vì nó thay thế hoàn toàn được khung tên và bảng kê
+Câu 11 (TH): Điểm khác biệt chính giữa mặt cắt và mặt đứng của bản vẽ nhà là gì?
+A. Mặt cắt cho thấy kết cấu không gian bên trong theo chiều cao; mặt đứng cho thấy hình dáng kiến trúc bên ngoài
+B. Mặt cắt vẽ bằng nét đứt; mặt đứng vẽ bằng nét liền đậm
+C. Mặt cắt không có kích thước; mặt đứng có đầy đủ kích thước
+D. Mặt cắt vẽ trên khổ A4; mặt đứng vẽ trên khổ A0
+Câu 12 (TH): Khi đọc bản vẽ nhà ở gia đình, ở bước "Các bộ phận", người đọc cần xác định những thông tin gì?
+A. Tên gọi ngôi nhà, tỉ lệ, người vẽ
+B. Số lượng phòng, số lượng cửa đi, cửa sổ, cầu thang và các thiết bị vệ sinh
+C. Chiều cao tầng và chiều cao mái
+D. Tiêu chuẩn nét vẽ
+B. TRẮC NGHIỆM ĐÚNG/SAI (4 CÂU - 4.0 ĐIỂM)
+Trong mỗi ý a), b), c), d) ở từng câu, học sinh chọn Đúng (Đ) hoặc Sai (S).
+Câu 1 (NB-TH): Về nội dung các hình biểu diễn trong bản vẽ nhà:
+a) Mặt bằng là hình chiếu bằng của ngôi nhà sau khi đã cắt bỏ phần mái bằng mặt phẳng nằm ngang.
+b) Mặt đứng là hình chiếu vuông góc mặt ngoài của ngôi nhà lên mặt phẳng chiếu đứng hoặc chiếu cạnh.
+c) Mặt cắt không thể hiện được chiều cao các tầng và kích thước cửa theo chiều cao.
+d) Bản vẽ nhà chỉ cần duy nhất hình chiếu đứng là đủ để công nhân xây dựng ngôi nhà.
+Câu 2 (NB-TH): Về kí hiệu quy ước một số bộ phận của ngôi nhà:
+a) Cửa đi đơn 1 cánh mở ra ngoài và mở vào trong có kí hiệu hình học giống hệt nhau.
+b) Kí hiệu cửa sổ trên mặt bằng tường thể hiện rõ chiều rộng cửa và vị trí đặt cửa trên tường.
+c) Cầu thang trên mặt bằng được kí hiệu bởi các đường song song thể hiện bậc và hướng đi lên.
+d) Các kí hiệu quy ước bộ phận nhà được quy định theo Tiêu chuẩn Việt Nam (TCVN) để dùng chung.
+Câu 3 (NB-TH): Về trình tự đọc bản vẽ nhà:
+a) Trình tự đọc bản vẽ nhà chuẩn gồm 4 bước: Khung tên -> Hình biểu diễn -> Kích thước -> Các bộ phận.
+b) Ở bước Khung tên, người đọc xác định được tên gọi ngôi nhà, tỉ lệ bản vẽ và nơi thiết kế.
+c) Ở bước Kích thước, chỉ cần xác định kích thước từng phòng mà không cần xem kích thước chung.
+d) Bước đọc các bộ phận được thực hiện đầu tiên trước khi xem hình biểu diễn.
+Câu 4 (TH-VD): Về ứng dụng thực tế và đọc thông số bản vẽ nhà:
+a) Từ mặt bằng bản vẽ nhà, người thợ có thể tính toán được diện tích sử dụng của từng phòng.
+b) Kích thước ghi trên bản vẽ nhà là kích thước thực tế tính bằng milimét (mm).
+c) Khi đọc bản vẽ nhà, không cần quan tâm đến kí hiệu cửa vì người thợ tự quyết định khi thi công.
+d) Bản vẽ nhà chỉ dùng cho kiến trúc sư, công nhân xây dựng không cần đọc bản vẽ.
+C. TỰ LUẬN (3 CÂU - 3.0 ĐIỂM)
+Câu 1 (1.0 điểm - TH): Trình bày 4 bước theo đúng trình tự đọc một bản vẽ nhà đơn giản. Nêu rõ nội dung cần đọc tại bước "Hình biểu diễn".
+Câu 2 (1.0 điểm - TH): Trình bày sự khác nhau về mục đích thể hiện và nội dung thông tin giữa 3 hình biểu diễn chính: Mặt bằng, Mặt đứng và Mặt cắt trong bản vẽ nhà.
+Câu 3 (1.0 điểm - VD): Giả sử gia đình em muốn xây một ngôi nhà cấp 4 có diện tích 5m x 12m gồm: 1 phòng khách, 2 phòng ngủ, 1 phòng bếp + ăn và 1 nhà vệ sinh. Em hãy mô tả cách bố trí mặt bằng không gian các phòng và đề xuất vị trí đặt cửa đi chính, cửa sổ để đảm bảo thông thoáng, ánh sáng tự nhiên.
+PHẦN III: ĐÁP ÁN VÀ HƯỚNG DẪN CHẤM CHI TIẾT
+1. Đáp án Trắc nghiệm nhiều lựa chọn (12 câu - mỗi câu 0.25đ):
+T| Câu 1: B || Câu 2: B || Câu 3: C || Câu 4: A || Câu 5: A || Câu 6: A
+T| Câu 7: C || Câu 8: C || Câu 9: B || Câu 10: B || Câu 11: A || Câu 12: B
+2. Đáp án Trắc nghiệm Đúng/Sai (4 câu - mỗi câu 1.0đ):
+Quy tắc tính điểm từng câu Đúng/Sai:
+- Đúng 1 ý: 0.1 điểm
+- Đúng 2 ý: 0.25 điểm
+- Đúng 3 ý: 0.5 điểm
+- Đúng 4 ý: 1.0 điểm
+• Câu 1: a) Đúng | b) Đúng | c) Sai | d) Sai (Tỉ lệ Đ/S: 2 Đúng / 2 Sai)
+• Câu 2: a) Sai | b) Đúng | c) Đúng | d) Sai (Tỉ lệ Đ/S: 2 Đúng / 2 Sai)
+• Câu 3: a) Đúng | b) Đúng | c) Sai | d) Sai (Tỉ lệ Đ/S: 2 Đúng / 2 Sai)
+• Câu 4: a) Đúng | b) Đúng | c) Sai | d) Sai (Tỉ lệ Đ/S: 2 Đúng / 2 Sai)
+3. Hướng dẫn chấm Tự luận (3 câu - 3.0 điểm):
+Câu 1 (1.0đ):
+- Nêu đúng 4 bước theo trình tự đọc bản vẽ nhà (0.5đ): 1. Khung tên -> 2. Hình biểu diễn -> 3. Kích thước -> 4. Các bộ phận.
+- Nội dung cần đọc ở bước Hình biểu diễn (0.5đ): Tên gọi các hình biểu diễn (Mặt bằng, Mặt đứng, Mặt cắt) và mối quan hệ giữa các hình biểu diễn trên bản vẽ.
+Câu 2 (1.0đ):
+- Mặt bằng (0.35đ): Là hình cắt bằng cắt qua cửa sổ, thể hiện vị trí, kích thước phòng, cửa đi, cửa sổ, cầu thang và lối đi.
+- Mặt đứng (0.35đ): Là hình chiếu vuông góc mặt ngoài ngôi nhà, thể hiện hình dáng kiến trúc, vẻ đẹp bên ngoài và đường nét công trình.
+- Mặt cắt (0.30đ): Là hình cắt tạo bởi mặt phẳng cắt đứng, thể hiện kết cấu các bộ phận ngôi nhà theo chiều cao (chiều cao tầng, mái, móng, cửa).
+Câu 3 (1.0đ):
+- Bố trí không gian hợp lí (0.5đ): Phòng khách đặt phía trước gần cửa chính; Tiếp đến là 2 phòng ngủ; Phòng bếp + ăn và nhà vệ sinh đặt ở phía sau nhà.
+- Đề xuất cửa & thông thoáng (0.5đ): Cửa chính rộng mở ra sân trước; Cửa sổ phòng khách & phòng ngủ mở ra hai bên/sân; Có ô thoáng/giếng trời ở phía sau/nhà vệ sinh để đối lưu không khí.
+PHẦN IV: BẢNG ĐỐI CHIẾU CÂU HỎI - YCCĐ - MỨC ĐỘ NHẬN THỨC
+T| Câu hỏi || Dạng câu hỏi || Yêu cầu cần đạt (YCCĐ) || Mức độ nhận thức
+T| Câu 1-4 (MCQ) || Trắc nghiệm nhiều lựa chọn || Nêu được khái niệm, phân loại các hình biểu diễn chính trong bản vẽ nhà || Nhận biết
+T| Câu 5-8 (MCQ) || Trắc nghiệm nhiều lựa chọn || Nhận biết được kí hiệu quy ước bộ phận nhà và 4 bước trình tự đọc || Nhận biết
+T| Câu 9-12 (MCQ) || Trắc nghiệm nhiều lựa chọn || Hiểu ý nghĩa kích thước, tầm quan trọng của mặt bằng và vai trò từng bước đọc || Thông hiểu
+T| Câu 1-2 (Đ/S) || Trắc nghiệm Đúng/Sai || Hiểu sâu bản chất các hình biểu diễn và hệ thống kí hiệu quy ước || Nhận biết - Thông hiểu
+T| Câu 3-4 (Đ/S) || Trắc nghiệm Đúng/Sai || Vận dụng trình tự đọc và phân tích thông số thực tế trên bản vẽ nhà || Thông hiểu - Vận dụng
+T| Câu 1 (TL) || Tự luận || Trình bày chuẩn xác 4 bước đọc bản vẽ nhà và nội dung hình biểu diễn || Thông hiểu
+T| Câu 2 (TL) || Tự luận || Phân biệt bản chất và mục đích 3 hình biểu diễn: Mặt bằng, Mặt đứng, Mặt cắt || Thông hiểu
+T| Câu 3 (TL) || Tự luận || Vận dụng kiến thức bản vẽ nhà để đề xuất phương án bố trí không gian thực tế || Vận dụng

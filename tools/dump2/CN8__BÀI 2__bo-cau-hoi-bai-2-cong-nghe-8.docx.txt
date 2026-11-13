@@ -1,0 +1,162 @@
+BÀI 2: HÌNH CHIẾU VUÔNG GÓC - CÔNG NGHỆ 8 (KNTT)
+I. YÊU CẦU CẦN ĐẠT VÀ MỤC TIÊU ĐÁNH GIÁ
+T| Mức độ nhận thức || Yêu cầu cần đạt (YCCĐ) chi tiết - Bài 2
+T| Nhận biết (NB) || • Nêu được khái niệm phép chiếu vuông góc, các mặt phẳng chiếu (mặt phẳng chiếu đứng, mặt phẳng chiếu bằng, mặt phẳng chiếu cạnh).
+• Nhận biết được tên gọi, hướng chiếu và vị trí tương đối của ba hình chiếu vuông góc (hình chiếu đứng, hình chiếu bằng, hình chiếu cạnh) theo phương pháp góc chiếu thứ nhất.
+• Nhận biết được đặc điểm hình chiếu vuông góc của các khối đa diện (hình hộp chữ nhật, hình lăng trụ đều, hình chóp đều) và khối tròn xoay (hình trụ, hình nón, hình cầu).
+T| Thông hiểu (TH) || • Hiểu được nguyên lý hình thành hình chiếu vuông góc và mối quan hệ giữa hướng chiếu với hình chiếu thu được.
+• Giải thích được sự tương ứng giữa các kích thước của vật thể (chiều dài, chiều rộng, chiều cao) với kích thước thể hiện trên các hình chiếu đứng, hình chiếu bằng và hình chiếu cạnh.
+• Phân biệt được sự giống và khác nhau giữa hình chiếu của khối đa diện và khối tròn xoay.
+T| Vận dụng (VD) || • Vẽ được các hình chiếu vuông góc của một số khối đa diện và khối tròn xoay đơn giản theo phương pháp góc chiếu thứ nhất.
+• Vẽ và ghi được kích thước các hình chiếu vuông góc của vật thể đơn giản đúng tiêu chuẩn kĩ thuật.
+II. MA TRẬN ĐỀ KIỂM TRÁ VÀ ĐÁNH GIÁ
+T| Dạng câu hỏi || Nhận biết || Thông hiểu || Vận dụng || Tổng số
+T| Phần I: Trắc nghiệm 4 lựa chọn (12 câu) || 7 câu
+(1.75đ) || 3 câu
+(0.75đ) || 2 câu
+(0.50đ) || 12 câu
+(3.0đ)
+T| Phần II: Trắc nghiệm Đúng/Sai (4 câu - 16 ý) || 8 ý (2 câu)
+(2.0đ) || 8 ý (2 câu)
+(2.0đ) || 0 ý || 4 câu
+(4.0đ)
+T| Phần III: Tự luận (3 câu) || 0 câu || 2 câu
+(1.5đ) || 1 câu
+(1.5đ) || 3 câu
+(3.0đ)
+T| Tổng điểm toàn bài || 3.75 điểm
+(37.5%) || 4.25 điểm
+(42.5%) || 2.0 điểm
+(20.0%) || 10.0 điểm
+(100%)
+III. BẢNG ĐỐI CHIẾU MỨC ĐỘ NHẬN THỨC VÀ YCCĐ
+T| Câu hỏi || Mức độ || Yêu cầu cần đạt được đánh giá
+T| Phần I: Câu 1 - Câu 7 || Nhận biết || Nêu khái niệm tia chiếu vuông góc, hướng chiếu, tên gọi và vị trí 3 hình chiếu; đặc điểm hình chiếu khối đa diện, khối tròn xoay.
+T| Phần I: Câu 8 - Câu 10 || Thông hiểu || Giải thích hình dạng các hình chiếu của hình chóp đều, hình trụ, hình cầu khi đặt đáy song song mặt phẳng chiếu.
+T| Phần I: Câu 11 - Câu 12 || Vận dụng || Xác định hướng chiếu tạo hình chiếu cạnh vật thể gá chữ L; áp dụng quy tắc ghi kích thước hình chiếu.
+T| Phần II: Câu 1 - Câu 2 || Nhận biết / TH || Đánh giá tính đúng/sai về phương pháp góc chiếu thứ nhất và đặc điểm hình chiếu của khối đa diện.
+T| Phần II: Câu 3 - Câu 4 || Nhận biết / TH || Đánh giá tính đúng/sai về đặc điểm hình chiếu khối tròn xoay và quy trình thực hành vẽ hình chiếu.
+T| Phần III: Câu 1 - Câu 3 || TH & VD || Trình bày vị trí 3 hình chiếu; so sánh hình chiếu khối đa diện - khối tròn xoay; tính kích thước và nêu các bước vẽ hình chiếu vật thể gá chạc.
+IV. NỘI DUNG BỘ CÂU HỎI ĐÁNH GIÁ
+PHẦN I. TRẮC NGHIỆM NHIỀU LỰA CHỌN (12 CÂU - 3.0 ĐIỂM)
+Khoanh tròn vào chữ cái A, B, C hoặc D trước câu trả lời đúng nhất:
+Câu 1 (NB): Trong phương pháp chiếu vuông góc, các tia chiếu có đặc điểm gì so với mặt phẳng chiếu?
+A. Song song với mặt phẳng chiếu.
+B. Vuông góc với mặt phẳng chiếu.
+C. Xiên góc 45 độ với mặt phẳng chiếu.
+D. Cắt nhau tại một điểm trên mặt phẳng chiếu.
+Câu 2 (NB): Hướng chiếu từ trước vào vật thể cho ta thu được hình chiếu nào?
+A. Hình chiếu đứng.
+B. Hình chiếu bằng.
+C. Hình chiếu cạnh.
+D. Hình chiếu phối cảnh.
+Câu 3 (NB): Hướng chiếu từ trên xuống dưới cho ta thu được hình chiếu nào?
+A. Hình chiếu đứng.
+B. Hình chiếu bằng.
+C. Hình chiếu cạnh.
+D. Hình chiếu ngược.
+Câu 4 (NB): Trên bản vẽ kĩ thuật (theo phương pháp góc chiếu thứ nhất), hình chiếu bằng được đặt ở vị trí nào?
+A. Ở bên trái hình chiếu đứng.
+B. Ở bên phải hình chiếu đứng.
+C. Ở phía dưới hình chiếu đứng.
+D. Ở phía trên hình chiếu đứng.
+Câu 5 (NB): Mặt phẳng chiếu nằm ở phía sau vật thể gọi là gì?
+A. Mặt phẳng chiếu đứng.
+B. Mặt phẳng chiếu bằng.
+C. Mặt phẳng chiếu cạnh.
+D. Mặt phẳng chiếu ngang.
+Câu 6 (NB): Khối nào sau đây thuộc nhóm khối đa diện?
+A. Hình trụ.
+B. Hình nón.
+C. Hình cầu.
+D. Hình chóp đều.
+Câu 7 (NB): Khối tròn xoay nào được tạo thành khi quay một hình chữ nhật quanh một cạnh cố định một vòng?
+A. Hình nón.
+B. Hình trụ.
+C. Hình cầu.
+D. Hình nón cụt.
+Câu 8 (TH): Đặt mặt đáy của hình chóp đều đáy tam giác song song với mặt phẳng chiếu bằng. Hình chiếu bằng của hình chóp đều có dạng là gì?
+A. Hình tam giác có đường cao.
+B. Hình tam giác đều có 3 đoạn thẳng nối từ các đỉnh đáy đến tâm.
+C. Hình chữ nhật có hai đường chéo.
+D. Hình tròn có đường kính đáy.
+Câu 9 (TH): Hình chiếu đứng và hình chiếu bằng của hình trụ có mặt đáy song song với mặt phẳng chiếu bằng lần lượt có dạng là hình gì?
+A. Hình chữ nhật và hình tròn.
+B. Hình tròn và hình chữ nhật.
+C. Hình tam giác và hình tròn.
+D. Hình chữ nhật và hình chữ nhật.
+Câu 10 (TH): Khối cầu có đường kính d. Ba hình chiếu (đứng, bằng, cạnh) của khối cầu có đặc điểm gì?
+A. Là ba hình vuông bằng nhau có cạnh d.
+B. Là ba hình tròn bằng nhau có đường kính d.
+C. Gồm hai hình chữ nhật và một hình tròn.
+D. Gồm hai hình tròn và một hình chữ nhật.
+Câu 11 (VD): Quan sát một gá chữ L. Để vẽ được hình chiếu cạnh thể hiện chiều rộng và chiều cao của gá chữ L, ta cần chiếu vật thể theo hướng nào?
+A. Từ trước ra sau.
+B. Từ trên xuống dưới.
+C. Từ trái sang phải.
+D. Từ dưới lên trên.
+Câu 12 (VD): Nguyên tắc ghi kích thước nào sau đây là ĐÚNG trên bản vẽ kĩ thuật?
+A. Mỗi kích thước của vật thể được ghi lặp lại trên cả ba hình chiếu.
+B. Mỗi kích thước chỉ ghi một lần trên hình chiếu thể hiện rõ nhất cấu tạo của phần đó.
+C. Đường kích thước được vẽ bằng nét liền đậm và cắt ngang đường gióng.
+D. Chữ số kích thước đặt phía dưới đường kích thước.
+PHẦN II. TRẮC NGHIỆM ĐÚNG/SAI (4 CÂU - 4.0 ĐIỂM)
+Trong mỗi ý a), b), c), d) ở từng câu, học sinh chọn Đúng (Đ) hoặc Sai (S):
+Câu 1: Xét về phương pháp góc chiếu thứ nhất và cách bố trí các hình chiếu trên bản vẽ kĩ thuật:
+a) Trong phương pháp góc chiếu thứ nhất, vật thể được đặt ở khoảng giữa người quan sát và mặt phẳng chiếu.
+b) Hình chiếu cạnh thể hiện chiều cao và chiều rộng của vật thể, được đặt ở bên trái hình chiếu đứng.
+c) Hướng chiếu từ trên xuống cho ta hình chiếu bằng, nằm ở vị trí phía dưới hình chiếu đứng.
+d) Mặt phẳng chiếu bằng được mở quay lên trên 90 độ để trùng với mặt phẳng chiếu đứng.
+Câu 2: Xét về đặc điểm hình chiếu của nhóm khối đa diện (hình hộp chữ nhật, lăng trụ đều, chóp đều):
+a) Khối đa diện là khối được bao bởi các hình đa giác phẳng.
+b) Hình chiếu đứng và hình chiếu cạnh của hình lăng trụ đều tam giác (đáy song song MP chiếu bằng) đều có dạng là hình chữ nhật.
+c) Hình chiếu bằng của hình hộp chữ nhật thể hiện hai kích thước là chiều dài và chiều cao của hình hộp.
+d) Cả ba hình chiếu (đứng, bằng, cạnh) của hình chóp đều đáy hình vuông đều là các hình tam giác cân.
+Câu 3: Tìm hiểu về các khối tròn xoay (hình trụ, hình nón, hình cầu):
+a) Khối tròn xoay được tạo thành khi quay một hình phẳng quanh một đường cố định làm trục quay của hình.
+b) Khi quay nửa hình tròn quanh đường kính cố định của nó một vòng, ta thu được hình nón.
+c) Nếu mặt đáy của hình nón song song với mặt phẳng chiếu bằng thì hình chiếu đứng là hình tam giác cân, hình chiếu bằng là hình tròn có tâm.
+d) Hình chiếu đứng của hình trụ có mặt đáy song song với mặt phẳng chiếu bằng luôn là hình tròn có đường kính bằng đường kính đáy.
+Câu 4: Về thực hành vẽ hình chiếu vuông góc và ghi kích thước vật thể đơn giản:
+a) Trình tự vẽ hình chiếu vuông góc vật thể là: Vẽ khung bản vẽ và khung tên -> Vẽ nét mờ các hình chiếu -> Tô đậm các nét thấy -> Ghi kích thước.
+b) Nét đứt mảnh được dùng để thể hiện các đường viền thấy, cạnh thấy của vật thể trên hình chiếu.
+c) Kích thước chiều dài của vật thể xuất hiện trên cả hình chiếu đứng và hình chiếu bằng.
+d) Các đường gióng kích thước vẽ bằng nét liền đậm và kẻ vượt qua đường kích thước từ 10 đến 15 mm.
+PHẦN III. TỰ LUẬN (3 CÂU - 3.0 ĐIỂM)
+Câu 1 (TH - 0.75 điểm): Trình bày tên gọi, hướng chiếu và vị trí tương đối của ba hình chiếu vuông góc (hình chiếu đứng, hình chiếu bằng, hình chiếu cạnh) trên bản vẽ kĩ thuật theo phương pháp góc chiếu thứ nhất.
+Câu 2 (TH - 0.75 điểm): So sánh sự giống và khác nhau về các hình chiếu vuông góc của khối đa diện (hình hộp chữ nhật) và khối tròn xoay (hình trụ) khi đặt mặt đáy của chúng song song với mặt phẳng chiếu bằng.
+Câu 3 (VD - 1.5 điểm): Một vật thể gá chạc đơn giản có kích thước bao gồm: chiều dài L = 60 mm, chiều rộng W = 40 mm, chiều cao H = 30 mm.
+a) Hãy cho biết kích thước nào của vật thể xuất hiện trên từng hình chiếu (hình chiếu đứng, hình chiếu bằng, hình chiếu cạnh).
+b) Nêu tóm tắt các bước lập bản vẽ kĩ thuật thể hiện 3 hình chiếu vuông góc của vật thể này đúng quy trình.
+V. ĐÁP ÁN VÀ HƯỚNG DẪN CHẤM CHI TIẾT
+1. Đáp án Phần I: Trắc nghiệm 4 lựa chọn (0.25 điểm / câu)
+T| Câu 1/7 || Câu 2/8 || Câu 3/9 || Câu 4/10 || Câu 5/11 || Câu 6/12
+T| Câu 1: B || Câu 2: A || Câu 3: B || Câu 4: C || Câu 5: A || Câu 6: D
+T| Câu 7: B || Câu 8: B || Câu 9: A || Câu 10: B || Câu 11: C || Câu 12: B
+2. Đáp án Phần II: Trắc nghiệm Đúng/Sai (1.0 điểm / câu)
+Cách tính điểm: Đúng 1 ý = 0.1 đ | Đúng 2 ý = 0.25 đ | Đúng 3 ý = 0.5 đ | Đúng 4 ý = 1.0 đ
+Câu 1: a) Đúng | b) Sai (hình chiếu cạnh ở bên phải HC đứng) | c) Đúng | d) Sai (mở quay xuống dưới 90 độ)
+Câu 2: a) Đúng | b) Đúng | c) Sai (chiều dài và chiều rộng) | d) Sai (HC bằng là hình vuông có 2 đường chéo)
+Câu 3: a) Đúng | b) Sai (thu được hình cầu) | c) Đúng | d) Sai (là hình chữ nhật)
+Câu 4: a) Đúng | b) Sai (nét đứt mảnh thể hiện đường khuất, cạnh khuất) | c) Đúng | d) Sai (nét liền mảnh, kẻ vượt quá 2-5 mm)
+3. Hướng dẫn chấm Phần III: Tự luận (3.0 điểm)
+Câu 1 (0.75 điểm):
+• Hình chiếu đứng: Hướng chiếu từ trước vào vật thể, vị trí nằm ở góc trên bên trái bản vẽ (0.25 điểm).
+• Hình chiếu bằng: Hướng chiếu từ trên xuống vật thể, vị trí nằm ngay phía dưới hình chiếu đứng (0.25 điểm).
+• Hình chiếu cạnh: Hướng chiếu từ trái sang vật thể, vị trí nằm ngay bên phải hình chiếu đứng (0.25 điểm).
+Câu 2 (0.75 điểm):
+• Giống nhau: Hình chiếu đứng và hình chiếu cạnh của cả hai khối đều có dạng là hình chữ nhật (thể hiện kích thước mặt đáy và chiều cao) (0.25 điểm).
+• Khác nhau:
++ Hình hộp chữ nhật: Hình chiếu bằng có dạng hình chữ nhật (hình đa giác phẳng) (0.25 điểm).
++ Hình trụ: Hình chiếu bằng có dạng hình tròn với hai đường trục vuông góc cắt nhau tại tâm (vẽ bằng nét gạch dài - chấm - mảnh) (0.25 điểm).
+Câu 3 (1.5 điểm):
+a) Kích thước trên từng hình chiếu (0.75 điểm):
+• Hình chiếu đứng: Chiều dài L = 60 mm và chiều cao H = 30 mm (0.25 điểm).
+• Hình chiếu bằng: Chiều dài L = 60 mm và chiều rộng W = 40 mm (0.25 điểm).
+• Hình chiếu cạnh: Chiều rộng W = 40 mm và chiều cao H = 30 mm (0.25 điểm).
+b) Các bước lập bản vẽ kĩ thuật (0.75 điểm):
+• Bước 1: Chọn tỉ lệ vẽ (1:1), bố trí 3 hình chiếu cân đối trên khổ giấy A4 (0.15 điểm).
+• Bước 2: Vẽ nét mờ khung bản vẽ, khung tên và các hình chữ nhật bao ngoài 3 hình chiếu (0.15 điểm).
+• Bước 3: Vẽ nét mờ các chi tiết thấy, khuất, đường tâm của gá chạc (0.15 điểm).
+• Bước 4: Kiểm tra, tẩy bỏ nét thừa, tô đậm các nét thấy (nét liền đậm), nét đứt, nét trục (0.15 điểm).
+• Bước 5: Ghi kích thước (đường gióng, đường kích thước, chữ số kích thước) và ghi thông tin vào khung tên (0.15 điểm).

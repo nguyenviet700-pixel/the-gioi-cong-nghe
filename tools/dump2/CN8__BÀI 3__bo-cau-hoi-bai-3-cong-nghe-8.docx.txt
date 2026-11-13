@@ -1,0 +1,131 @@
+BÀI 3: BẢN VẼ CHI TIẾT
+PHẦN A: YÊU CẦU CẦN ĐẠT VÀ MA TRẬN ĐỀ KIỂM TRA
+1. Yêu cầu cần đạt (YCCĐ):
+Mô tả được khái niệm, công dụng và 4 nội dung chính của bản vẽ chi tiết (Hình biểu diễn, Kích thước, Yêu cầu kỹ thuật, Khung tên).
+Trình bày và thực hiện được đúng trình tự đọc bản vẽ chi tiết đơn giản (Khung tên -> Hình biểu diễn -> Kích thước -> Yêu cầu kỹ thuật -> Tổng hợp).
+Đọc được bản vẽ chi tiết đơn giản của một số chi tiết máy thường gặp trong đời sống và kỹ thuật.
+2. Ma trận đề kiểm tra đánh giá Bài 3:
+T| Nội dung kiến thức || Nhận biết (TN 4 CH) || Thông hiểu (TN 4 CH) || Đúng/Sai (4 câu) || Tự luận || Tổng số câu / Điểm
+T| 1. Khái niệm & Nội dung bản vẽ chi tiết || 3 câu (0.75đ) || 2 câu (0.50đ) || 2 câu (2.0đ) || 1 câu (1.5đ) || 8 câu (4.75đ)
+T| 2. Trình tự đọc bản vẽ chi tiết || 3 câu (0.75đ) || 2 câu (0.50đ) || 2 câu (2.0đ) || 1 câu (1.5đ) || 8 câu (4.75đ)
+T| 3. Đọc bản vẽ chi tiết cụ thể || 1 câu (0.25đ) || 1 câu (0.25đ) || 0 câu || 1 câu (1.0đ) || 3 câu (1.50đ)
+T| TỔNG CỘNG || 7 câu (1.75đ) || 5 câu (1.25đ) || 4 câu (4.0đ) || 3 câu (4.0đ) || 19 câu (10.0đ)
+PHẦN B: ĐỀ KIỂM TRA ĐÁNH GIÁ NĂNG LỰC
+PHẦN I. TRẮC NGHIỆM NHIỀU LỰA CHỌN (3.0 điểm)
+Thí sinh chọn 01 phương án trả lời đúng nhất cho mỗi câu hỏi từ Câu 1 đến Câu 12.
+Câu 1 (NB): Bản vẽ chi tiết là tài liệu kỹ thuật thể hiện:
+A. Hình dạng, kích thước và yêu cầu kỹ thuật của một chi tiết máy.
+B. Vị trí tương quan giữa các chi tiết trong một sản phẩm hoàn chỉnh.
+C. Trình tự tháo lắp các bộ phận máy.
+D. Sơ đồ mạch điện điều khiển toàn bộ hệ thống.
+Câu 2 (NB): Công dụng chính của bản vẽ chi tiết là gì?
+A. Dùng để chế tạo và kiểm tra chi tiết máy.
+B. Dùng để hướng dẫn sử dụng sản phẩm.
+C. Dùng để tính toán chi phí vận chuyển.
+D. Dùng để đăng ký bản quyền thương hiệu.
+Câu 3 (NB): Nội dung nào sau đây KHÔNG thuộc bản vẽ chi tiết?
+A. Khung tên.
+B. Yêu cầu kỹ thuật.
+C. Bảng kê danh mục chi tiết.
+D. Kích thước.
+Câu 4 (NB): Thông tin thu được khi đọc mục 'Khung tên' trên bản vẽ chi tiết bao gồm:
+A. Tên gọi chi tiết, vật liệu, tỉ lệ, cơ sở thiết kế/chế tạo.
+B. Tên gọi các hình chiếu và hình cắt.
+C. Kích thước chung và kích thước các phần.
+D. Yêu cầu về gia công và xử lý bề mặt.
+Câu 5 (NB): Trình tự đọc bản vẽ chi tiết đơn giản gồm mấy bước?
+A. 3 bước.
+B. 4 bước.
+C. 5 bước.
+D. 6 bước.
+Câu 6 (NB): Bước đầu tiên trong trình tự đọc bản vẽ chi tiết là:
+A. Đọc Khung tên.
+B. Đọc Hình biểu diễn.
+C. Đọc Kích thước.
+D. Đọc Yêu cầu kỹ thuật.
+Câu 7 (NB): Khi đọc mục 'Hình biểu diễn' trên bản vẽ chi tiết, người đọc xác định được:
+A. Tên gọi chi tiết và vật liệu.
+B. Tên gọi các hình chiếu, hình cắt.
+C. Kích thước chung của chi tiết.
+D. Độ nhẵn bề mặt gia công.
+Câu 8 (TH): Mục 'Kích thước' trong bản vẽ chi tiết cung cấp những thông tin gì?
+A. Kích thước chung (dài, rộng, cao) và kích thước các phần của chi tiết.
+B. Kích thước của khổ giấy vẽ và đường viền.
+C. Kích thước nét vẽ và chiều cao chữ số.
+D. Kích thước nhà xưởng chế tạo chi tiết.
+Câu 9 (TH): Nội dung của 'Yêu cầu kỹ thuật' trên bản vẽ chi tiết thường bao gồm:
+A. Tên người vẽ và người kiểm tra.
+B. Tỉ lệ phóng to hoặc thu nhỏ.
+C. Các chỉ dẫn về gia công, xử lý bề mặt, nhiệt luyện.
+D. Vị trí hình chiếu đứng và hình chiếu bằng.
+Câu 10 (TH): Bước cuối cùng ('Tổng hợp') trong trình tự đọc bản vẽ chi tiết có nhiệm vụ gì?
+A. Tìm hiểu tên gọi chi tiết.
+B. Xác định hình dạng, cấu tạo và công dụng của chi tiết.
+C. Kiểm tra lại kích thước khung tên.
+D. Chọn loại nét vẽ phù hợp.
+Câu 11 (TH): Cho bản vẽ chi tiết ghi thông tin Khung tên: Tên chi tiết: Ống lót; Vật liệu: Thép; Tỉ lệ: 1:1. Tỉ lệ 1:1 có nghĩa là:
+A. Kích thước hình biểu diễn bằng kích thước thực tế của chi tiết.
+B. Kích thước hình biểu diễn thu nhỏ 2 lần so với thực tế.
+C. Kích thước hình biểu diễn phóng to 2 lần so với thực tế.
+D. Chi tiết có chiều dài thực tế là 1 mm.
+Câu 12 (VD): Khi đọc bản vẽ chi tiết Gá nối có ghi Yêu cầu kỹ thuật: 'Làm sạch bavia, sơn phủ màu xám', người thợ chế tạo cần thực hiện điều gì sau khi gia công?
+A. Tăng kích thước chiều dài thêm 10 mm.
+B. Tẩy sạch phần gờ sắc nhọn còn sót và sơn một lớp màu xám bảo vệ.
+C. Thay đổi vật liệu chế tạo từ sắt sang đồng.
+D. Vẽ lại bản vẽ chi tiết theo tỉ lệ mới.
+PHẦN II. TRẮC NGHIỆM ĐÚNG / SAI (4.0 điểm)
+Thí sinh trả lời Đúng hoặc Sai cho mỗi ý a), b), c), d) ở mỗi câu hỏi. (Mỗi câu gồm đúng 2 ý Đúng và 2 ý Sai).
+Câu 1: Cho các nhận định về khái niệm và công dụng của bản vẽ chi tiết:
+a) Bản vẽ chi tiết bao gồm hình biểu diễn, kích thước, yêu cầu kỹ thuật và khung tên.
+b) Bản vẽ chi tiết được dùng để hướng dẫn thợ lắp ráp các chi tiết máy lại với nhau thành sản phẩm hoàn chỉnh.
+c) Bản vẽ chi tiết là tài liệu kỹ thuật quan trọng nhất dùng trực tiếp cho quá trình chế tạo và kiểm tra chi tiết máy.
+d) Bản vẽ chi tiết chỉ cần vẽ hình biểu diễn mà không bắt buộc phải ghi kích thước hay yêu cầu kỹ thuật.
+Câu 2: Khi tìm hiểu về nội dung Khung tên trên bản vẽ chi tiết:
+a) Khung tên cho biết các thông tin cơ bản như: Tên gọi chi tiết, vật liệu, tỉ lệ và cơ sở chế tạo.
+b) Khung tên luôn được đặt ở góc trên bên trái của khung bản vẽ.
+c) Tỉ lệ 1:2 ghi trong khung tên thể hiện hình biểu diễn được vẽ thu nhỏ 2 lần so với thực tế.
+d) Thông tin về người vẽ và người kiểm tra bản vẽ không được phép ghi trong khung tên.
+Câu 3: Xét về trình tự đọc bản vẽ chi tiết đơn giản:
+a) Trình tự đọc chuẩn bao gồm 5 bước: Khung tên -> Hình biểu diễn -> Kích thước -> Yêu cầu kỹ thuật -> Tổng hợp.
+b) Bước đầu tiên khi tiếp cận bản vẽ chi tiết là đọc ngay yêu cầu kỹ thuật gia công.
+c) Bước đọc kích thước giúp người xem xác định cả kích thước chung lẫn kích thước từng bộ phận của chi tiết.
+d) Mục đích của bước đọc hình biểu diễn là để xác định giá trị độ nhẵn bề mặt của chi tiết.
+Câu 4: Xét bản vẽ chi tiết Ống lót (Vật liệu: Thép, Tỉ lệ: 1:1, Kích thước chung: Ø28x30, Yêu cầu kỹ thuật: Mạ kẽm):
+a) Chi tiết này có tên gọi là Ống lót, làm bằng vật liệu Thép và được vẽ theo đúng kích thước thực tế.
+b) Yêu cầu kỹ thuật chỉ dẫn người thợ sau khi chế tạo xong cần tiến hành mạ kẽm bề mặt chi tiết.
+c) Kích thước Ø28x30 cho biết đường kính ngoài lớn nhất là 30 mm và chiều dài ống là 28 mm.
+d) Bản vẽ chi tiết này có thể dùng trực tiếp để thợ cơ khí thực hiện việc tháo rời sản phẩm.
+PHẦN III. TỰ LUẬN (3.0 điểm)
+Câu 1 (1.25 điểm - Thông hiểu): Nêu khái niệm và trình bày 4 nội dung chính của một bản vẽ chi tiết. Tại sao bản vẽ chi tiết lại đóng vai trò quyết định đến chất lượng chế tạo sản phẩm trong cơ khí?
+Câu 2 (1.25 điểm - Thông hiểu): Trình bày trình tự đọc bản vẽ chi tiết theo chuẩn quy định. Giải thích rõ nội dung cần tìm hiểu tại từng bước.
+Câu 3 (0.50 điểm - Vận dụng): Cho bản vẽ chi tiết 'Gá nối' có thông tin: Khung tên (Tên chi tiết: Gá nối, Vật liệu: Gang, Tỉ lệ: 1:2); Hình biểu diễn (Hình chiếu đứng, Hình chiếu bằng); Kích thước (Chung: 100 x 50 x 40 mm); Yêu cầu kỹ thuật (Làm sạch bavia, sơn màu xám). Hãy lập bảng tóm tắt kết quả đọc bản vẽ chi tiết trên theo đúng 5 bước.
+PHẦN C: ĐÁP ÁN VÀ HƯỚNG DẪN CHẤM CHI TIẾT
+1. ĐÁP ÁN PHẦN I: TRẮC NGHIỆM NHIỀU LỰA CHỌN (12 câu x 0.25đ = 3.0 điểm)
+T| Cột 1 || Cột 2 || Cột 3 || Cột 4 || Cột 5 || Cột 6
+T| 1. A || 2. A || 3. C || 4. A || 5. C || 6. A
+T| 7. B || 8. A || 9. C || 10. B || 11. A || 12. B
+2. ĐÁP ÁN PHẦN II: TRẮC NGHIỆM ĐÚNG / SAI (4 câu x 1.0đ = 4.0 điểm)
+T| Câu hỏi || Ý a) || Ý b) || Ý c) || Ý d)
+T| Câu 1 || ĐÚNG || SAI || ĐÚNG || SAI
+T| Câu 2 || ĐÚNG || SAI || ĐÚNG || SAI
+T| Câu 3 || ĐÚNG || SAI || ĐÚNG || SAI
+T| Câu 4 || ĐÚNG || ĐÚNG || SAI || SAI
+Cách tính điểm Phần II: Chọn đúng 1 ý = 0.1đ; Đúng 2 ý = 0.25đ; Đúng 3 ý = 0.5đ; Đúng cả 4 ý = 1.0đ/câu.
+3. HƯỚNG DẪN CHẤM PHẦN III: TỰ LUẬN (3.0 điểm)
+Câu 1 (1.25 điểm):
+- Khái niệm: Bản vẽ chi tiết là tài liệu kỹ thuật biểu diễn hình dạng, kích thước và các yêu cầu kỹ thuật của một chi tiết máy. (0.25đ)
+- 4 nội dung chính gồm: Hình biểu diễn (hình chiếu/hình cắt), Kích thước (chung và bộ phận), Yêu cầu kỹ thuật (gia công/xử lý bề mặt), Khung tên (thông tin quản lý). (0.5đ)
+- Vai trò: Cung cấp đầy đủ và chính xác toàn bộ thông tin để người thợ chế tạo đúng hình dạng, kích thước và đạt chất lượng bề mặt yêu cầu; dùng làm căn cứ kiểm tra chất lượng. (0.5đ)
+Câu 2 (1.25 điểm):
+Trình tự đọc bản vẽ chi tiết chuẩn 5 bước:
+1. Đọc Khung tên: Tên gọi chi tiết, vật liệu chế tạo, tỉ lệ bản vẽ, cơ sở chế tạo. (0.25đ)
+2. Đọc Hình biểu diễn: Tên gọi các hình chiếu, vị trí hình cắt. (0.25đ)
+3. Đọc Kích thước: Kích thước chung (dài x rộng x cao), kích thước chi tiết từng phần. (0.25đ)
+4. Đọc Yêu cầu kỹ thuật: Chỉ dẫn gia công, xử lý bề mặt, nhiệt luyện. (0.25đ)
+5. Tổng hợp: Mô tả hình dạng, cấu tạo và xác định công dụng của chi tiết máy. (0.25đ)
+Câu 3 (0.50 điểm): Bảng đọc bản vẽ chi tiết 'Gá nối'
+Bước 1 - Khung tên: Tên chi tiết: Gá nối; Vật liệu: Gang; Tỉ lệ: 1:2. (0.1đ)
+Bước 2 - Hình biểu diễn: Hình chiếu đứng, Hình chiếu bằng. (0.1đ)
+Bước 3 - Kích thước: Kích thước chung 100 x 50 x 40 mm. (0.1đ)
+Bước 4 - Yêu cầu kỹ thuật: Làm sạch bavia, sơn màu xám. (0.1đ)
+Bước 5 - Tổng hợp: Gá nối dạng khối có chiều dài 100mm, dùng để nối/gá giữ chi tiết. (0.1đ)

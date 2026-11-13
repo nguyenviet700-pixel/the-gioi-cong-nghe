@@ -1,0 +1,152 @@
+BỘ CÂU HỎI VÀ ĐÁNH GIÁ KẾT QUẢ HỌC TẬP
+BÀI 16: MẠCH ĐIỆN ĐIỀU KHIỂN SỬ DỤNG MÔ ĐUN CẢM BIẾN
+Môn: Công nghệ 8 (Bộ sách Kết nối tri thức với cuộc sống)
+Thời lượng: 5 tiết | Khung năng lực GDPT 2018 & Quy tắc biên soạn học liệu
+I. YÊU CẦU CẦN ĐẠT CỦA BÀI HỌC (YCCĐ)
+• YCCĐ 1: Lắp ráp được các mạch điện điều khiển đơn giản có sử dụng một mô đun cảm biến: mô đun cảm biến ánh sáng, mô đun cảm biến nhiệt độ và mô đun cảm biến độ ẩm.
+• YCCĐ 2: Trình bày được sơ đồ khối và nguyên lí hoạt động chung của mạch điện điều khiển sử dụng mô đun cảm biến.
+• YCCĐ 3: Trình bày được quy trình 5 bước thực hành lắp ráp mạch điện điều khiển và các tiêu chí đánh giá an toàn, kĩ thuật.
+II. MA TRẬN ĐỀ KIỂM TRA ĐÁNH GIÁ BÀI 16
+T| Nội dung kiến thức || Nhận biết || Thông hiểu || Vận dụng || Tổng số câu || Tỉ lệ %
+T| 1. Sơ đồ khối & Nguyên lí hoạt động || 4 câu TN1 || 2 câu TN1, 1 câu TN2 || 0 || 7 câu || 35%
+T| 2. Quy trình lắp ráp & Tiêu chí đánh giá || 4 câu TN1 || 1 câu TN1, 1 câu TN2 || 1 câu TL || 7 câu || 30%
+T| 3. Thực hành lắp ráp các mạch cảm biến || 0 || 2 câu TN1, 2 câu TN2 || 2 câu TL || 6 câu || 35%
+T| Tổng số câu / Tỉ trọng điểm || 8 câu (2.0 đ) || 5 câu TN1 + 4 TN2 (4.0 đ) || 3 câu TL (4.0 đ) || 19 câu || 100%
+III. NỘI DUNG BỘ CÂU HỎI ĐÁNH GIÁ (BÀI 16)
+PHẦN I. CÂU HỎI TRẮC NGHIỆM TỰ DO (12 câu - 4 lựa chọn A, B, C, D - 3.0 điểm)
+Câu 1 (NB): Mạch điện điều khiển sử dụng mô đun cảm biến gồm mấy thành phần chính trên sơ đồ khối?
+A. 2 thành phần.
+B. 3 thành phần.
+C. 4 thành phần.
+D. 5 thành phần.
+Câu 2 (NB): Trong sơ đồ khối mạch điện điều khiển sử dụng mô đun cảm biến, khối nào trực tiếp tiếp nhận tín hiệu tác động từ môi trường?
+A. Đối tượng điều khiển.
+B. Nguồn điện.
+C. Mô đun cảm biến.
+D. Bộ phận đóng cắt.
+Câu 3 (NB): Quy trình thực hành lắp ráp mạch điện điều khiển sử dụng mô đun cảm biến gồm mấy bước?
+A. 3 bước.
+B. 4 bước.
+C. 5 bước.
+D. 6 bước.
+Câu 4 (NB): Bước đầu tiên trong quy trình thực hành lắp ráp mạch điện điều khiển sử dụng mô đun cảm biến là gì?
+A. Chuẩn bị thiết bị, dụng cụ và vật liệu.
+B. Tìm hiểu sơ đồ lắp ráp.
+C. Lắp ráp mạch điện theo sơ đồ.
+D. Kiểm tra mạch điện.
+Câu 5 (NB): Đâu KHÔNG phải là một tiêu chí đánh giá bài thực hành lắp ráp mạch điện điều khiển?
+A. Tiến hành đúng trình tự quy định.
+B. Đấu nối đúng kĩ thuật, chắc chắn, an toàn.
+C. Mạch điện hoạt động đúng chức năng.
+D. Sử dụng linh kiện đắt tiền nhất.
+Câu 6 (NB): Mạch điện điều khiển bật/tắt đèn chiếu sáng tự động khi trời tối sử dụng loại mô đun cảm biến nào?
+A. Mô đun cảm biến nhiệt độ.
+B. Mô đun cảm biến ánh sáng.
+C. Mô đun cảm biến độ ẩm.
+D. Mô đun cảm biến khí gas.
+Câu 7 (NB): Mạch điện tự động bật quạt làm mát khi nhiệt độ phòng tăng cao sử dụng loại mô đun cảm biến nào?
+A. Mô đun cảm biến nhiệt độ.
+B. Mô đun cảm biến độ ẩm.
+C. Mô đun cảm biến ánh sáng.
+D. Mô đun cảm biến hồng ngoại.
+Câu 8 (NB): Hệ thống tưới nước tự động khi đất trồng bị khô sử dụng loại mô đun cảm biến nào?
+A. Mô đun cảm biến ánh sáng.
+B. Mô đun cảm biến độ ẩm.
+C. Mô đun cảm biến nhiệt độ.
+D. Mô đun cảm biến âm thanh.
+Câu 9 (TH): Trong mạch điện điều khiển sử dụng mô đun cảm biến, tín hiệu đầu ra của mô đun cảm biến được đưa đến bộ phận nào?
+A. Trực tiếp đến nguồn điện.
+B. Đến đối tượng điều khiển (đèn, quạt, máy bơm...).
+C. Đến cảm biến môi trường.
+D. Đến dây dẫn nguồn.
+Câu 10 (TH): Vì sao sau khi hoàn thành lắp ráp mạch điện (Bước 3) phải tiến hành kiểm tra mạch điện (Bước 4) trước khi nối nguồn vận hành?
+A. Để tiết kiệm thời gian thực hành.
+B. Để đảm bảo không bị chạm chập, ngắn mạch, đấu sai cực gây hư hỏng thiết bị và mất an toàn.
+C. Để thay đổi các linh kiện khác.
+D. Để nộp sản phẩm cho giáo viên ngay.
+Câu 11 (TH): Nguyên lí hoạt động cơ bản của mạch điện điều khiển sử dụng mô đun cảm biến ánh sáng là gì?
+A. Khi cường độ ánh sáng chiếu vào cảm biến thay đổi đến ngưỡng đặt, mô đun cảm biến cấp/ngắt điện cho đối tượng điều khiển.
+B. Cảm biến phát ra ánh sáng để làm sáng căn phòng.
+C. Mô đun cảm biến tự biến đổi ánh sáng thành điện năng cung cấp cho tải.
+D. Đèn tự sáng khi nhiệt độ môi trường thay đổi.
+Câu 12 (TH): Khi lắp đặt hệ thống tưới cây tự động dùng mô đun cảm biến độ ẩm, đầu đo của cảm biến độ ẩm cần được đặt ở đâu?
+A. Treo trên cành cây cao.
+B. Cắm trực tiếp vào đất trồng nơi cần giám sát độ ẩm.
+C. Để trong hộp điều khiển kín.
+D. Đặt sát bóng đèn chiếu sáng.
+PHẦN II. CÂU HỎI TRẮC NGHIỆM ĐÚNG/SAI (4 câu - mỗi câu có 4 ý a, b, c, d - đúng 2 Đúng/2 Sai - 4.0 điểm)
+Câu 1 (TH): Cho sơ đồ khối mạch điện điều khiển sử dụng mô đun cảm biến gồm 3 khối chính: (1) Nguồn điện; (2) Mô đun cảm biến; (3) Đối tượng điều khiển. Xét tính đúng/sai của các phát biểu sau:
+a) Mô đun cảm biến vừa đóng vai trò tiếp nhận tín hiệu đầu vào, vừa điều khiển đóng/ngắt nguồn điện cho đối tượng điều khiển.
+b) Đối tượng điều khiển trong mạch điện có thể là đèn điện, quạt điện, máy bơm nước hoặc chuông báo.
+c) Nguồn điện chỉ cung cấp năng lượng cho đối tượng điều khiển mà không cần cung cấp cho mô đun cảm biến.
+d) Khi tín hiệu môi trường thay đổi, đối tượng điều khiển sẽ trực tiếp phát tín hiệu biến đổi để điều khiển mô đun cảm biến.
+Câu 2 (TH): Tìm hiểu về quy trình 5 bước thực hành lắp ráp mạch điện điều khiển sử dụng mô đun cảm biến. Xét các khẳng định sau:
+a) Bước 2 'Chuẩn bị thiết bị, dụng cụ và vật liệu' được thực hiện sau bước tìm hiểu sơ đồ lắp ráp.
+b) Kiểm tra mạch điện (Bước 4) chỉ cần thực hiện sau khi đã đóng nguồn điện vận hành thử.
+c) Tiêu chí đánh giá thực hành bao gồm tiến hành đúng trình tự, đấu nối đúng kỹ thuật an toàn và mạch hoạt động đúng chức năng.
+d) Có thể bỏ qua bước 1 (Tìm hiểu sơ đồ) nếu đã có sẵn các linh kiện trên bàn thực hành.
+Câu 3 (TH): Xét mạch điện điều khiển tự động bật/tắt đèn đường sử dụng mô đun cảm biến ánh sáng:
+a) Khi trời tối, cường độ ánh sáng giảm xuống dưới ngưỡng cài đặt, mô đun cảm biến sẽ cấp điện làm đèn đường bật sáng.
+b) Khi trời sáng, cường độ ánh sáng tăng lên vượt ngưỡng cài đặt, mô đun cảm biến sẽ ngắt điện làm đèn đường tắt.
+c) Cảm biến ánh sáng có thể hoạt động hoàn toàn chính xác mà không cần cài đặt ngưỡng tác động trên mô đun.
+d) Đèn đường trong mạch này đóng vai trò là mô đun cảm biến trung tâm.
+Câu 4 (TH): Xét mạch điện điều khiển hệ thống làm mát tự động sử dụng mô đun cảm biến nhiệt độ:
+a) Cảm biến nhiệt độ đo nhiệt độ môi trường và truyền tín hiệu về bộ phận xử lí của mô đun cảm biến.
+b) Quạt làm mát sẽ tự động bật khi nhiệt độ môi trường giảm xuống thấp hơn ngưỡng cài đặt.
+c) Bộ phận đóng cắt (rơ le) trên mô đun cảm biến đóng vai trò công tắc tự động điều khiển nguồn điện cấp cho quạt.
+d) Nếu đấu ngược cực nguồn điện DC cấp cho mô đun cảm biến nhiệt độ, mạch vẫn hoạt động bình thường.
+PHẦN III. CÂU HỎI TỰ LUẬN (3 câu - 3.0 điểm)
+Câu 1 (VD - 1.0 điểm): Vẽ và mô tả sơ đồ khối của mạch điện điều khiển sử dụng mô đun cảm biến. Nêu rõ chức năng của từng khối trong sơ đồ.
+Câu 2 (VD - 1.0 điểm): Trình bày chi tiết quy trình 5 bước thực hành lắp ráp mạch điện điều khiển sử dụng mô đun cảm biến. Cho biết tại sao bước kiểm tra mạch điện trước khi cấp nguồn lại có ý nghĩa quyết định đến an toàn thực hành?
+Câu 3 (VD - 1.0 điểm): Em hãy đề xuất giải pháp thiết kế một hệ thống tưới hoa tự động cho vườn trường vào mùa hè sử dụng mô đun cảm biến độ ẩm. Cho biết: Các thiết bị cần chuẩn bị, nguyên lí hoạt động của hệ thống và các lưu ý an toàn khi lắp đặt.
+IV. ĐÁP ÁN VÀ HƯỚNG DẪN CHẤM CHI TIẾT
+1. Bảng đáp án Phần I - Trắc nghiệm tự do (12 câu - mỗi câu đúng 0.25 điểm)
+T|  ||  ||  ||  ||  || 
+T|  ||  ||  ||  ||  || 
+T|  ||  ||  ||  ||  || 
+T| Câu 1 || Câu 2 || Câu 3 || Câu 4 || Câu 5 || Câu 6
+T| B || C || C || B || D || B
+T| Câu 7 || Câu 8 || Câu 9 || Câu 10 || Câu 11 || Câu 12
+T| A || B || B || B || A || B
+2. Bảng đáp án Phần II - Trắc nghiệm Đúng/Sai (Mỗi câu đúng 1.0 điểm: 1 ý đúng = 0.1đ; 2 ý đúng = 0.25đ; 3 ý đúng = 0.5đ; 4 ý đúng = 1.0đ)
+T| Câu hỏi || Ý a || Ý b || Ý c || Ý d
+T| Câu 1 || Đúng || Đúng || Sai || Sai
+T| Câu 2 || Đúng || Sai || Đúng || Sai
+T| Câu 3 || Đúng || Đúng || Sai || Sai
+T| Câu 4 || Đúng || Sai || Đúng || Sai
+3. Hướng dẫn chấm Phần III - Tự luận (3.0 điểm)
+Câu 1 (1.0 điểm):
+Vẽ sơ đồ khối mạch điện điều khiển sử dụng mô đun cảm biến: (0.25đ)
+Sơ đồ gồm 3 khối: [Nguồn điện] -> [Mô đun cảm biến] -> [Đối tượng điều khiển]. (0.25đ)
+Mô tả chức năng từng khối: (0.50đ)
+- Nguồn điện: Cung cấp năng lượng điện cho mô đun cảm biến và đối tượng điều khiển hoạt động.
+- Mô đun cảm biến: Cảm nhận sự thay đổi của tín hiệu đầu vào từ môi trường (ánh sáng, nhiệt độ, độ ẩm...), xử lí và đưa ra tín hiệu điều khiển đóng/ngắt mạch.
+- Đối tượng điều khiển: Nhận tín hiệu điều khiển từ mô đun cảm biến để thực hiện hoạt động (đèn sáng, quạt quay, máy bơm chạy...).
+Câu 2 (1.0 điểm):
+Trình bày đúng quy trình 5 bước thực hành lắp ráp: (0.50đ)
+Bước 1: Tìm hiểu sơ đồ lắp ráp.
+Bước 2: Chuẩn bị thiết bị, dụng cụ và vật liệu.
+Bước 3: Lắp ráp mạch điện theo sơ đồ.
+Bước 4: Kiểm tra mạch điện.
+Bước 5: Vận hành và đánh giá.
+Giải thích ý nghĩa bước kiểm tra trước khi cấp nguồn: (0.50đ)
+- Giúp phát hiện kịp thời các lỗi đấu sai dây, nhầm cực nguồn (Âm/Dương), chập dây hoặc lỏng điểm nối.
+- Đảm bảo an toàn tuyệt đối cho người thực hành (tránh giật điện, cháy nổ linh kiện) và bảo vệ thiết bị, mô đun cảm biến không bị hỏng hóc.
+Câu 3 (1.0 điểm):
+Nêu danh sách thiết bị cần chuẩn bị: (0.25đ)
+- Mô đun cảm biến độ ẩm, đầu đo độ ẩm đất, máy bơm nước mini DC (hoặc van điện từ), nguồn điện phù hợp, dây nối, bình chứa nước.
+Trình bày nguyên lí hoạt động của hệ thống tưới tự động: (0.50đ)
+- Khi đất trồng bị khô (độ ẩm giảm xuống dưới ngưỡng cài đặt), cảm biến độ ẩm truyền tín hiệu về mô đun. Mô đun xử lí và đóng rơ le cấp điện cho máy bơm tự động tưới nước.
+- Khi đất đủ ẩm (độ ẩm đạt hoặc vượt ngưỡng cài đặt), mô đun cảm biến ngắt rơ le, máy bơm ngừng hoạt động.
+Các lưu ý an toàn khi lắp đặt: (0.25đ)
+- Bọc kín cách điện các mối nối dây, tránh để nước tưới bắn vào mạch điện và mô đun cảm biến.
+- Sử dụng nguồn điện áp thấp an toàn (12V DC), kiểm tra kĩ trước khi cắm điện.
+V. BẢNG ĐỐI CHIẾU CÂU HỎI VỚI YCCĐ VÀ MỨC ĐỘ NHẬN THỨC
+T| Câu hỏi || Mức độ nhận thức || Yêu cầu cần đạt (YCCĐ) || Đánh giá sự phù hợp
+T| TN1: Câu 1, 2, 6, 7, 8 || Nhận biết || YCCĐ 1 & YCCĐ 2: Trình bày sơ đồ khối, phân loại cảm biến || Khớp 100% SGK
+T| TN1: Câu 3, 4, 5 || Nhận biết || YCCĐ 3: Trình bày quy trình 5 bước và tiêu chí đánh giá || Khớp 100% SGK
+T| TN1: Câu 9, 10, 11, 12 || Thông hiểu || YCCĐ 1 & YCCĐ 2: Nguyên lí hoạt động & kĩ thuật kiểm tra || Khớp 100% SGK
+T| TN2: Câu 1, 2, 3, 4 || Thông hiểu || YCCĐ 1, 2, 3: Phân tích đúng/sai về mạch và quy trình thực hành || Đúng quy tắc 2D/2S
+T| TL: Câu 1 || Vận dụng || YCCĐ 2: Vẽ và mô tả chi tiết sơ đồ khối mạch cảm biến || Khớp YCCĐ GDPT 2018
+T| TL: Câu 2 || Vận dụng || YCCĐ 3: Phân tích quy trình thực hành và ý nghĩa bước kiểm tra || Khớp YCCĐ GDPT 2018
+T| TL: Câu 3 || Vận dụng || YCCĐ 1: Thiết kế hệ thống tưới hoa tự động dùng mô đun cảm biến độ ẩm || Khớp YCCĐ GDPT 2018

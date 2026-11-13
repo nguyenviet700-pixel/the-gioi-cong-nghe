@@ -1,0 +1,149 @@
+CHUYÊN ĐỀ 3: KỸ THUẬT NUÔI TRỒNG VÀ QUẢN LÝ MÔI TRƯỜNG THỦY SẢN
+Bám sát Công văn 730/SGDĐT-GDPT tỉnh Vĩnh Long & Bộ SGK/SGV/SBT Công nghệ 7 (KNTT)
+T| 📌 ĐỊNH HƯỚNG TRỌNG TÂM CẤU TRÚC ĐỀ THI HSG
+Chuyên đề 3 bao gồm toàn bộ nội dung lý thuyết chuyên sâu về vai trò thủy sản, quy trình nuôi cá ao, quản lý môi trường nước, đo chỉ số chất lượng nước, phòng trị bệnh và khai thác bảo vệ nguồn lợi thủy sản. Hệ thống bài tập được biên soạn chi tiết theo 4 mức độ nhận thức, đặc biệt cập nhật đáp án chuẩn câu hỏi tự luận phân hóa (3.0 điểm) về tác hại sinh thái - kinh tế khi lãng phí thức ăn thủy sản từ Đề thi HSG chính thức tỉnh Vĩnh Long.
+I. MỤC TIÊU & CHUẨN NĂNG LỰC CẦN ĐẠT CỦA CHUYÊN ĐỀ
+Theo Phụ lục Công văn 730/SGDĐT-GDPT và Chương trình GDPT 2018 môn Công nghệ 7, chuyên đề Nuôi thủy sản yêu cầu học sinh đạt được các mục tiêu kiến thức và năng lực chuyên sâu như sau:
+Kiến thức nền tảng chắc chắn: Trình bày được vai trò, triển vọng của ngành thủy sản; kể tên các loài thủy sản có giá trị kinh tế cao ở Việt Nam; nắm vững từng bước trong quy trình nuôi cá ao (chuẩn bị ao, thả giống, chăm sóc, quản lý môi trường nước, thu hoạch).
+Tư duy bản chất kỹ thuật - sinh học: Giải thích được cơ sở khoa học của các công việc chuẩn bị ao nuôi (tẩy vôi, phơi đáy, lọc nước); cơ chế ngấm nhiệt khi thả cá; bản chất sinh hóa của hiện tượng lãng phí thức ăn làm biến đổi màu nước, bùng phát tảo độc và suy giảm ôxy hòa tan.
+Kỹ năng thực hành & Định lượng: Nắm vững quy trình và ý nghĩa kỹ thuật của việc đo nhiệt độ và độ trong nước ao nuôi bằng đĩa Secchi; lập kế hoạch và tính toán chi phí nuôi thủy sản (nuôi cá ao thương phẩm hoặc nuôi cá cảnh) cho hộ gia đình.
+Năng lực phân tích & Giải quyết tình huống HSG: Phân tích, so sánh hiệu quả giữa 2 phương pháp thu hoạch (thu tỉa vs thu toàn bộ); đề xuất giải pháp xử lý khi cá ngạt/nổi đầu; phân tích các biện pháp bảo vệ môi trường và nguồn lợi thủy sản bền vững.
+II. HỆ THỐNG LÝ THUYẾT CHUYÊN SÂU & BẢN CHẤT KHOA HỌC
+1. Vai trò và triển vọng của ngành thủy sản trong nền kinh tế
+Thủy sản đóng vai trò vô cùng quan trọng đối với đời sống con người, sự phát triển kinh tế quốc gia và bảo vệ chủ quyền biển đảo:
+Cung cấp thực phẩm chất lượng cao: Cung cấp nguồn đạm (protein) động vật có giá trị dinh dưỡng cao, dễ tiêu hóa, giàu axit béo omega-3, vitamin và khoáng chất cho bữa ăn hàng ngày.
+Cung cấp nguyên liệu xuất khẩu & công nghiệp: Cung cấp nguyên liệu cho ngành chế biến thực phẩm xuất khẩu đạt kim ngạch nhiều tỷ USD (cá tra, tôm sú, tôm thẻ chân trắng, tôm hùm) và nguyên liệu sản xuất thức ăn chăn nuôi (bột cá).
+Tạo việc làm & nâng cao thu nhập: Giải quyết việc làm cho hàng triệu lao động trực tiếp (ngư dân đánh bắt, hộ nuôi trồng) và lao động gián tiếp (chế biến, dịch vụ hậu cần nghề cá, thương mại).
+Khẳng định chủ quyền quốc gia: Các hoạt động khai thác và nuôi trồng thủy sản trên biển góp phần duy trì sự có mặt thường xuyên của ngư dân, khẳng định và bảo vệ chủ quyền, quyền chủ quyền biển đảo của Tổ quốc.
+2. Quy trình kỹ thuật nuôi cá ao và bản chất khoa học từng khâu
+Quy trình nuôi cá ao chuẩn kỹ thuật bao gồm 4 bước nối tiếp bắt buộc:
+Bước 1: Chuẩn bị ao nuôi cá
+Trước mỗi lứa nuôi, phải thực hiện vệ sinh và cải tạo ao đúng trình tự: Tháo/bơm cạn nước → Bắt sạch cá tạp, cá dữ → Hút bớt bùn đáy (chỉ để lại 10 – 15 cm bùn xốp) → Rắc vôi bột (7 – 10 kg/100m²) → Phơi đáy ao 3 – 5 ngày → Lấy nước sạch qua túi lọc vải dày.
+T| 📌 GIAI MÃ BẢN CHẤT KHOA HỌC CỦA CÔNG TÁC CHUẨN BỊ AO NUÔI
+1. Hút bớt bùn đáy: Bùn đáy quá dày chứa lượng lớn chất hữu cơ thối rữa, là nơi tích tụ khí độc (H2S, NH3, CH4) và mầm bệnh hại cá.
+2. Rắc vôi bột (CaOH2/CaCO3): Có tác dụng hạ chua (nâng pH nước/đất về mức thích hợp 6.5 - 8.5), diệt vi khuẩn, nấm, vi sinh vật gây bệnh và các loài cá tạp, địch hại còn sót lại.
+3. Phơi đáy ao (3 - 5 ngày): Nhờ ánh nắng mặt trời (tia cực tím) giúp diệt khuẩn, làm oxy hóa các chất độc tồn đọng trong đáy đất và giúp đáy ao thoáng khí.
+4. Lấy nước qua túi lọc: Ngăn chặn trứng, ấu trùng, cá tạp, rác thải hoặc sinh vật trung gian truyền bệnh theo nguồn nước vào ao.
+Bước 2: Chuẩn bị cá giống và thả cá
+• Tiêu chuẩn cá giống: Cá đồng đều kích cỡ, khỏe mạnh, không mang mầm bệnh, bơi lội nhanh nhẹn theo đàn, vây vẩy hoàn chỉnh, màu sắc tươi sáng.
+• Kỹ thuật thả cá giống: Thả vào thời điểm trời mát (sáng sớm hoặc chiều mát). Trước khi thả, phải ngâm cả túi nylon chứa cá giống vào ao nuôi từ 15 – 20 phút. Sau đó mở miệng túi, cho nước ao tràn vào túi từ từ rồi mới để cá tự bơi ra ao.
+→ Bản chất khoa học: Ngâm túi cá nhằm cân bằng nhiệt độ giữa nước trong túi và nước ao nuôi, giúp cá quen dần với môi trường mới, tránh hiện tượng sốc nhiệt (cá bị co giật, yếu hoặc chết sau khi thả).
+Bước 3: Chăm sóc và quản lý môi trường nước ao nuôi
+• Thức ăn & Chế độ cho ăn: Sử dụng thức ăn viên nổi có hàm lượng protein thích hợp (28% – 35% đối với cá nhỏ; 28% – 30% đối với cá lớn). Áp dụng nguyên tắc '4 định': Định lượng, Định chất, Định vị trí, Định thời gian.
+• Điều chỉnh lượng thức ăn: Khẩu phần ăn hàng ngày chiếm 3% – 5% khối lượng cá trong ao. Vào những ngày thời tiết xấu (trời âm u, nắng nóng kéo dài, mưa rào, rét đậm) hoặc khi nước ao bị bẩn, phải giảm lượng thức ăn hoặc ngừng cho ăn.
+PHÂN TÍCH CHUYÊN SÂU: TÁC HẠI KHI DƯ THỪA THỨC ĂN TRONG NUÔI THỦY SẢN
+(Nội dung trọng tâm Đề thi HSG Vĩnh Long — 3.0 điểm)
+Khi cho cá/thủy sản ăn quá nhiều so với nhu cầu, lượng thức ăn dư thừa sẽ gây ra chuỗi tác hại nghiêm trọng về cả sinh thái và kinh tế:
+Gây lãng phí thức ăn & Tăng chi phí sản xuất: Thức ăn chiếm 60% – 70% tổng chi phí nuôi thủy sản. Cho ăn dư thừa làm lãng phí vốn đầu tư, tăng giá thành sản phẩm, giảm hoặc mất lợi nhuận.
+Làm dơ ao, bẩn nước & Bùng phát tảo mạnh: Thức ăn thừa dư đạm và lân phân hủy trong nước làm nước ao bị phú dưỡng (chứa quá nhiều dinh dưỡng). Đây là điều kiện cho các loại tảo độc (tảo lam, tảo giáp) bùng phát mạnh mẽ.
+Làm suy giảm ôxy hòa tan & Ô nhiễm nguồn nước: Quá trình phân hủy chất hữu cơ của vi sinh vật tiêu tốn lượng lớn ôxy hòa tan trong nước và giải phóng các khí độc như H2S, NH3, NO2-.
+Thủy sản bị stress, yếu & Phát sinh dịch bệnh: Sự thiếu hụt ôxy kéo theo khí độc cao khiến cá bị stress, giảm khả năng đề kháng, tổn thương mang và ruột, dán tiếp làm vi khuẩn/ký sinh trùng bùng phát gây bệnh và chết hàng loạt.
+Ảnh hưởng đến tốc độ tăng trưởng: Sống trong môi trường ô nhiễm và thiếu ôxy, cá giảm bắt mồi, chậm lớn, phân hóa kích thước không đều.
+Bảng 3.1: Các chỉ tiêu môi trường nước ao nuôi và biện pháp quản lý
+T| Chỉ tiêu môi trường || Mức thích hợp || Hiện tượng bất lợi & Nguyên nhân || Biện pháp xử lý / Khắc phục
+T| Nhiệt độ nước || 25°C – 28°C || • > 32°C (quá nóng): Cá giảm ăn, O2 giảm.
+• < 18°C (quá lạnh): Cá ngừng ăn, dễ nhiễm nấm. || • Giữ mức nước ao sâu (1.5 - 2m).
+• Trồng cây bóng mát quanh bờ hoặc thả bèo tây 1/5 diện tích ao.
+T| Độ trong của nước
+(Đo đĩa Secchi) || 20 cm – 30 cm || • < 20 cm: Nước quá đục, nhiều phù sa hoặc tảo quá dày.
+• > 30 cm: Nước quá trong, nghèo dinh dưỡng/thức ăn tự nhiên. || • Nước quá đục: Thay nước sạch, bón chế phẩm vi sinh EM.
+• Nước quá trong: Bón phân hữu cơ hoai mục để gây màu nước.
+T| Màu sắc của nước || Xanh đọt chuối / Vàng nâu || • Nước màu xanh đen/xanh đậm: Tảo lam phát triển quá mức.
+• Nước màu đen/thối: Ô nhiễm chất hữu cơ nặng. || • Bật máy sục khí/máy quạt nước.
+• Thay 20% - 30% nước sạch.
+• Sử dụng vôi đêm hoặc vi sinh xử lý đáy.
+Bước 4: Thu hoạch cá nuôi trong ao
+Khi cá đạt kích thước thương phẩm, tiến hành thu hoạch theo một trong hai hình thức:
+• Thu tỉa: Dùng lưới kéo chọn bắt những con cá đạt cỡ thương phẩm bán trước, giữ lại cá nhỏ tiếp tục nuôi. Áp dụng khi mật độ cá trong ao quá dày.
+• Thu toàn bộ: Rút bớt nước, kéo lưới bắt đại bộ phận cá, sau đó tháo cạn nước ao để bắt sạch cá. Áp dụng khi đại đa số cá trong ao đạt cỡ thương phẩm.
+3. Bảo vệ môi trường nuôi thủy sản và nguồn lợi thủy sản bền vững
+Bảo vệ môi trường sống và nguồn lợi thủy sản là trách nhiệm cấp thiết nhằm phát triển ngành thủy sản bền vững:
+1. Các biện pháp bảo vệ môi trường nuôi: Xử lý nước thải và bùn thải trước khi xả ra môi trường; không sử dụng hóa chất, kháng sinh cấm; tăng cường ứng dụng công nghệ vi sinh (chế phẩm sinh học); ứng dụng hệ thống nuôi tuần hoàn (RAS).
+2. Các biện pháp bảo vệ nguồn lợi thủy sản tự nhiên: Nghiêm cấm đánh bắt bằng chất nổ, xung điện, hóa chất độc hại; nghiêm cấm sử dụng lưới có kích thước mắt lưới quá nhỏ; bảo vệ các khu bảo tồn biển và rừng ngập mặn; cấm đánh bắt trong mùa sinh sản của thủy sản; thả bổ sung cá giống tái tạo nguồn lợi.
+III. MA TRẬN BÀI TẬP VÀ ĐÁP ÁN CHUẨN HSG (4 MỨC ĐỘ)
+1. Mức độ Nhận biết – Thông hiểu
+Câu 1.1: Trình bày tóm tắt các bước trong quy trình chuẩn bị ao nuôi cá. Tại sao trong khâu làm sạch đáy ao, người ta không hút sạch hoàn toàn bùn đáy mà chỉ để lại một lớp bùn dày khoảng 10 – 15 cm?
+T| 📌 HƯỚNG DẪN CHẤM CÂU 1.1
+ĐÁP ÁN CHUẨN CÂU 1.1:
+1. Các bước chuẩn bị ao nuôi cá:
+   - Bước 1: Tháo cạn nước, dọn vệ sinh bờ ao, bắt sạch cá tạp, cá dữ.
+   - Bước 2: Vét bùn đáy ao, chỉ giữ lại lớp bùn xốp dày 10 - 15 cm.
+   - Bước 3: Rắc vôi bột (7 - 10 kg/100m2) khử trùng, khử chua đáy ao.
+   - Bước 4: Phơi đáy ao 3 - 5 ngày dưới ánh nắng mặt trời.
+   - Bước 5: Lấy nước sạch vào ao qua túi lọc vải dày.
+2. Giải thích lý do giữ lại 10 - 15 cm bùn đáy:
+   - Lớp bùn đáy vừa phải là nơi tích tụ dinh dưỡng cần thiết để phát triển sinh vật đáy và tảo có lợi (nguồn thức ăn tự nhiên ban đầu cho cá).
+   - Bùn đáy có khả năng đệm nhiệt độ và đệm pH cho nước ao, giúp môi trường nước ao ổn định hơn.
+   - Nếu hút sạch bùn, ao trở thành 'ao nghèo', nước khó gây màu và cá thiếu nguồn thức ăn tự nhiên.
+Câu 1.2: Trình bày phương pháp đo độ trong của nước ao nuôi bằng đĩa Secchi. Độ trong thích hợp cho ao nuôi cá là bao nhiêu?
+T| 📌 HƯỚNG DẪN CHẤM CÂU 1.2
+ĐÁP ÁN CHUẨN CÂU 1.2:
+1. Các bước đo độ trong bằng đĩa Secchi:
+   - Bước 1: Thả chậm đĩa Secchi xuống nước ao theo phương thẳng đứng cho đến khi không còn nhìn thấy vạch đen/trắng trên mặt đĩa. Ghi lại độ sâu d1 (cm).
+   - Bước 2: Móc đĩa lên từ từ cho đến khi vừa nhìn thấy lại vạch đen/trắng trên mặt đĩa. Ghi lại độ sâu d2 (cm).
+   - Bước 3: Tính độ trong trung bình: D = (d1 + d2) / 2 (cm).
+2. Chỉ số độ trong thích hợp:
+   - Độ trong thích hợp cho ao nuôi cá là từ 20 cm đến 30 cm.
+   - Nếu D < 20 cm: Nước quá đục (nhiều phù sa hoặc tảo bùng phát).
+   - Nếu D > 30 cm: Nước quá trong (nghèo dinh dưỡng và thức ăn tự nhiên).
+2. Mức độ Vận dụng
+Câu 2.1: Tại sao trước khi thả cá giống vào ao nuôi, người ta phải ngâm túi chứa cá giống trong nước ao từ 15 – 20 phút? Nếu bỏ qua bước này sẽ dẫn đến hậu quả gì?
+T| 📌 HƯỚNG DẪN CHẤM CÂU 2.1
+ĐÁP ÁN CHUẨN CÂU 2.1:
+1. Lý do ngâm túi cá giống:
+   - Nước trong túi vận chuyển cá và nước trong ao nuôi thường có sự chênh lệch về nhiệt độ, pH và độ mặn.
+   - Việc ngâm túi nylon chứa cá trong nước ao 15 - 20 phút giúp nhiệt độ nước bên trong túi từ từ cân bằng với nhiệt độ nước ao nuôi.
+2. Hậu quả nếu bỏ qua bước này:
+   - Cá bị 'sốc nhiệt' đột ngột khi thả trực tiếp vào ao.
+   - Hậu quả: Cá bị co giật, suy yếu, chìm xuống đáy hoặc chết hàng loạt sau khi thả vài giờ, làm giảm tỷ lệ sống nghiêm trọng.
+Câu 2.2: So sánh ưu điểm và hạn chế của hai phương pháp thu hoạch cá nuôi trong ao: Thu tỉa và Thu toàn bộ. Trong trường hợp nào thì nên áp dụng từng phương pháp?
+T| 📌 HƯỚNG DẪN CHẤM CÂU 2.2
+ĐÁP ÁN CHUẨN CÂU 2.2:
+1. So sánh hai phương pháp thu hoạch:
+   • Thu tỉa:
+     - Ưu điểm: Bắt được cá lớn đạt chuẩn, giảm mật độ ao nuôi, giúp cá nhỏ còn lại có không gian và thức ăn để lớn nhanh hơn; cung cấp sản phẩm rải rác theo nhu cầu thị trường.
+     - Hạn chế: Làm đục nước ao, gây stress cho lượng cá còn lại trong ao mỗi lần kéo lưới.
+     - Áp dụng: Khi mật độ cá trong ao quá dày, cỡ cá không đồng đều.
+   • Thu toàn bộ:
+     - Ưu điểm: Thu hoạch nhanh chóng, tập trung, thu hồi vốn một lần, dễ dàng vệ sinh cải tạo ao cho lứa nuôi tiếp theo.
+     - Hạn chế: Yêu cầu thị trường tiêu thụ lượng lớn sản phẩm cùng lúc; cá nhỏ chưa đạt cỡ thương phẩm cũng bị bắt bán giá thấp.
+     - Áp dụng: Khi đa số cá trong ao đã đạt kích cỡ thương phẩm đồng đều.
+3. Mức độ Vận dụng cao & Phân tích chuyên sâu (Đề HSG nguồn)
+Câu 3.1 (Đề HSG tỉnh Vĩnh Long - 3.0 điểm): Phân tích chi tiết tác hại đến vật nuôi thủy sản và ảnh hưởng đến môi trường ao nuôi khi người nuôi sử dụng lượng thức ăn quá nhiều so với nhu cầu. Từ đó, hãy đề xuất các biện pháp quản lý thức ăn thông minh trong nuôi thủy sản.
+T| 📌 HƯỚNG DẪN CHẤM CÂU 3.1 CHUẨN SỞ GDĐT
+ĐÁP ÁN CHUẨN VÀ THANG ĐIỂM CHẤM (CÂU 2C ĐỀ HSG VĨNH LONG - 3.0 ĐIỂM):
+1. Tác hại của việc cho ăn thừa thức ăn (2.5 điểm - Mỗi ý đúng 0.25 - 0.5đ):
+   - Gây lãng phí thức ăn (chi phí thức ăn chiếm tỷ trọng cao nhất trong chăn nuôi) (0.25đ).
+   - Làm dơ ao, bẩn nước, tạo điều kiện cho tảo độc bùng phát mạnh (0.5đ).
+   - Làm suy giảm nồng độ ôxy hòa tan và làm ô nhiễm nguồn nước trong ao (0.5đ).
+   - Thủy sản bị stress, suy giảm sức đề kháng, dễ bị vi khuẩn/ký sinh trùng tấn công gây bệnh (0.5đ).
+   - Tăng chi phí sản xuất (chi phí xử lý nước, thuốc điều trị bệnh) (0.25đ).
+   - Ảnh hưởng tiêu cực đến sự tăng trưởng và tỷ lệ sống của thủy sản (0.5đ).
+2. Đề xuất giải pháp quản lý thức ăn thông minh (0.5 điểm):
+   - Thực hiện đúng nguyên tắc '4 định' (định lượng, định chất, định vị trí, định thời gian).
+   - Sử dụng sàng ăn/sàn cho ăn để kiểm tra sức ăn của cá sau 1 - 2 giờ cho ăn.
+   - Cắt giảm hoặc ngừng cho ăn khi thời tiết biến động xấu (mưa bão, oi nóng) hoặc nước ao bị bẩn.
+4. Bài tập Tình huống Thực tiễn & Lập Kế hoạch Chi phí
+Câu 4.1 (Bài tập lập kế hoạch nuôi cá cảnh / cá ao): Gia đình bạn An dự định nuôi một bể cá vàng gồm 10 con. Biết rằng: Giá mỗi con cá vàng giống là 20.000 đồng; Tiền mua bể kính và các thiết bị phụ trợ (máy lọc, máy sục khí O2) là 800.000 đồng; Tiền mua thức ăn cho cá là 40.000 đồng/tháng; Chi phí điện, nước sinh hoạt cho bể cá ước tính 20.000 đồng/tháng; Chi phí phòng trị bệnh dự phòng là 50.000 đồng/năm. Em hãy giúp bạn An lập bảng kế hoạch dự toán chi phí cần thiết để nuôi 10 con cá vàng trong năm đầu tiên.
+T| 📌 HƯỚNG DẪN CHẤM CÂU 4.1
+ĐÁP ÁN CHUẨN CÂU 4.1 (BÀI TẬP BẢNG DỰ TOÁN CHI PHÍ):
+Lập Bảng dự toán chi phí nuôi 10 con cá vàng trong năm đầu tiên (12 tháng):
+
+| STT | Nội dung chi phí | Đơn vị tính | Số lượng | Đơn giá (đồng) | Thành tiền (đồng) |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Cá vàng giống | Con | 10 | 20.000 | 200.000 |
+| 2 | Bể kính & Thiết bị (lọc, sục khí) | Bộ | 1 | 800.000 | 800.000 |
+| 3 | Thức ăn cho cá (12 tháng) | Tháng | 12 | 40.000 | 480.000 |
+| 4 | Điện, nước sinh hoạt (12 tháng) | Tháng | 12 | 20.000 | 240.000 |
+| 5 | Thuốc phòng trị bệnh dự phòng | Năm | 1 | 50.000 | 50.000 |
+| TỔNG CỘNG CHI PHÍ NĂM ĐẦU TIÊN | | | | | 1.770.000 đồng |
+
+→ Nhận xét: Chi phí ban đầu cho bể kính & thiết bị chiếm tỷ trọng lớn (45.2%), tuy nhiên sang các năm tiếp theo, chi phí cố định này sẽ không còn, giúp giảm chi phí vận hành hàng năm xuống chỉ còn 770.000 đồng/năm.
+IV. PHẦN GHI NHỚ NHANH CỐT LÕI (CHUYÊN ĐỀ 3)
+✔ Điểm 1: 4 bước quy trình nuôi cá ao: (1) Chuẩn bị ao nuôi → (2) Chuẩn bị cá giống & thả cá → (3) Chăm sóc & Quản lý môi trường nước → (4) Thu hoạch.
+✔ Điểm 2: Chuẩn bị ao nuôi: Hút bớt bùn (giữ 10-15cm) → Rắc vôi bột (7-10kg/100m²) → Phơi đáy (3-5 ngày) → Lấy nước qua túi lọc.
+✔ Điểm 3: Thả cá giống: Ngâm túi cá trong nước ao 15-20 phút trước khi mở miệng túi thả cá để chống 'sốc nhiệt'.
+✔ Điểm 4: Nguyên tắc cho ăn '4 định': Định lượng, Định chất, Định vị trí, Định thời gian. Giảm/ngừng cho ăn khi thời tiết xấu.
+✔ Điểm 5: Tác hại cho ăn thừa: Lãng phí chi phí → Phú dưỡng nước → Bùng phát tảo độc → Thiếu O2 & sinh khí độc → Cá stress/bệnh/chết hàng loạt.
+✔ Điểm 6: Các chỉ tiêu nước ao: Nhiệt độ 25 - 28°C; Độ trong thích hợp 20 - 30 cm (đo bằng đĩa Secchi).
+✔ Điểm 7: 2 hình thức thu hoạch: Thu tỉa (bắt cá lớn, giảm mật độ khi ao quá dày) và Thu toàn bộ (tháo cạn bắt hết khi cá đồng đều thương phẩm).

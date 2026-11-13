@@ -1,0 +1,153 @@
+T| TRƯỜNG THCS VINH XUÂN
+TỔ: KHOA HỌC TỰ NHIÊN || CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+T| MÔN: CÔNG NGHỆ 8 (KNTT)
+BÀI 20: DỰ ÁN THIẾT KẾ HỆ THỐNG TƯỚI CÂY TỰ ĐỘNG || NĂM HỌC: 2026 - 2027
+Thời lượng: 1 tiết (Chương V)
+BỘ CÂU HỎI ĐÁNH GIÁ VÀ MA TRẬN ĐỀ KIỂM TRA
+BÀI 20: DỰ ÁN THIẾT KẾ HỆ THỐNG TƯỚI CÂY TỰ ĐỘNG
+PHẦN I. YÊU CẦU CẦN ĐẠT VÀ MA TRẬN ĐÁNH GIÁ
+1. Yêu cầu cần đạt (YCCĐ):
+• Thiết kế được một sản phẩm đơn giản (Hệ thống tưới cây tự động cho cây cảnh trồng trong chậu) theo gợi ý, hướng dẫn và đúng quy trình thiết kế kĩ thuật (Mức độ Vận dụng).
+• Phân tích được các nhiệm vụ, tiêu chí kĩ thuật, quy trình 5 bước thực hiện dự án và đánh giá sản phẩm thiết kế theo quy chuẩn kĩ thuật.
+2. Ma trận mức độ đánh giá:
+T| Dạng câu hỏi || Nhận biết || Thông hiểu || Vận dụng || Tổng số câu
+T| Trắc nghiệm 4 lựa chọn (MCQ) || 6 câu (1-6) || 4 câu (7-10) || 2 câu (11-12) || 12 câu
+T| Trắc nghiệm Đúng/Sai (TF) || 2 câu (Câu 1, 2) || 1 câu (Câu 3) || 1 câu (Câu 4) || 4 câu (16 ý)
+T| Tự luận (Essay) || 1 câu (Câu 1) || 1 câu (Câu 2) || 1 câu (Câu 3) || 3 câu
+T| Tổng cộng || 9 câu || 6 câu || 4 câu || 19 câu
+PHẦN II. BỘ CÂU HỎI TRẮC NGHIỆM 4 LỰA CHỌN (12 CÂU)
+Câu 1 (Nhận biết): Mục đích chính của việc thực hiện Dự án: Thiết kế hệ thống tưới cây tự động là gì?
+A. Giúp thay thế hoàn toàn con người trong việc trồng trọt quy mô lớn.
+B. Cung cấp nước tưới tự động cho cây cảnh trong chậu khi vắng nhà hoặc bận rộn.
+C. Chế tạo thiết bị bơm nước công suất lớn cho đồng ruộng.
+D. Thay thế hoàn toàn ánh sáng mặt trời cho cây cảnh.
+Câu 2 (Nhận biết): Đối tượng phục vụ trực tiếp của sản phẩm trong Bài 20 là gì?
+A. Cây lúa nước trên đồng ruộng.
+B. Cây ăn quả trong trang trại rộng lớn.
+C. Cây cảnh trồng trong chậu.
+D. Cây rừng phòng hộ.
+Câu 3 (Nhận biết): Dự án thiết kế hệ thống tưới cây tự động gồm bao nhiêu yêu cầu (nhiệm vụ) kĩ thuật chính cần tuân thủ?
+A. 3 yêu cầu.
+B. 4 yêu cầu.
+C. 5 yêu cầu.
+D. 6 yêu cầu.
+Câu 4 (Nhận biết): Tiến trình thực hiện dự án thiết kế hệ thống tưới cây tự động áp dụng theo quy trình gồm mấy bước?
+A. 3 bước cơ bản.
+B. 4 bước cơ bản.
+C. 5 bước cơ bản của quy trình thiết kế kĩ thuật.
+D. 6 bước cơ bản.
+Câu 5 (Nhận biết): Trong quy trình thiết kế kĩ thuật hệ thống tưới cây tự động, bước đầu tiên (Bước 1) là gì?
+A. Chế tạo nguyên mẫu.
+B. Lập hồ sơ kĩ thuật.
+C. Xác định vấn đề, đề xuất các tiêu chí cần đạt của sản phẩm.
+D. Thử nghiệm và đánh giá.
+Câu 6 (Nhận biết): Mô đun cảm biến nào thường được ưu tiên sử dụng chính trong hệ thống tưới cây tự động?
+A. Mô đun cảm biến nhiệt độ.
+B. Mô đun cảm biến độ ẩm đất.
+C. Mô đun cảm biến ánh sáng.
+D. Mô đun cảm biến hồng ngoại.
+Câu 7 (Thông hiểu): Yêu cầu nào sau đây KHÔNG thuộc 5 yêu cầu kĩ thuật chính của dự án thiết kế hệ thống tưới cây tự động?
+A. Phù hợp với chế độ tưới của cây cảnh.
+B. Hoạt động chính xác và ổn định.
+C. Sử dụng linh kiện đắt tiền nhập khẩu cao cấp.
+D. Sử dụng vật liệu dễ kiếm, rẻ tiền và an toàn cho môi trường.
+Câu 8 (Thông hiểu): Tại sao trong dự án lại ưu tiên sử dụng vật liệu dễ kiếm và rẻ tiền?
+A. Để giảm chi phí chế tạo, giúp học sinh dễ tiếp cận và khả thi trong thực hành.
+B. Để sản phẩm tự động hỏng sau một thời gian ngắn sử dụng.
+C. Vì vật liệu đắt tiền không có tính năng cách điện.
+D. Để không phải kiểm tra và bảo dưỡng thiết bị.
+Câu 9 (Thông hiểu): Việc thử nghiệm và điều chỉnh hệ thống tưới cây tự động (Bước 4) nhằm mục đích chủ yếu gì?
+A. Vẽ lại bản vẽ kĩ thuật từ đầu.
+B. Kiểm tra khả năng vận hành thực tế, phát hiện lỗi để hoàn thiện sản phẩm.
+C. Viết báo cáo tổng kết dự án.
+D. Chọn vật liệu chế tạo mới.
+Câu 10 (Thông hiểu): Trong hệ thống tưới cây tự động dùng cảm biến độ ẩm, khi độ ẩm của đất xuống dưới mức cài đặt thì điều gì sẽ xảy ra?
+A. Cảm biến phát tín hiệu điều khiển bật máy bơm/van tưới nước cho cây.
+B. Máy bơm lập tức tắt và khóa van nước.
+C. Cảm biến phát chuông báo động sự cố.
+D. Nguồn điện bị cắt hoàn toàn.
+Câu 11 (Vận dụng): Khi thử nghiệm hệ thống tưới tự động, thấy máy bơm chạy liên tục không dừng mặc dù đất đã quá ẩm. Nguyên nhân kĩ thuật nào sau đây là phù hợp nhất?
+A. Ngõ ra của mô đun cảm biến độ ẩm bị chỉnh sai ngưỡng hoặc nối sai dây điều khiển rơle.
+B. Máy bơm bị hết nước.
+C. Cây cảnh hấp thụ quá nhiều nước.
+D. Điện áp nguồn cấp bị giảm nhẹ.
+Câu 12 (Vận dụng): Một nhóm học sinh muốn thiết kế hệ thống tưới cây tưới đúng 06:00 sáng và 18:00 chiều mỗi ngày mà không phụ thuộc vào độ ẩm của đất. Nhóm nên chọn giải pháp nào?
+A. Sử dụng mô đun cảm biến ánh sáng.
+B. Sử dụng mô đun cảm biến độ ẩm đất.
+C. Sử dụng mô đun rơle hẹn giờ (timer module).
+D. Sử dụng cảm biến nhiệt độ.
+PHẦN III. BỘ CÂU HỎI TRẮC NGHIỆM ĐÚNG/SAI (04 CÂU - 16 Ý)
+Lưu ý: Theo đúng quy định kĩ thuật biên soạn học liệu, mỗi câu hỏi Đúng/Sai gồm 4 phát biểu (a, b, c, d) và có chính xác 2 đáp án ĐÚNG - 2 đáp án SAI.
+Câu 1 (Nhận biết): Về nhiệm vụ và yêu cầu kĩ thuật của Dự án Bài 20:
+a) Dự án yêu cầu thiết kế hệ thống tưới nước tự động cho cây cảnh trồng trong chậu. [Đúng]
+b) Hệ thống phải đảm bảo 5 yêu cầu kĩ thuật chính. [Đúng]
+c) Yêu cầu sản phẩm phải bắt buộc dùng linh kiện điều khiển công nghiệp đắt tiền. [Sai]
+d) Sản phẩm thiết kế không cần quan tâm đến độ an toàn đối với môi trường xung quanh. [Sai]
+Câu 2 (Thông hiểu): Về tiến trình thực hiện dự án thiết kế kĩ thuật hệ thống tưới cây tự động:
+a) Tiến trình thực hiện dự án gồm 5 bước tuân theo quy trình thiết kế kĩ thuật. [Đúng]
+b) Lập hồ sơ kĩ thuật là bước thực hiện cuối cùng (Bước 5) của quy trình. [Đúng]
+c) Bước thử nghiệm và đánh giá được tiến hành trước khi thiết kế và chế tạo nguyên mẫu. [Sai]
+d) Bước 1 chỉ cần chế tạo ngay sản phẩm mà không cần xác định các tiêu chí cần đạt. [Sai]
+Câu 3 (Thông hiểu): Về nguyên lí làm việc của hệ thống tưới cây tự động dùng cảm biến độ ẩm đất:
+a) Mô đun cảm biến độ ẩm đất đóng vai trò nhận biết độ ẩm của đất trồng. [Đúng]
+b) Khi đất khô (độ ẩm dưới mức cài đặt), cảm biến điều khiển bật máy bơm tưới nước. [Đúng]
+c) Khi đất đã đủ ẩm, hệ thống vẫn tiếp tục tưới liên tục không tự ngắt. [Sai]
+d) Cảm biến ánh sáng là bộ phận bắt buộc duy nhất để điều khiển máy bơm tưới cây. [Sai]
+Câu 4 (Vận dụng): Về việc vận hành, thử nghiệm và đánh giá hệ thống tưới cây tự động:
+a) Thử nghiệm thực tế giúp phát hiện lỗi đấu nối dây và điều chỉnh ngưỡng cảm biến. [Đúng]
+b) Sử dụng nguồn điện xoay chiều 220V trực tiếp chạm vào chậu cây tưới nước là phương án an toàn nhất. [Sai]
+c) Báo cáo sản phẩm dự án cần trình bày bản vẽ thiết kế, nguyên lí hoạt động và kết quả thử nghiệm. [Đúng]
+d) Tiêu chí kinh tế yêu cầu chi phí thực hiện dự án càng cao thì sản phẩm càng đạt điểm tối đa. [Sai]
+PHẦN IV. CÂU HỎI TỰ LUẬN (03 CÂU)
+Câu 1 (Nhận biết - 2,0 điểm): Nêu mục đích của Dự án Bài 20 và trình bày đầy đủ 5 yêu cầu kĩ thuật đối với hệ thống tưới cây tự động theo SGK Công nghệ 8.
+Câu 2 (Thông hiểu - 3,0 điểm): Trình bày trình tự 5 bước thực hiện dự án thiết kế hệ thống tưới cây tự động. Cho biết vai trò của bước Thử nghiệm và đánh giá (Bước 4) trong quy trình thiết kế kĩ thuật.
+Câu 3 (Vận dụng - 5,0 điểm): Một nhóm học sinh lớp 8 tiến hành thử nghiệm hệ thống tưới cây tự động dùng mô đun cảm biến độ ẩm đất. Khi cắm hai que đo cảm biến vào đất khô, đèn báo trên mô đun cảm biến sáng nhưng máy bơm mini không hoạt động.
+a) Em hãy phân tích 3 nguyên nhân kĩ thuật có thể dẫn đến sự cố trên.
+b) Đề xuất quy trình các bước kiểm tra và khắc phục sự cố để đưa hệ thống vào hoạt động ổn định.
+PHẦN V. ĐÁP ÁN VÀ HƯỚNG DẪN CHẤM CHI TIẾT
+1. Bảng đáp án Trắc nghiệm 4 lựa chọn (MCQ):
+T| Câu 1 || Câu 2 || Câu 3 || Câu 4 || Câu 5 || Câu 6
+T| B || C || C || C || C || B
+T|  ||  ||  ||  ||  || 
+T| Câu 1 || Câu 2 || Câu 3 || Câu 4 || Câu 5 || Câu 6
+T| B || C || C || C || C || B
+T| Câu 7 || Câu 8 || Câu 9 || Câu 10 || Câu 11 || Câu 12
+T| C || A || B || A || A || C
+2. Đáp án Trắc nghiệm Đúng/Sai (TF):
+• Câu 1: a) Đúng | b) Đúng | c) Sai | d) Sai (Chuẩn 2 Đúng / 2 Sai)
+• Câu 2: a) Đúng | b) Đúng | c) Sai | d) Sai (Chuẩn 2 Đúng / 2 Sai)
+• Câu 3: a) Đúng | b) Đúng | c) Sai | d) Sai (Chuẩn 2 Đúng / 2 Sai)
+• Câu 4: a) Đúng | b) Sai | c) Đúng | d) Sai (Chuẩn 2 Đúng / 2 Sai)
+3. Hướng dẫn chấm Tự luận (Essay):
+Câu 1 (2,0 điểm):
+• Mục đích: Cung cấp đủ nước tưới tự động cho cây cảnh trồng trong chậu khi vắng nhà hoặc bận rộn (0,5 điểm).
+• 5 Yêu cầu kĩ thuật (1,5 điểm - mỗi ý 0,3 điểm):
+1. Phù hợp với chế độ tưới của cây cảnh.
+2. Hoạt động chính xác và ổn định.
+3. Đơn giản, dễ lắp ráp và vận chuyển.
+4. Sử dụng vật liệu dễ kiếm, rẻ tiền.
+5. Không ảnh hưởng tới môi trường.
+Câu 2 (3,0 điểm):
+• Trình tự 5 bước thực hiện dự án (2,0 điểm - mỗi bước 0,4 điểm):
+- Bước 1: Xác định vấn đề, đề xuất các tiêu chí cần đạt của sản phẩm.
+- Bước 2: Tìm hiểu tổng quan, đề xuất và lựa chọn giải pháp.
+- Bước 3: Thiết kế hệ thống tưới cây tự động (bản vẽ, chế tạo nguyên mẫu).
+- Bước 4: Thử nghiệm, đánh giá và điều chỉnh hệ thống.
+- Bước 5: Lập hồ sơ kĩ thuật.
+• Vai trò của Bước 4 (1,0 điểm): Thử nghiệm thực tế giúp phát hiện các lỗi kĩ thuật (đấu nối sai, hở nước, cảm biến không nhạy), từ đó điều chỉnh thiết kế, hoàn thiện sản phẩm đạt yêu cầu kĩ thuật trước khi lập hồ sơ kĩ thuật.
+Câu 3 (5,0 điểm):
+a) Phân tích 3 nguyên nhân kĩ thuật (3,0 điểm - mỗi nguyên nhân 1,0 điểm):
+1. Chỉnh sai núm xoay biến trở điều chỉnh ngưỡng độ ẩm trên mô đun cảm biến (tín hiệu ngõ ra chưa đủ kích rơle đóng mạch).
+2. Dây nguồn cấp cho máy bơm mini bị đứt, lỏng mối nối hoặc dây tín hiệu từ mô đun cảm biến nối sai chân rơle (nối vào tiếp điểm Thường Mở/Thường Đóng bị nhầm).
+3. Nguồn điện cấp riêng cho máy bơm yếu/không đủ điện áp, hoặc động cơ máy bơm bị kẹt cánh quạt do cặn bẩn.
+b) Quy trình 4 bước kiểm tra và khắc phục (2,0 điểm):
+- Bước 1: Ngắt nguồn điện an toàn, kiểm tra lại toàn bộ các mối nối dây dẫn giữa mô đun cảm biến, rơle và máy bơm (0,5 điểm).
+- Bước 2: Cấp điện, dùng tua vít nhỏ xoay nhẹ biến trở trên mô đun cảm biến đến khi nghe tiếng 'tạch' của rơle đóng tiếp điểm cấp điện cho máy bơm (0,5 điểm).
+- Bước 3: Kiểm tra đo điện áp nguồn cấp và thử nghiệm máy bơm độc lập với nguồn 5V/12V DC (0,5 điểm).
+- Bước 4: Cắm lại cảm biến vào chậu đất khô và thử nghiệm tưới nước thực tế, kiểm tra máy bơm tự ngắt khi đất đủ ẩm (0,5 điểm).
+PHẦN VI. BẢNG ĐỐI CHIẾU NĂNG LỰC VÀ MA TRẬN YCCĐ
+T| Thành phần năng lực || Mức độ || Câu hỏi tương ứng || Tỉ lệ điểm %
+T| Nhận thức công nghệ || Nhận biết || MCQ 1-6; TF 1-2; TL 1 || 40%
+T| Giao tiếp & Thiết kế công nghệ || Thông hiểu || MCQ 7-10; TF 3; TL 2 || 30%
+T| Sử dụng & Đánh giá công nghệ || Vận dụng || MCQ 11-12; TF 4; TL 3 || 30%

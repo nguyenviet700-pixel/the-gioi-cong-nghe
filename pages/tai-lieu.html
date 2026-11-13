@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kho Tài Liệu (Khối 6, 7, 8, 9) | Thế Giới Công Nghệ - Trường THCS Vĩnh Xuân</title>
+    <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="../style.css">
+    <style>
+        .doc-group { margin-bottom: 35px; padding: 0; overflow: hidden; }
+        .doc-group-header {
+            background: var(--primary-color);
+            color: white;
+            padding: 18px 24px;
+            margin: 0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        .doc-group-header.g6 { background: #198754; }
+        .doc-group-header.g7 { background: #0d6efd; }
+        .doc-group-header.g8 { background: #fd7e14; }
+        .doc-group-header.g9 { background: #6f42c1; }
+        .doc-item {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 15px;
+            padding: 18px 24px;
+            border-bottom: 1px solid #eee;
+            transition: var(--transition);
+            flex-wrap: wrap;
+        }
+        .doc-item:hover { background-color: var(--primary-light); }
+        .doc-info { display: flex; align-items: center; gap: 15px; }
+        .doc-icon { font-size: 2rem; color: var(--danger); }
+        .doc-actions { display: flex; gap: 8px; flex-wrap: wrap; }
+        .doc-type-badge {
+            display: inline-block;
+            padding: 2px 10px;
+            border-radius: 12px;
+            font-size: 0.78rem;
+            font-weight: 700;
+            background: #e9ecef;
+            color: #495057;
+            margin-right: 6px;
+        }
+        .pdf-preview-box {
+            width: 100%;
+            margin-top: 12px;
+            display: none;
+        }
+        .pdf-preview-box iframe {
+            width: 100%;
+            height: 600px;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container nav-container">
+            <a href="../index.html" class="logo">
+                <img src="../assets/logo-truong.jpg" alt="Logo Trường THCS Vĩnh Xuân" class="nav-brand-logo">
+                <span class="logo-text">
+                    <span>THẾ GIỚI CÔNG NGHỆ</span>
+                    <span class="logo-sub">TRƯỜNG THCS VĨNH XUÂN</span>
+                </span>
+            </a>
+            <ul class="nav-links">
+                <li><a href="../index.html">Trang chủ</a></li>
+                <li class="dropdown">
+                    <a href="#" class="active">Học Tập <i class="fa-solid fa-chevron-down"></i></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="cong-nghe-7.html">Công nghệ 7</a></li>
+                        <li><a href="cong-nghe-8.html">Công nghệ 8</a></li>
+                        <li><a href="tai-lieu.html" class="active">Kho tài liệu (Khối 6, 7, 8, 9)</a></li>
+                        <li><a href="tai-lieu-hsg.html">Tài liệu bồi dưỡng HSG</a></li>
+                    </ul>
+                </li>
+                <li><a href="quiz.html">Chơi &amp; Quiz</a></li>
+                <li><a href="xuong-thuc-hanh.html">Xưởng Thực Hành</a></li>
+                <li><a href="thu-thach.html">Thử Thách</a></li>
+                <li><a href="ai.html">Trợ lý AI</a></li>
+            </ul>
+            <div class="hamburger"><i class="fa-solid fa-bars"></i></div>
+        </div>
+    </nav>
+
+    <header class="page-header" style="background:var(--teal);">
+        <div class="container">
+            <h1>Kho Tài Liệu Công Nghệ THCS</h1>
+            <p>Trọn bộ 17 cuốn Sách giáo khoa (SGK), Sách bài tập (SBT) và Sách giáo viên (SGV) Công nghệ Khối 6, 7, 8, 9</p>
+        </div>
+    </header>
+
+    <section class="section">
+        <div class="container">
+            <!-- Tabs lọc theo khối lớp -->
+            <div class="grade-tabs" id="grade-tabs">
+                <button class="grade-tab active" data-grade="all">Tất cả (17)</button>
+                <button class="grade-tab" data-grade="6">Công nghệ 6 (3)</button>
+                <button class="grade-tab" data-grade="7">Công nghệ 7 (3)</button>
+                <button class="grade-tab" data-grade="8">Công nghệ 8 (3)</button>
+                <button class="grade-tab" data-grade="9">Công nghệ 9 (8)</button>
+            </div>
+
+            <div id="ref-groups"></div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container footer-content">
+            <div class="footer-brand">
+                <img src="../assets/logo-truong.jpg" alt="Logo Trường THCS Vĩnh Xuân">
+                <div class="footer-logo" style="margin-bottom:0;">THẾ GIỚI CÔNG NGHỆ – TRƯỜNG THCS VĨNH XUÂN</div>
+            </div>
+            <p class="footer-author">Tác giả: <strong>Thầy Nguyễn Thanh Việt</strong> – Giáo viên môn Công nghệ, Trường THCS Vĩnh Xuân.</p>
+        </div>
+    </footer>
+
+    <script src="../data/catalog.js"></script>
+    <script src="../library.js"></script>
+    <script src="../site-config.js"></script>
+    <script src="../script.js"></script>
+    <script>
+        (function () {
+            const container = document.getElementById('ref-groups');
+            if (!window.CATALOG) {
+                container.innerHTML = '<div class="card"><p>Không tải được danh mục tài liệu.</p></div>';
+                return;
+            }
+            const gradeTitles = {
+                6: 'Tài liệu Công nghệ 6 (SGK, SBT, SGV – Kết nối tri thức)',
+                7: 'Tài liệu Công nghệ 7 (SGK, SBT, SGV – Nông lâm nghiệp & Thủy sản)',
+                8: 'Tài liệu Công nghệ 8 (SGK, SBT, SGV – Công nghiệp)',
+                9: 'Tài liệu Công nghệ 9 (Định hướng nghề nghiệp, Lắp đặt mạng điện, Trồng cây ăn quả, Chế biến thực phẩm)'
+            };
+
+            function renderRefs(filterGrade) {
+                const grades = filterGrade === 'all' ? [6, 7, 8, 9] : [Number(filterGrade)];
+                container.innerHTML = grades.map(g => {
+                    const list = CATALOG.references.filter(r => r.grade === g);
+                    if (!list.length) return '';
+                    const itemsHtml = list.map((r, idx) => {
+                        const prevU = previewUrl(r);
+                        const openU = openUrl(r);
+                        const dlU = downloadUrl(r);
+                        const pid = 'pdf-prev-' + g + '-' + idx;
+                        return '<div class="doc-item">' +
+                            '<div class="doc-info"><i class="fa-solid fa-file-pdf doc-icon"></i><div>' +
+                            '<h4 style="margin-bottom:5px;">' + escapeHtml(r.title) + '</h4>' +
+                            '<p style="font-size:0.85rem; color:var(--text-muted);">' +
+                            '<span class="doc-type-badge">' + escapeHtml(r.bookType || r.kind || 'PDF') + '</span>' +
+                            'Khối ' + r.grade + ' · Dung lượng: ' + r.sizeMB + ' MB</p></div></div>' +
+                            '<div class="doc-actions">' +
+                            '<button type="button" class="btn btn-outline btn-sm" data-prev="' + pid + '" data-src="' + prevU + '"><i class="fa-solid fa-book-open"></i> Đọc trực tiếp</button>' +
+                            '<a href="' + openU + '" target="_blank" rel="noopener" class="btn btn-outline btn-sm"><i class="fa-solid fa-up-right-from-square"></i> Mở tab mới</a>' +
+                            '<a href="' + dlU + '" target="_blank" rel="noopener" download="' + escapeHtml(r.file) + '" class="btn btn-primary btn-sm"><i class="fa-solid fa-download"></i> Tải về</a>' +
+                            '</div>' +
+                            '<div class="pdf-preview-box" id="' + pid + '"></div>' +
+                            '</div>';
+                    }).join('');
+                    return '<div class="card doc-group">' +
+                        '<h3 class="doc-group-header g' + g + '">' +
+                        '<span><i class="fa-solid fa-layer-group"></i> ' + gradeTitles[g] + '</span>' +
+                        '<span style="font-size:0.9rem; font-weight:600; opacity:0.95;">' + list.length + ' cuốn</span>' +
+                        '</h3>' + itemsHtml + '</div>';
+                }).join('');
+
+                container.querySelectorAll('[data-prev]').forEach(btn => {
+                    btn.addEventListener('click', () => {
+                        const box = document.getElementById(btn.dataset.prev);
+                        if (!box) return;
+                        if (box.style.display === 'block') {
+                            box.style.display = 'none';
+                            box.innerHTML = '';
+                        } else {
+                            box.style.display = 'block';
+                            box.innerHTML = '<iframe src="' + btn.dataset.src + '"></iframe>';
+                        }
+                    });
+                });
+            }
+
+            document.querySelectorAll('#grade-tabs .grade-tab').forEach(tab => {
+                tab.addEventListener('click', () => {
+                    document.querySelectorAll('#grade-tabs .grade-tab').forEach(t => t.classList.remove('active'));
+                    tab.classList.add('active');
+                    renderRefs(tab.dataset.grade);
+                });
+            });
+
+            renderRefs('all');
+        })();
+    </script>
+</body>
+</html>

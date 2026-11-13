@@ -1,0 +1,139 @@
+BỘ CÂU HỎI ĐÁNH GIÁ VÀ ĐÁP ÁN CHUẨN CƠ SỞ
+MÔN CÔNG NGHỆ 8 - BÀI 11: TAI NẠN ĐIỆN
+(Bộ sách Kết nối tri thức với cuộc sống)
+T| LƯU Ý BIÊN SOẠN & QUY CHUẨN SỬ DỤNG
+Tài liệu biên soạn tuân thủ quy trình chuẩn hóa học liệu môn Công nghệ 8 (KNTT):
+1. Bám sát Yêu cầu cần đạt (YCCĐ) trong Chương trình GDPT 2018 môn Công nghệ.
+2. Đảm bảo cấu trúc bộ đề: 12 câu trắc nghiệm 4 lựa chọn, 04 câu trắc nghiệm Đúng/Sai (chuẩn 2 Đúng/2 Sai mỗi câu), 03 câu tự luận.
+3. Tỉ lệ ma trận nhận thức: Nhận biết (100% phù hợp YCCĐ Bài 11).
+4. Đầy đủ Đáp án, Hướng dẫn chấm chi tiết và Bảng đối chiếu nguồn minh bạch.
+PHẦN A: YÊU CẦU CẦN ĐẠT VÀ MA TRẬN ĐÁNH GIÁ
+1. Yêu cầu cần đạt (YCCĐ) - Bài 11: Tai nạn điện
+• Cốt lõi YCCĐ (Theo CT GDPT 2018): Nhận biết được một số nguyên nhân gây tai nạn điện (Tiếp xúc trực tiếp vào vật mang điện; Vi phạm khoảng cách bảo vệ an toàn lưới điện cao áp và trạm biến áp; Đến gần vị trí dây dẫn có điện bị rơi xuống đất).
+2. Ma trận đề kiểm tra đánh giá Bài 11
+T| Dạng câu hỏi || Mức độ Nhận biết || Số câu || Điểm số || Tỉ lệ %
+T| Phần I: Trắc nghiệm 4 lựa chọn || 12 câu (Câu 1 - 12) || 12 || 3,0 điểm || 30%
+T| Phần II: Trắc nghiệm Đúng/Sai || 4 câu (Câu 1 - 4; 16 ý) || 4 || 4,0 điểm || 40%
+T| Phần III: Tự luận || 3 câu (Câu 1 - 3) || 3 || 3,0 điểm || 30%
+T| TỔNG CỘNG || 100% Nhận biết || 19 câu || 10,0 điểm || 100%
+PHẦN B: BỘ CÂU HỎI ĐÁNH GIÁ
+PHẦN I: TRẮC NGHIỆM NHIỀU LỰA CHỌN (12 CÂU - 3,0 ĐIỂM)
+Ghi chú: Chọn 01 phương án đúng duy nhất cho mỗi câu hỏi dưới đây (Mỗi câu trả lời đúng được 0,25 điểm).
+Câu 1: Tai nạn điện là gì?
+A. Hiện tượng dòng điện chạy qua cơ thể người gây ra các tổn thương hoặc tử vong.
+B. Hiện tượng thiết bị điện bị hư hỏng không thể hoạt động được.
+C. Hiện tượng sụt điện áp trên lưới điện hạ áp gia đình.
+D. Hiện tượng chập cháy cầu chì trong mạng điện sinh hoạt.
+Câu 2: Tác hại nguy hiểm nhất của dòng điện đối với cơ thể người khi xảy ra tai nạn điện là gì?
+A. Làm tăng nhịp tim tạm thời.
+B. Gây bỏng nhẹ ngoài da.
+C. Làm gián đoạn hoạt động của tim, cơ quan hô hấp và có thể gây tử vong.
+D. Gây tê mỏi các chi trong thời gian ngắn.
+Câu 3: Mức độ nghiêm trọng của tai nạn điện phụ thuộc chủ yếu vào những yếu tố nào dưới đây?
+A. Màu sắc của dây dẫn điện và giá tiền của thiết bị.
+B. Độ lớn của dòng điện, thời gian dòng điện qua người và đường đi của dòng điện qua cơ thể.
+C. Chiều cao của người bị nạn và loại cầu chì sử dụng.
+D. Nhiệt độ môi trường xung quanh và hãng sản xuất thiết bị điện.
+Câu 4: Có mấy nhóm nguyên nhân chính gây ra tai nạn điện được nêu trong bài?
+A. 2 nhóm.
+B. 3 nhóm.
+C. 4 nhóm.
+D. 5 nhóm.
+Câu 5: Hành vi nào dưới đây thuộc nhóm nguyên nhân 'Tiếp xúc trực tiếp vào vật mang điện'?
+A. Thả diều gần đường dây điện cao áp.
+B. Chạm tay trực tiếp vào phần cọc dây điện không được bọc cách điện.
+C. Đi lại gần khu vực dây điện cao áp đứt rơi xuống đất.
+D. Trồng cây cao vi phạm hành lang an toàn trạm biến áp.
+Câu 6: Trường hợp nào sau đây gây tai nạn điện do 'Tiếp xúc trực tiếp vào vật mang điện'?
+A. Sửa chữa điện gia đình mà không cắt nguồn điện (ngắt cầu dao/aptomat).
+B. Trèo lên cột điện cao áp để bắt tổ chim.
+C. Xây nhà quá gần đường dây điện cao thế.
+D. Bắt cá tại hồ gần đường dây cao áp.
+Câu 7: Hành vi dùng dụng cụ thiết bị điện có vỏ kim loại bị rò điện ra vỏ thuộc nguyên nhân gây tai nạn điện nào?
+A. Đến gần dây điện bị rơi xuống đất.
+B. Vi phạm khoảng cách an toàn lưới điện cao áp.
+C. Tiếp xúc trực tiếp vào vật mang điện.
+D. Sụt áp nguồn điện lưới.
+Câu 8: Thả diều, chơi đùa gần đường dây điện cao thế là vi phạm quy định an toàn điện thuộc nhóm nguyên nhân nào?
+A. Tiếp xúc trực tiếp vào dây trung tính.
+B. Vi phạm khoảng cách bảo vệ an toàn lưới điện cao áp và trạm biến áp.
+C. Đến gần vị trí dây dẫn có điện bị rơi xuống đất.
+D. Quá tải mạng điện sinh hoạt gia đình.
+Câu 9: Khi một dây điện cao áp bị đứt và rơi xuống mặt đất, vùng đất xung quanh điểm chạm dây điện sẽ xuất hiện hiện tượng gì nguy hiểm?
+A. Hiện tượng từ trường mạnh làm hỏng điện thoại.
+B. Hiện tượng điện áp bước (dòng điện lan truyền trên mặt đất).
+C. Hiện tượng sạt lở đất tức thì.
+D. Hiện tượng mất hoàn toàn điện áp.
+Câu 10: Hành vi nào sau đây gây nguy hiểm do 'Vi phạm khoảng cách bảo vệ an toàn lưới điện cao áp'?
+A. Sửa ổ cắm điện khi đã ngắt aptomat.
+B. Trồng cây cao dưới hành lang bảo vệ an toàn đường dây điện cao áp.
+C. Rút phích cắm điện bằng cách nắm vào phần vỏ cách điện của phích cắm.
+D. Sử dụng búa cao su khi sửa chữa cơ khí.
+Câu 11: Bán kính khoảng cách an toàn tối thiểu không được lại gần khi phát hiện dây điện cao áp đứt rơi xuống đất ẩm là bao nhiêu?
+A. Khoảng 1 - 2 mét.
+B. Khoảng 3 - 5 mét.
+C. Khoảng 8 - 10 mét (hoặc hơn tùy cấp điện áp).
+D. Khoảng 0,5 mét.
+Câu 12: Để phòng tránh tai nạn điện do tiếp xúc trực tiếp, khi sửa chữa mạng điện gia đình ta BẮT BUỘC phải làm gì trước tiên?
+A. Bật tất cả các bóng đèn trong nhà.
+B. Ngắt nguồn điện (cầu dao hoặc aptomat tổng).
+C. Đeo tai nghe nhạc để giữ tinh thần thoải mái.
+D. Rửa tay bằng nước sạch.
+PHẦN II: TRẮC NGHIỆM ĐÚNG/SAI (4 CÂU - 4,0 ĐIỂM)
+Ghi chú: Trong mỗi ý a), b), c), d) ở mỗi câu, học sinh chọn Đúng (Đ) hoặc Sai (S). Quy định chấm điểm chuẩn: Đúng 1 ý: 0,1 điểm; Đúng 2 ý: 0,25 điểm; Đúng 3 ý: 0,5 điểm; Đúng 4 ý: 1,0 điểm. (Đảm bảo chính xác quy tắc đúng 2 ý Đúng và 2 ý Sai mỗi câu).
+Câu 1: Khi xem xét về khái niệm và tác hại của tai nạn điện đối với con người:
+a) Tai nạn điện là tai nạn do dòng điện chạy qua cơ thể người gây tổn thương hoặc tử vong.
+b) Tác hại của dòng điện chỉ dừng lại ở việc gây bỏng nhẹ ngoài da, không ảnh hưởng đến nội tạng.
+c) Dòng điện chạy qua cơ thể người có thể làm gián đoạn hoạt động của tim và cơ quan hô hấp.
+d) Độ lớn của dòng điện càng nhỏ thì nguy cơ tử vong khi bị điện giật càng cao.
+Câu 2: Khi phân tích nhóm nguyên nhân 'Tiếp xúc trực tiếp vào vật mang điện':
+a) Chạm tay trực tiếp vào dây dẫn điện trần không có vỏ cách điện là một nguyên nhân gây tai nạn.
+b) Sửa chữa điện trong nhà khi đã ngắt hoàn toàn cầu dao tổng vẫn thuộc nhóm nguyên nhân tiếp xúc trực tiếp.
+c) Chạm tay vào vỏ kim loại của quạt điện bị rò điện do hỏng lớp cách điện là tiếp xúc trực tiếp.
+d) Trèo lên cây cao gần đường dây điện cao áp là nguyên nhân tiếp xúc trực tiếp vào vật mang điện.
+Câu 3: Khi đánh giá các hành vi liên quan đến khoảng cách an toàn lưới điện cao áp và trạm biến áp:
+a) Vi phạm khoảng cách an toàn lưới điện cao áp có thể bị phóng điện qua không khí gây tai nạn.
+b) Thả diều gần đường dây điện cao áp là hành vi an toàn vì dây diều không làm bằng kim loại.
+c) Xây dựng nhà cửa, công trình vi phạm hành lang an toàn lưới điện cao thế nguy cơ gây tai nạn điện.
+d) Lưới điện cao áp chỉ gây nguy hiểm khi con người chạm trực tiếp vào dây dẫn điện.
+Câu 4: Khi gặp sự cố dây điện đứt rơi xuống mặt đất:
+a) Đi lại gần khu vực dây điện cao áp đứt chạm đất có thể bị tai nạn điện do điện áp bước.
+b) Bán kính an toàn khi phát hiện dây điện đứt rơi xuống đất là dưới 1 mét.
+c) Khi phát hiện dây điện đứt rơi xuống đất, cần báo ngay cho đơn vị quản lý điện lực hoặc chính quyền địa phương.
+d) Dây điện rơi xuống mặt đất khô ráo thì hoàn toàn mất điện và an toàn 100%.
+PHẦN III: TỰ LUẬN (3 CÂU - 3,0 ĐIỂM)
+Câu 1 (1,0 điểm): Hãy nêu khái niệm tai nạn điện và liệt kê 3 nhóm nguyên nhân chính gây ra tai nạn điện được học trong Bài 11.
+Câu 2 (1,0 điểm): Trình bày các yếu tố ảnh hưởng đến mức độ nghiêm trọng của tai nạn điện đối với cơ thể người khi bị điện giật.
+Câu 3 (1,0 điểm): Giải thích tại sao khi thấy dây điện cao áp bị đứt rơi xuống mặt đất, chúng ta tuyệt đối không được lại gần và không được tự ý chạm vào?
+PHẦN C: ĐÁP ÁN VÀ HƯỚNG DẪN CHẤM CHUẨN CƠ SỞ
+1. Đáp án Phần I: Trắc nghiệm 4 lựa chọn (3,0 điểm)
+T| Câu 1 || Câu 2 || Câu 3 || Câu 4 || Câu 5 || Câu 6
+T| A || C || B || B || B || A
+T| Câu 7 || Câu 8 || Câu 9 || Câu 10 || Câu 11 || Câu 12
+T| C || B || B || B || C || B
+2. Đáp án Phần II: Trắc nghiệm Đúng/Sai (4,0 điểm)
+T| Câu hỏi || Ý a) || Ý b) || Ý c) || Ý d)
+T| Câu 1 || Đúng (Đ) || Sai (S) || Đúng (Đ) || Sai (S)
+T| Câu 2 || Đúng (Đ) || Sai (S) || Đúng (Đ) || Sai (S)
+T| Câu 3 || Đúng (Đ) || Sai (S) || Đúng (Đ) || Sai (S)
+T| Câu 4 || Đúng (Đ) || Sai (S) || Đúng (Đ) || Sai (S)
+3. Hướng dẫn chấm Phần III: Tự luận (3,0 điểm)
+• Câu 1 (1,0 điểm): Khái niệm tai nạn điện và 3 nhóm nguyên nhân chính
+- Khái niệm: Tai nạn điện là tai nạn do dòng điện chạy qua cơ thể người gây ra tổn thương hoặc tử vong. (0,4 điểm)
+- 3 nhóm nguyên nhân chính: 1. Tiếp xúc trực tiếp vào vật mang điện (0,2 điểm)
+2. Vi phạm khoảng cách bảo vệ an toàn lưới điện cao áp và trạm biến áp (0,2 điểm)
+3. Đến gần vị trí dây dẫn có điện bị rơi xuống đất (0,2 điểm)
+• Câu 2 (1,0 điểm): Các yếu tố ảnh hưởng đến mức độ nghiêm trọng của tai nạn điện
+- Yếu tố 1: Độ lớn của dòng điện chạy qua cơ thể người (dòng điện càng lớn mức độ nguy hiểm càng cao). (0,35 điểm)
+- Yếu tố 2: Thời gian dòng điện chạy qua cơ thể người (thời gian bị giật càng lâu nguy cơ tử vong càng cao). (0,35 điểm)
+- Yếu tố 3: Đường đi của dòng điện qua cơ thể (nguy hiểm nhất là dòng điện đi qua tim và não). (0,3 điểm)
+• Câu 3 (1,0 điểm): Giải thích mối nguy hiểm khi dây điện cao áp bị đứt rơi xuống đất
+- Nguyên nhân nguy hiểm: Khi dây điện cao áp bị đứt rơi xuống đất, xung quanh điểm chạm sẽ hình thành vùng 'điện áp bước' trên mặt đất. (0,5 điểm)
+- Hậu quả & Khuyên bảo: Nếu đi lại gần (trong bán kính an toàn khoảng 8 - 10 m), dòng điện sẽ chạy từ chân này sang chân kia qua cơ thể gây tai nạn điện giật cực kỳ nguy hiểm. Do đó tuyệt đối không được lại gần và phải báo ngay cho cơ quan quản lý điện lực/chính quyền. (0,5 điểm)
+PHẦN D: BẢNG ĐỐI CHIẾU NGUỒN HỌC LIỆU VÀ ĐỐI CHIẾU MA TRẬN
+T| Nội dung kiến thức || Nguồn tham chiếu SGK KNTT || Mức độ nhận thức || Tương ứng trong bộ đề
+T| Khái niệm & Tác hại của tai nạn điện || SGK Công nghệ 8 (Trang 58-59) || Nhận biết || TN 1-3; TNS 1; TL 1, 2
+T| Nguyên nhân tiếp xúc trực tiếp || SGK Công nghệ 8 (Trang 59-60) || Nhận biết || TN 4-7; TNS 2; TL 1
+T| Vi phạm khoảng cách an toàn lưới điện cao áp || SGK Công nghệ 8 (Trang 60) || Nhận biết || TN 8, 10; TNS 3; TL 1
+T| Đến gần vị trí dây điện đứt rơi xuống đất || SGK Công nghệ 8 (Trang 60-61) || Nhận biết || TN 9, 11; TNS 4; TL 3
+T| Biện pháp an toàn điện ban đầu || SGK Công nghệ 8 (Trang 61) || Nhận biết || TN 12

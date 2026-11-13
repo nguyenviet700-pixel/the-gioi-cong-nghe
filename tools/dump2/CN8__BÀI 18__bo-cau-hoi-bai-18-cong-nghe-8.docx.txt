@@ -1,0 +1,151 @@
+BỘ CÂU HỎI ĐÁNH GIÁ NĂNG LỰC HỌC SINH
+BÀI 18: GIỚI THIỆU VỀ THIẾT KẾ KĨ THUẬT
+Môn: Công nghệ 8 (Bộ sách Kết nối trí thức với cuộc sống)
+Chương V: Thiết kế kĩ thuật | Thời lượng: 2 tiết
+PHẦN I. YÊU CẦU CẦN ĐẠT VÀ MA TRẬN ĐÁNH GIÁ
+T| Yêu cầu cần đạt (YCCĐ) theo Chương trình GDPT 2018: / 1. Trình bày được mục đích và vai trò của thiết kế kĩ thuật đối với đời sống và sản xuất. / 2. Kể tên và nêu được đặc điểm cơ bản, nhiệm vụ chủ yếu của một số ngành nghề chính liên quan đến thiết kế kĩ thuật (Kiến trúc sư xây dựng, Kiến trúc sư cảnh quan, Nhà thiết kế và trang trí nội thất, Nhà thiết kế sản phẩm và may mặc, Kĩ sư cơ khí, Kĩ sư hàng không...). / 3. Đánh giá được sự phù hợp của bản thân đối với các ngành nghề liên quan đến thiết kế kĩ thuật.
+Ma trận phân bố câu hỏi theo mức độ nhận thức
+T| Nội dung kiến thức || Nhận biết || Thông hiểu || Vận dụng || Tổng số
+T| 1. Mục đích và vai trò của thiết kế kĩ thuật || 4 câu TN4LC
+1 câu TN Đ/S || 2 câu TN4LC
+1 câu TN Đ/S || 1 câu Tự luận || 6 TN4LC, 2 Đ/S, 1 TL
+T| 2. Ngành nghề liên quan đến thiết kế kĩ thuật || 4 câu TN4LC
+1 câu TN Đ/S || 2 câu TN4LC
+1 câu TN Đ/S || 2 câu Tự luận || 6 TN4LC, 2 Đ/S, 2 TL
+T| Tổng số câu || 8 câu TN4LC
+2 câu TN Đ/S || 4 câu TN4LC
+2 câu TN Đ/S || 3 câu Tự luận || 12 TN4LC, 4 Đ/S, 3 TL
+T| Tỉ lệ điểm (%) || 40% điểm || 30% điểm || 30% điểm || 100% (10 điểm)
+PHẦN II. BỘ CÂU HỎI ĐÁNH GIÁ
+A. Câu hỏi trắc nghiệm 4 lựa chọn (12 câu)
+Khoanh tròn vào chữ cái đầu đáp án đúng nhất (Mỗi câu trả lời đúng được 0,25 điểm):
+Câu 1 (Nhận biết): Thiết kế kĩ thuật là hoạt động sáng tạo nhằm:
+A. Tìm kiếm giải pháp và lập hồ sơ kĩ thuật để tạo ra sản phẩm/dịch vụ đáp ứng nhu cầu thực tiễn.
+B. Lắp ráp và trực tiếp sửa chữa các đồ dùng điện gia dụng trong gia đình.
+C. Vận hành hệ thống dây chuyền sản xuất tự động hóa trong nhà máy.
+D. Thu thập tài liệu và biên soạn sách giáo khoa cho học sinh phổ thông.
+Câu 2 (Nhận biết): Sản phẩm của quá trình thiết kế kĩ thuật được thể hiện chủ yếu dưới dạng:
+A. Bài văn miêu tả quy trình sản xuất.
+B. Hồ sơ kĩ thuật (bao gồm các bản vẽ, thuyết minh, tính toán...).
+C. Bảng báo giá chi tiết vật liệu cơ khí.
+D. Lịch trình công tác của kĩ sư thiết kế.
+Câu 3 (Nhận biết): Thiết kế kĩ thuật có vai trò nào sau đây đối với đời sống con người?
+A. Giúp gia tăng dân số đô thị một cách tự phát.
+B. Tạo ra các sản phẩm mới giúp cuộc sống tiện nghi và hiện đại hơn.
+C. Thay thế hoàn toàn mọi hoạt động lao động chân tay của con người.
+D. Loại bỏ hoàn toàn nhu cầu sử dụng năng lượng điện trong sinh hoạt.
+Câu 4 (Nhận biết): Trong sản xuất, thiết kế kĩ thuật đóng vai trò quan trọng trong việc:
+A. Phát triển công nghệ, cải tiến sản phẩm và nâng cao năng suất, chất lượng.
+B. Giảm bớt số lượng học sinh đăng kí học các ngành kĩ thuật.
+C. Ngừng sản xuất các thiết bị cơ khí truyền thống.
+D. Thay thế hoàn toàn vai trò quản lý của doanh nghiệp.
+Câu 5 (Nhận biết): Người chuyên làm nhiệm vụ thiết kế các công trình xây dựng như nhà ở, trường học, bệnh viện là:
+A. Kĩ sư cơ khí.
+B. Kiến trúc sư xây dựng.
+C. Nhà thiết kế trang trí nội thất.
+D. Kĩ sư vũ trụ hàng không.
+Câu 6 (Nhận biết): Người thiết kế không gian bên trong ngôi nhà, lựa chọn đồ dùng, màu sắc và ánh sáng hài hòa là:
+A. Kĩ sư điện lực.
+B. Kiến trúc sư cảnh quan.
+C. Nhà thiết kế và trang trí nội thất.
+D. Thợ lắp đặt máy móc.
+Câu 7 (Nhận biết): Ngành nghề nào sau đây liên quan đến việc thiết kế máy móc, thiết bị, hệ thống cơ khí?
+A. Kĩ sư cơ học / cơ khí.
+B. Nhà thiết kế may mặc.
+C. Kiến trúc sư cảnh quan.
+D. Kĩ thuật viên địa chất.
+Câu 8 (Nhận biết): Kiến trúc sư cảnh quan là người chuyên làm công việc:
+A. Thiết kế các thiết bị điện tử vi mạ.
+B. Thiết kế không gian ngoài trời như công viên, khuôn viên, quảng trường.
+C. May đo trang phục thời trang công sở.
+D. Lắp ráp động cơ ô tô.
+Câu 9 (Thông hiểu): Hoạt động nào sau đây thể hiện rõ nhất tính sáng tạo trong thiết kế kĩ thuật?
+A. Sao chép nguyên mẫu một bản vẽ chi tiết đã có sẵn từ trước.
+B. Nghiên cứu, cải tiến cấu trúc quạt điện để tăng lưu lượng gió và tiết kiệm điện năng.
+C. Đọc thuộc lòng các kí hiệu quy ước trên sơ đồ mạch điện.
+D. Mua một chiếc quạt điện mới về sử dụng trong gia đình.
+Câu 10 (Thông hiểu): Tại sao nói thiết kế kĩ thuật có vai trò thúc đẩy phát triển công nghệ?
+A. Vì thiết kế kĩ thuật giúp ứng dụng tri thức khoa học để tạo ra các giải pháp, quy trình và thiết bị công nghệ mới.
+B. Vì thiết kế kĩ thuật chỉ tập trung vào việc vẽ trang trí bên ngoài sản phẩm.
+C. Vì thiết kế kĩ thuật làm tăng chi phí sản xuất sản phẩm kĩ thuật.
+D. Vì thiết kế kĩ thuật không đòi hỏi phải thay đổi hay cải tiến sản phẩm cũ.
+Câu 11 (Thông hiểu): Điểm khác biệt chính giữa Kiến trúc sư xây dựng và Nhà thiết kế nội thất là gì?
+A. Kiến trúc sư xây dựng thiết kế kết cấu, tổng thể công trình; Nhà thiết kế nội thất tổ chức không gian, thẩm mĩ bên trong công trình.
+B. Kiến trúc sư xây dựng làm việc ngoài công trường; Nhà thiết kế nội thất chỉ làm việc trong phòng thí nghiệm.
+C. Kiến trúc sư xây dựng không cần dùng bản vẽ; Nhà thiết kế nội thất bắt buộc phải vẽ tay.
+D. Cả hai ngành nghề này đều làm công việc hoàn toàn giống nhau, không có khác biệt.
+Câu 12 (Thông hiểu): Người làm công việc thiết kế kĩ thuật cần có phẩm chất và năng lực cốt lõi nào sau đây?
+A. Tư duy sáng tạo, khả năng biểu diễn kĩ thuật, sự cẩn trọng và hiểu biết về kĩ thuật.
+B. Chỉ cần sức khỏe thể chất mạnh mẽ, không cần khả năng tư duy hình không gian.
+C. Khả năng hát xướng và biểu diễn nghệ thuật trên sân khấu.
+D. Chỉ cần ghi nhớ các con số mà không cần kĩ năng giải quyết vấn đề.
+B. Câu hỏi trắc nghiệm Đúng/Sai (4 câu - Chuẩn quy tắc 2 Đúng / 2 Sai)
+Trong mỗi ý a), b), c), d) ở mỗi câu, học sinh chọn Đúng (Đ) hoặc Sai (S) (Mỗi câu đúng hoàn toàn 4 ý được 1,0 điểm):
+Câu 1 (Mục đích và vai trò của thiết kế kĩ thuật - Nhận biết):
+Khi nghiên cứu về mục đích và vai trò của thiết kế kĩ thuật trong đời sống và sản xuất:
+a) Thiết kế kĩ thuật là quá trình biến ý tưởng sáng tạo thành hồ sơ kĩ thuật để tạo ra sản phẩm đáp ứng nhu cầu thực tiễn.
+b) Thiết kế kĩ thuật chỉ được áp dụng trong ngành chế tạo cơ khí, không có vai trò gì trong xây dựng hay thời trang.
+c) Sản phẩm của thiết kế kĩ thuật giúp cải thiện chất lượng cuộc sống, làm cho cuộc sống tiện nghi và hiện đại hơn.
+d) Hoạt động thiết kế kĩ thuật hoàn toàn độc lập và không liên quan đến việc ứng dụng các tri thức khoa học, tự nhiên.
+Câu 2 (Khái niệm và đặc điểm của thiết kế kĩ thuật - Thông hiểu):
+Một nhóm học sinh thảo luận về bản chất và quy trình hoạt động của thiết kế kĩ thuật:
+a) Mục đích cuối cùng của thiết kế kĩ thuật là tìm ra giải pháp tối ưu về kĩ thuật và kinh tế cho một vấn đề thực tiễn.
+b) Hồ sơ kĩ thuật là sản phẩm quan trọng của thiết kế kĩ thuật, làm căn cứ để tiến hành chế tạo, thi công sản phẩm.
+c) Việc cải tiến mẫu mã và tính năng của chiếc điện thoại thông minh qua các thế hệ không phải là hoạt động thiết kế kĩ thuật.
+d) Thiết kế kĩ thuật chỉ cần chú trọng đến tính thẩm mĩ bên ngoài mà không cần quan tâm đến độ bền và tính an toàn của sản phẩm.
+Câu 3 (Các ngành nghề liên quan đến thiết kế kĩ thuật - Nhận biết):
+Khi tìm hiểu về các ngành nghề liên quan đến lĩnh vực thiết kế kĩ thuật:
+a) Kiến trúc sư xây dựng là người chịu trách nhiệm thiết kế hình dáng, kết cấu của các công trình kiến trúc.
+b) Kĩ sư cơ khí đảm nhận việc thiết kế các bộ phận, máy móc và hệ thống cơ khí phục vụ sản xuất.
+c) Nhà thiết kế sản phẩm và may mặc chuyên làm công việc lắp đặt đường dây điện cao thế ngoài trường.
+d) Kiến trúc sư cảnh quan chỉ làm việc trong nhà để trang trí phòng khách và bếp ăn.
+Câu 4 (Đặc điểm công việc và yêu cầu nghề nghiệp - Thông hiểu):
+Đánh giá về đặc điểm công việc và năng lực của người làm trong lĩnh vực thiết kế kĩ thuật:
+a) Người làm thiết kế kĩ thuật cần sử dụng thành thạo các công cụ vẽ truyền thống và phần mềm thiết kế trợ giúp bằng máy tính (CAD).
+b) Tư duy không gian, khả năng sáng tạo và kĩ năng giải quyết vấn đề là những năng lực rất quan trọng đối với nhà thiết kế.
+c) Kĩ sư vũ trụ hàng không là người chuyên thiết kế các công trình nhà ở nông thôn đơn giản.
+d) Nghề thiết kế kĩ thuật chỉ phù hợp với những người không thích giao tiếp và làm việc nhóm.
+C. Câu hỏi tự luận (3 câu)
+Câu 1 (1,0 điểm - Thông hiểu):
+Trình bày ngắn gọn mục đích của thiết kế kĩ thuật. Cho 02 ví dụ thực tế về sản phẩm thiết kế kĩ thuật đã giúp cải thiện cuộc sống hằng ngày của gia đình em.
+Câu 2 (1,0 điểm - Thông hiểu):
+Hãy so sánh đặc điểm công việc và sản phẩm thiết kế chính của 'Kiến trúc sư xây dựng' và 'Kiến trúc sư cảnh quan'.
+Câu 3 (1,0 điểm - Vận dụng cao / Liên hệ bản thân):
+Giả sử trường em muốn cải tạo góc không gian xanh sân trường để làm nơi đọc sách và thư giãn cho học sinh. Nếu được phân công tham gia thiết kế kĩ thuật cho dự án nhỏ này:
+a) Em sẽ đề xuất ý tưởng thiết kế không gian đó như thế nào?
+b) Ngành nghề kĩ thuật nào gần gũi nhất với công việc cải tạo không gian trên? Em hãy tự đánh giá xem bản thân có những sở thích hay năng lực nào phù hợp với ngành nghề đó.
+PHẦN III. ĐÁP ÁN VÀ HƯỚNG DẪN CHẤM
+1. Đáp án Câu hỏi Trắc nghiệm 4 lựa chọn (3,0 điểm)
+T| Câu 1 || Câu 2 || Câu 3 || Câu 4 || Câu 5 || Câu 6
+T| A || B || B || A || B || C
+T| Câu 7 || Câu 8 || Câu 9 || Câu 10 || Câu 11 || Câu 12
+T| A || B || B || A || A || A
+2. Đáp án Câu hỏi Trắc nghiệm Đúng/Sai (4,0 điểm)
+Cách tính điểm mỗi câu TN Đúng/Sai: Đúng 1 ý: 0,1 đ | Đúng 2 ý: 0,25 đ | Đúng 3 ý: 0,5 đ | Đúng 4 ý: 1,0 đ.
+T| Câu hỏi || Ý a) || Ý b) || Ý c) || Ý d)
+T| Câu 1 || Đúng (Đ) || Sai (S) || Đúng (Đ) || Sai (S)
+T| Câu 2 || Đúng (Đ) || Đúng (Đ) || Sai (S) || Sai (S)
+T| Câu 3 || Đúng (Đ) || Đúng (Đ) || Sai (S) || Sai (S)
+T| Câu 4 || Đúng (Đ) || Đúng (Đ) || Sai (S) || Sai (S)
+3. Đáp án và Hướng dẫn chấm Tự luận (3,0 điểm)
+Câu 1 (1,0 điểm):
+• Mục đích thiết kế kĩ thuật: Là hoạt động sáng tạo nhằm tìm kiếm giải pháp, ý tưởng thể hiện dưới dạng hồ sơ kĩ thuật để tạo ra sản phẩm/dịch vụ giải quyết các vấn đề thực tiễn trong đời sống và sản xuất. (0,5 điểm)
+• 02 ví dụ thực tế: Học sinh nêu được 02 ví dụ đúng chuẩn (mỗi ví dụ 0,25 điểm):
+- Ví dụ 1: Thiết kế đèn học LED chống cận thị giúp bảo vệ mắt khi học bài.
+- Ví dụ 2: Thiết kế quạt tích điện tự động bật khi mất điện giúp sinh hoạt không bị gián đoạn. (0,5 điểm)
+Câu 2 (1,0 điểm):
+• Kiến trúc sư xây dựng: Chuyên thiết kế hình dáng, kết cấu, công năng của các công trình xây dựng (nhà ở, trường học, chung cư, cầu đường...). Sản phẩm chính là bản vẽ thiết kế công trình kiến trúc. (0,5 điểm)
+• Kiến trúc sư cảnh quan: Chuyên thiết kế không gian ngoài trời (công viên, khuôn viên trường học, quảng trường, khu nghỉ dưỡng...). Sản phẩm chính là bản vẽ quy hoạch mặt bằng cảnh quan, cây xanh, lối đi, tiểu cảnh. (0,5 điểm)
+Câu 3 (1,0 điểm):
+• a) Đề xuất ý tưởng (0,5 đ): Học sinh đưa ra giải pháp thiết kế khả thi: Bố trí ghế đá/ghế gỗ dưới bóng mát cây xanh, làm mái che di động, trang bị kệ sách chống nước, trồng thêm hoa trang trí. (0,5 điểm)
+• b) Liên hệ ngành nghề & Bản thân (0,5 đ): - Ngành nghề phù hợp nhất: Kiến trúc sư cảnh quan / Nhà thiết kế cảnh quan.
+- Đánh giá bản thân: Học sinh nêu được sự phù hợp về sở thích (yêu thiên nhiên, thích vẽ...) và năng lực (tư duy không gian, sáng tạo...). (0,5 điểm)
+PHẦN IV. BẢNG ĐỐI CHIẾU YCCĐ VỚI MA TRẬN VÀ BỘ CÂU HỎI
+T| Yêu cầu cần đạt (YCCĐ) || Mức độ nhận thức || Câu hỏi tương ứng || Đánh giá sự phù hợp
+T| Trình bày được mục đích và vai trò của thiết kế kĩ thuật đối với đời sống và sản xuất. || Nhận biết & Thông hiểu || TN4LC: Câu 1, 2, 3, 4, 9, 10
+TN Đ/S: Câu 1, 2
+TL: Câu 1 || Hoàn toàn khớp YCCĐ SGK
+T| Kể tên và nêu được đặc điểm cơ bản của một số ngành nghề chính liên quan đến thiết kế kĩ thuật. || Nhận biết & Thông hiểu || TN4LC: Câu 5, 6, 7, 8, 11, 12
+TN Đ/S: Câu 3, 4
+TL: Câu 2 || Hoàn toàn khớp YCCĐ SGK
+T| Đánh giá được sự phù hợp của bản thân đối với các ngành nghề liên quan đến thiết kế kĩ thuật. || Vận dụng || TL: Câu 3 (Liên hệ bản thân) || Hoàn toàn khớp YCCĐ SGK

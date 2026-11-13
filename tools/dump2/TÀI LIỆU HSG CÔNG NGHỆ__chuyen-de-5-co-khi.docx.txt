@@ -1,0 +1,113 @@
+CHUYÊN ĐỀ 5: CƠ KHÍ & TRUYỀN – BIẾN ĐỔI CHUYỂN ĐỘNG
+(Trọng tâm Công nghệ 8 – Bám sát Công văn 730/SGDĐT-GDPT & Cấu trúc Đề thi HSG Vĩnh Long)
+PHẦN 1: DANH MỤC TRỌNG TÂM & MA TRẬN YÊU CẦU NĂNG LỰC
+Chuyên đề 5 chiếm vị trí cốt lõi trong phần Công nghệ Kỹ thuật lớp 8 với bài tập tự luận Câu 4 (3,0 điểm - chiếm 15% tổng số điểm toàn đề thi). Yêu cầu không chỉ dừng lại ở việc học thuộc công thức tính tỉ số truyền i mà phải hiểu sâu bản chất động học, cơ chế ăn khớp vs ma sát, mối quan hệ giữa tốc độ quay - đường kính/số răng - mô-men xoắn và lập luận phân tích nguy cơ mất an toàn vận hành cơ khí.
+T| Nội dung trọng tâm || Mức độ đánh giá || Dạng câu hỏi thi HSG nguồn || Thang điểm
+T| Vật liệu cơ khí & Dụng cụ gia công cầm tay || Nhận biết - Thông hiểu || Phân loại vật liệu; Nêu đặc tính & ứng dụng; Quy tắc an toàn đục, dũa, cưa || 0,5 - 0,75đ
+T| Cấu tạo & Nguyên lý bộ truyền động/biến đổi chuyển động || Thông hiểu - Vận dụng || So sánh truyền động đai vs bánh răng/xích; Biến đổi tay quay con trượt || 0,75 - 1,0đ
+T| Bài tập tính toán tỉ số truyền i & Tốc độ quay n2 || Vận dụng cao || Tính toán i, n2, Z2, D2; Xác định chiều quay; Phân tích hệ thống truyền động || 1,0 - 1,25đ
+T| Lập luận an toàn & Nguy cơ mất an toàn cơ khí || Vận dụng cao || Phân tích nguyên nhân sự cố cuốn kẹt; Đề xuất giải pháp an toàn vận hành || 0,5đ
+PHẦN 2: LÝ THUYẾT CHUYÊN SÂU & BẢN CHẤT KĨ THUẬT
+1. Vật liệu cơ khí và Dụng cụ gia công cơ khí cầm tay
+a) Phân loại và Đặc tính Vật liệu Cơ khí:
+Vật liệu cơ khí được chia thành 2 nhóm lớn: Vật liệu kim loại (Kim loại đen và Kim loại màu) và Vật liệu phi kim.
+Kim loại đen: Thành phần chính là sắt (Fe) và carbon (C). Chia thành Thép (tỉ lệ C ≤ 2,14%) và Gang (tỉ lệ C > 2,14%). Thép có độ dẻo, độ bền cao, dễ gia công, dùng làm khung xe, máy móc, công cụ. Gang dòn hơn, chịu nén tốt, dùng làm thân máy, vỏ động cơ.
+Kim loại màu: Không chứa sắt hoặc chứa rất ít (Đồng, Nhôm và hợp kim của chúng). Ưu điểm: Dẫn điện, dẫn nhiệt tốt, chống ăn mòn cao, nhẹ. Dùng làm dây dẫn điện, lõi tản nhiệt, vỏ máy bay, chi tiết máy chịu ăn mòn.
+Vật liệu phi kim: Gồm Chất dẻo (Chất dẻo nhiệt và Chất dẻo nhiệt rắn) và Cao su. Ưu điểm: Dẫn điện/nhiệt kém (cách điện/nhiệt tốt), nhẹ, không bị gỉ sét. Dùng làm vỏ dây điện, tay cầm dụng cụ, lốp xe, đệm giảm chấn.
+b) Dụng cụ gia công cầm tay và Quy tắc An toàn:
+• Dụng cụ đo và kiểm tra: Thước lá, thước cuộn, thước kẹp (đo kích thước ngoài, kích thước trong, chiều sâu lỗ với độ chính xác cao 0,1 - 0,02 mm).
+• Dụng cụ tháo lắp và kẹp chặt: Mỏ lết, cờ lê, tua vít, ê-tô, kìm.
+• Dụng cụ gia công: Cưa tay (cắt kim loại), dũa (làm nhẵn bề mặt), đục (chặt kim loại), búa.
+• Quy tắc an toàn gia công: Trang bị bảo hộ lao động (kính bảo hộ, găng tay); kẹp chặt phôi trên ê-tô trước khi cưa/dũa; không dùng cưa/dũa không có cán hoặc cán bị nứt; khi cưa gần đứt phải giảm lực bóp và đỡ phôi để tránh rơi vào chân.
+2. Cấu tạo, Nguyên lý và Phân loại các Bộ truyền động Cơ khí
+Tại sao cần truyền động cơ khí? Trong máy móc, động cơ thường quay với tốc độ cố định và đặt ở vị trí nhất định, trong khi các bộ phận công tác cần tốc độ khác nhau, chiều quay khác nhau hoặc nằm xa động cơ. Do đó, cần có các bộ truyền động để truyền năng lượng và biến đổi tốc độ/chiều quay.
+T| Bộ truyền động || Cấu tạo & Yếu tố liên kết || Nguyên lý hoạt động || Ưu - Nhược điểm & Ứng dụng
+T| Truyền động đai
+(Ma sát) || Gồm bánh dẫn (D1), bánh bị dẫn (D2) và dây đai ôm quanh 2 bánh. || Dựa vào ma sát giữa dây đai và bề mặt bánh đai. Bánh dẫn quay kéo dây đai chuyển động, làm bánh bị dẫn quay. || Ưu: Ếm ái, chạy an toàn khi quá tải (đai trượt). Nhược: Dễ trượt, tỉ số truyền i không chính xác tuyệt đối. Ứng dụng: Quạt gió, máy may, máy bơm.
+T| Truyền động bánh răng
+(Ăn khớp) || Gồm bánh răng dẫn (Z1) và bánh răng bị dẫn (Z2) ăn khớp trực tiếp. || Dựa vào sự ăn khớp trực tiếp giữa các răng. Răng bánh dẫn đẩy răng bánh bị dẫn quay (2 bánh quay ngược chiều). || Ưu: Tỉ số truyền i chính xác tuyệt đối, chịu tải lớn, kích thước nhỏ gọn. Nhược: Đòi hỏi gia công chính xác, gây ồn khi quay nhanh. Ứng dụng: Đồng hồ, hộp số ô tô, xe máy.
+T| Truyền động xích
+(Ăn khớp) || Gồm đĩa xích dẫn (Z1), đĩa xích bị dẫn (Z2) và xích ôm qua 2 đĩa. || Dựa vào sự ăn khớp giữa mắt xích với các răng của đĩa xích khi đĩa dẫn quay. || Ưu: Tỉ số truyền i chính xác, truyền được khoảng cách xa hơn bánh răng, không bị trượt. Nhược: Gây tiếng ồn, cần bôi trơn thường xuyên. Ứng dụng: Xe đạp, xe máy, băng tải.
+3. Bản chất Động học & Hệ thống Công thức Tính toán Tỉ số truyền (i)
+Tỉ số truyền i là đại lượng đặc trưng cho sự biến đổi tốc độ quay giữa trục dẫn (trục 1) và trục bị dẫn (trục 2).
+1) Công thức tổng quát cho Truyền động Đai (theo Đường kính D):
+i = n₁ / n₂ = D₂ / D₁  ⇒  n₂ = n₁ × (D₁ / D₂)
+Trong đó: n₁, n₂ là tốc độ quay của bánh dẫn và bánh bị dẫn (vòng/phút hay rpm).
+D₁, D₂ là đường kính của bánh đai dẫn và bánh đai bị dẫn (mm hoặc cm).
+2) Công thức tổng quát cho Truyền động Bánh răng / Xích (theo Số răng Z):
+i = n₁ / n₂ = Z₂ / Z₁  ⇒  n₂ = n₁ × (Z₁ / Z₂)
+Trong đó: Z₁, Z₂ là số răng của bánh/đĩa xích dẫn và bánh/đĩa xích bị dẫn.
+★ QUY TẮC PHÂN TÍCH TỈ SỐ TRUYỀN (LẬP LUẬN HSG):
+Khi i > 1 (D₁ < D₂ hoặc Z₁ < Z₂): Tốc độ quay bị giảm (n₂ < n₁) ⇒ Đây là bộ truyền GIẢM TỐC. Bánh bị dẫn quay chậm hơn bánh dẫn, nhưng lực quay (mô-men xoắn) tại trục bị dẫn TĂNG LÊN.
+Khi i < 1 (D₁ > D₂ hoặc Z₁ > Z₂): Tốc độ quay được tăng (n₂ > n₁) ⇒ Đây là bộ truyền TĂNG TỐC. Bánh bị dẫn quay nhanh hơn bánh dẫn, nhưng mô-men xoắn bị giảm.
+Khi i = 1 (D₁ = D₂ hoặc Z₁ = Z₂): Truyền nguyên vẹn tốc độ quay (n₂ = n₁).
+Chiều quay: Truyền động đai đai thẳng và truyền động xích thì 2 bánh quay CÙNG CHIỀU. Truyền động bánh răng ăn khớp ngoài thì 2 bánh quay NGƯỢC CHIỀU nhau.
+4. Cơ cấu Biến đổi Chuyển động (Tay quay - Con trượt, Tay quay - Thanh lắc)
+Ngoài việc truyền và biến đổi tốc độ quay, trong máy móc còn cần biến đổi dạng chuyển động (từ chuyển động quay thành tịnh tiến hoặc lắc).
+• Cơ cấu Tay quay - Con trượt: Cấu tạo gồm Tay quay (1), Thanh truyền (2), Con trượt (3) và Giá đỡ (4). Nguyên lý: Khi tay quay (1) quay quanh trục, thông qua thanh truyền (2) làm con trượt (3) chuyển động tịnh tiến qua lại trên giá đỡ. Ứng dụng: Động cơ đốt trong (pít-tông tịnh tiến làm trục khuỷu quay), máy may, máy ép.
+• Cơ cấu Tay quay - Thanh lắc: Cấu tạo gồm Tay quay, Thanh truyền, Thanh lắc và Giá đỡ. Nguyên lý: Khi tay quay quay tròn, thanh lắc chuyển động lắc qua lắc lại một góc nhất định. Ứng dụng: Quạt máy đảo chiều, máy may chân.
+5. Lập luận Phân tích Nguy cơ Mất An toàn Cơ khí & Biện pháp Kỹ thuật
+Trong đề thi HSG, câu hỏi phân hoá thường yêu cầu học sinh vạch rõ nguy cơ mất an toàn khi vận hành thiết bị cơ khí. Cần lập luận theo 3 điểm cốt lõi sau:
+Nguy cơ cuốn kẹt: Các vùng tiếp xúc giữa dây đai - bánh đai, răng ăn khớp, đĩa xích - mắt xích có lực kẹt rất lớn. Nếu người vận hành để tóc dài, quần áo rộng, găng tay bị cuốn vào sẽ gây tai nạn kẹp dập nghiêm trọng.
+Nguy cơ văng bắn & Ma sát nhiệt: Các chi tiết quay với tốc độ cao có thể bị văng bắn dầu mỡ, mảnh vỡ khi sự cố. Bề mặt các bộ truyền động tích tụ nhiệt do ma sát có thể gây bỏng.
+Biện pháp bảo vệ kỹ thuật bắt buộc: (1) Bắt buộc lắp đai chắn/hộp bảo vệ che kín hoàn toàn bộ truyền động; (2) Ngắt hoàn toàn nguồn điện và chờ máy dừng hẳn trước khi kiểm tra, tra dầu mỡ; (3) Tóc gọn gàng, mặc bảo hộ lao động vừa vặn, không đeo trang sức khi vận hành.
+PHẦN 3: PHƯƠNG PHÁP GIẢI BÀI TẬP TÍNH TOÁN & ĐỘNG HỌC CƠ KHÍ
+Để đạt điểm tối đa (3,0 điểm) bài tập Cơ khí trong đề thi HSG Vĩnh Long, học sinh cần trình bày theo đúng Quy trình 4 bước chuẩn mực:
+• Bước 1: Tóm tắt đề bài (Ghi rõ các đại lượng đã biết: n₁, D₁, D₂, Z₁, Z₂; xác định đại lượng cần tính: i, n₂, Z₂, D₂). Lưu ý đổi cùng đơn vị đo (mm hoặc cm).
+• Bước 2: Viết công thức gốc (Nêu rõ công thức i = n₁/n₂ = D₂/D₁ hoặc i = n₁/n₂ = Z₂/Z₁).
+• Bước 3: Rút ra đại lượng cần tìm và Thay số (Viết biểu thức đại số rõ ràng trước khi thế số, tính toán ra đáp số kèm đơn vị chuẩn vòng/phút hoặc rpm).
+• Bước 4: Nhận xét bản chất động học và Lập luận (So sánh n₂ với n₁, kết luận bộ truyền tăng tốc hay giảm tốc; nhận xét chiều quay; lập luận an toàn kỹ thuật).
+PHẦN 4: NGÂN HÀNG CÂU HỎI & BÀI TẬP PHÂN HÓA HSG (4 MỨC ĐỘ)
+Câu 1 (Mức 1: Nhận biết - Thông hiểu - 1,5 điểm):
+a) So sánh sự giống và khác nhau giữa bộ truyền động đai và bộ truyền động xích về cấu tạo, nguyên lý làm việc và phạm vi ứng dụng.
+b) Tại sao trong các máy móc chịu tải lớn, đòi hỏi tỉ số truyền chính xác tuyệt đối (như đồng hồ, hộp số ô tô) người ta lại dùng truyền động bánh răng mà không dùng truyền động đai?
+Câu 2 (Mức 2: Vận dụng bài tập tính toán chuẩn Đề thi nguồn Vĩnh Long - 3,0 điểm):
+Một bộ truyền động bánh răng gồm bánh răng dẫn 1 có số răng Z₁ = 20 răng quay với tốc độ n₁ = 120 vòng/phút. Bánh răng bị dẫn 2 có số răng Z₂ = 60 răng.
+a) Tính tỉ số truyền i của bộ truyền động bánh răng trên.
+b) Tính tốc độ quay n₂ của bánh răng bị dẫn 2. Cho biết bánh răng bị dẫn quay nhanh hơn hay chậm hơn bánh răng dẫn mấy lần? Đây là bộ truyền tăng tốc hay giảm tốc?
+c) Xác định chiều quay của bánh răng bị dẫn 2 so với bánh răng dẫn 1.
+d) Chỉ ra các nguy cơ mất an toàn khi vận hành bộ truyền động bánh răng này và đề xuất giải pháp bảo vệ kỹ thuật.
+Câu 3 (Mức 3: Vận dụng cao bài tập hệ thống truyền động đai - 2,5 điểm):
+Động cơ điện của một máy may quay với tốc độ n₁ = 1400 vòng/phút, bánh đai gắn trên trục động cơ (bánh dẫn 1) có đường kính D₁ = 80 mm. Bánh đai gắn trên trục máy may (bánh bị dẫn 2) có đường kính D₂ = 280 mm.
+a) Tính tỉ số truyền i và tốc độ quay n₂ của trục máy may.
+b) Nếu muốn tăng tốc độ quay của máy may lên n₂' = 700 vòng/phút mà vẫn giữ nguyên đường kính bánh dẫn D₁ = 80 mm và tốc độ động cơ n₁ = 1400 vòng/phút thì cần thay bánh đai bị dẫn có đường kính D₂' bằng bao nhiêu mm?
+Câu 4 (Mức 4: Tình huống thực tiễn & Lập luận kỹ thuật - 2,0 điểm):
+Trong một xưởng cơ khí, một công nhân vận hành máy cưa xích tháo bỏ hộp bảo vệ che đĩa xích để 'dễ quan sát và thay xích nhanh hơn'. Hãy dùng kiến thức an toàn lao động và nguyên lý cơ khí để phân tích hành vi trên, nêu rõ các rủi ro nguy hiểm có thể xảy ra và đề xuất quy tắc an toàn vận hành chuẩn.
+PHẦN 5: ĐÁP ÁN, HƯỚNG DẪN CHẤM VÀ BIỂU ĐIỂM CHI TIẾT
+Đáp án Câu 1 (1,5 điểm):
+a) So sánh truyền động đai và truyền động xích (1,0 điểm):
+• Giống nhau (0,25đ): Đều gồm 2 bánh quay và yếu tố liên kết ôm quanh 2 bánh; dùng để truyền chuyển động giữa 2 trục xa nhau; chiều quay 2 bánh cùng chiều.
+• Khác nhau (0,75đ):
+- Yếu tố liên kết & Nguyên lý: Đai dùng dây đai ma sát; Xích dùng xích ăn khớp với đĩa xích (0,25đ).
+- Đột chính xác tỉ số truyền: Đai có hiện tượng trượt, i không chính xác tuyệt đối; Xích ăn khớp nên i chính xác tuyệt đối (0,25đ).
+- Khả năng bảo vệ quá tải: Đai chạy êm, tự trượt khi quá tải giúp bảo vệ động cơ; Xích không trượt, gây tiếng ồn lớn hơn (0,25đ).
+b) Giải thích lí do dùng truyền động bánh răng (0,5 điểm):
+• Truyền động bánh răng làm việc dựa trên nguyên lý ăn khớp trực tiếp giữa các răng, không có hiện tượng trượt nên đảm bảo tỷ số truyền i chính xác tuyệt đối (0,25đ).
+• Có khả năng chịu tải rất lớn, lực truyền khỏe, kích thước gọn nhẹ hơn truyền động đai (0,25đ).
+Đáp án Câu 2 (3,0 điểm - Chuẩn biểu điểm Đề thi nguồn Vĩnh Long):
+T| Ý / Yêu cầu || Hướng dẫn giải chi tiết || Điểm
+T| Tóm tắt đề || Cho biết: Z₁ = 20 răng, n₁ = 120 vòng/phút, Z₂ = 60 răng.
+Cần tính: i = ?; n₂ = ? (vòng/phút); Chiều quay & Nguy cơ an toàn. || 0,25đ
+T| a) Tính tỉ số truyền i || Công thức: i = n₁ / n₂ = Z₂ / Z₁
+Thay số: i = 60 / 20 = 3
+Kết luận: Tỉ số truyền i = 3. || 0,75đ
+T| b) Tính tốc độ n₂ & Nhận xét || Từ i = n₁ / n₂ ⇒ n₂ = n₁ / i = 120 / 3 = 40 (vòng/phút).
+- Bánh bị dẫn quay chậm hơn bánh dẫn 3 lần (120/40 = 3 lần).
+- Đây là bộ truyền GIẢM TỐC (vì i = 3 > 1 và n₂ < n₁). || 1,00đ
+T| c) Xác định chiều quay || Trong truyền động bánh răng ăn khớp ngoài, bánh bị dẫn 2 quay NGƯỢC CHIỀU so với bánh dẫn 1. || 0,50đ
+T| d) An toàn vận hành || - Nguy cơ: Cuốn kẹt tay, tóc, quần áo vào khe ăn khớp giữa 2 bánh răng gây tai nạn kẹp dập nặng.
+- Biện pháp: Phải lắp vỏ bảo vệ (hộp che kín) phủ toàn bộ các bánh răng; ngắt điện trước khi bảo trì. || 0,50đ
+Đáp án Câu 3 (2,5 điểm):
+a) Tính i và n₂ (1,5 điểm):
+• Ta có công thức tỉ số truyền đai: i = D₂ / D₁ = 280 / 80 = 3,5 (0,75đ).
+• Tốc độ quay của máy may n₂: n₂ = n₁ / i = 1400 / 3,5 = 400 (vòng/phút) (0,75đ).
+b) Tính đường kính D₂' mới (1,0 điểm):
+• Tỉ số truyền mới i' = n₁ / n₂' = 1400 / 700 = 2 (0,5đ).
+• Ta có i' = D₂' / D₁ ⇒ D₂' = i' × D₁ = 2 × 80 = 160 (mm) (0,5đ).
+Kết luận: Cần thay bánh bị dẫn mới có đường kính D₂' = 160 mm.
+Đáp án Câu 4 (2,0 điểm):
+• Đánh giá hành vi (0,5đ): Hành vi tháo bỏ hộp bảo vệ che đĩa xích là vi phạm nghiêm trọng quy chuẩn an toàn lao động cơ khí.
+• Phân tích rủi ro nguy hiểm (0,75đ): Đĩa xích và xích chuyển động với tốc độ và lực kéo rất lớn. Khi không có vỏ che chắn, bất kỳ sự bất cẩn nào (sơ hở găng tay, vạt áo, tóc) đều sẽ bị khe ăn khớp xích - đĩa xích cuốn kẹt vào lập tức, gây dập nát bàn tay hoặc thương tích nặng. Đồng thời xích có thể văng bắn mỡ, phoi cắt vào mắt người vận hành.
+• Quy tắc an toàn chuẩn (0,75đ):
+1. Bắt buộc duy trì hộp bảo vệ che kín hoàn toàn bộ truyền động xích trong suốt quá trình máy vận hành.
+2. Chỉ thực hiện kiểm tra, thay thế hoặc tra dầu xích khi ĐÃ NGẮT HOÀN TOÀN NGUỒN ĐIỆN và máy đã dừng quay hẳn.

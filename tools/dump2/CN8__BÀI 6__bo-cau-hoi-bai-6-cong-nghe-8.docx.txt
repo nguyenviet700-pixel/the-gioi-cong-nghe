@@ -1,0 +1,160 @@
+BỘ CÂU HỎI VÀ ĐÁNH GIÁ KẾT QUẢ HỌC TẬP
+BÀI 6: VẬT LIỆU CƠ KHÍ - MÔN CÔNG NGHỆ 8 (KNTT)
+(Thực hiện theo Quy tắc biên soạn học liệu - Chương trình GDPT 2018)
+PHẦN I. YÊU CẦU CẦN ĐẠT & BẢNG MA TRẬN MỨC ĐỘ NHẬN THỨC
+1. Yêu cầu cần đạt (YCCĐ) theo Chương trình GDPT 2018:
+• Nhận biết được một số vật liệu cơ khí thông dụng (vật liệu kim loại: kim loại đen, kim loại màu; vật liệu phi kim loại: chất dẻo, cao su).
+• Trình bày được tính chất cơ bản và công dụng của các loại vật liệu cơ khí phổ biến trong sản xuất và đời sống.
+• Nêu được phương pháp đơn giản để phân biệt vật liệu kim loại và phi kim loại, kim loại đen và kim loại màu.
+2. Bảng Ma trận mức độ nhận thức bộ câu hỏi:
+T| Dạng câu hỏi || Nhận biết || Thông hiểu || Vận dụng || Tổng cộng
+T| Trắc nghiệm 4 lựa chọn || 8 câu (2,0đ) || 4 câu (1,0đ) || 0 câu || 12 câu (3,0đ)
+T| Trắc nghiệm Đúng/Sai || 2 câu (2,0đ) || 2 câu (2,0đ) || 0 câu || 4 câu (4,0đ)
+T| Tự luận || 0 câu || 2 câu (1,5đ) || 1 câu (1,5đ) || 3 câu (3,0đ)
+T| Tổng số điểm / Tỉ lệ || 4,0 điểm (40%) || 4,5 điểm (45%) || 1,5 điểm (15%) || 10,0 điểm (100%)
+PHẦN II. HỆ THỐNG CÂU HỎI ĐÁNH GIÁ
+A. Câu hỏi trắc nghiệm nhiều lựa chọn (12 câu - 3,0 điểm)
+Câu 1 (Nhận biết): Trong ngành cơ khí, vật liệu cơ khí được chia thành hai nhóm chính là:
+A. Kim loại dẻo và kim loại giòn.
+B. Vật liệu kim loại và vật liệu phi kim loại.
+C. Gang xám và thép carbon.
+D. Chất dẻo nhiệt và chất dẻo nhiệt rắn.
+Câu 2 (Nhận biết): Căn cứ vào thành phần cấu tạo, vật liệu kim loại được chia làm hai loại chính là:
+A. Kim loại đen và kim loại màu.
+B. Đồng và nhôm.
+C. Thép và gang.
+D. Kim loại tự nhiên và kim loại nhân tạo.
+Câu 3 (Nhận biết): Thành phần chủ yếu của kim loại đen bao gồm:
+A. Đồng (Cu) và kẽm (Zn).
+B. Nhôm (Al) và chì (Pb).
+C. Sắt (Fe) và carbon (C).
+D. Thiếc (Sn) và niken (Ni).
+Câu 4 (Nhận biết): Điểm khác biệt cơ bản về thành phần giữa thép và gang là:
+A. Tỉ lệ nguyên tố sắt (Fe).
+B. Tỉ lệ nguyên tố carbon (C).
+C. Tỉ lệ nguyên tố đồng (Cu).
+D. Tỉ lệ nguyên tố nhôm (Al).
+Câu 5 (Nhận biết): Vật liệu kim loại đen nào có tỉ lệ carbon C ≤ 2,14%?
+A. Gang xám.
+B. Thép.
+C. Gang trắng.
+D. Đồng thau.
+Câu 6 (Nhận biết): Vật liệu kim loại màu nào sau đây có màu đỏ nâu, dẫn điện và dẫn nhiệt rất tốt?
+A. Nhôm.
+B. Thép.
+C. Đồng và hợp kim đồng.
+D. Gang.
+Câu 7 (Nhận biết): Chất dẻo nhiệt có đặc điểm nổi bật nào sau đây?
+A. Không bị chảy mềm khi đun nóng ở nhiệt độ cao.
+B. Bị mềm ra khi đun nóng và cứng lại khi nguội, có thể tái chế.
+C. Có tính đàn hồi rất cao giống như cao su.
+D. Không thể gia công cắt gọt bằng dụng cụ cơ khí.
+Câu 8 (Nhận biết): Vật liệu phi kim loại nào có tính đàn hồi cao, khả năng giảm xóc tốt và cách điện, cách nước hiệu quả?
+A. Chất dẻo nhiệt.
+B. Chất dẻo nhiệt rắn.
+C. Cao su.
+D. Gang xám.
+Câu 9 (Thông hiểu): Tại sao lưỡi cưa, lưỡi đục, đĩa đệm và vỏ máy gia công cơ khí thường được làm bằng thép mà không làm bằng nhôm nguyên chất?
+A. Vì thép nhẹ hơn nhôm rất nhiều.
+B. Vì thép có độ cứng, độ bền cơ học cao và chịu lực tốt hơn nhôm.
+C. Vì nhôm dẫn điện tốt nên nguy hiểm.
+D. Vì nhôm có giá thành đắt hơn thép gấp nhiều lần.
+Câu 10 (Thông hiểu): Dựa vào đặc tính của chất dẻo nhiệt rắn, vật liệu này thích hợp nhất để chế tạo bộ phận nào sau đây?
+A. Vỏ chai nước khoáng, áo mưa nhẹ.
+B. Tay cầm chảo đun, vỏ ổ cắm điện chịu nhiệt.
+C. Lốp xe máy, đệm đệm nằm.
+D. Lõi dây dẫn điện cao áp.
+Câu 11 (Thông hiểu): Nhôm và hợp kim nhôm được ứng dụng rộng rãi trong chế tạo khung xe đạp, vỏ máy bay chủ yếu nhờ vào đặc tính nào?
+A. Độ giòn cao và dễ đúc.
+B. Khối lượng riêng nhẹ, tính chống oxy hóa tốt và độ bền hợp lý.
+C. Khả năng chịu nhiệt độ cực cao trên 2000°C.
+D. Tính đàn hồi cao như cao su.
+Câu 12 (Thông hiểu): Phát biểu nào sau đây là ĐÚNG khi so sánh kim loại đen và kim loại màu?
+A. Kim loại đen không bị gỉ sét trong môi trường ẩm ướt.
+B. Kim loại màu chứa thành phần chính là sắt và carbon.
+C. Kim loại màu nhìn chung có tính dẫn điện, dẫn nhiệt và chống ăn mòn tốt hơn kim loại đen.
+D. Kim loại đen có khối lượng nhẹ hơn nhôm và đồng.
+B. Câu hỏi trắc nghiệm Đúng/Sai (4 câu - 4,0 điểm)
+(Lưu ý: Mỗi câu hỏi có 4 ý a, b, c, d. Học sinh chọn Đúng hoặc Sai cho từng ý. Mỗi câu gồm đúng 2 ý Đúng và 2 ý Sai)
+Câu 1 (Nhận biết): Xét các nhận định về phân loại và thành phần của vật liệu kim loại trong cơ khí:
+a) Kim loại đen bao gồm thép và gang, có thành phần chính là nguyên tố sắt (Fe) kết hợp với carbon (C). [Đúng]
+b) Gang có tỉ lệ carbon nhỏ hơn thép nên có độ dẻo cao hơn và dễ gia công cắt gọt hơn thép. [Sai]
+c) Đồng, nhôm và các hợp kim của chúng thuộc nhóm vật liệu kim loại màu. [Đúng]
+d) Kim loại màu có tính dẫn điện và dẫn nhiệt kém hơn nhiều so với các loại chất dẻo phi kim loại. [Sai]
+Câu 2 (Nhận biết): Xét các phát biểu về đặc tính và ứng dụng của vật liệu phi kim loại:
+a) Chất dẻo nhiệt có khả năng mềm ra khi đun nóng, cứng lại khi nguội và có thể tái chế nhiều lần. [Đúng]
+b) Vỏ phích cắm điện, vỏ ổ cắm điện thường được sản xuất từ chất dẻo nhiệt để dễ tái chế khi hỏng. [Sai]
+c) Cao su có tính đàn hồi cao, khả năng giảm xóc tốt, cách điện và cách nước hiệu quả. [Đúng]
+d) Cao su tự nhiên được chế tạo hoàn toàn từ than đá và dầu mỏ qua các phản ứng tổng hợp hóa học. [Sai]
+Câu 3 (Thông hiểu): Xét các khẳng định về so sánh đặc tính kỹ thuật giữa thép, gang và kim loại màu:
+a) Thép có hàm lượng carbon C ≤ 2,14%, còn gang có hàm lượng carbon C > 2,14%. [Đúng]
+b) Đồng có màu đỏ nâu đặc trưng, độ dẫn điện cao nên thường được dùng chế tạo lõi dây dẫn điện. [Đúng]
+c) Kim loại màu hoàn toàn không bị ăn mòn hay oxy hóa trong bất kỳ môi trường hóa chất mạnh nào. [Sai]
+d) Lưỡi bào, lưỡi đục và đĩa đệm cơ khí thường được chế tạo bằng nhôm nguyên chất để giảm trọng lượng tối đa. [Sai]
+Câu 4 (Thông hiểu): Xét các giải pháp lựa chọn vật liệu cơ khí cho các sản phẩm trong đời sống:
+a) Khung xe đạp thể thao cao cấp thường sử dụng hợp kim nhôm để giảm khối lượng mà vẫn chịu lực tốt. [Đúng]
+b) Tay cầm của xoong, chảo đun nấu thường làm bằng chất dẻo nhiệt rắn hoặc gỗ để chống nóng an toàn. [Đúng]
+c) Vỏ cách điện của dây dẫn điện được làm bằng kim loại màu đồng để dẫn điện tốt hơn. [Sai]
+d) Lốp xe máy, ô tô được chế tạo từ gang xám nhằm đạt độ bền nén cao nhất khi va chạm. [Sai]
+C. Câu hỏi tự luận (3 câu - 3,0 điểm)
+Câu 1 (Thông hiểu - 1,0 điểm): Nêu điểm khác biệt cơ bản giữa vật liệu kim loại và vật liệu phi kim loại về tính dẫn điện, tính dẫn nhiệt và khả năng biến dạng dẻo. Cho ví dụ minh họa 02 sản phẩm thực tế.
+Câu 2 (Thông hiểu - 1,0 điểm): Phân biệt chất dẻo nhiệt và chất dẻo nhiệt rắn về tính chất chịu nhiệt và khả năng tái chế. Tại sao vỏ bút xơ/vỏ chai nước khoáng làm bằng chất dẻo nhiệt, còn vỏ ổ cắm điện làm bằng chất dẻo nhiệt rắn?
+Câu 3 (Vận dụng - 1,0 điểm): Gia đình em muốn thay thế chiếc khung cửa sổ bằng gỗ bị mối mọt. Em hãy đề xuất loại vật liệu cơ khí phù hợp để làm khung cửa sổ mới, giải thích lý do lựa chọn dựa trên các đặc tính kĩ thuật của vật liệu đó.
+PHẦN III. ĐÁP ÁN VÀ HƯỚNG DẪN CHẤM CHI TIẾT
+1. Bảng đáp án Trắc nghiệm nhiều lựa chọn (3,0 điểm - 0,25đ/câu):
+T| Câu || 1 || 2 || 3 || 4 || 5 || 6 || 7 || 8 || 9 || 10 || 11 || 12
+T| Đáp án || B || A || C || B || B || C || B || C || B || B || B || C
+2. Đáp án chi tiết Trắc nghiệm Đúng/Sai (4,0 điểm - 1,0đ/câu):
+• Quy cách tính điểm: Đúng 1 ý = 0,1đ | Đúng 2 ý = 0,25đ | Đúng 3 ý = 0,5đ | Đúng 4 ý = 1,0đ.
+Câu 1:
+a) Đúng - Kim loại đen gồm thép và gang (Fe + C).
+b) Sai - Gang chứa C > 2,14% nên giòn hơn, dẻo kém hơn thép.
+c) Đúng - Đồng, nhôm và hợp kim là kim loại màu.
+d) Sai - Kim loại màu dẫn điện, dẫn nhiệt rất tốt.
+Câu 2:
+a) Đúng - Chất dẻo nhiệt dẻo khi đun nóng, cứng khi nguội, tái chế được.
+b) Sai - Vỏ phích/ổ cắm điện làm bằng chất dẻo nhiệt rắn để không bị chảy khi nóng.
+c) Đúng - Cao su có tính đàn hồi, giảm xóc, cách điện/nước.
+d) Sai - Cao su tự nhiên lấy từ mủ cây cao su, không phải tổng hợp từ than đá/dầu mỏ.
+Câu 3:
+a) Đúng - Thép C ≤ 2,14%, Gang C > 2,14%.
+b) Đúng - Đồng đỏ nâu, dẫn điện tốt nhất trong các kim loại màu thông dụng.
+c) Sai - Kim loại màu vẫn bị ăn mòn bởi một số hóa chất đặc biệt.
+d) Sai - Lưỡi bào, lưỡi đục làm bằng thép (độ cứng cao), không làm bằng nhôm.
+Câu 4:
+a) Đúng - Hợp kim nhôm nhẹ, bền, thích hợp làm khung xe đạp.
+b) Đúng - Tay cầm chảo làm bằng chất dẻo nhiệt rắn/gỗ để cách nhiệt tốt.
+c) Sai - Vỏ dây điện làm bằng cao su/chất dẻo cách điện, lõi mới là đồng.
+d) Sai - Lốp xe làm bằng cao su để đàn hồi và bám đường.
+3. Đáp án và Thang điểm Tự luận (3,0 điểm):
+Câu 1 (1,0 điểm):
+• Phân biệt kĩ thuật (0,75đ):
+- Tính dẫn điện, dẫn nhiệt: Vật liệu kim loại dẫn điện và dẫn nhiệt tốt; Vật liệu phi kim loại cách điện và cách nhiệt tốt (hoặc dẫn rất kém).
+- Khả năng biến dạng dẻo: Kim loại có tính dẻo, dễ rèn, kéo sợi, dát mỏng; Phi kim loại (như cao su) có tính đàn hồi cao hoặc giòn/nóng chảy đặc thù.
+• Ví dụ thực tế (0,25đ): Lõi dây điện bằng đồng (kim loại dẫn điện), vỏ dây điện bằng nhựa PVC (phi kim loại cách điện).
+Câu 2 (1,0 điểm):
+• So sánh chất dẻo nhiệt và chất dẻo nhiệt rắn (0,5đ):
+- Chất dẻo nhiệt: Nóng chảy ở nhiệt độ thấp, cứng khi nguội, tái chế được nhiều lần.
+- Chất dẻo nhiệt rắn: Không bị chảy mềm ở nhiệt độ cao, chịu nhiệt tốt, không tái chế được.
+• Giải thích ứng dụng (0,5đ):
+- Vỏ chai nước/vỏ bút dùng chất dẻo nhiệt vì dễ đúc gia công hàng loạt, giá thành rẻ, tái chế được.
+- Vỏ ổ cắm điện dùng chất dẻo nhiệt rắn để đảm bảo an toàn, không bị biến dạng hay chảy nhựa gây chập cháy khi thiết bị phát nhiệt.
+Câu 3 (1,0 điểm):
+• Đề xuất vật liệu (0,25đ): Chọn hợp kim nhôm (cửa nhôm kính) hoặc thép sơn tĩnh điện.
+• Giải thích lý do kĩ thuật (0,75đ):
+- Khả năng chống ăn mòn/mối mọt: Nhôm và thép sơn tĩnh điện không bị mối mọt phá hủy như gỗ, chống oxy hóa tốt trước thời tiết ẩm ướt.
+- Khối lượng và độ bền: Hợp kim nhôm nhẹ, bền, khung chắc chắn, dễ lắp đặt và vận hành nhẹ nhàng.
+- Tính thẩm mỹ và kinh tế: Bề mặt đẹp, độ bền lâu dài, tiết kiệm chi phí bảo dưỡng.
+PHẦN IV. BẢNG ĐỐI CHIẾU CÂU HỎI VỚI MỨC ĐỘ NHẬN THỨC VÀ YCCĐ
+T| Câu hỏi || Dạng câu hỏi || Mức độ nhận thức || Yêu cầu cần đạt (YCCĐ) đối chiếu
+T| MCQ 1 - 8 || Trắc nghiệm 4 lựa chọn || Nhận biết || Nhận biết các loại vật liệu kim loại đen, kim loại màu, chất dẻo, cao su.
+T| MCQ 9 - 12 || Trắc nghiệm 4 lựa chọn || Thông hiểu || Hiểu tính chất kĩ thuật và công dụng thực tế của thép, gang, nhôm, đồng, chất dẻo.
+T| T/F Câu 1 || Trắc nghiệm Đúng/Sai || Nhận biết || Nhận biết phân loại kim loại đen, kim loại màu và thành phần Fe-C.
+T| T/F Câu 2 || Trắc nghiệm Đúng/Sai || Nhận biết || Nhận biết đặc tính của chất dẻo nhiệt, chất dẻo nhiệt rắn và cao su.
+T| T/F Câu 3 || Trắc nghiệm Đúng/Sai || Thông hiểu || Phân biệt tỉ lệ carbon trong thép/gang, tính chất đồng/nhôm.
+T| T/F Câu 4 || Trắc nghiệm Đúng/Sai || Thông hiểu || Giải thích việc chọn nhôm làm khung xe, nhựa nhiệt rắn làm tay chảo.
+T| Tự luận 1 || Tự luận || Thông hiểu || So sánh tính dẫn điện, dẫn nhiệt, tính dẻo giữa kim loại và phi kim loại.
+T| Tự luận 2 || Tự luận || Thông hiểu || So sánh chất dẻo nhiệt và nhiệt rắn, giải thích ứng dụng chai nhựa/ổ cắm.
+T| Tự luận 3 || Tự luận || Vận dụng || Đề xuất chọn hợp kim nhôm làm khung cửa thay gỗ dựa trên đặc tính chống mối mọt/nhẹ/bền.
+T| Tổng hợp Nhận biết || TN 4 LC + T/F || 40% Tổng điểm || Đạt chuẩn kiến thức Nhận biết quy định trong Chương trình GDPT 2018.
+T| Tổng hợp Thông hiểu/VD || TN + Tự luận || 60% Tổng điểm || Đạt chuẩn kĩ năng Phân tích, So sánh, Vận dụng thực tế Công nghệ 8.

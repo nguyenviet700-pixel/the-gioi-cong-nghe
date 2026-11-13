@@ -1,0 +1,180 @@
+UBND QUẬN/HUYỆN... - TRƯỜNG THCS...
+BỘ CÂU HỎI VÀ ĐÁNH GIÁ KẾT QUẢ HỌC TẬP
+MÔN: CÔNG NGHỆ 8 – BÀI 14: KHÁI QUÁT VỀ MẠCH ĐIỆN
+(Bộ sách: Kết nối tri thức với cuộc sống – Thời lượng: 2 tiết)
+I. YÊU CẦU CẦN ĐẠT (YCCĐ) & MA TRẬN ĐÁNH GIÁ
+T| MỤC TIÊU YÊU CẦU CẦN ĐẠT (Bám sát GDPT 2018 & SGK KNTT): / 1. Trình bày được cấu trúc chung của mạch điện, thành phần và chức năng của các bộ phận chính trên mạch điện. / 2. Trình bày được vai trò của các sơ đồ mạch điện, nhận biết được các kí hiệu quy ước thông dụng dùng trong sơ đồ mạch điện. / 3. Vẽ và mô tả được sơ đồ khối của mạch điện điều khiển đơn giản; phân tích được ví dụ ứng dụng thực tế.
+Bảng 1. Ma trận mức độ đánh giá Bài 14: Khái quát về mạch điện
+T| Nội dung / Chủ đề || Nhận biết (NB) || Thông hiểu (TH) || Vận dụng (VD) || Vận dụng cao (VDC) || Tổng cộng
+T| 1. Mạch điện (Cấu trúc, bộ phận & kí hiệu) || 4 câu TN4LC
+1 câu TN Đ/S || 2 câu TN4LC
+1 câu TN Đ/S || 1 câu TN4LC
+1 câu Tự luận || 0 || 7 câu TN4LC
+2 câu TN Đ/S
+1 câu TL
+T| 2. Mạch điện điều khiển (Khái niệm, sơ đồ khối & ứng dụng) || 2 câu TN4LC || 2 câu TN4LC
+1 câu TN Đ/S
+1 câu Tự luận || 1 câu TN4LC
+1 câu TN Đ/S || 1 câu Tự luận || 5 câu TN4LC
+2 câu TN Đ/S
+2 câu TL
+T| Tổng số câu || 6 câu TN4LC
+1 câu TN Đ/S || 4 câu TN4LC
+2 câu TN Đ/S
+1 câu TL || 2 câu TN4LC
+1 câu TN Đ/S
+1 câu TL || 1 câu Tự luận || 12 TN4LC
+4 TN Đ/S
+3 Tự luận
+T| Tỉ lệ điểm (%) || 40% (4.0 điểm) || 30% (3.0 điểm) || 20% (2.0 điểm) || 10% (1.0 điểm) || 100% (10 điểm)
+II. BỘ CÂU HỎI ĐÁNH GIÁ (100% BÁM SÁT SGK KNTT & YCCĐ)
+PHẦN 1. TRẮC NGHIỆM 4 LỰA CHỌN (12 câu - Mỗi câu đúng được 0,25 điểm)
+Câu 1 (Nhận biết): Mạch điện là tập hợp các bộ phận điện được kết nối với nhau nhằm thực hiện chức năng chính nào sau đây?
+A. Tạo ra cơ năng và biến đổi nhiệt năng thành điện năng.
+B. Truyền dẫn, biến đổi và sử dụng điện năng.
+C. Chỉ dùng để đo dòng điện và điện áp.
+D. Phát ra ánh sáng và âm thanh liên tục.
+Câu 2 (Nhận biết): Bộ phận nào sau đây có chức năng cung cấp năng lượng điện cho mạch điện hoạt động?
+A. Cầu chì.
+B. Công tắc.
+C. Nguồn điện (Pin, ắc quy, máy phát điện).
+D. Động cơ điện.
+Câu 3 (Nhận biết): Phụ tải điện nào sau đây biến đổi điện năng thành cơ năng?
+A. Bàn là điện.
+B. Quạt điện.
+C. Bóng đèn sợi đốt.
+D. Bếp điện.
+Câu 4 (Nhận biết): Trong sơ đồ mạch điện, kí hiệu hình chữ nhật có đường thẳng chạy xuyên dọc qua tâm biểu diễn thiết bị nào?
+A. Công tắc mở.
+B. Cầu chì.
+C. Động cơ điện.
+D. Chuông điện.
+Câu 5 (Nhận biết): Sơ đồ cấu trúc chung của một mạch điện gồm mấy thành phần chính?
+A. 2 thành phần.
+B. 3 thành phần (Nguồn điện; Truyền dẫn, đóng cắt, điều khiển, bảo vệ; Phụ tải).
+C. 4 thành phần.
+D. 5 thành phần.
+Câu 6 (Nhận biết): Bộ phận nào đóng vai trò bảo vệ mạch điện khi xảy ra sự cố quá tải hoặc ngắn mạch?
+A. Dây dẫn điện.
+B. Bóng đèn.
+C. Aptomat (hoặc cầu chì).
+D. Ắc quy.
+Câu 7 (Thông hiểu): Trong mạch điện điều khiển, khối 'Cảm biến' đảm nhận chức năng nào sau đây?
+A. Trực tiếp thực hiện hành động đóng mở phụ tải.
+B. Cảm nhận tín hiệu đầu vào (nhiệt độ, ánh sáng, độ ẩm...) và biến đổi thành tín hiệu điện.
+C. Cung cấp năng lượng điện năng cho mạch điện.
+D. Phát tín hiệu âm thanh cảnh báo khi có sự cố.
+Câu 8 (Thông hiểu): Sơ đồ khối của mạch điện điều khiển đơn giản có thứ tự đúng là:
+A. Đối tượng điều khiển -> Cảm biến, bộ xử lí -> Nguồn điện.
+B. Nguồn điện -> Cảm biến, bộ phận xử lí điều khiển -> Đối tượng điều khiển.
+C. Nguồn điện -> Đối tượng điều khiển -> Cảm biến.
+D. Bộ phận xử lí -> Nguồn điện -> Cảm biến.
+Câu 9 (Thông hiểu): Trong hệ thống đèn đường tự động bật khi trời tối, thiết bị nào đóng vai trò là 'Đối tượng điều khiển'?
+A. Cảm biến ánh sáng.
+B. Bộ vi xử lí điều khiển.
+C. Bóng đèn đường.
+D. Công tắc hành trình.
+Câu 10 (Thông hiểu): Khi sơ đồ mạch điện thể hiện hai dây dẫn giao nhau mà KHÔNG có dấu chấm đen tại điểm giao, điều đó có nghĩa là gì?
+A. Hai dây dẫn nối điện với nhau.
+B. Hai dây dẫn bắt chéo qua nhau nhưng không nối điện.
+C. Điểm đó là cầu chì bảo vệ.
+D. Điểm đó là công tắc đóng.
+Câu 11 (Vận dụng): Khi gia đình sử dụng đồng thời quá nhiều thiết bị điện công suất lớn khiến dòng điện tăng cao đột ngột, thiết bị nào sẽ tự động ngắt mạch để tránh cháy nổ dây dẫn?
+A. Công tắc.
+B. Aptomat / Cầu chì.
+C. Quạt điện.
+D. Ổ cắm.
+Câu 12 (Vận dụng): Để thiết kế một mạch điện tự động tưới nước cho cây khi độ ẩm của đất xuống thấp, em cần lựa chọn loại cảm biến nào sau đây?
+A. Cảm biến ánh sáng.
+B. Cảm biến nhiệt độ.
+C. Cảm biến độ ẩm đất.
+D. Cảm biến âm thanh.
+PHẦN 2. TRẮC NGHIỆM ĐÚNG/SAI (04 câu - Tối đa 1.0 điểm/câu)
+Quy tắc chấm điểm TN Đ/S: Thí sinh lựa chọn chính xác 01 ý được 0,1 điểm; 02 ý được 0,25 điểm; 03 ý được 0,5 điểm; 04 ý được 1,0 điểm.
+Câu 1: Cho các nhận định về cấu trúc và vai trò các bộ phận trong mạch điện:
+a) Nguồn điện có vai trò tạo ra và cung cấp năng lượng điện cho mạch điện hoạt động.
+b) Bóng đèn sợi đốt và quạt điện đều là các phụ tải biến đổi điện năng thành quang năng.
+c) Công tắc và cầu chì đảm nhận chức năng đóng cắt và bảo vệ mạch điện.
+d) Trong mạch điện, dây dẫn điện chỉ có nhiệm vụ nâng đỡ các thiết bị điện mà không dẫn điện.
+Câu 2: Về kí hiệu quy ước trên sơ đồ mạch điện theo TCVN:
+a) Kí hiệu nguồn điện một chiều (pin) gồm hai nét gạch song song không bằng nhau, nét dài hơn là cực dương (+).
+b) Kí hiệu cầu chì là một hình chữ nhật có đường thẳng chạy xuyên dọc qua tâm.
+c) Kí hiệu bóng đèn sợi đốt là một hình vuông có dấu cộng (+) ở chính giữa.
+d) Hai dây dẫn chéo nhau nhưng không nối điện với nhau được vẽ bằng một chấm đen đậm tại điểm giao nhau.
+Câu 3: Về mạch điện điều khiển và sơ đồ khối của mạch điện điều khiển đơn giản:
+a) Sơ đồ khối mạch điện điều khiển đơn giản gồm 3 khối: Nguồn điện; Cảm biến và bộ phận xử lí điều khiển; Đối tượng điều khiển.
+b) Khối cảm biến có nhiệm vụ nhận lệnh từ bộ xử lí để vận hành phụ tải.
+c) Mạch điện điều khiển có thể hoạt động hoàn toàn tự động hoặc theo sự điều khiển của con người.
+d) Trong hệ thống đèn đường tự động bật/tắt, bóng đèn đường chính là khối cảm biến ánh sáng.
+Câu 4: Về ứng dụng thực tế và an toàn vận hành mạch điện:
+a) Trong mạch tưới nước tự động, cảm biến độ ẩm đất giúp phát hiện độ ẩm của đất để gửi tín hiệu điện về bộ xử lí.
+b) Khi dòng điện trong gia đình vượt quá giới hạn an toàn, cầu chì sẽ nóng chảy và ngắt mạch để bảo vệ thiết bị.
+c) Để tránh việc cầu chì bị ngắt liên tục khi dùng nhiều thiết bị điện, ta có thể thay thế dây cầu chì bằng một đoạn dây đồng dày bất kì.
+d) Mạch báo cháy tự động sử dụng cảm biến ánh sáng để phát hiện khói và nhiệt độ cao trong phòng.
+PHẦN 3. CÂU HỎI TỰ LUẬN (03 câu - Tổng 3.0 điểm)
+Câu 1 (Thông hiểu - 1.0 điểm):
+Vẽ sơ đồ khối của mạch điện điều khiển đơn giản. Hãy nêu rõ chức năng của từng khối (Khối nguồn, Khối Cảm biến & Xử lí điều khiển, Khối Đối tượng điều khiển) trong sơ đồ.
+Câu 2 (Vận dụng - 1.0 điểm):
+Sử dụng các kí hiệu quy ước trong SGK Công nghệ 8, hãy vẽ sơ đồ mạch điện gồm: 1 nguồn điện pin (gồm 2 pin nối tiếp), 1 công tắc K đóng/mở, 1 cầu chì bảo vệ, 1 bóng đèn Đ và các dây dẫn nối. Giải thích rõ vai trò của từng linh kiện trong mạch.
+Câu 3 (Vận dụng cao - 1.0 điểm):
+Gia đình bạn An muốn lắp đặt một hệ thống chiếu sáng sân vườn tự động bật sáng khi trời tối và tự động tắt khi trời sáng.
+a) Hãy vẽ sơ đồ khối mạch điện điều khiển cho hệ thống trên (chỉ rõ loại cảm biến và đối tượng điều khiển cần dùng).
+b) Giải thích nguyên lý hoạt động của hệ thống khi thời tiết chuyển từ ban ngày sang ban đêm và ngược lại.
+III. ĐÁP ÁN VÀ HƯỚNG DẪN CHẤM CHI TIẾT
+1. Đáp án Phần 1: Trắc nghiệm 4 lựa chọn (3.0 điểm - Mỗi câu 0,25 điểm)
+T|  ||  ||  ||  ||  || 
+T|  ||  ||  ||  ||  || 
+T|  ||  ||  ||  ||  || 
+T| Câu 1 || Câu 2 || Câu 3 || Câu 4 || Câu 5 || Câu 6
+T| B || C || B || B || B || C
+T| Câu 7 || Câu 8 || Câu 9 || Câu 10 || Câu 11 || Câu 12
+T| B || B || C || B || B || C
+2. Đáp án Phần 2: Trắc nghiệm Đúng/Sai (4.0 điểm - Mỗi câu 1.0 điểm)
+T| Câu hỏi || Ý a || Ý b || Ý c || Ý d || Tỉ lệ Đ/S & Ghi chú
+T| Câu 1 || Đúng || Sai || Đúng || Sai || 2 Đúng, 2 Sai (Ý b sai vì quạt điện biến đổi thành cơ năng; ý d sai vì dây dẫn truyền dẫn điện)
+T| Câu 2 || Đúng || Đúng || Sai || Sai || 2 Đúng, 2 Sai (Ý c sai vì kí hiệu bóng đèn là hình tròn nét X; ý d sai vì hai dây chéo nhau không nối thì không vẽ chấm đen)
+T| Câu 3 || Đúng || Sai || Đúng || Sai || 2 Đúng, 2 Sai (Ý b sai vì cảm biến gửi tín hiệu về bộ xử lí; ý d sai vì bóng đèn là đối tượng điều khiển)
+T| Câu 4 || Đúng || Đúng || Sai || Sai || 2 Đúng, 2 Sai (Ý c sai vì dùng dây đồng thay cầu chì gây nguy cơ cháy nổ; ý d sai vì dùng cảm biến khói/nhiệt)
+3. Đáp án & Hướng dẫn chấm Tự luận (3.0 điểm)
+T| Câu hỏi || Đáp án chi tiết / Ý cần đạt || Điểm
+T| Câu 1
+(1.0 điểm) || - Vẽ đúng Sơ đồ khối mạch điện điều khiển đơn giản:
+  [ Nguồn điện ] ---> [ Cảm biến & Bộ phận xử lí điều khiển ] ---> [ Đối tượng điều khiển ]
+- Nêu chức năng từng khối:
+  + Khối nguồn điện: Cung cấp điện năng hoạt động cho toàn bộ mạch.
+  + Khối Cảm biến & Xử lí: Cảm nhận thay đổi môi trường (nhiệt, sáng, độ ẩm...) biến thành tín hiệu điện và đưa ra lệnh điều khiển.
+  + Khối Đối tượng điều khiển: Nhận lệnh từ bộ xử lí để thực hiện hành động (bật/tắt đèn, quạt, bơm...) || 0.4đ
+
+0.2đ
+0.2đ
+
+0.2đ
+T| Câu 2
+(1.0 điểm) || - Vẽ đúng sơ đồ mạch điện bằng kí hiệu quy ước:
+  + Nguồn pin 2 nguồn nối tiếp: hai cặp vạch dài-ngắn nối tiếp.
+  + Cầu chì nối tiếp trên dây nóng, tiếp đến công tắc K, bóng đèn Đ và về cực âm nguồn pin.
+- Giải thích vai trò:
+  + Nguồn pin: Cung cấp điện 1 chiều.
+  + Cầu chì: Bảo vệ mạch điện khi ngắn mạch/quá tải.
+  + Công tắc K: Đóng/cắt dòng điện chủ động.
+  + Bóng đèn Đ: Phụ tải biến điện năng thành quang năng. || 0.5đ
+
+
+0.5đ
+(mỗi linh kiện 0.125đ)
+T| Câu 3
+(1.0 điểm) || a) Sơ đồ khối hệ thống đèn chiếu sáng sân vườn tự động:
+  [ Nguồn điện ] ---> [ Cảm biến ánh sáng & Bộ xử lí ] ---> [ Đèn chiếu sáng sân vườn ]
+b) Nguyên lý hoạt động:
+  - Ban đêm (trời tối): Cảm biến ánh sáng nhận biết độ sáng giảm thấp -> gửi tín hiệu điện về bộ xử lí -> bộ xử lí đóng mạch cấp điện cho đèn sân vườn bật sáng.
+  - Ban ngày (trời sáng): Cảm biến nhận biết độ sáng cao -> gửi tín hiệu về bộ xử lí -> bộ xử lí ngắt mạch khiến đèn sân vườn tắt. || 0.4đ
+
+0.6đ
+(mỗi giai đoạn 0.3đ)
+IV. BẢNG ĐỐI CHIẾU QUY TẮC BIÊN SOẠN HỌC LIỆU
+T| Tiêu chí kiểm định || Yêu cầu theo Quy tắc biên soạn || Kết quả đối chiếu / Đánh giá
+T| 1. Bám sát YCCĐ & SGK || Nội dung nằm hoàn toàn trong SGK Công nghệ 8 KNTT, chuẩn GDPT 2018. || ĐẠT (100% không vi phạm kiến thức ngoài)
+T| 2. Tỉ lệ cấu trúc trắc nghiệm || 12 câu TN4LC (3.0đ) + 4 câu TN Đ/S (4.0đ) + 3 câu TL (3.0đ). || ĐẠT (Đúng chuẩn ma trận)
+T| 3. Quy định TN Đúng/Sai || Mỗi câu Đ/S có đúng 4 ý, tỉ lệ chính xác ĐÚNG 2 ĐÚNG / 2 SAI. || ĐẠT (Tất cả 4 câu Đ/S đều đúng 2 Đ - 2 S)
+T| 4. Bảng ma trận & YCCĐ || Có bảng YCCĐ rõ ràng và bảng ma trận ma trận phân bổ mức độ. || ĐẠT (Đầy đủ ma trận, YCCĐ)
+T| 5. Đáp án & Hướng dẫn chấm || Có bảng đáp án TN4LC, TN Đ/S và hướng dẫn chấm TL chi tiết thang 10. || ĐẠT (Chi tiết, đầy đủ thang điểm)

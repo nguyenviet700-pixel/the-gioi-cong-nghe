@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tài liệu bồi dưỡng HSG | Thế Giới Công Nghệ - Trường THCS Vĩnh Xuân</title>
+    <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="../style.css">
+    <style>
+        .doc-item { display: flex; align-items: center; justify-content: space-between; gap: 15px; padding: 20px; border-bottom: 1px solid #eee; transition: var(--transition); flex-wrap: wrap; }
+        .doc-item:hover { background-color: var(--primary-light); }
+        .doc-info { display: flex; align-items: center; gap: 15px; }
+        .doc-icon { font-size: 2rem; color: #2b579a; }
+        .doc-actions { display: flex; gap: 8px; flex-wrap: wrap; }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container nav-container">
+            <a href="../index.html" class="logo">
+                <img src="../assets/logo-truong.jpg" alt="Logo Trường THCS Vĩnh Xuân" class="nav-brand-logo">
+                <span class="logo-text">
+                    <span>THẾ GIỚI CÔNG NGHỆ</span>
+                    <span class="logo-sub">TRƯỜNG THCS VĨNH XUÂN</span>
+                </span>
+            </a>
+            <ul class="nav-links">
+                <li><a href="../index.html">Trang chủ</a></li>
+                <li class="dropdown">
+                    <a href="#" class="active">Học Tập <i class="fa-solid fa-chevron-down"></i></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="cong-nghe-7.html">Công nghệ 7</a></li>
+                        <li><a href="cong-nghe-8.html">Công nghệ 8</a></li>
+                        <li><a href="tai-lieu.html">Kho tài liệu (Khối 6, 7, 8, 9)</a></li>
+                        <li><a href="tai-lieu-hsg.html" class="active">Tài liệu bồi dưỡng HSG</a></li>
+                    </ul>
+                </li>
+                <li><a href="quiz.html">Chơi &amp; Quiz</a></li>
+                <li><a href="xuong-thuc-hanh.html">Xưởng Thực Hành</a></li>
+                <li><a href="thu-thach.html">Thử Thách</a></li>
+                <li><a href="ai.html">Trợ lý AI</a></li>
+            </ul>
+            <div class="hamburger"><i class="fa-solid fa-bars"></i></div>
+        </div>
+    </nav>
+
+    <header class="page-header" style="background:var(--accent-color);">
+        <div class="container">
+            <h1>Tài liệu bồi dưỡng Học sinh giỏi</h1>
+            <p>Trọn bộ 10 chuyên đề bồi dưỡng HSG môn Công nghệ đã biên soạn và cập nhật mới nhất</p>
+        </div>
+    </header>
+
+    <section class="section">
+        <div class="container">
+            <div id="hsg-docs-box"></div>
+            <div class="card" style="padding:0; overflow:hidden;">
+                <h3 style="background:var(--accent-color); color:white; padding:20px; margin:0;">Danh sách 10 chuyên đề bồi dưỡng HSG</h3>
+                <div id="hsg-list"></div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container footer-content">
+            <div class="footer-brand">
+                <img src="../assets/logo-truong.jpg" alt="Logo Trường THCS Vĩnh Xuân">
+                <div class="footer-logo" style="margin-bottom:0;">THẾ GIỚI CÔNG NGHỆ – TRƯỜNG THCS VĨNH XUÂN</div>
+            </div>
+            <p class="footer-author">Tác giả: <strong>Thầy Nguyễn Thanh Việt</strong> – Giáo viên môn Công nghệ, Trường THCS Vĩnh Xuân.</p>
+        </div>
+    </footer>
+
+    <script src="../data/catalog.js"></script>
+    <script src="../library.js"></script>
+    <script src="../site-config.js"></script>
+    <script src="../script.js"></script>
+    <script>
+        (function () {
+            const box = document.getElementById('hsg-list');
+            const docsBox = document.getElementById('hsg-docs-box');
+            if (!window.CATALOG) { box.innerHTML = '<p style="padding:20px;">Không tải được danh mục.</p>'; return; }
+            if (docsBox && CATALOG.hsgDocs && CATALOG.hsgDocs.length) {
+                docsBox.innerHTML = '<div class="card" style="padding:0; overflow:hidden; margin-bottom:28px;">' +
+                    '<h3 style="background:var(--primary-color); color:white; padding:20px; margin:0;"><i class="fa-solid fa-file-pdf"></i> Văn bản định hướng kỳ thi HSG</h3>' +
+                    CATALOG.hsgDocs.map(function (d) {
+                        return '<div class="doc-item"><div class="doc-info"><i class="fa-solid fa-file-pdf doc-icon" style="color:var(--danger);"></i><div>' +
+                            '<h4 style="margin-bottom:5px;">' + escapeHtml(d.title) + '</h4>' +
+                            '<p style="font-size:0.85rem; color:var(--text-muted);">Tài liệu PDF · ' + d.sizeKB + ' KB</p></div></div>' +
+                            '<div class="doc-actions">' +
+                            '<a href="' + openUrl(d) + '" target="_blank" rel="noopener" class="btn btn-outline btn-sm"><i class="fa-solid fa-up-right-from-square"></i> Xem văn bản</a>' +
+                            '<a href="' + downloadUrl(d) + '" target="_blank" rel="noopener" download="' + escapeHtml(d.file) + '" class="btn btn-primary btn-sm"><i class="fa-solid fa-download"></i> Tải PDF</a></div></div>';
+                    }).join('') + '</div>';
+            }
+            box.innerHTML = CATALOG.hsg.map(function (h) {
+                const u = downloadUrl(h);
+                return '<div class="doc-item"><div class="doc-info"><i class="fa-solid fa-file-word doc-icon"></i><div>' +
+                    '<h4 style="margin-bottom:5px;">Chuyên đề ' + h.no + ': ' + escapeHtml(h.title) + '</h4>' +
+                    '<p style="font-size:0.85rem; color:var(--text-muted);">Đọc trực tiếp trên web · Word (.docx) · ' + h.sizeKB + ' KB</p></div></div>' +
+                    '<div class="doc-actions">' +
+                    '<a href="hsg.html?no=' + h.no + '" class="btn btn-outline btn-sm"><i class="fa-solid fa-book-open"></i> Đọc trực tiếp</a>' +
+                    '<a href="ai.html?hsg=' + h.no + '" class="btn btn-outline btn-sm"><i class="fa-solid fa-robot"></i> Hỏi AI</a>' +
+                    '<a href="' + u + '" target="_blank" rel="noopener" download="' + escapeHtml(h.file) + '" class="btn btn-primary btn-sm"><i class="fa-solid fa-download"></i> Tải file .docx</a></div></div>';
+            }).join('') || '<p style="padding:20px;">Chưa có tài liệu.</p>';
+        })();
+    </script>
+</body>
+</html>

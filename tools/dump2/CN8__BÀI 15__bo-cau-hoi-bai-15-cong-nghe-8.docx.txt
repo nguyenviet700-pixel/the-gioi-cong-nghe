@@ -1,0 +1,145 @@
+BỘ CÂU HỎI VÀ ĐÁNH GIÁ CÁC MỨC ĐỘ NHẬN THỨC
+BÀI 15: CẢM BIẾN VÀ MÔ ĐUN CẢM BIẾN
+Môn: Công nghệ 8 (Bộ sách Kết nối trí thức với cuộc sống)
+Thực hiện theo Quy tắc biên soạn học liệuGDPT 2018
+I. MỤC TIÊU VÀ YÊU CẦU CẦN ĐẠT (YCCĐ)
+Căn cứ theo Chương trình GDPT 2018 môn Công nghệ và SGK Công nghệ 8 (KNTT), YCCĐ của Bài 15 bao gồm:
+Phân loại và nêu được vai trò của một số mô đun cảm biến trong mạch điện điều khiển đơn giản (mô đun cảm biến ánh sáng, mô đun cảm biến nhiệt độ, mô đun cảm biến độ ẩm).
+Mức độ nhận thức quy định: Nhận biết, Thông hiểu.
+Phát triển năng lực công nghệ: Năng lực nhận thức công nghệ, giao tiếp công nghệ và sử dụng công nghệ trong đời sống thực tiễn.
+II. MA TRẬN ĐỀ KIỂM TRA BÀI 15
+T| Nội dung kiến thức || Nhận biết
+(TN 4 lựa chọn) || Thông hiểu
+(TN 4 lựa chọn) || Vận dụng
+(TN Đúng/Sai & TL) || Tổng điểm
+& Tỉ lệ %
+T| 1. Cảm biến và các loại cảm biến thông dụng || 3 câu (0.75đ) || 1 câu (0.25đ) || TN Đ/S: 1 câu (0.5đ)
+TL: 1 câu (1.5đ) || 2.75đ (27.5%)
+T| 2. Mô đun cảm biến và vai trò trong mạch điều khiển || 4 câu (1.0đ) || 4 câu (1.0đ) || TN Đ/S: 3 câu (1.5đ)
+TL: 2 câu (3.5đ) || 7.25đ (72.5%)
+T| Tổng cộng || 7 câu (1.75đ) || 5 câu (1.25đ) || 4 câu Đ/S + 3 câu TL (7.0đ) || 10.0 điểm (100%)
+III. BẢNG ĐỐI CHIẾU MỨC ĐỘ NHẬN THỨC
+T| Câu hỏi || Loại câu hỏi || Mức độ nhận thức || Yêu cầu cần đạt (YCCĐ) tương ứng
+T| Câu 1 - 7 (TN 4 LC) || Trắc nghiệm 4 lựa chọn || Nhận biết || Nhận biết khái niệm cảm biến, các loại cảm biến thông dụng và khái niệm, phân loại các mô đun cảm biến.
+T| Câu 8 - 12 (TN 4 LC) || Trắc nghiệm 4 lựa chọn || Thông hiểu || Phân biệt được nguyên lý làm việc, sự khác nhau giữa cảm biến và mô đun cảm biến, vai trò của mô đun cảm biến.
+T| Câu 1 - 4 (TN Đ/S)
+Câu 1 - 3 (Tự luận) || Trắc nghiệm Đúng/Sai
+& Tự luận || Vận dụng || Phân tích, đánh giá, vẽ sơ đồ khối và ứng dụng lựa chọn mô đun cảm biến vào thiết kế mạch điện điều khiển thực tế.
+IV. ĐỀ KIỂM TRA ĐÁNH GIÁ BÀI 15
+PHẦN I. CÂU HỎI TRẮC NGHIỆM 4 LỰA CHỌN (3.0 điểm - Mỗi câu trả lời đúng được 0.25 điểm)
+Câu 1 (NB): Thiết bị cảm nhận và biến đổi đại lượng vật lý hoặc hóa học đầu vào thành tín hiệu điện đầu ra gọi là gì?
+A. Cảm biến.
+B. Động cơ điện.
+C. Máy biến áp.
+D. Aptomat.
+Câu 2 (NB): Tín hiệu đầu ra của các loại cảm biến trong mạch điều khiển thường là dạng tín hiệu nào?
+A. Tín hiệu cơ học.
+B. Tín hiệu điện.
+C. Tín hiệu áp suất.
+D. Tín hiệu nhiệt độ.
+Câu 3 (NB): Cảm biến ánh sáng (quang trở) có chức năng chính là gì?
+A. Cảm nhận nhiệt độ môi trường.
+B. Cảm nhận độ ẩm của đất.
+C. Cảm nhận cường độ ánh sáng.
+D. Cảm nhận áp suất không khí.
+Câu 4 (NB): Mạch điện điện tử bao gồm cảm biến và linh kiện phụ trợ dùng để xử lý tín hiệu cảm biến và điều khiển thiết bị gọi là gì?
+A. Mô đun cảm biến.
+B. Công tắc cơ học.
+C. Cầu chì điện.
+D. Công tơ điện.
+Câu 5 (NB): Mô đun cảm biến ánh sáng thường được ứng dụng phổ biến trong thiết bị nào sau đây?
+A. Hệ thống tưới cây tự động.
+B. Đèn đường tự động bật khi trời tối.
+C. Quạt làm mát tự động.
+D. Máy sưởi ấm gia đình.
+Câu 6 (NB): Mô đun cảm biến độ ẩm thường được ứng dụng trong hệ thống nào?
+A. Đèn ngủ thông minh.
+B. Máy bơm tưới rau tự động khi đất khô.
+C. Cửa đóng mở tự động.
+D. Chuông báo cháy tự động.
+Câu 7 (NB): Mô đun cảm biến nhiệt độ có vai trò gì trong mạch điện điều khiển?
+A. Bật/tắt thiết bị dựa trên cường độ ánh sáng.
+B. Bật/tắt thiết bị dựa trên độ ẩm đất/không khí.
+C. Bật/tắt thiết bị dựa trên sự thay đổi nhiệt độ môi trường.
+D. Phát hiện chuyển động của con người.
+Câu 8 (TH): Phát biểu nào sau đây nêu đúng sự khác biệt cơ bản giữa cảm biến độc lập và mô đun cảm biến?
+A. Cảm biến chỉ làm nhiệm vụ biến đổi tín hiệu, mô đun cảm biến tích hợp thêm mạch xử lý và rơ-le để đóng cắt trực tiếp thiết bị.
+B. Cảm biến có thể điều khiển trực tiếp tải công suất lớn, mô đun cảm biến thì không.
+C. Cảm biến biến đổi điện năng thành cơ năng, mô đun cảm biến biến đổi cơ năng thành điện năng.
+D. Cảm biến không cần nguồn điện, mô đun cảm biến hoạt động không cần linh kiện phụ trợ.
+Câu 9 (TH): Trong mô đun cảm biến ánh sáng, khi cường độ ánh sáng chiếu vào cảm biến giảm xuống (trời tối), rơ-le đóng cắt sẽ thực hiện hành động gì?
+A. Ngắt mạch điện nguồn.
+B. Đóng tiếp điểm cấp điện cho đèn sáng.
+C. Tăng điện trở của bóng đèn.
+D. Giảm điện áp nguồn xuống 0V.
+Câu 10 (TH): Để làm hệ thống cảnh báo nhiệt độ cao tự động bật quạt làm mát cho trang trại gà, người ta cần chọn loại mô đun cảm biến nào?
+A. Mô đun cảm biến ánh sáng.
+B. Mô đun cảm biến độ ẩm.
+C. Mô đun cảm biến nhiệt độ.
+D. Mô đun cảm biến hồng ngoại.
+Câu 11 (TH): Núm xoay biến trở trên mô đun cảm biến có tác dụng chính là gì?
+A. Điều chỉnh ngưỡng tác động (độ nhạy) của mô đun cảm biến.
+B. Biến đổi dòng điện một chiều thành dòng điện xoay chiều.
+C. Thay đổi công suất định mức của phụ tải.
+D. Bảo vệ mạch điện khi xảy ra sự cố ngắn mạch.
+Câu 12 (TH): Trong hệ thống phun sương tự động duy trì độ ẩm phòng trồng nấm, khi độ ẩm không khí giảm xuống dưới ngưỡng cài đặt, mô đun cảm biến độ ẩm sẽ tác động như thế nào?
+A. Tắt máy phun sương.
+B. Kích hoạt rơ-le đóng mạch cấp điện cho máy phun sương hoạt động.
+C. Bật hệ thống đèn chiếu sáng.
+D. Ngắt toàn bộ nguồn điện gia đình.
+PHẦN II. CÂU HỎI TRẮC NGHIỆM ĐÚNG/SAI (2.0 điểm - Chọn Đúng hoặc Sai cho mỗi ý a, b, c, d)
+(Quy tắc chuẩn: Mỗi câu bắt buộc có đúng 2 ý Đúng và 2 ý Sai)
+Câu 1: Cho các phát biểu về khái niệm và đặc điểm của cảm biến:
+a) Cảm biến là thiết bị nhận biết đại lượng vật lý hoặc hóa học và biến đổi thành tín hiệu điện.
+b) Tín hiệu đầu ra của cảm biến luôn là lực cơ học trực tiếp làm quay động cơ.
+c) Cảm biến quang trở có giá trị điện trở thay đổi phụ thuộc vào cường độ ánh sáng chiếu vào.
+d) Cảm biến nhiệt độ chỉ hoạt động được khi có ánh sáng mặt trời chiếu trực tiếp.
+Câu 2: Cho các phát biểu về cấu tạo và nguyên lý hoạt động của mô đun cảm biến:
+a) Mô đun cảm biến chỉ bao gồm duy nhất 1 linh kiện cảm biến mà không có thêm linh kiện phụ trợ nào.
+b) Rơ-le (Relay) trong mô đun cảm biến đóng vai trò là công tắc điện tử để đóng/cắt nguồn điện cho phụ tải.
+c) Biến trở trên mô đun cảm biến dùng để cài đặt ngưỡng tác động (độ nhạy) của mạch điện điều khiển.
+d) Mô đun cảm biến không thể sử dụng nguồn điện một chiều low-voltage (như 5V hay 12V DC).
+Câu 3: Cho các phát biểu về ứng dụng thực tế của các loại mô đun cảm biến:
+a) Đèn đường tự động bật khi trời tối và tắt khi trời sáng sử dụng mô đun cảm biến ánh sáng.
+b) Máy bơm tưới rau tự động khi đất bị khô hạn sử dụng mô đun cảm biến nhiệt độ.
+c) Quạt tản nhiệt tự động quay khi nhiệt độ CPU máy tính tăng cao sử dụng mô đun cảm biến nhiệt độ.
+d) Hệ thống cảnh báo rò rỉ khí gas trong nhà bếp sử dụng mô đun cảm biến độ ẩm đất.
+Câu 4: Cho các phát biểu về việc lựa chọn và lắp đặt mô đun cảm biến trong đời sống:
+a) Để làm máy ấp trứng gia cầm tự động duy trì nhiệt độ 37,5°C, người ta dùng mô đun cảm biến nhiệt độ.
+b) Có thể kết nối mô đun cảm biến ánh sáng điều khiển trực tiếp tải công suất lớn 3000W mà không cần rơ-le trung gian hay khởi động từ.
+c) Khi lắp đặt cảm biến ánh sáng cho đèn sân vườn, cần tránh hướng đầu cảm biến vào chính bóng đèn chiếu sáng của hệ thống.
+d) Cần treo cảm biến độ ẩm đất lên không trung để đo chính xác độ ẩm đất trong chậu cây.
+PHẦN III. CÂU HỎI TỰ LUẬN (5.0 điểm)
+Câu 1 (2.0 điểm): Trình bày khái niệm mô đun cảm biến. Hãy nêu tên và vai trò của 3 loại mô đun cảm biến thông dụng trong đời sống và sản xuất.
+Câu 2 (1.5 điểm): Phân tích nguyên lý hoạt động của hệ thống đèn chiếu sáng công cộng tự động sử dụng mô đun cảm biến ánh sáng trong hai trường hợp: khi trời sáng và khi trời tối.
+Câu 3 (1.5 điểm): Một gia đình muốn lắp đặt hệ thống tưới nước tự động cho vườn rau khi độ ẩm đất xuống thấp. Em hãy:
+a) Tư vấn lựa chọn loại mô đun cảm biến phù hợp.
+b) Vẽ sơ đồ khối của mạch điện điều khiển tự động này.
+c) Giải thích ngắn gọn tiến trình hoạt động của hệ thống.
+V. ĐÁNH GIÁ VÀ HƯỚNG DẪN CHẤM
+1. Đáp án Phần I (Trắc nghiệm 4 lựa chọn - 3.0 điểm)
+T| C1 || C2 || C3 || C4 || C5 || C6 || C7 || C8 || C9 || C10 || C11 || C12
+T| A || B || C || A || B || B || C || A || B || C || A || B
+2. Đáp án Phần II (Trắc nghiệm Đúng/Sai - 2.0 điểm)
+(Quy tắc tính điểm: Đúng 1 ý = 0.1đ; Đúng 2 ý = 0.25đ; Đúng 3 ý = 0.5đ; Đúng cả 4 ý = 1.0đ/câu)
+T| Câu hỏi || Ý || Đáp án || Giải thích ngắn gọn
+T| Câu 1 || a-Đ, b-S, c-Đ, d-S || 2 Đúng, 2 Sai || a-Đúng khái niệm; b-Sai vì đầu ra là tín hiệu điện; c-Đúng đặc tính quang trở; d-Sai vì cảm biến nhiệt độ cảm nhận nhiệt độ môi trường xung quanh.
+T| Câu 2 || a-S, b-Đ, c-Đ, d-S || 2 Đúng, 2 Sai || a-Sai vì mô đun gồm cảm biến + linh kiện phụ trợ + rơ-le; b-Đúng chức năng rơ-le; c-Đúng vai trò biến trở; d-Sai vì mô đun thường dùng nguồn 5V/12V DC.
+T| Câu 3 || a-Đ, b-S, c-Đ, d-S || 2 Đúng, 2 Sai || a-Đúng ứng dụng cảm biến ánh sáng; b-Sai vì tưới cây dùng cảm biến độ ẩm đất; c-Đúng ứng dụng cảm biến nhiệt độ; d-Sai vì báo rò gas dùng cảm biến khí gas.
+T| Câu 4 || a-Đ, b-S, c-Đ, d-S || 2 Đúng, 2 Sai || a-Đúng ứng dụng cảm biến nhiệt độ; b-Sai vì tải 3000W cần qua khởi động từ để tránh quá tải rơ-le; c-Đúng để tránh bị phản hồi vòng lặp sáng-tối; d-Sai vì cảm biến độ ẩm đất phải cắm vào đất.
+3. Đáp án và Thang điểm Phần III (Tự luận - 5.0 điểm)
+T| Câu || Nội dung đáp án cần đạt || Điểm
+T| Câu 1
+(2.0đ) || - Khái niệm mô đun cảm biến: Là mạch điện điện tử bao gồm cảm biến, linh kiện phụ trợ (như biến trở, IC so sánh, rơ-le đóng cắt) giúp xử lí tín hiệu từ cảm biến và điều khiển thiết bị phụ tải. (0.8đ)
+- Tên và vai trò 3 loại mô đun cảm biến thông dụng: (1.2đ)
+  + Mô đun cảm biến ánh sáng: Nhận biết cường độ ánh sáng để tự động bật/tắt thiết bị (đèn đường, đèn ngủ).
+  + Mô đun cảm biến nhiệt độ: Nhận biết nhiệt độ môi trường để điều khiển thiết bị làm mát/sưởi (quạt, máy sưởi).
+  + Mô đun cảm biến độ ẩm: Nhận biết độ ẩm đất/không khí để điều khiển thiết bị tưới cây, máy phun sương. || 2.0 điểm
+T| Câu 2
+(1.5đ) || - Khi trời sáng: Cường độ ánh sáng cao chiếu vào cảm biến ánh sáng -> Điện trở cảm biến giảm -> Tín hiệu đưa về mạch điện tử xử lý ngắt rơ-le -> Ngắt nguồn điện cấp cho đèn -> Đèn tắt. (0.75đ)
+- Khi trời tối: Cường độ ánh sáng giảm xuống dưới ngưỡng cài đặt -> Điện trở cảm biến tăng -> Tín hiệu đưa về mạch xử lý kích hoạt rơ-le đóng tiếp điểm -> Cấp điện cho đèn -> Đèn tự động bật sáng. (0.75đ) || 1.5 điểm
+T| Câu 3
+(1.5đ) || a) Tư vấn chọn loại mô đun: Chọn Mô đun cảm biến độ ẩm đất. (0.25đ)
+b) Sơ đồ khối mạch điện điều khiển: (0.75đ)
+   [Nguồn điện] --> [Mô đun cảm biến độ ẩm đất (Cảm biến + Xử lý + Rơ-le)] --> [Máy bơm nước tưới rau]
+c) Tiến trình hoạt động: Khi đất khô (độ ẩm < ngưỡng cài đặt), mô đun cảm biến phát hiện và kích hoạt rơ-le đóng mạch, bật máy bơm tưới nước. Khi đất đủ ẩm (độ ẩm > ngưỡng), mô đun cảm biến điều khiển ngắt rơ-le, máy bơm dừng hoạt động. (0.5đ) || 1.5 điểm

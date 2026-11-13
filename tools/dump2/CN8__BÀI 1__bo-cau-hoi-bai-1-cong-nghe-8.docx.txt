@@ -1,0 +1,177 @@
+Bài 1. MỘT SỐ TIÊU CHUẨN TRÌNH BÀY BẢN VẼ KĨ THUẬT
+―――――――――――――――――――――――――――――――――――
+I. YÊU CẦU CẦN ĐẠT (YCCĐ)
+1. Về Kiến thức & Năng lực Công nghệ:
+• Mô tả được tiêu chuẩn về khổ giấy, tỉ lệ, đường nét và ghi kích thước trong bản vẽ kĩ thuật (TCVN 7285:2003, TCVN 7286:2003, TCVN 8-24:2002, TCVN 7583-1:2006).
+• Nhận biết và phân biệt được các loại khổ giấy chính, các nhóm tỉ lệ, các loại đường nét cơ bản và các thành phần ghi kích thước trên bản vẽ kĩ thuật.
+2. Về Mức độ nhận thức quy định:
+• Theo Chương trình Giáo dục phổ thông 2018 môn Công nghệ (Lớp 8) và SGK Công nghệ 8 (Kết nối tri thức với cuộc sống), YCCĐ của Bài 1 quy định ở 2 mức độ nhận thức: Nhận biết và Thông hiểu.
+• Toàn bộ hệ thống câu hỏi đánh giá và ma trận kiểm tra được thiết kế bám sát 100% hai mức độ này, không vượt quá chuẩn YCCĐ của bài học.
+II. MA TRẬN CÂU HỎI ĐÁNH GIÁ NĂNG LỰC
+T| Nội dung / Đề mục || Yêu cầu cần đạt || Nhận biết || Thông hiểu || Vận dụng || Vận dụng cao || Tổng số câu
+T| I. Khổ giấy || Mô tả được tiêu chuẩn về khổ giấy, khung bản vẽ, khung tên (TCVN 7285:2003) || Câu 1, 2 (TN)
+Câu 13a,b (Đ/S) || Câu 3 (TN)
+Câu 13c,d (Đ/S)
+Câu 17 (TL) || 0 || 0 || 3 TN
+1 Đ/S
+1 TL
+T| II. Tỉ lệ || Mô tả được tiêu chuẩn về tỉ lệ bản vẽ kĩ thuật (TCVN 7286:2003) || Câu 4, 5 (TN)
+Câu 14a,b (Đ/S) || Câu 6 (TN)
+Câu 14c,d (Đ/S) || 0 || 0 || 3 TN
+1 Đ/S
+T| III. Nét vẽ || Mô tả được tiêu chuẩn về nét vẽ và ứng dụng (TCVN 8-24:2002) || Câu 7, 8 (TN)
+Câu 15a,b (Đ/S) || Câu 9 (TN)
+Câu 15c,d (Đ/S)
+Câu 18 (TL) || 0 || 0 || 3 TN
+1 Đ/S
+1 TL
+T| IV. Ghi kích thước || Mô tả được tiêu chuẩn về ghi kích thước (TCVN 7583-1:2006) || Câu 10, 11 (TN)
+Câu 16a,b (Đ/S) || Câu 12 (TN)
+Câu 16c,d (Đ/S)
+Câu 19 (TL) || 0 || 0 || 3 TN
+1 Đ/S
+1 TL
+T| Tổng số câu TN / Ý Đ/S || - || 8 câu TN
+8 ý Đ/S || 4 câu TN
+8 ý Đ/S || 0 || 0 || 12 câu TN
+16 ý Đ/S
+T| Tổng số câu TL || - || 0 || 3 câu TL || 0 || 0 || 3 câu TL
+T| Tổng cộng toàn bài || - || 8 TN + 2 Đ/S || 4 TN + 2 Đ/S + 3 TL || 0 || 0 || 12 TN + 4 Đ/S + 3 TL
+* Ghi chú: TN = Trắc nghiệm nhiều lựa chọn; Đ/S = Trắc nghiệm Đúng/Sai; TL = Tự luận. Bảng ma trận phản ánh chính xác 100% các câu hỏi trong bộ đề.
+III. PHẦN 1 – TRẮC NGHIỆM NHIỀU LỰA CHỌN (12 CÂU)
+Khoanh tròn vào chữ cái đặt trước phương án trả lời đúng nhất cho mỗi câu hỏi dưới đây:
+Câu 1. [Mức độ: Nhận biết | YCCĐ: Mô tả được tiêu chuẩn về khổ giấy trong bản vẽ kĩ thuật]
+Theo TCVN 7285:2003, khổ giấy A4 có kích thước tiêu chuẩn là bao nhiêu?
+A. 1189 × 841 mm
+B. 841 × 594 mm
+C. 594 × 420 mm
+D. 297 × 210 mm
+Câu 2. [Mức độ: Nhận biết | YCCĐ: Mô tả được tiêu chuẩn về khổ giấy trong bản vẽ kĩ thuật]
+Khổ giấy của các bản vẽ kĩ thuật được quy định trong tiêu chuẩn Việt Nam nào sau đây?
+A. TCVN 7285:2003
+B. TCVN 7286:2003
+C. TCVN 8-24:2002
+D. TCVN 7583-1:2006
+Câu 3. [Mức độ: Thông hiểu | YCCĐ: Mô tả được tiêu chuẩn về khổ giấy trong bản vẽ kĩ thuật]
+Các khổ giấy chính (A1, A2, A3, A4) được tạo ra từ khổ giấy A0 bằng cách nào sau đây?
+A. Chia đôi khổ giấy lớn hơn theo chiều rộng.
+B. Chia đôi khổ giấy lớn hơn theo chiều dài.
+C. Gập đôi khổ giấy lớn hơn theo đường chéo.
+D. Cắt bớt 10 mm xung quanh các cạnh của khổ giấy lớn hơn.
+Câu 4. [Mức độ: Nhận biết | YCCĐ: Mô tả được tiêu chuẩn về tỉ lệ trong bản vẽ kĩ thuật]
+Theo TCVN 7286:2003, tỉ lệ là gì?
+A. Tỉ số giữa kích thước thực của vật thể và kích thước đo được trên bản vẽ.
+B. Tỉ số giữa kích thước dài đo được trên hình biểu diễn của vật thể và kích thước thực tương ứng trên vật thể đó.
+C. Tỉ số giữa chiều dài và chiều rộng của khổ giấy vẽ.
+D. Tỉ số giữa chiều rộng nét vẽ đậm và chiều rộng nét vẽ mảnh.
+Câu 5. [Mức độ: Nhận biết | YCCĐ: Mô tả được tiêu chuẩn về tỉ lệ trong bản vẽ kĩ thuật]
+Kí hiệu tỉ lệ nào sau đây thể hiện tỉ lệ thu nhỏ trên bản vẽ kĩ thuật?
+A. 1 : 1
+B. 2 : 1
+C. 1 : 2
+D. 5 : 1
+Câu 6. [Mức độ: Thông hiểu | YCCĐ: Mô tả được tiêu chuẩn về tỉ lệ trong bản vẽ kĩ thuật]
+Một viên gạch hình vuông có kích thước thực tế là 300 × 300 mm. Khi vẽ viên gạch đó trên bản vẽ kĩ thuật với tỉ lệ 1:10, kích thước chiều dài cạnh đo được trên hình biểu diễn là bao nhiêu?
+A. 300 mm
+B. 30 mm
+C. 3000 mm
+D. 3 mm
+Câu 7. [Mức độ: Nhận biết | YCCĐ: Mô tả được tiêu chuẩn về đường nét trong bản vẽ kĩ thuật]
+Theo TCVN 8-24:2002, loại nét vẽ nào được dùng để vẽ đường bao thấy, cạnh thấy của vật thể?
+A. Nét liền mảnh
+B. Nét đứt mảnh
+C. Nét liền đậm
+D. Nét gạch dài - chấm - mảnh
+Câu 8. [Mức độ: Nhận biết | YCCĐ: Mô tả được tiêu chuẩn về đường nét trong bản vẽ kĩ thuật]
+Nét đứt mảnh trên bản vẽ kĩ thuật được sử dụng cho ứng dụng nào sau đây?
+A. Đường bao thấy, cạnh thấy
+B. Đường bao khuất, cạnh khuất
+C. Đường kích thước, đường gióng
+D. Đường tâm, đường trục đối xứng
+Câu 9. [Mức độ: Thông hiểu | YCCĐ: Mô tả được tiêu chuẩn về đường nét trong bản vẽ kĩ thuật]
+Quy định về tỉ lệ chiều rộng giữa nét mảnh và nét đậm trong TCVN 8-24:2002 là bao nhiêu?
+A. Chiều rộng nét mảnh bằng 1/2 chiều rộng nét đậm.
+B. Chiều rộng nét mảnh bằng 1/3 chiều rộng nét đậm.
+C. Chiều rộng nét mảnh bằng chiều rộng nét đậm.
+D. Chiều rộng nét mảnh gấp 2 lần chiều rộng nét đậm.
+Câu 10. [Mức độ: Nhận biết | YCCĐ: Mô tả được tiêu chuẩn về ghi kích thước trong bản vẽ kĩ thuật]
+Đường kích thước trên bản vẽ kĩ thuật được vẽ bằng loại nét nào và có đặc điểm gì?
+A. Vẽ bằng nét liền đậm, không có mũi tên.
+B. Vẽ bằng nét liền mảnh, thường có mũi tên ở hai đầu.
+C. Vẽ bằng nét đứt mảnh, có hai dấu gạch chéo ở đầu.
+D. Vẽ bằng nét gạch dài - chấm - mảnh, có hai vòng tròn ở đầu.
+Câu 11. [Mức độ: Nhận biết | YCCĐ: Mô tả được tiêu chuẩn về ghi kích thước trong bản vẽ kĩ thuật]
+Để chỉ kích thước đường kính của đường tròn, trước giá trị kích thước người ta ghi thêm kí hiệu nào sau đây?
+A. R
+B. S
+C. Ø
+D. K
+Câu 12. [Mức độ: Thông hiểu | YCCĐ: Mô tả được tiêu chuẩn về ghi kích thước trong bản vẽ kĩ thuật]
+Vị trí của giá trị kích thước đối với đường kích thước nằm ngang và đường kích thước thẳng đứng được ghi đúng quy định như thế nào?
+A. Đặt phía dưới đường nằm ngang và bên phải đường thẳng đứng.
+B. Đặt phía trên đường nằm ngang và bên trái đường thẳng đứng.
+C. Đặt ngắt ngang giữa đường kích thước.
+D. Đặt ở hai đầu mũi tên của đường kích thước.
+IV. PHẦN 2 – TRẮC NGHIỆM ĐÚNG – SAI (04 CÂU)
+Trong mỗi ý a), b), c), d) ở từng câu hỏi, học sinh chọn Đúng (Đ) hoặc Sai (S):
+Câu 13. [Mức độ: Nhận biết & Thông hiểu | YCCĐ: Mô tả được tiêu chuẩn về khổ giấy, khung bản vẽ, khung tên trong bản vẽ kĩ thuật]
+Khi tìm hiểu về tiêu chuẩn khổ giấy (TCVN 7285:2003) và quy định vẽ khung bản vẽ, khung tên, các phát biểu sau đây là đúng hay sai?
+a) Khổ giấy A0 có kích thước lớn nhất trong các khổ giấy chính với chiều dài 1 189 mm và chiều rộng 841 mm.
+b) Khung tên của bản vẽ kĩ thuật được đặt ở góc phải phía dưới bản vẽ.
+c) Theo quy định, lề bên trái của khung bản vẽ rộng 10 mm để đóng thành tập, còn các lề khác rộng 20 mm.
+d) Khổ giấy A3 được tạo ra bằng cách gập đôi khổ giấy A4 theo chiều rộng.
+Câu 14. [Mức độ: Nhận biết & Thông hiểu | YCCĐ: Mô tả được tiêu chuẩn về tỉ lệ trong bản vẽ kĩ thuật]
+Khi lựa chọn và ghi tỉ lệ (TCVN 7286:2003) trên bản vẽ kĩ thuật, các phát biểu sau đây là đúng hay sai?
+a) Tỉ lệ 1:1 là tỉ lệ giữ nguyên, thể hiện kích thước trên hình biểu diễn bằng đúng kích thước thực của vật thể.
+b) Tỉ lệ 5:1 là tỉ lệ phóng to, được dùng khi vẽ các chi tiết kĩ thuật có kích thước rất nhỏ.
+c) Khi vẽ chi tiết với tỉ lệ thu nhỏ 1:2, giá trị kích thước ghi trên bản vẽ phải giảm đi một nửa so với kích thước thực tế.
+d) Tỉ lệ 1:100 là tỉ lệ phóng to thường dùng trong các bản vẽ xây dựng nhà cửa.
+Câu 15. [Mức độ: Nhận biết & Thông hiểu | YCCĐ: Mô tả được tiêu chuẩn về đường nét trong bản vẽ kĩ thuật]
+Xét quy định về các loại nét vẽ (TCVN 8-24:2002) và ứng dụng của chúng trên bản vẽ kĩ thuật, các phát biểu sau đây là đúng hay sai?
+a) Đường bao thấy và cạnh thấy của vật thể được biểu diễn bằng nét liền đậm.
+b) Nét gạch dài - chấm - mảnh được ứng dụng để biểu diễn đường tâm và đường trục đối xứng.
+c) Đường bao khuất và cạnh khuất của vật thể được biểu diễn bằng nét liền mảnh.
+d) Chiều rộng nét mảnh được quy định gấp hai lần chiều rộng nét đậm trên cùng một bản vẽ.
+Câu 16. [Mức độ: Nhận biết & Thông hiểu | YCCĐ: Mô tả được tiêu chuẩn về ghi kích thước trong bản vẽ kĩ thuật]
+Trong quy định về ghi kích thước (TCVN 7583-1:2006) trên bản vẽ kĩ thuật, các phát biểu sau đây là đúng hay sai?
+a) Đơn vị đo kích thước chiều dài dùng trên bản vẽ kĩ thuật là milimét (mm) và không cần ghi đơn vị sau trị số.
+b) Kí hiệu Ø được đặt trước giá trị kích thước để chỉ đường kính của đường tròn.
+c) Đường gióng kích thước được vẽ bằng nét liền đậm và phải vượt quá đường kích thước từ 5 đến 10 mm.
+d) Đối với đường kích thước nằm ngang, giá trị kích thước phải được đặt ở phía dưới đường kích thước.
+V. PHẦN 3 – TỰ LUẬN (03 CÂU)
+Câu 17. [Mức độ: Thông hiểu | YCCĐ: Mô tả được tiêu chuẩn về khổ giấy trong bản vẽ kĩ thuật]
+Trình bày mối quan hệ về kích thước giữa các khổ giấy chính từ A0 đến A4. Nêu các quy định cơ bản về vị trí, kích thước khung bản vẽ và khung tên trên khổ giấy A4.
+Câu 18. [Mức độ: Thông hiểu | YCCĐ: Mô tả được tiêu chuẩn về tỉ lệ và nét vẽ trong bản vẽ kĩ thuật]
+Phân biệt 3 nhóm tỉ lệ dùng trong bản vẽ kĩ thuật và cho ví dụ kí hiệu tương ứng. Nêu tên gọi, hình dạng và ứng dụng của 4 loại nét vẽ thường dùng theo TCVN 8-24:2002.
+Câu 19. [Mức độ: Thông hiểu | YCCĐ: Mô tả được tiêu chuẩn về ghi kích thước trong bản vẽ kĩ thuật]
+Nêu 3 thành phần cơ bản để ghi một kích thước trên bản vẽ kĩ thuật. Trình bày các quy tắc về đường gióng, đường kích thước, vị trí ghi con số kích thước và quy định kí hiệu đường kính (Ø), bán kính (R).
+VI. ĐÁP ÁN CHI TIẾT
+1. Đáp án Phần 1 – Trắc nghiệm nhiều lựa chọn
+T| Câu 1 || Câu 2 || Câu 3 || Câu 4 || Câu 5 || Câu 6 || Câu 7 || Câu 8 || Câu 9 || Câu 10 || Câu 11 || Câu 12
+T| D || A || B || B || C || B || C || B || A || B || C || B
+2. Đáp án Phần 2 – Trắc nghiệm Đúng / Sai
+Bảng tổng hợp đáp án Đúng/Sai (Mỗi câu gồm đúng 2 ý Đúng và 2 ý Sai):
+T| Câu hỏi || Ý a) || Ý b) || Ý c) || Ý d)
+T| Câu 13 || Đúng || Đúng || Sai || Sai
+T| Câu 14 || Đúng || Đúng || Sai || Sai
+T| Câu 15 || Đúng || Đúng || Sai || Sai
+T| Câu 16 || Đúng || Đúng || Sai || Sai
+3. Đáp án và Hướng dẫn trả lời Phần 3 – Tự luận
+Đáp án Câu 17 (Khổ giấy & Khung bản vẽ, khung tên):
+• Mối quan hệ giữa các khổ giấy chính: Khổ giấy A0 có kích thước 1189 × 841 mm. Chia đôi khổ A0 theo chiều dài ta được 2 tờ khổ A1 (841 × 594 mm). Tương tự, chia đôi A1 được 2 tờ A2 (594 × 420 mm); chia đôi A2 được 2 tờ A3 (420 × 297 mm); chia đôi A3 được 2 tờ A4 (297 × 210 mm).
+• Quy định khung bản vẽ và khung tên: Khung bản vẽ được vẽ bằng nét liền đậm. Lề bên trái rộng 20 mm (dùng để đóng tập), ba lề còn lại rộng 10 mm. Khung tên đặt ở góc phải phía dưới vùng vẽ. Đối với khổ A4, khung tên được đặt ở cạnh ngắn của vùng vẽ.
+Đáp án Câu 18 (Tỉ lệ & Nét vẽ):
+• Ba nhóm tỉ lệ: 1) Tỉ lệ giữ nguyên: 1:1.
+2) Tỉ lệ thu nhỏ: 1:2, 1:5, 1:10, 1:20, 1:50, 1:100,...
+3) Tỉ lệ phóng to: 2:1, 5:1, 10:1, 20:1, 50:1, 100:1,...
+• Tên gọi, hình dạng và ứng dụng 4 loại nét vẽ (TCVN 8-24:2002):
+1) Nét liền đậm: Vẽ đường bao thấy, cạnh thấy.
+2) Nét liền mảnh: Vẽ đường kích thước, đường gióng kích thước.
+3) Nét đứt mảnh: Vẽ đường bao khuất, cạnh khuất.
+4) Nét gạch dài - chấm - mảnh: Vẽ đường tâm, đường trục đối xứng.
+Đáp án Câu 19 (Thành phần & Quy tắc ghi kích thước):
+• Ba thành phần cơ bản để ghi kích thước: 1) Đường kích thước; 2) Đường gióng kích thước; 3) Giá trị kích thước.
+• Quy tắc ghi kích thước: • Đường kích thước: nét liền mảnh, có mũi tên ở 2 đầu, song song với độ dài cần ghi.
+• Đường gióng: nét liền mảnh, vuông góc với độ dài cần ghi, vượt quá đường kích thước 2 đến 4 mm.
+• Giá trị kích thước: chỉ trị số thực (đơn vị mm), đặt phía trên đường nằm ngang và bên trái đường thẳng đứng.
+• Kí hiệu Ø đặt trước kích thước đường kính; Kí hiệu R đặt trước kích thước bán kính cung tròn.
